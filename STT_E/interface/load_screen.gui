@@ -83,10 +83,10 @@ guiTypes = {
 
 		iconType = {
 			name ="bg_clausewitz_logo"
-			spriteType = "GFX_hex_logo"
+			spriteType = "GFX_geks_logo"
 			position = { x= 23 y = 10 }
 			Orientation = "UPPER_LEFT"
-		}		
+		}	
 		
 		iconType = {
 			name ="bg_pdx_int_logo"

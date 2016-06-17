@@ -6,3 +6,17 @@ technology_group = eastern
 capital = 3181	# Vereya
 fixed_capital = 3181 # Cannot move capital away from this province & no power cost to move to it
 government_rank = 1
+
+1432.6.1 = {
+	monarch = {
+		name = "Михаил"
+		dynasty = "Рюрикович"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1482.1.1 = { set_country_flag = BOZ_will_be_inherited }
+
+1487.1.1 = { clr_country_flag = BOZ_will_be_inherited }

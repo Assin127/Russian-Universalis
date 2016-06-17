@@ -1,5 +1,5 @@
 government = steppe_horde
-primary_culture = tartar
+primary_culture = bashkir
 religion = sunni
 technology_group = nomad_group
 capital = 475	# Bashkortostan

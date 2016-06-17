@@ -133,7 +133,7 @@ colonial_canada = {
 				alliance_with = SCO
 			}
 		}
-		name = "COLONIAL_CANADA_Nouvelle_Écosse"
+		name = "COLONIAL_CANADA_Nouvelle_Ã‰cosse"
 	}
 	names = {
 		trigger = {
@@ -211,7 +211,7 @@ colonial_canada = {
 		trigger = {
 			tag = SCO
 		}
-		name = "COLONIAL_CANADA_Nouvelle_Écosse"
+		name = "COLONIAL_CANADA_Nouvelle_Ã‰cosse"
 	}
 	names = {
 		trigger = {
@@ -450,7 +450,7 @@ colonial_louisiana = {
 		893 894 895 897 899 900 915 916 918 919 920 921 942 943 896 917 909 906 898 901 903
 		907 908 905 904 902 944 945 914 913 912 911 910 1809 2005 2006 2007 2008 2014 2016
 		2501 2502 2503 2504 2506 2507 2511 2512 2513 2514 2515 2516 2517 2518 2519
-		2520 2521 2522 2523 2524 2528 2529 2530 2598 2672 2599
+		2520 2521 2522 2523 2524 2528 2529 2530 2672 2599
 		890 2490 2020 2489 2019 
 	}
 	

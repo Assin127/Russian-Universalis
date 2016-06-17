@@ -13,4 +13,3 @@ technology_group = western
 capital = 370 - #Reykjavik
 
 1537.1.1 = { religion = protestant }
-

@@ -8,6 +8,11 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_colony_terrain_glacier"
+		texturefile = "gfx/interface/colony_terrain_arctic.dds"
+	}
+	
+	spriteType = {
 		name = "GFX_colony_terrain_farmlands"
 		texturefile = "gfx/interface/colony_terrain_hills.dds"
 	}

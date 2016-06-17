@@ -16,8 +16,13 @@ spriteTypes = {
 	}	
 	
 	spriteType = {
-		name = "GFX_hex_logo" #GFX_clausewitz_logo
-		texturefile = "gfx/interface/hex_dev_logo.dds" #clausewitz_logo.dds
+		name = "GFX_geks_logo" #GFX_clausewitz_logo
+		texturefile = "gfx/interface/geks_dev_logo.dds" #clausewitz_logo.dds
+	}	
+	
+	spriteType = {
+		name = "GFX_geks_invite" #GFX_clausewitz_logo
+		texturefile = "gfx/interface/geks_inv_logo.dds" #clausewitz_logo.dds
 	}	
 	
 }

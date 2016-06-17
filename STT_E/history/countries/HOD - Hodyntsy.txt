@@ -1,7 +1,7 @@
 government = siberian_native_council
 government_rank = 1
 primary_culture = yukagyr
-religion = tengri_pagan_reformed
+religion = shamanism
 technology_group = chinese
 capital = 1037
 

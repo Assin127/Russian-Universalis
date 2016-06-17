@@ -4,7 +4,7 @@ subjugate_viatka = {
 	category = MIL
 	
 	target_provinces = {
-		owned_by = KHY
+		owned_by = VIA
 	}
 	allow = {
 		normal_or_historical_nations = yes
@@ -14,7 +14,7 @@ subjugate_viatka = {
 			tag = RUS
 		}
 		is_subject = no
-		KHY = {
+		VIA = {
 			is_neighbor_of = ROOT
 			NOT = { num_of_cities = ROOT }
 			religion_group = ROOT
@@ -26,15 +26,15 @@ subjugate_viatka = {
 	abort = {
 		OR = {
 			is_subject = yes
-			NOT = { exists = KHY }
+			NOT = { exists = VIA }
 			NOT = { religion_group = ROOT }
 		}
 	}
 	success = {
 		OR = {
-			KHY = { is_subject_of = ROOT }
+			VIA = { is_subject_of = ROOT }
 			AND = {
-				NOT = { exists = KHY }
+				NOT = { exists = VIA }
 				1079 = { owned_by = ROOT }
 			}
 		}
@@ -43,7 +43,7 @@ subjugate_viatka = {
 		factor = 5000
 		modifier = {
 			factor = 2
-			NOT = { has_opinion = { who = KHY value = 0 } }
+			NOT = { has_opinion = { who = VIA value = 0 } }
 		}
 	}
 	immediate = {
@@ -283,7 +283,7 @@ subjugate_odoev = {
 		}
 	}
 	chance = {
-		factor = 5000
+		factor = 2000
 		modifier = {
 			factor = 2
 			NOT = { has_opinion = { who = OKA value = 0 } }

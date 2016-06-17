@@ -23,6 +23,10 @@ categories =  {
 
 		sound_type = sea
 		color = { 55 90 220 }
+		
+		terrain_override = {
+			1326 3624 3625
+		}
 	}	
 
 	coastline = {
@@ -63,7 +67,7 @@ categories =  {
 		supply_limit = 5
 
 		local_development_cost = 0.25
-		#local_build_cost = 0.25
+		local_build_cost = 0.25
 		nation_designer_cost_multiplier = 0.85
 
 		type = marsh

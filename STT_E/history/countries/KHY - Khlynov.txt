@@ -1,7 +1,0 @@
-government = feudal_monarchy
-mercantilism = 0.25
-primary_culture = russian
-religion = orthodox
-technology_group = eastern
-capital = 1079
-government_rank = 1

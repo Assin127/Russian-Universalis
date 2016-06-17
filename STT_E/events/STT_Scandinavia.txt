@@ -1,0 +1,62 @@
+namespace = stt_scan
+
+province_event = {
+	id = stt_scan.1
+	title = "stt_scan.t.1"
+	desc = "stt_scan.de.1"
+	picture = CITY_DEVELOPMENT_eventPicture
+	major = yes
+	
+	trigger = {
+		is_year = 1500
+		OR = { 
+			tag = SWE
+			tag = SCA
+			AND = {
+				NOT = { tag = SCA }
+				NOT = { tag = SWE }
+				culture_group = scandinavian
+			}
+		}
+		any_province = {
+			OR = {
+				province_id = 18
+				province_id = 3220
+				province_id = 3204
+				}
+			is_empty = yes
+			NOT = { is_colony = yes }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 240
+		modifier = {
+			factor = 0.5
+			is_year = 1500
+		}
+		modifier = {
+			factor = 0.9
+			is_year = 1600
+		}
+		modifier = {
+			factor = 1.0
+			is_year = 1650
+		}
+	}
+	
+	option = {
+		name = "stt_scan.a.1"
+		random_province = {
+			limit = {
+				OR = {
+					province_id = 18
+					province_id = 3220
+					province_id = 3204
+					}
+				is_empty = yes
+				}
+			create_colony = 900
+		}
+	}
+}

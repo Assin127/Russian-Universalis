@@ -5,3 +5,17 @@ vassal = {
 	start_date = 1434.1.1
 	end_date = 1452.2.10
 }
+# Litva and Odoyev
+march = {
+        first = LIT
+        second = OKA
+        start_date = 1425.1.1
+        end_date = 1494.1.1
+        }
+# Litva and Trubetzk
+vassal = {
+        first = LIT
+        second = TRU
+        start_date = 1400.1.1
+        end_date = 1566.1.1
+        }

@@ -1,6 +1,5 @@
 #2438 - Kharya
 
-
 culture = mansi
 religion = shamanism
 capital = "Sosvin"

@@ -1,7 +1,7 @@
 government = steppe_horde
 government_rank = 1
 technology_group = nomad_group
-primary_culture = tartar
+primary_culture = mishary
 religion = sunni
 capital = 1778	# Kasimov
 

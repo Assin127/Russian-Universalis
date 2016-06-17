@@ -569,6 +569,8 @@ exploration_ideas = {
 		modifier = {
 			factor = 10
 			tag = POR
+			### STT
+			tag = NOR
 		}
 		modifier = {
 			factor = 2

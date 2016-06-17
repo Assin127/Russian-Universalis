@@ -1,6 +1,6 @@
 government = steppe_horde
 government_rank = 2
-primary_culture = tartar
+primary_culture = mishary
 religion = sunni
 technology_group = nomad_group
 capital = 303	# Saratov

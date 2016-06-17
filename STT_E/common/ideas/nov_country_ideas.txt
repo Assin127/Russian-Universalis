@@ -1,0 +1,39 @@
+VIA_ideas = {
+	start = {
+		merchants = 1
+		global_colonial_growth = 15	
+	}
+	
+	bonus = {
+		global_trade_goods_size_modifier = 0.15
+	}
+	
+	trigger = {
+		tag = VIA
+	}
+	free = yes
+	
+	natives_in_viatka = {
+		global_unrest = -2
+		tolerance_heathen = 1
+	}
+	boyars_of_viatka = {
+		enemy_core_creation = 0.5
+	}
+	VIA_ushkuyniki = {
+		loot_amount = 0.1
+		land_forcelimit_modifier = 0.15
+	}
+	viatka_development = {
+		development_cost = -0.15
+	}
+	veche_of_viatka = {
+		republican_tradition = 0.005
+	}
+	viatkian_forts = {
+		defensiveness = 0.1
+	}
+	viatkian_colonisation = {
+ 		colonists = 1
+	}
+}

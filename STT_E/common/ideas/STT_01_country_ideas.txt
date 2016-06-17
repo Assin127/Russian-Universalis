@@ -575,3 +575,131 @@ YUG_ideas = {
 		land_morale = 0.10
 	}
 }
+
+
+CAR_ideas = {
+    start = {
+	    navy_tradition = 1.5
+	    naval_morale = 0.2
+	}
+
+	bonus = {
+	    production_efficiency = 0.20
+	}
+
+	trigger = {
+		tag = CAR
+	}
+	free = yes
+
+	castles_of_car ={
+	    defensiveness = 0.20
+	}
+	trade_legacy_of_car = {
+	    merchants = 1
+		global_trade_power = 0.05
+		}
+    mercenaries_of_car = {
+	    mercenary_cost = -0.20
+		merc_maintenance_modifier = -0.15
+	}
+	wisdom_of_car = {
+	    technology_cost = -0.05
+	    idea_cost = -0.1
+	}
+	new_methods_of_trade = {
+	trade_efficiency = 0.15
+	}
+    punic_cavalry = {
+	cavalry_cost = -0.2
+    cavalry_power = 0.15
+	}
+	glory_of_carfagen = {
+	prestige = 1
+	diplomatic_reputation = 2
+	}
+}
+
+
+TGN_ideas = {
+	start = {
+		ae_impact = -0.10
+		years_of_nationalism = -5
+	}
+	
+	bonus = {
+		stability_cost_modifier = -0.15
+	}
+	    trigger = {
+		tag = TGN
+	}
+	free = yes
+	
+	great_silk_road_control = {
+		global_trade_power = 0.15
+		caravan_power = 0.20
+	}
+	tyurkish_cavalry = {
+		cavalry_power = 0.30
+		cavalry_cost = -0.2
+	}
+	steppe_tolerance = {
+		tolerance_heathen = 2
+	}
+	tyurkish_unity = {
+		horde_unity = 2
+		legitimacy = 2
+	}
+	tyurkish_tradition_of_conquest = {
+		core_creation = -0.25
+	}
+	new_tyurkish_era = {
+		global_unrest = -3
+	}
+	tyurkish_glory_of_conquest = {
+	    manpower_recovery_speed = 0.15
+		global_manpower_modifier = 0.15
+	}
+}
+
+
+KHK_ideas = {
+    start = {
+	    global_manpower_modifier = 0.25
+		tolerance_heathen = 3
+	}
+	
+	bonus = {
+	    diplomatic_upkeep = 1
+	}
+	    trigger = {
+		tag = KHK
+	}
+	free = yes
+	
+	KHK_steppe_wars = {
+	    cavalry_power = 0.10
+		cavalry_cost = -0.25
+	}
+	KHK_real_hakasi = {
+	    diplomatic_reputation = 2
+	}
+	KHK_legacy_of_gh = {
+	    colonists = 1
+		global_colonial_growth = 10
+	}
+	KHK_gorl_penie = {
+	    discipline = 0.05
+	    land_morale = 0.10
+	}
+	KHK_siberian_climate = {
+	    land_attrition = -0.25
+	}
+	KHK_cross_two_rivers = {
+	    global_trade_power = 0.15
+		caravan_power = 0.10
+	}
+	KHK_horde_ambitions = {
+	    ae_impact = -0.15
+	}
+}

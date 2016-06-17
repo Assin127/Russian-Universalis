@@ -65,6 +65,8 @@
  ARB_ADJ: "Àðàâèéñê"
  TRK: "Òóðöèÿ"
  TRK_ADJ: "Òóðåöê"
+ TGN: "Òþðêñêèé êàãàíàò"
+ TGN_ADJ: "Òþðêñê"
  colonial_west_africa: "Çàïàäíàÿ Àôðèêà"
  COLONIAL_WEST_AFRICA_Root_Culture_GetName_West_africa: "[Root.GetAdjective]àÿ Çàïàäíàÿ Àôðèêà"
  COLONIAL_WEST_AFRICA_Root_Culture_GetName_West_africa_ADJ: "Çàïàäíî-[Root.GetAdjective]àÿ Àôðèêàíñê"
