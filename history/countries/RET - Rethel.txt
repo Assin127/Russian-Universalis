@@ -1,0 +1,36 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = wallonian
+capital = 181	# Rethel
+fixed_capital = 181 # Cannot move capital away from this province & no power cost to move to it
+
+1081.1.1 = {
+	monarch = {
+		name = "Hugh I"
+		dynasty = "de Rethel"
+		birth_date = 1045.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1081.1.1 = {
+	heir = {
+		name = "Baldwin"
+		monarch_name = "Baldwin II"
+		dynasty = "de Rethel"
+		birth_date = 1075.1.1
+		death_date = 1131.8.21
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+		leader = {	name = "Baldwin II"            	type = general	fire = 2	shock = 1	manuever = 2	siege = 0 }
+	}
+}

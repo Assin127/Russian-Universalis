@@ -1,0 +1,2439 @@
+### RU001 - Added
+
+####################################################################################################
+###																								 ###
+###							   Переменные религий строчными буквами								 ###
+###																								 ###
+###																								 ###
+###						   Падежи прописаны с уже готовыми окончаниями!							 ###
+###																								 ###
+###								 	  Религия строчными буквами									 ###
+###			  	 Для гос. религии - "[SER.ReligionIM]" : "православие", "католичество"			 ###
+###			  Для религии провинции - "[4176.ReligionIM]" : "православие", "католичество"		 ###
+###		 Для религии владельца провы - "[4176.OwnerReligionIM]" : "православие", "католичество"  ###
+### 		Для религии правителя - "[SER.RulerReligionIM]" : "православие", "католичество"		 ###
+###	 		Для религии консорта - "[SER.ConsortReligionIM]" : "православие", "католичество"	 ###
+###			Для религии наследника - "[SER.HeirReligionIM]" : "православие", "католичество"		 ###
+###		Для синкретической религии - "[SER.SecondaryReligionIM]" : "православие", "католичество" ###
+###	  	  Для гармониз. религии - "[SER.HarmonizedReligionIM]" : "православие", "католичество"	 ###
+###	  	  				Для религ. групп - "[SER.ReligionGroupIM]" : "христианство"				 ###
+###																								 ###
+###								  Религия верующего строчными буквами							 ###
+###			  	 Для гос. религии - "[SER.BelieversIM]" : "православный", "католик"				 ###
+###			  Для религии провинции - "[4176.BelieversIM]" : "православный", "католик"			 ###
+###		 Для религии владельца провы - "[4176.OwnerBelieversIM]" : "православный", "католик"	 ###
+### 		Для религии правителя - "[SER.RulerBelieversIM]" : "православный", "католик"		 ###
+###	 		Для религии консорта - "[SER.ConsortBelieversIM]" : "православный", "католик"		 ###
+###			Для религии наследника - "[SER.HeirBelieversIM]" : "православный", "католик"		 ###
+###	   Для синкретической религии - "[SER.SecondaryBelieversIM]" : "православный", "католик"	 ###
+###	  	  Для гармониз. религии - "[SER.HarmonizedBelieversIM]" : "православный", "католик"		 ###
+###	  	  							Для религ. групп - НЕ ИСПОЛЬЗУЕТСЯ							 ###
+###																								 ###
+###								  Религия верующих строчными буквами							 ###
+###		 	 Для гос. религии - "[SER.BelieversPluralIM]" : "православные", "католики"			 ###
+###		  Для религии провинции - "[4176.BelieversPluralIM]" : "православные", "католики"		 ###
+### Для религии владельца провы - "[4176.OwnerBelieversPluralIM]" : "православные", "католики"	 ###
+### 	Для религии правителя - "[SER.RulerBelieversPluralIM]" : "православные", "католики"		 ###
+###	 	Для религии консорта - "[SER.ConsortBelieversPluralIM]" : "православные", "католики"	 ###
+###		Для религии наследника - "[SER.HeirBelieversPluralIM]" : "православные", "католики"		 ###
+###	  Для синкрет. религии - "[SER.SecondaryBelieversPluralIM]" : "православные", "католики"	 ###
+###	 Для гармониз. религии - "[SER.HarmonizedBelieversPluralIM]" : "православные", "католики"	 ###
+###	  	  							Для религ. групп - НЕ ИСПОЛЬЗУЕТСЯ							 ###
+###																								 ###
+###							 Падежи работают для всех типов, указанных сверху					 ###
+###			Именительный (Кто, что?) - "[SER.ReligionIM]" : "православие", "католичество" 		 ###
+###			Родительный (Кого, чего?) - "[SER.ReligionRD]" : "православия", "католичества"  	 ###
+###			Дательный (Кому, чему?) - "[SER.ReligionDT]" : "православию", "католичеству"  		 ###
+###			Винительный (Кого, что?) - НЕ ИСПОЛЬЗУЕТСЯ 											 ###
+###			Творительный (Кем, чем?) - "[SER.ReligionTV]" : "православием", "католичеством"  	 ###
+###			Предложный (О ком, о чём?) - "[SER.ReligionPR]" : "православии", "католичестве"  	 ###
+###																								 ###
+###						    Локализация в: gks_religion, gks_converter							 ###
+###																								 ###
+####################################################################################################
+
+defined_text = {
+    name = ReligionIM
+    text = {
+        localisation_key = nestorianism_name_IM
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_IM
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_IM
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerReligionIM
+    text = {
+        localisation_key = nestorianism_name_IM
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_name_IM
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_name_IM
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerReligionIM
+    text = {
+        localisation_key = nestorianism_name_IM
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_IM
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_IM
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortReligionIM
+    text = {
+        localisation_key = nestorianism_name_IM
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_IM
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_IM
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirReligionIM
+    text = {
+        localisation_key = nestorianism_name_IM
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_IM
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_IM
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryReligionIM
+    text = {
+        localisation_key = nestorianism_name_IM
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_IM
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_IM
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedReligionIM
+    text = {
+        localisation_key = nestorianism_name_IM
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_IM
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_IM
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = BelieversIM
+    text = {
+        localisation_key = nestorianism_IM
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_IM
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_IM
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerBelieversIM
+    text = {
+        localisation_key = nestorianism_IM
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_IM
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_IM
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerBelieversIM
+    text = {
+        localisation_key = nestorianism_IM
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_IM
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_IM
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortBelieversIM
+    text = {
+        localisation_key = nestorianism_IM
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_IM
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_IM
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirBelieversIM
+    text = {
+        localisation_key = nestorianism_IM
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_IM
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_IM
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryBelieversIM
+    text = {
+        localisation_key = nestorianism_IM
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_IM
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_IM
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedBelieversIM
+    text = {
+        localisation_key = nestorianism_IM
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_IM
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_IM
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = BelieversPluralIM
+    text = {
+        localisation_key = nestorianism_plural_name_IM
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_IM
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_IM
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerBelieversPluralIM
+    text = {
+        localisation_key = nestorianism_plural_name_IM
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_IM
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_IM
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerBelieversPluralIM
+    text = {
+        localisation_key = nestorianism_plural_name_IM
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_IM
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_IM
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortBelieversPluralIM
+    text = {
+        localisation_key = nestorianism_plural_name_IM
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_IM
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_IM
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirBelieversPluralIM
+    text = {
+        localisation_key = nestorianism_plural_name_IM
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_IM
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_IM
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryBelieversPluralIM
+    text = {
+        localisation_key = nestorianism_plural_name_IM
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_IM
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_IM
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedBelieversPluralIM
+    text = {
+        localisation_key = nestorianism_plural_name_IM
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_IM
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_IM
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = ReligionRD
+    text = {
+        localisation_key = nestorianism_name_RD
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_RD
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_RD
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerReligionRD
+    text = {
+        localisation_key = nestorianism_name_RD
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_name_RD
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_name_RD
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerReligionRD
+    text = {
+        localisation_key = nestorianism_name_RD
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_RD
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_RD
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortReligionRD
+    text = {
+        localisation_key = nestorianism_name_RD
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_RD
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_RD
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirReligionRD
+    text = {
+        localisation_key = nestorianism_name_RD
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_RD
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_RD
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryReligionRD
+    text = {
+        localisation_key = nestorianism_name_RD
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_RD
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_RD
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedReligionRD
+    text = {
+        localisation_key = nestorianism_name_RD
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_RD
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_RD
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = BelieversRD
+    text = {
+        localisation_key = nestorianism_RD
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_RD
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_RD
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerBelieversRD
+    text = {
+        localisation_key = nestorianism_RD
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_RD
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_RD
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerBelieversRD
+    text = {
+        localisation_key = nestorianism_RD
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_RD
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_RD
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortBelieversRD
+    text = {
+        localisation_key = nestorianism_RD
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_RD
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_RD
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirBelieversRD
+    text = {
+        localisation_key = nestorianism_RD
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_RD
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_RD
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryBelieversRD
+    text = {
+        localisation_key = nestorianism_RD
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_RD
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_RD
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedBelieversRD
+    text = {
+        localisation_key = nestorianism_RD
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_RD
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_RD
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = BelieversPluralRD
+    text = {
+        localisation_key = nestorianism_plural_name_RD
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_RD
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_RD
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerBelieversPluralRD
+    text = {
+        localisation_key = nestorianism_plural_name_RD
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_RD
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_RD
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerBelieversPluralRD
+    text = {
+        localisation_key = nestorianism_plural_name_RD
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_RD
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_RD
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortBelieversPluralRD
+    text = {
+        localisation_key = nestorianism_plural_name_RD
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_RD
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_RD
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirBelieversPluralRD
+    text = {
+        localisation_key = nestorianism_plural_name_RD
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_RD
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_RD
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryBelieversPluralRD
+    text = {
+        localisation_key = nestorianism_plural_name_RD
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_RD
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_RD
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedBelieversPluralRD
+    text = {
+        localisation_key = nestorianism_plural_name_RD
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_RD
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_RD
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = ReligionDT
+    text = {
+        localisation_key = nestorianism_name_DT
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_DT
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_DT
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerReligionDT
+    text = {
+        localisation_key = nestorianism_name_DT
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_name_DT
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_name_DT
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerReligionDT
+    text = {
+        localisation_key = nestorianism_name_DT
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_DT
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_DT
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortReligionDT
+    text = {
+        localisation_key = nestorianism_name_DT
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_DT
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_DT
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirReligionDT
+    text = {
+        localisation_key = nestorianism_name_DT
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_DT
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_DT
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryReligionDT
+    text = {
+        localisation_key = nestorianism_name_DT
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_DT
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_DT
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedReligionDT
+    text = {
+        localisation_key = nestorianism_name_DT
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_DT
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_DT
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = BelieversDT
+    text = {
+        localisation_key = nestorianism_DT
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_DT
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_DT
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerBelieversDT
+    text = {
+        localisation_key = nestorianism_DT
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_DT
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_DT
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerBelieversDT
+    text = {
+        localisation_key = nestorianism_DT
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_DT
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_DT
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortBelieversDT
+    text = {
+        localisation_key = nestorianism_DT
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_DT
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_DT
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirBelieversDT
+    text = {
+        localisation_key = nestorianism_DT
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_DT
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_DT
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryBelieversDT
+    text = {
+        localisation_key = nestorianism_DT
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_DT
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_DT
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedBelieversDT
+    text = {
+        localisation_key = nestorianism_DT
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_DT
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_DT
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = BelieversPluralDT
+    text = {
+        localisation_key = nestorianism_plural_name_DT
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_DT
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_DT
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerBelieversPluralDT
+    text = {
+        localisation_key = nestorianism_plural_name_DT
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_DT
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_DT
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerBelieversPluralDT
+    text = {
+        localisation_key = nestorianism_plural_name_DT
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_DT
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_DT
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortBelieversPluralDT
+    text = {
+        localisation_key = nestorianism_plural_name_DT
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_DT
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_DT
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirBelieversPluralDT
+    text = {
+        localisation_key = nestorianism_plural_name_DT
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_DT
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_DT
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryBelieversPluralDT
+    text = {
+        localisation_key = nestorianism_plural_name_DT
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_DT
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_DT
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedBelieversPluralDT
+    text = {
+        localisation_key = nestorianism_plural_name_DT
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_DT
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_DT
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = ReligionTV
+    text = {
+        localisation_key = nestorianism_name_TV
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_TV
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_TV
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerReligionTV
+    text = {
+        localisation_key = nestorianism_name_TV
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_name_TV
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_name_TV
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerReligionTV
+    text = {
+        localisation_key = nestorianism_name_TV
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_TV
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_TV
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortReligionTV
+    text = {
+        localisation_key = nestorianism_name_TV
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_TV
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_TV
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirReligionTV
+    text = {
+        localisation_key = nestorianism_name_TV
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_TV
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_TV
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryReligionTV
+    text = {
+        localisation_key = nestorianism_name_TV
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_TV
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_TV
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedReligionTV
+    text = {
+        localisation_key = nestorianism_name_TV
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_TV
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_TV
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = BelieversTV
+    text = {
+        localisation_key = nestorianism_TV
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_TV
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_TV
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerBelieversTV
+    text = {
+        localisation_key = nestorianism_TV
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_TV
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_TV
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerBelieversTV
+    text = {
+        localisation_key = nestorianism_TV
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_TV
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_TV
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortBelieversTV
+    text = {
+        localisation_key = nestorianism_TV
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_TV
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_TV
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirBelieversTV
+    text = {
+        localisation_key = nestorianism_TV
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_TV
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_TV
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryBelieversTV
+    text = {
+        localisation_key = nestorianism_TV
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_TV
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_TV
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedBelieversTV
+    text = {
+        localisation_key = nestorianism_TV
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_TV
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_TV
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = BelieversPluralTV
+    text = {
+        localisation_key = nestorianism_plural_name_TV
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_TV
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_TV
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerBelieversPluralTV
+    text = {
+        localisation_key = nestorianism_plural_name_TV
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_TV
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_TV
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerBelieversPluralTV
+    text = {
+        localisation_key = nestorianism_plural_name_TV
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_TV
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_TV
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortBelieversPluralTV
+    text = {
+        localisation_key = nestorianism_plural_name_TV
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_TV
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_TV
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirBelieversPluralTV
+    text = {
+        localisation_key = nestorianism_plural_name_TV
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_TV
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_TV
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryBelieversPluralTV
+    text = {
+        localisation_key = nestorianism_plural_name_TV
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_TV
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_TV
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedBelieversPluralTV
+    text = {
+        localisation_key = nestorianism_plural_name_TV
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_TV
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_TV
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = ReligionPR
+    text = {
+        localisation_key = nestorianism_name_PR
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_PR
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_PR
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerReligionPR
+    text = {
+        localisation_key = nestorianism_name_PR
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_name_PR
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_name_PR
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerReligionPR
+    text = {
+        localisation_key = nestorianism_name_PR
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_PR
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_PR
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortReligionPR
+    text = {
+        localisation_key = nestorianism_name_PR
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_PR
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_PR
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirReligionPR
+    text = {
+        localisation_key = nestorianism_name_PR
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_PR
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_PR
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryReligionPR
+    text = {
+        localisation_key = nestorianism_name_PR
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_PR
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_PR
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedReligionPR
+    text = {
+        localisation_key = nestorianism_name_PR
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_name_PR
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_name_PR
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = BelieversPR
+    text = {
+        localisation_key = nestorianism_PR
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_PR
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_PR
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerBelieversPR
+    text = {
+        localisation_key = nestorianism_PR
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_PR
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_PR
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerBelieversPR
+    text = {
+        localisation_key = nestorianism_PR
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_PR
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_PR
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortBelieversPR
+    text = {
+        localisation_key = nestorianism_PR
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_PR
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_PR
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirBelieversPR
+    text = {
+        localisation_key = nestorianism_PR
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_PR
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_PR
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryBelieversPR
+    text = {
+        localisation_key = nestorianism_PR
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_PR
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_PR
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedBelieversPR
+    text = {
+        localisation_key = nestorianism_PR
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_PR
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_PR
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}
+defined_text = {
+    name = BelieversPluralPR
+    text = {
+        localisation_key = nestorianism_plural_name_PR
+        trigger = {
+				religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_PR
+        trigger = {
+				religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_PR
+        trigger = {
+				religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = OwnerBelieversPluralPR
+    text = {
+        localisation_key = nestorianism_plural_name_PR
+        trigger = {
+			owner = { 	
+				religion = nestorianism
+			}
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_PR
+        trigger = {
+			owner = { 	
+				religion = romuva
+			}
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_PR
+        trigger = {
+			owner = { 	
+				religion = slavic
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = RulerBelieversPluralPR
+    text = {
+        localisation_key = nestorianism_plural_name_PR
+        trigger = {
+				ruler_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_PR
+        trigger = {
+				ruler_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_PR
+        trigger = {
+				ruler_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = ConsortBelieversPluralPR
+    text = {
+        localisation_key = nestorianism_plural_name_PR
+        trigger = {
+				consort_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_PR
+        trigger = {
+				consort_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_PR
+        trigger = {
+				consort_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HeirBelieversPluralPR
+    text = {
+        localisation_key = nestorianism_plural_name_PR
+        trigger = {
+				heir_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_PR
+        trigger = {
+				heir_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_PR
+        trigger = {
+				heir_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = SecondaryBelieversPluralPR
+    text = {
+        localisation_key = nestorianism_plural_name_PR
+        trigger = {
+				secondary_religion = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_PR
+        trigger = {
+				secondary_religion = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_PR
+        trigger = {
+				secondary_religion = slavic
+		}
+	}
+}
+
+defined_text = {
+    name = HarmonizedBelieversPluralPR
+    text = {
+        localisation_key = nestorianism_plural_name_PR
+        trigger = {
+				is_harmonizing_with = nestorianism
+		}
+	}
+    text = {
+        localisation_key = romuva_plural_name_PR
+        trigger = {
+				is_harmonizing_with = romuva
+		}
+	}
+    text = {
+        localisation_key = slavic_plural_name_PR
+        trigger = {
+				is_harmonizing_with = slavic
+		}
+	}
+}

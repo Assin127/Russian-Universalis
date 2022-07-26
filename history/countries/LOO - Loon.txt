@@ -1,0 +1,21 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = flemish
+capital = 2974 # Loon
+fixed_capital = 2974 # Loon
+
+1079.1.1 = {
+	monarch = {
+		name = "Arnold I"
+		dynasty = "Loon"
+		birth_date = 1059.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}

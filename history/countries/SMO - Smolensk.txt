@@ -1,0 +1,46 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+primary_culture = old_russian
+religion = orthodox
+technology_group = eastern
+capital = 293	# Smolensk
+fixed_capital = 293 # Cannot move capital away from this province & no power cost to move to it
+
+1095.1.2 = {
+	monarch = {
+		name = "Davyd"
+		dynasty = "Rurikovich"
+		birth_date = 1050.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+	heir = {
+		name = "Svyatoslav"
+		monarch_name = "Svyatoslav"
+		dynasty = "Rurikovich"
+		birth_date = 1080.1.1
+		death_date = 1143.10.14
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = drunkard_personality
+}
+
+1370.1.1 = {
+	primary_culture = ryazanian
+}
+1386.1.1 = {
+	monarch = {
+		name = "Yury I"
+		dynasty = "Rostaslavichi"
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}

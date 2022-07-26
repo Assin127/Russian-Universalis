@@ -1,0 +1,52 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = franconian
+add_accepted_culture = hessian
+capital = 1876	# Frankfurt
+fixed_capital = 1876 # Cannot move capital away from this province & no power cost to move to it
+elector = yes #Для занятия всех мест в окне курфюрстов
+elector = yes #Для занятия всех мест в окне курфюрстов
+elector = yes #Для занятия всех мест в окне курфюрстов
+elector = yes #Для занятия всех мест в окне курфюрстов
+elector = yes #Для занятия всех мест в окне курфюрстов
+elector = yes #Для занятия всех мест в окне курфюрстов
+elector = yes #Для занятия всех мест в окне курфюрстов
+
+1056.10.5 = {
+	monarch = {
+		name = "Henry IV"
+		dynasty = "Salian"
+		birth_date = 1050.11.11
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1081.8.11 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry V"
+		dynasty = "Salian"
+		birth_date = 1081.8.11
+		death_date = 1125.5.23
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+1370.1.1 = {
+	elector = no
+	elector = no
+	elector = no
+	elector = no
+	elector = no
+	elector = no
+	elector = no
+}

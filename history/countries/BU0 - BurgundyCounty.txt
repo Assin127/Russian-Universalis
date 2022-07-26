@@ -1,0 +1,34 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = monarchy_mechanic
+government_rank = 1
+primary_culture = burgundian
+religion = catholic
+technology_group = western
+capital = 193
+
+1087.11.12 = {
+	monarch = {
+		name = "Reginald II"
+		dynasty = "Anscarid"
+		birth_date = 1056.1.1
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1087.11.12 = {
+	heir = {
+		name = "William"
+		monarch_name = "William II"
+		dynasty = "Anscarid"
+		birth_date = 1085.1.1
+		death_date = 1125.1.3
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 3
+	}
+}

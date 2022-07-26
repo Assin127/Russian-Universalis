@@ -1,0 +1,21 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = breton
+religion = catholic
+technology_group = western
+capital = 172	# Nantes
+fixed_capital = 172 # Cannot move capital away from this province & no power cost to move to it
+
+
+1084.1.1 = {
+	monarch = {
+		name = "Matthew II"
+		dynasty = "de Cornouaille"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

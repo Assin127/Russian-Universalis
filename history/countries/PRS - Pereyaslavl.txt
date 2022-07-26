@@ -1,0 +1,26 @@
+### RU001 - Added
+# Pereyaslavl
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = old_russian
+religion = orthodox
+capital = 2407 # Pereyaslav
+fixed_capital = 2407 # Cannot move capital away from this province & no power cost to move to it
+
+1094.1.1 = {
+	monarch = {
+		name = "Vladimir Monomah"
+		birth_date = 1053.05.26
+		dynasty = "Rurikovich"
+		adm = 4
+		dip = 6
+		mil = 6
+		leader = {	name = "Vladimir Monomah"             	type = general	fire = 4	shock = 5	manuever = 3	siege = 3 }
+	}
+	
+	leader = {	name = "Izyaslav Rurikovich"             	type = general	fire = 1	shock = 1	manuever = 0	siege = 2 }
+	clear_scripted_personalities = yes
+	add_ruler_personality = charismatic_negotiator_personality
+}

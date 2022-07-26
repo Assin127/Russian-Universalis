@@ -1,0 +1,35 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = flemish
+capital = 90	# Brugge
+
+1093.10.13 = {
+	monarch = {
+		name = "Robert II"
+		dynasty = "Flander"
+		birth_date = 1065.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+		leader = {	name = "Robert II"             	type = general	fire = 4	shock = 2	manuever = 3	siege = 2 }
+	}
+}
+
+1093.10.13 = {
+	heir = {
+		name = "Baldwin"
+		monarch_name = "Baldwin VII"
+		dynasty = "Flander"
+		birth_date = 1092.1.1
+		death_date = 1119.6.17
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}

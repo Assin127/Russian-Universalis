@@ -1,0 +1,34 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+religion = catholic
+primary_culture = catalan
+technology_group = western
+capital = 197	# Roussillon
+
+1074.1.1 = {
+	monarch = {
+		name = "Giselbert II"
+		dynasty = "de Barcelona"
+		birth_date = 1040.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1074.1.1 = {
+	heir = {
+		name = "Girard"
+		monarch_name = "Girard I"
+		dynasty = "de Barcelona"
+		birth_date = 1070.1.1
+		death_date = 1113.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}

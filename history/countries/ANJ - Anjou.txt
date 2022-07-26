@@ -1,0 +1,36 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+capital = 178
+fixed_capital = 178
+
+1068.1.1 = {
+	monarch = {
+		name = "Fulk IV"
+		dynasty = "de Gatinais—Anjou"
+		birth_date = 1043.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+		leader = {	name = "Robert II"   type = general	fire = 2	shock = 1	manuever = 1	siege = 0 }
+	}
+}
+
+1081.12.1 = {
+	heir = {
+		name = "Geoffrey"
+		monarch_name = "Geoffrey IV"
+		dynasty = "de Gatinais—Anjou"
+		birth_date = 1073.1.1
+		death_date = 1106.5.19
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}

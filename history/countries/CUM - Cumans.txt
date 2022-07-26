@@ -1,0 +1,16 @@
+### RU001 - Added
+government = tribal
+add_government_reform = steppe_horde
+primary_culture = cuman
+religion = tengri_pagan_reformed
+technology_group = nomad_group
+capital = 291	
+
+1075.1.1 = {
+	monarch = { #Месье, который совершил в 1096 набег на Русь, не печенег с Черепом Святослава, другой чел
+		name = "Kurya" 
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}

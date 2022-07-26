@@ -1,0 +1,36 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 89	# Picardie
+
+1085.1.1 = {
+	monarch = {
+		name = "Enguerrand I"
+		dynasty = "de Coucy"
+		birth_date = 1042.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+		leader = {	name = "Enguerrand I"            	type = general	fire = 1	shock = 2	manuever = 1	siege = 0 }
+	}
+}
+
+1085.1.1 = {
+	heir = {
+		name = "Thomas"
+		monarch_name = "Thomas"
+		dynasty = "de Coucy"
+		birth_date = 1073.1.1
+		death_date = 1130.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 5
+		leader = {	name = "Thomas"            	type = general	fire = 3	shock = 2	manuever = 2	siege = 3 }
+	}
+}

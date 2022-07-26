@@ -1,0 +1,20 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = feudal_theocracy
+primary_culture = yemeni_culture
+religion = shiite
+technology_group = muslim
+capital = 4281	
+government_rank = 1
+religious_school = ismaili_school  
+
+1086.1.1 = {
+	monarch = {
+		name = "Arwa bint Ahmad"
+		dynasty = "Sulayhid"
+		birth_date = 1070.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

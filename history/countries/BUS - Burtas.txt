@@ -1,0 +1,8 @@
+### RU001 - Added
+government = tribal
+add_government_reform = steppe_horde
+primary_culture = bulgar
+religion = tengri_pagan_reformed
+technology_group = nomad_group
+capital = 2419
+religious_school = hanafi_school

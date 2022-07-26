@@ -1,0 +1,259 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = gujarati
+add_accepted_culture = saurashtri
+religion = hinduism
+technology_group = indian
+capital = 2053
+
+1092.1.1 = {
+	monarch = {
+		name = "Jayasimha Siddharaja"
+		dynasty = "Solanki"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		leader = {	name = "Jayasimha Siddharaja"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1100.1.1 = {
+	heir = {
+		name = "Kumarapala"
+		monarch_name = "Kumarapala"
+		dynasty = "Solanki"
+		birth_date = 1100.1.1
+		death_date = 1171.1.1
+		claim = 40
+		ADM = 4
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1143.1.1 = {
+	monarch = {
+		name = "Kumarapala"
+		dynasty = "Solanki"
+		ADM = 4
+		DIP = 3
+		MIL = 4
+		leader = {	name = "Kumarapala"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1143.1.1 = {
+	heir = {
+		name = "Ajayapala"
+		monarch_name = "Ajayapala"
+		dynasty = "Solanki"
+		birth_date = 1143.1.1
+		death_date = 1175.1.1
+		claim = 40
+		ADM = 3
+		DIP = 3
+		MIL = 5
+	}
+}
+
+1171.1.1 = {
+	monarch = {
+		name = "Ajayapala"
+		dynasty = "Solanki"
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		leader = {	name = "Ajayapala"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1171.1.1 = {
+	heir = {
+		name = "Mularaja"
+		monarch_name = "Mularaja II"
+		dynasty = "Solanki"
+		birth_date = 1160.1.1
+		death_date = 1178.1.1
+		claim = 40
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1175.1.1 = {
+	monarch = {
+		name = "Mularaja II"
+		dynasty = "Solanki"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		leader = {	name = "Mularaja II"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1175.1.1 = {
+	heir = {
+		name = "Bhima"
+		monarch_name = "Bhima II"
+		dynasty = "Solanki"
+		birth_date = 1160.1.1
+		death_date = 1240.1.1
+		claim = 40
+		ADM = 5
+		DIP = 4
+		MIL = 4
+	}
+}
+
+1178.1.1 = {
+	monarch = {
+		name = "Bhima II"
+		dynasty = "Solanki"
+		ADM = 5
+		DIP = 4
+		MIL = 4
+		leader = {	name = "Bhima II"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+
+1200.1.1 = {
+	heir = {
+		name = "Tribhuvanapala"
+		monarch_name = "Tribhuvanapala"
+		dynasty = "Solanki"
+		birth_date = 1200.1.1
+		death_date = 1244.1.1
+		claim = 40
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1240.1.1 = {
+	monarch = {
+		name = "Tribhuvanapala"
+		dynasty = "Solanki"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		leader = {	name = "Tribhuvanapala"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1244.1.1 = {
+	monarch = {
+		name = "Visala-deva"
+		dynasty = "Vaghela"
+		ADM = 4
+		DIP = 4
+		MIL = 5
+		leader = {	name = "Visala-deva "	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1250.1.1 = {
+	heir = {
+		name = "Arjuna-deva"
+		monarch_name = "Arjuna-deva"
+		dynasty = "Vaghela"
+		birth_date = 1250.1.1
+		death_date = 1275.1.1
+		claim = 40
+		ADM = 4
+		DIP = 4
+		MIL = 4
+	}
+}
+
+1262.1.1 = {
+	monarch = {
+		name = "Arjuna-deva "
+		dynasty = "Vaghela"
+		ADM = 4
+		DIP = 4
+		MIL = 4
+		leader = {	name = "Arjuna-deva"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1262.1.1 = {
+	heir = {
+		name = "Rama"
+		monarch_name = "Rama"
+		dynasty = "Vaghela"
+		birth_date = 1262.1.1
+		death_date = 1275.2.1
+		claim = 40
+		ADM = 1
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1275.1.1 = {
+	monarch = {
+		name = "Rama"
+		dynasty = "Vaghela"
+		ADM = 1
+		DIP = 2
+		MIL = 1
+		leader = {	name = "Rama"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1275.1.1 = {
+	heir = {
+		name = "Saranga-deva"
+		monarch_name = "Saranga-deva"
+		dynasty = "Vaghela"
+		birth_date = 1262.1.1
+		death_date = 1296.1.1
+		claim = 40
+		ADM = 3
+		DIP = 4
+		MIL = 3
+	}
+}
+
+1275.2.1 = {
+	monarch = {
+		name = "Saranga-deva"
+		dynasty = "Vaghela"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		leader = {	name = "Saranga-deva"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1275.2.1 = {
+	heir = {
+		name = "Karna-deva"
+		monarch_name = "Karna-deva"
+		dynasty = "Vaghela"
+		birth_date = 1275.1.1
+		death_date = 1304.1.1
+		claim = 40
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1296.1.1 = {
+	monarch = {
+		name = "Karna-deva"
+		dynasty = "Vaghela"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		leader = {	name = "Karna-deva"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+

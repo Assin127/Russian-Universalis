@@ -1,0 +1,20 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = ligurian
+religion = catholic
+technology_group = western
+capital = 2992	# Albenga
+fixed_capital = 2992 # Cannot move capital away from this province & no power cost to move to it
+
+1086.1.1 = {
+	monarch = {
+		name = "Boniface del Vasto"
+		dynasty = "Aleramici"
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+}

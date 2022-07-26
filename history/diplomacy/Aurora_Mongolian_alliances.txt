@@ -1,0 +1,40 @@
+### RU001 - Added
+#Ћ€о захватывает Ѕохай
+vassal = {
+	first = LIA
+	second = WAN
+	start_date = 926.1.1
+	end_date = 1125.1.1
+}
+
+#Ћ€о захватывает цзубу (Ќайманов и  ереитов)
+vassal = {
+	first = LIA
+	second = NAI
+	start_date = 1092.1.1
+	end_date = 1125.1.1
+}
+
+#Ћ€о захватывает цзубу (Ќайманов и  ереитов)
+vassal = {
+	first = LIA
+	second = KRT
+	start_date = 1092.1.1
+	end_date = 1125.1.1
+}
+
+vassal = {
+	first = LIA
+	second = TAT
+	start_date = 1092.1.1
+	end_date = 1125.1.1
+}
+
+#—ун данник Ћ€о
+dependency = {
+	subject_type = "tributary_state"
+	first = LIA
+	second = SNG
+	start_date = 1004.1.1
+	end_date = 1125.1.1
+}

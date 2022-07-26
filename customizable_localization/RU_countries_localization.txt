@@ -1,0 +1,4511 @@
+###RU001 - Added
+
+####################################################################################################
+###																								 ###
+###							  Падежи государств с прописной буквой								 ###
+###																								 ###
+###																								 ###
+###						  Падежи прописаны с уже готовыми окончаниями!							 ###
+###																								 ###
+###				  Именительный (Кто, что?) - "[TUR.GetName]" : "Османы"  						 ###
+###				  Родительный (Кого, чего?) - "[TUR.GetTagRD]" : "Османов"  					 ###
+###				  Дательный (Кому, чему?) - "[TUR.GetTagDT]" : "Османам"  						 ###
+###				  Винительный (Куда?) - "[TUR.GetTagVN]" : "Османскую империю" 				 	 ###
+###				  Творительный (Кем, чем?) - "[TUR.GetTagTV]" : "Османами"  					 ###
+###				  Предложный (О ком, о чём?) - "[TUR.GetTagPR]" : "Османах"  					 ###
+###																								 ###
+###						  Локализация в: gks_countries, gks_converter							 ###
+###																								 ###
+####################################################################################################
+
+defined_text = {
+    name = GetTagRD
+    text = {
+        localisation_key = TAG_RD_ABO
+        trigger = {
+			tag = ABO
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ABR
+        trigger = {
+			tag = ABR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ABS
+        trigger = {
+			tag = ABS
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ALM
+        trigger = {
+			tag = ALM
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ALN
+        trigger = {
+			tag = ALN
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ALP
+        trigger = {
+			tag = ALP
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_AMD
+        trigger = {
+			tag = AMD
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_AMI
+        trigger = {
+			tag = AMI
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ANG
+        trigger = {
+			tag = ANG
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ANJ
+        trigger = {
+			tag = ANJ
+		}
+    }
+	text = {
+        localisation_key = TAG_RD_ANO
+        trigger = {
+			tag = ANO
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_APC
+        trigger = {
+			tag = APC
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_AQT
+        trigger = {
+			tag = AQT
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ART
+        trigger = {
+			tag = ART
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_AVE
+        trigger = {
+			tag = AVE
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_BAY
+        trigger = {
+			tag = BAY
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_BEA
+        trigger = {
+			tag = BEA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_BLK
+        trigger = {
+			tag = BLK
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_BLN
+        trigger = {
+			tag = BLN
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_BOI
+        trigger = {
+			tag = BOI
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_BRC
+        trigger = {
+			tag = BRC
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_BRN
+        trigger = {
+			tag = BRN
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_BSC
+        trigger = {
+			tag = BSC
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_BRY
+        trigger = {
+			tag = BRY
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_BU0
+        trigger = {
+			tag = BU0
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_BUS
+        trigger = {
+			tag = BUS
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CAR
+        trigger = {
+			tag = CAR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CDR
+        trigger = {
+			tag = CDR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CER
+        trigger = {
+			tag = CER
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CHN
+        trigger = {
+			tag = CHN
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CIL
+        trigger = {
+			tag = CIL
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CLL
+        trigger = {
+			tag = CLL
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CMB
+        trigger = {
+			tag = CMB
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CMN
+        trigger = {
+			tag = CMN
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CRL
+        trigger = {
+			tag = CRL
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CRM
+        trigger = {
+			tag = CRM
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CUM
+        trigger = {
+			tag = CUM
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_DEH
+        trigger = {
+			tag = DEH
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_DER
+        trigger = {
+			tag = DER
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_DNS
+        trigger = {
+			tag = DNS
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_DVA
+        trigger = {
+			tag = DVA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_DYC
+        trigger = {
+			tag = DYC
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ECH
+        trigger = {
+			tag = ECH
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_EDE
+        trigger = {
+			tag = EDE
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_EGA
+        trigger = {
+			tag = EGA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_EKK
+        trigger = {
+			tag = EKK
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_FAT
+        trigger = {
+			tag = FAT
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_GAH
+        trigger = {
+			tag = GAH
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_GHA
+        trigger = {
+			tag = GHA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_GLC
+        trigger = {
+			tag = GLC
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_GLU
+        trigger = {
+			tag = GLU
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_GWY
+        trigger = {
+			tag = GWY
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_GYR
+        trigger = {
+			tag = GYR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_GZN
+        trigger = {
+			tag = GZN
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_HMM
+        trigger = {
+			tag = HMM
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_HOY
+        trigger = {
+			tag = HOY
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_HRP
+        trigger = {
+			tag = HRP
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_HUM
+        trigger = {
+			tag = HUM
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_INA
+        trigger = {
+			tag = INA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_IST
+        trigger = {
+			tag = IST
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_JAM
+        trigger = {
+			tag = JAM
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_JUL
+        trigger = {
+			tag = JUL
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KAK
+        trigger = {
+			tag = KAK
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KES
+        trigger = {
+			tag = KES
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KHG
+        trigger = {
+			tag = KHG
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KHR
+        trigger = {
+			tag = KHR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KHT
+        trigger = {
+			tag = KHT
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KHW
+        trigger = {
+			tag = KHW
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KIR
+        trigger = {
+			tag = KIR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KLC
+        trigger = {
+			tag = KLC
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KLU
+        trigger = {
+			tag = KLU
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KMR
+        trigger = {
+			tag = KMR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KNM
+        trigger = {
+			tag = KNM
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KRS
+        trigger = {
+			tag = KRS
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_KRT
+        trigger = {
+			tag = KRT
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_LEM
+        trigger = {
+			tag = LEM
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_LIA
+        trigger = {
+			tag = LIA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_LIM
+        trigger = {
+			tag = LIM
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_LOO
+        trigger = {
+			tag = LOO
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_LUT
+        trigger = {
+			tag = LUT
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_LUV
+        trigger = {
+			tag = LUV
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_LYN
+        trigger = {
+			tag = LYN
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_MEL
+        trigger = {
+			tag = MEL
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_MNE
+        trigger = {
+			tag = MNE
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_MNJ
+        trigger = {
+			tag = MNJ
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_NAI
+        trigger = {
+			tag = NAI
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_NAM
+        trigger = {
+			tag = NAM
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_NAN
+        trigger = {
+			tag = NAN
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_NAR
+        trigger = {
+			tag = NAR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_NIC
+        trigger = {
+			tag = NIC
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_NJH
+        trigger = {
+			tag = NJH
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_NOS
+        trigger = {
+			tag = NOS
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_NRD
+        trigger = {
+			tag = NRD
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_NRI
+        trigger = {
+			tag = NRI
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_NVA
+        trigger = {
+			tag = NVA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_OLO
+        trigger = {
+			tag = OLO
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_OSR
+        trigger = {
+			tag = OSR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_PAG
+        trigger = {
+			tag = PAG
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_PLA
+        trigger = {
+			tag = PLA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_PMS
+        trigger = {
+			tag = PMS
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_PND
+        trigger = {
+			tag = PND
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_POY
+        trigger = {
+			tag = POY
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_PRA
+        trigger = {
+			tag = PRA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_PRC
+        trigger = {
+			tag = PRC
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_PRI
+        trigger = {
+			tag = PRI
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_PRS
+        trigger = {
+			tag = PRS
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_RET
+        trigger = {
+			tag = RET
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ROD
+        trigger = {
+			tag = ROD
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ROU
+        trigger = {
+			tag = ROU
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_RSH
+        trigger = {
+			tag = RSH
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SEA
+        trigger = {
+			tag = SEA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SHD
+        trigger = {
+			tag = SHD
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SJQ
+        trigger = {
+			tag = SJQ
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SLH
+        trigger = {
+			tag = SLH
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SLT
+        trigger = {
+			tag = SLT
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SMV
+        trigger = {
+			tag = SMV
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SNG
+        trigger = {
+			tag = SNG
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SNK
+        trigger = {
+			tag = SNK
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SRR
+        trigger = {
+			tag = SRR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SRW
+        trigger = {
+			tag = SRW
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SVN
+        trigger = {
+			tag = SVN
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_SYU
+        trigger = {
+			tag = SYU
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_TAT
+        trigger = {
+			tag = TAT
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_TDZ
+        trigger = {
+			tag = TDZ
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_TMU
+        trigger = {
+			tag = TMU
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_TOM
+        trigger = {
+			tag = TOM
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_TOS
+        trigger = {
+			tag = TOS
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_TPO
+        trigger = {
+			tag = TPO
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_TRB
+        trigger = {
+			tag = TRB
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_TRN
+        trigger = {
+			tag = TRN
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_TRV
+        trigger = {
+			tag = TRV
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_TUO
+        trigger = {
+			tag = TUO
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_URG
+        trigger = {
+			tag = URG
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_UYU
+        trigger = {
+			tag = UYU
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_VAL
+        trigger = {
+			tag = VAL
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_VBL
+        trigger = {
+			tag = VBL
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_VIV
+        trigger = {
+			tag = VIV
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_VLA
+        trigger = {
+			tag = VLA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_VRD
+        trigger = {
+			tag = VRD
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_WAN
+        trigger = {
+			tag = WAN
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_WCH
+        trigger = {
+			tag = WCH
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_WKK
+        trigger = {
+			tag = WKK
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_XIA
+        trigger = {
+			tag = XIA
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_YAD
+        trigger = {
+			tag = YAD
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ZAR
+        trigger = {
+			tag = ZAR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ZEE
+        trigger = {
+			tag = ZEE
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ZIR
+        trigger = {
+			tag = ZIR
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ZNS
+        trigger = {
+			tag = ZNS
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_ZYR
+		trigger = {
+			tag = ZNS
+		}
+    }
+}
+
+defined_text = {
+    name = GetTagVN
+    text = {
+        localisation_key = TAG_VN_ABO
+        trigger = {
+			tag = ABO
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ABR
+        trigger = {
+			tag = ABR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ABS
+        trigger = {
+			tag = ABS
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ALM
+        trigger = {
+			tag = ALM
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ALN
+        trigger = {
+			tag = ALN
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ALP
+        trigger = {
+			tag = ALP
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_AMD
+        trigger = {
+			tag = AMD
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_AMI
+        trigger = {
+			tag = AMI
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ANG
+        trigger = {
+			tag = ANG
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ANJ
+        trigger = {
+			tag = ANJ
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ANO
+        trigger = {
+			tag = ANO
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_APC
+        trigger = {
+			tag = APC
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_AQT
+        trigger = {
+			tag = AQT
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ART
+        trigger = {
+			tag = ART
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_AVE
+        trigger = {
+			tag = AVE
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_BAY
+        trigger = {
+			tag = BAY
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_BEA
+        trigger = {
+			tag = BEA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_BLK
+        trigger = {
+			tag = BLK
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_BLN
+        trigger = {
+			tag = BLN
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_BOI
+        trigger = {
+			tag = BOI
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_BRC
+        trigger = {
+			tag = BRC
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_BRN
+        trigger = {
+			tag = BRN
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_BSC
+        trigger = {
+			tag = BSC
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_BRY
+        trigger = {
+			tag = BRY
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_BU0
+        trigger = {
+			tag = BU0
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_BUS
+        trigger = {
+			tag = BUS
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CAR
+        trigger = {
+			tag = CAR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CDR
+        trigger = {
+			tag = CDR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CER
+        trigger = {
+			tag = CER
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CHN
+        trigger = {
+			tag = CHN
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CIL
+        trigger = {
+			tag = CIL
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CLL
+        trigger = {
+			tag = CLL
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CMB
+        trigger = {
+			tag = CMB
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CMN
+        trigger = {
+			tag = CMN
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CRL
+        trigger = {
+			tag = CRL
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CRM
+        trigger = {
+			tag = CRM
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CUM
+        trigger = {
+			tag = CUM
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_DEH
+        trigger = {
+			tag = DEH
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_DER
+        trigger = {
+			tag = DER
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_DNS
+        trigger = {
+			tag = DNS
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_DVA
+        trigger = {
+			tag = DVA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_DYC
+        trigger = {
+			tag = DYC
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ECH
+        trigger = {
+			tag = ECH
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_EDE
+        trigger = {
+			tag = EDE
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_EGA
+        trigger = {
+			tag = EGA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_EKK
+        trigger = {
+			tag = EKK
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_FAT
+        trigger = {
+			tag = FAT
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_GAH
+        trigger = {
+			tag = GAH
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_GHA
+        trigger = {
+			tag = GHA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_GLC
+        trigger = {
+			tag = GLC
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_GLU
+        trigger = {
+			tag = GLU
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_GWY
+        trigger = {
+			tag = GWY
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_GYR
+        trigger = {
+			tag = GYR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_GZN
+        trigger = {
+			tag = GZN
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_HMM
+        trigger = {
+			tag = HMM
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_HOY
+        trigger = {
+			tag = HOY
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_HRP
+        trigger = {
+			tag = HRP
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_HUM
+        trigger = {
+			tag = HUM
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_INA
+        trigger = {
+			tag = INA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_IST
+        trigger = {
+			tag = IST
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_JAM
+        trigger = {
+			tag = JAM
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_JUL
+        trigger = {
+			tag = JUL
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KAK
+        trigger = {
+			tag = KAK
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KES
+        trigger = {
+			tag = KES
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KHG
+        trigger = {
+			tag = KHG
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KHR
+        trigger = {
+			tag = KHR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KHT
+        trigger = {
+			tag = KHT
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KHW
+        trigger = {
+			tag = KHW
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KIR
+        trigger = {
+			tag = KIR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KLC
+        trigger = {
+			tag = KLC
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KLU
+        trigger = {
+			tag = KLU
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KMR
+        trigger = {
+			tag = KMR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KNM
+        trigger = {
+			tag = KNM
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KRS
+        trigger = {
+			tag = KRS
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_KRT
+        trigger = {
+			tag = KRT
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_LEM
+        trigger = {
+			tag = LEM
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_LIA
+        trigger = {
+			tag = LIA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_LIM
+        trigger = {
+			tag = LIM
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_LOO
+        trigger = {
+			tag = LOO
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_LUT
+        trigger = {
+			tag = LUT
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_LUV
+        trigger = {
+			tag = LUV
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_LYN
+        trigger = {
+			tag = LYN
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_MEL
+        trigger = {
+			tag = MEL
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_MNE
+        trigger = {
+			tag = MNE
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_MNJ
+        trigger = {
+			tag = MNJ
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_NAI
+        trigger = {
+			tag = NAI
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_NAM
+        trigger = {
+			tag = NAM
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_NAN
+        trigger = {
+			tag = NAN
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_NAR
+        trigger = {
+			tag = NAR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_NIC
+        trigger = {
+			tag = NIC
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_NJH
+        trigger = {
+			tag = NJH
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_NOS
+        trigger = {
+			tag = NOS
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_NRD
+        trigger = {
+			tag = NRD
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_NRI
+        trigger = {
+			tag = NRI
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_NVA
+        trigger = {
+			tag = NVA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_OLO
+        trigger = {
+			tag = OLO
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_OSR
+        trigger = {
+			tag = OSR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_PAG
+        trigger = {
+			tag = PAG
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_PLA
+        trigger = {
+			tag = PLA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_PMS
+        trigger = {
+			tag = PMS
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_PND
+        trigger = {
+			tag = PND
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_POY
+        trigger = {
+			tag = POY
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_PRA
+        trigger = {
+			tag = PRA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_PRC
+        trigger = {
+			tag = PRC
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_PRI
+        trigger = {
+			tag = PRI
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_PRS
+        trigger = {
+			tag = PRS
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_RET
+        trigger = {
+			tag = RET
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ROD
+        trigger = {
+			tag = ROD
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ROU
+        trigger = {
+			tag = ROU
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_RSH
+        trigger = {
+			tag = RSH
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SEA
+        trigger = {
+			tag = SEA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SHD
+        trigger = {
+			tag = SHD
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SJQ
+        trigger = {
+			tag = SJQ
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SLH
+        trigger = {
+			tag = SLH
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SLT
+        trigger = {
+			tag = SLT
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SMV
+        trigger = {
+			tag = SMV
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SNG
+        trigger = {
+			tag = SNG
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SNK
+        trigger = {
+			tag = SNK
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SRR
+        trigger = {
+			tag = SRR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SRW
+        trigger = {
+			tag = SRW
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SVN
+        trigger = {
+			tag = SVN
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_SYU
+        trigger = {
+			tag = SYU
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_TAT
+        trigger = {
+			tag = TAT
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_TDZ
+        trigger = {
+			tag = TDZ
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_TMU
+        trigger = {
+			tag = TMU
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_TOM
+        trigger = {
+			tag = TOM
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_TOS
+        trigger = {
+			tag = TOS
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_TPO
+        trigger = {
+			tag = TPO
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_TRB
+        trigger = {
+			tag = TRB
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_TRN
+        trigger = {
+			tag = TRN
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_TRV
+        trigger = {
+			tag = TRV
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_TUO
+        trigger = {
+			tag = TUO
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_URG
+        trigger = {
+			tag = URG
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_UYU
+        trigger = {
+			tag = UYU
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_VAL
+        trigger = {
+			tag = VAL
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_VBL
+        trigger = {
+			tag = VBL
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_VIV
+        trigger = {
+			tag = VIV
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_VLA
+        trigger = {
+			tag = VLA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_VRD
+        trigger = {
+			tag = VRD
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_WAN
+        trigger = {
+			tag = WAN
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_WCH
+        trigger = {
+			tag = WCH
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_WKK
+        trigger = {
+			tag = WKK
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_XIA
+        trigger = {
+			tag = XIA
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_YAD
+        trigger = {
+			tag = YAD
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ZAR
+        trigger = {
+			tag = ZAR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ZEE
+        trigger = {
+			tag = ZEE
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ZIR
+        trigger = {
+			tag = ZIR
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ZNS
+        trigger = {
+			tag = ZNS
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_ZYR
+		trigger = {
+			tag = ZNS
+		}
+    }
+}
+
+defined_text = {
+    name = GetTagTV
+    text = {
+        localisation_key = TAG_TV_ABO
+        trigger = {
+			tag = ABO
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ABR
+        trigger = {
+			tag = ABR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ABS
+        trigger = {
+			tag = ABS
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ALM
+        trigger = {
+			tag = ALM
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ALN
+        trigger = {
+			tag = ALN
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ALP
+        trigger = {
+			tag = ALP
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_AMD
+        trigger = {
+			tag = AMD
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_AMI
+        trigger = {
+			tag = AMI
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ANG
+        trigger = {
+			tag = ANG
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ANJ
+        trigger = {
+			tag = ANJ
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ANO
+        trigger = {
+			tag = ANO
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_APC
+        trigger = {
+			tag = APC
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_AQT
+        trigger = {
+			tag = AQT
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ART
+        trigger = {
+			tag = ART
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_AVE
+        trigger = {
+			tag = AVE
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_BAY
+        trigger = {
+			tag = BAY
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_BEA
+        trigger = {
+			tag = BEA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_BLK
+        trigger = {
+			tag = BLK
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_BLN
+        trigger = {
+			tag = BLN
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_BOI
+        trigger = {
+			tag = BOI
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_BRC
+        trigger = {
+			tag = BRC
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_BRN
+        trigger = {
+			tag = BRN
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_BSC
+        trigger = {
+			tag = BSC
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_BRY
+        trigger = {
+			tag = BRY
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_BU0
+        trigger = {
+			tag = BU0
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_BUS
+        trigger = {
+			tag = BUS
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CAR
+        trigger = {
+			tag = CAR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CDR
+        trigger = {
+			tag = CDR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CER
+        trigger = {
+			tag = CER
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CHN
+        trigger = {
+			tag = CHN
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CIL
+        trigger = {
+			tag = CIL
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CLL
+        trigger = {
+			tag = CLL
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CMB
+        trigger = {
+			tag = CMB
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CMN
+        trigger = {
+			tag = CMN
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CRL
+        trigger = {
+			tag = CRL
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CRM
+        trigger = {
+			tag = CRM
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CUM
+        trigger = {
+			tag = CUM
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_DEH
+        trigger = {
+			tag = DEH
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_DER
+        trigger = {
+			tag = DER
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_DNS
+        trigger = {
+			tag = DNS
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_DVA
+        trigger = {
+			tag = DVA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_DYC
+        trigger = {
+			tag = DYC
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ECH
+        trigger = {
+			tag = ECH
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_EDE
+        trigger = {
+			tag = EDE
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_EGA
+        trigger = {
+			tag = EGA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_EKK
+        trigger = {
+			tag = EKK
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_FAT
+        trigger = {
+			tag = FAT
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_GAH
+        trigger = {
+			tag = GAH
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_GHA
+        trigger = {
+			tag = GHA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_GLC
+        trigger = {
+			tag = GLC
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_GLU
+        trigger = {
+			tag = GLU
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_GWY
+        trigger = {
+			tag = GWY
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_GYR
+        trigger = {
+			tag = GYR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_GZN
+        trigger = {
+			tag = GZN
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_HMM
+        trigger = {
+			tag = HMM
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_HOY
+        trigger = {
+			tag = HOY
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_HRP
+        trigger = {
+			tag = HRP
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_HUM
+        trigger = {
+			tag = HUM
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_INA
+        trigger = {
+			tag = INA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_IST
+        trigger = {
+			tag = IST
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_JAM
+        trigger = {
+			tag = JAM
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_JUL
+        trigger = {
+			tag = JUL
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KAK
+        trigger = {
+			tag = KAK
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KES
+        trigger = {
+			tag = KES
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KHG
+        trigger = {
+			tag = KHG
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KHR
+        trigger = {
+			tag = KHR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KHT
+        trigger = {
+			tag = KHT
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KHW
+        trigger = {
+			tag = KHW
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KIR
+        trigger = {
+			tag = KIR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KLC
+        trigger = {
+			tag = KLC
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KLU
+        trigger = {
+			tag = KLU
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KMR
+        trigger = {
+			tag = KMR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KNM
+        trigger = {
+			tag = KNM
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KRS
+        trigger = {
+			tag = KRS
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_KRT
+        trigger = {
+			tag = KRT
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_LEM
+        trigger = {
+			tag = LEM
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_LIA
+        trigger = {
+			tag = LIA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_LIM
+        trigger = {
+			tag = LIM
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_LOO
+        trigger = {
+			tag = LOO
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_LUT
+        trigger = {
+			tag = LUT
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_LUV
+        trigger = {
+			tag = LUV
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_LYN
+        trigger = {
+			tag = LYN
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_MEL
+        trigger = {
+			tag = MEL
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_MNE
+        trigger = {
+			tag = MNE
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_MNJ
+        trigger = {
+			tag = MNJ
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_NAI
+        trigger = {
+			tag = NAI
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_NAM
+        trigger = {
+			tag = NAM
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_NAN
+        trigger = {
+			tag = NAN
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_NAR
+        trigger = {
+			tag = NAR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_NIC
+        trigger = {
+			tag = NIC
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_NJH
+        trigger = {
+			tag = NJH
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_NOS
+        trigger = {
+			tag = NOS
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_NRD
+        trigger = {
+			tag = NRD
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_NRI
+        trigger = {
+			tag = NRI
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_NVA
+        trigger = {
+			tag = NVA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_OLO
+        trigger = {
+			tag = OLO
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_OSR
+        trigger = {
+			tag = OSR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_PAG
+        trigger = {
+			tag = PAG
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_PLA
+        trigger = {
+			tag = PLA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_PMS
+        trigger = {
+			tag = PMS
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_PND
+        trigger = {
+			tag = PND
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_POY
+        trigger = {
+			tag = POY
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_PRA
+        trigger = {
+			tag = PRA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_PRC
+        trigger = {
+			tag = PRC
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_PRI
+        trigger = {
+			tag = PRI
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_PRS
+        trigger = {
+			tag = PRS
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_RET
+        trigger = {
+			tag = RET
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ROD
+        trigger = {
+			tag = ROD
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ROU
+        trigger = {
+			tag = ROU
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_RSH
+        trigger = {
+			tag = RSH
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SEA
+        trigger = {
+			tag = SEA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SHD
+        trigger = {
+			tag = SHD
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SJQ
+        trigger = {
+			tag = SJQ
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SLH
+        trigger = {
+			tag = SLH
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SLT
+        trigger = {
+			tag = SLT
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SMV
+        trigger = {
+			tag = SMV
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SNG
+        trigger = {
+			tag = SNG
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SNK
+        trigger = {
+			tag = SNK
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SRR
+        trigger = {
+			tag = SRR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SRW
+        trigger = {
+			tag = SRW
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SVN
+        trigger = {
+			tag = SVN
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_SYU
+        trigger = {
+			tag = SYU
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_TAT
+        trigger = {
+			tag = TAT
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_TDZ
+        trigger = {
+			tag = TDZ
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_TMU
+        trigger = {
+			tag = TMU
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_TOM
+        trigger = {
+			tag = TOM
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_TOS
+        trigger = {
+			tag = TOS
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_TPO
+        trigger = {
+			tag = TPO
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_TRB
+        trigger = {
+			tag = TRB
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_TRN
+        trigger = {
+			tag = TRN
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_TRV
+        trigger = {
+			tag = TRV
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_TUO
+        trigger = {
+			tag = TUO
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_URG
+        trigger = {
+			tag = URG
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_UYU
+        trigger = {
+			tag = UYU
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_VAL
+        trigger = {
+			tag = VAL
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_VBL
+        trigger = {
+			tag = VBL
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_VIV
+        trigger = {
+			tag = VIV
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_VLA
+        trigger = {
+			tag = VLA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_VRD
+        trigger = {
+			tag = VRD
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_WAN
+        trigger = {
+			tag = WAN
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_WCH
+        trigger = {
+			tag = WCH
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_WKK
+        trigger = {
+			tag = WKK
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_XIA
+        trigger = {
+			tag = XIA
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_YAD
+        trigger = {
+			tag = YAD
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ZAR
+        trigger = {
+			tag = ZAR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ZEE
+        trigger = {
+			tag = ZEE
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ZIR
+        trigger = {
+			tag = ZIR
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ZNS
+        trigger = {
+			tag = ZNS
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_ZYR
+		trigger = {
+			tag = ZNS
+		}
+    }
+}
+
+
+defined_text = {
+    name = GetTagPR
+    text = {
+        localisation_key = TAG_PR_ABO
+        trigger = {
+			tag = ABO
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ABR
+        trigger = {
+			tag = ABR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ABS
+        trigger = {
+			tag = ABS
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ALM
+        trigger = {
+			tag = ALM
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ALN
+        trigger = {
+			tag = ALN
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ALP
+        trigger = {
+			tag = ALP
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_AMD
+        trigger = {
+			tag = AMD
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_AMI
+        trigger = {
+			tag = AMI
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ANG
+        trigger = {
+			tag = ANG
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ANJ
+        trigger = {
+			tag = ANJ
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ANO
+        trigger = {
+			tag = ANO
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_APC
+        trigger = {
+			tag = APC
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_AQT
+        trigger = {
+			tag = AQT
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ART
+        trigger = {
+			tag = ART
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_AVE
+        trigger = {
+			tag = AVE
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_BAY
+        trigger = {
+			tag = BAY
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_BEA
+        trigger = {
+			tag = BEA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_BLK
+        trigger = {
+			tag = BLK
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_BLN
+        trigger = {
+			tag = BLN
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_BOI
+        trigger = {
+			tag = BOI
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_BRC
+        trigger = {
+			tag = BRC
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_BRN
+        trigger = {
+			tag = BRN
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_BSC
+        trigger = {
+			tag = BSC
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_BRY
+        trigger = {
+			tag = BRY
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_BU0
+        trigger = {
+			tag = BU0
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_BUS
+        trigger = {
+			tag = BUS
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CAR
+        trigger = {
+			tag = CAR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CDR
+        trigger = {
+			tag = CDR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CER
+        trigger = {
+			tag = CER
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CHN
+        trigger = {
+			tag = CHN
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CIL
+        trigger = {
+			tag = CIL
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CLL
+        trigger = {
+			tag = CLL
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CMB
+        trigger = {
+			tag = CMB
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CMN
+        trigger = {
+			tag = CMN
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CRL
+        trigger = {
+			tag = CRL
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CRM
+        trigger = {
+			tag = CRM
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CUM
+        trigger = {
+			tag = CUM
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_DEH
+        trigger = {
+			tag = DEH
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_DER
+        trigger = {
+			tag = DER
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_DNS
+        trigger = {
+			tag = DNS
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_DVA
+        trigger = {
+			tag = DVA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_DYC
+        trigger = {
+			tag = DYC
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ECH
+        trigger = {
+			tag = ECH
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_EDE
+        trigger = {
+			tag = EDE
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_EGA
+        trigger = {
+			tag = EGA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_EKK
+        trigger = {
+			tag = EKK
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_FAT
+        trigger = {
+			tag = FAT
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_GAH
+        trigger = {
+			tag = GAH
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_GHA
+        trigger = {
+			tag = GHA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_GLC
+        trigger = {
+			tag = GLC
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_GLU
+        trigger = {
+			tag = GLU
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_GWY
+        trigger = {
+			tag = GWY
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_GYR
+        trigger = {
+			tag = GYR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_GZN
+        trigger = {
+			tag = GZN
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_HMM
+        trigger = {
+			tag = HMM
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_HOY
+        trigger = {
+			tag = HOY
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_HRP
+        trigger = {
+			tag = HRP
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_HUM
+        trigger = {
+			tag = HUM
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_INA
+        trigger = {
+			tag = INA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_IST
+        trigger = {
+			tag = IST
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_JAM
+        trigger = {
+			tag = JAM
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_JUL
+        trigger = {
+			tag = JUL
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KAK
+        trigger = {
+			tag = KAK
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KES
+        trigger = {
+			tag = KES
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KHG
+        trigger = {
+			tag = KHG
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KHR
+        trigger = {
+			tag = KHR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KHT
+        trigger = {
+			tag = KHT
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KHW
+        trigger = {
+			tag = KHW
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KIR
+        trigger = {
+			tag = KIR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KLC
+        trigger = {
+			tag = KLC
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KLU
+        trigger = {
+			tag = KLU
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KMR
+        trigger = {
+			tag = KMR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KNM
+        trigger = {
+			tag = KNM
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KRS
+        trigger = {
+			tag = KRS
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_KRT
+        trigger = {
+			tag = KRT
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_LEM
+        trigger = {
+			tag = LEM
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_LIA
+        trigger = {
+			tag = LIA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_LIM
+        trigger = {
+			tag = LIM
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_LOO
+        trigger = {
+			tag = LOO
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_LUT
+        trigger = {
+			tag = LUT
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_LUV
+        trigger = {
+			tag = LUV
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_LYN
+        trigger = {
+			tag = LYN
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_MEL
+        trigger = {
+			tag = MEL
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_MNE
+        trigger = {
+			tag = MNE
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_MNJ
+        trigger = {
+			tag = MNJ
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_NAI
+        trigger = {
+			tag = NAI
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_NAM
+        trigger = {
+			tag = NAM
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_NAN
+        trigger = {
+			tag = NAN
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_NAR
+        trigger = {
+			tag = NAR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_NIC
+        trigger = {
+			tag = NIC
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_NJH
+        trigger = {
+			tag = NJH
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_NOS
+        trigger = {
+			tag = NOS
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_NRD
+        trigger = {
+			tag = NRD
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_NRI
+        trigger = {
+			tag = NRI
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_NVA
+        trigger = {
+			tag = NVA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_OLO
+        trigger = {
+			tag = OLO
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_OSR
+        trigger = {
+			tag = OSR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_PAG
+        trigger = {
+			tag = PAG
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_PLA
+        trigger = {
+			tag = PLA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_PMS
+        trigger = {
+			tag = PMS
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_PND
+        trigger = {
+			tag = PND
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_POY
+        trigger = {
+			tag = POY
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_PRA
+        trigger = {
+			tag = PRA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_PRC
+        trigger = {
+			tag = PRC
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_PRI
+        trigger = {
+			tag = PRI
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_PRS
+        trigger = {
+			tag = PRS
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_RET
+        trigger = {
+			tag = RET
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ROD
+        trigger = {
+			tag = ROD
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ROU
+        trigger = {
+			tag = ROU
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_RSH
+        trigger = {
+			tag = RSH
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SEA
+        trigger = {
+			tag = SEA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SHD
+        trigger = {
+			tag = SHD
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SJQ
+        trigger = {
+			tag = SJQ
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SLH
+        trigger = {
+			tag = SLH
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SLT
+        trigger = {
+			tag = SLT
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SMV
+        trigger = {
+			tag = SMV
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SNG
+        trigger = {
+			tag = SNG
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SNK
+        trigger = {
+			tag = SNK
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SRR
+        trigger = {
+			tag = SRR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SRW
+        trigger = {
+			tag = SRW
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SVN
+        trigger = {
+			tag = SVN
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_SYU
+        trigger = {
+			tag = SYU
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_TAT
+        trigger = {
+			tag = TAT
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_TDZ
+        trigger = {
+			tag = TDZ
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_TMU
+        trigger = {
+			tag = TMU
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_TOM
+        trigger = {
+			tag = TOM
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_TOS
+        trigger = {
+			tag = TOS
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_TPO
+        trigger = {
+			tag = TPO
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_TRB
+        trigger = {
+			tag = TRB
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_TRN
+        trigger = {
+			tag = TRN
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_TRV
+        trigger = {
+			tag = TRV
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_TUO
+        trigger = {
+			tag = TUO
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_URG
+        trigger = {
+			tag = URG
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_UYU
+        trigger = {
+			tag = UYU
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_VAL
+        trigger = {
+			tag = VAL
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_VBL
+        trigger = {
+			tag = VBL
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_VIV
+        trigger = {
+			tag = VIV
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_VLA
+        trigger = {
+			tag = VLA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_VRD
+        trigger = {
+			tag = VRD
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_WAN
+        trigger = {
+			tag = WAN
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_WCH
+        trigger = {
+			tag = WCH
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_WKK
+        trigger = {
+			tag = WKK
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_XIA
+        trigger = {
+			tag = XIA
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_YAD
+        trigger = {
+			tag = YAD
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ZAR
+        trigger = {
+			tag = ZAR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ZEE
+        trigger = {
+			tag = ZEE
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ZIR
+        trigger = {
+			tag = ZIR
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ZNS
+        trigger = {
+			tag = ZNS
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_ZYR
+		trigger = {
+			tag = ZNS
+		}
+    }
+}
+
+
+defined_text = {
+    name = GetTagDT
+    text = {
+        localisation_key = TAG_DT_ABO
+        trigger = {
+			tag = ABO
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ABR
+        trigger = {
+			tag = ABR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ABS
+        trigger = {
+			tag = ABS
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ALM
+        trigger = {
+			tag = ALM
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ALN
+        trigger = {
+			tag = ALN
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ALP
+        trigger = {
+			tag = ALP
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_AMD
+        trigger = {
+			tag = AMD
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_AMI
+        trigger = {
+			tag = AMI
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ANG
+        trigger = {
+			tag = ANG
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ANJ
+        trigger = {
+			tag = ANJ
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ANO
+        trigger = {
+			tag = ANO
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_APC
+        trigger = {
+			tag = APC
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_AQT
+        trigger = {
+			tag = AQT
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ART
+        trigger = {
+			tag = ART
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_AVE
+        trigger = {
+			tag = AVE
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_BAY
+        trigger = {
+			tag = BAY
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_BEA
+        trigger = {
+			tag = BEA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_BLK
+        trigger = {
+			tag = BLK
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_BLN
+        trigger = {
+			tag = BLN
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_BOI
+        trigger = {
+			tag = BOI
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_BRC
+        trigger = {
+			tag = BRC
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_BRN
+        trigger = {
+			tag = BRN
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_BSC
+        trigger = {
+			tag = BSC
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_BRY
+        trigger = {
+			tag = BRY
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_BU0
+        trigger = {
+			tag = BU0
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_BUS
+        trigger = {
+			tag = BUS
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CAR
+        trigger = {
+			tag = CAR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CDR
+        trigger = {
+			tag = CDR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CER
+        trigger = {
+			tag = CER
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CHN
+        trigger = {
+			tag = CHN
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CIL
+        trigger = {
+			tag = CIL
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CLL
+        trigger = {
+			tag = CLL
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CMB
+        trigger = {
+			tag = CMB
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CMN
+        trigger = {
+			tag = CMN
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CRL
+        trigger = {
+			tag = CRL
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CRM
+        trigger = {
+			tag = CRM
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CUM
+        trigger = {
+			tag = CUM
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_DEH
+        trigger = {
+			tag = DEH
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_DER
+        trigger = {
+			tag = DER
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_DNS
+        trigger = {
+			tag = DNS
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_DVA
+        trigger = {
+			tag = DVA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_DYC
+        trigger = {
+			tag = DYC
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ECH
+        trigger = {
+			tag = ECH
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_EDE
+        trigger = {
+			tag = EDE
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_EGA
+        trigger = {
+			tag = EGA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_EKK
+        trigger = {
+			tag = EKK
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_FAT
+        trigger = {
+			tag = FAT
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_GAH
+        trigger = {
+			tag = GAH
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_GHA
+        trigger = {
+			tag = GHA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_GLC
+        trigger = {
+			tag = GLC
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_GLU
+        trigger = {
+			tag = GLU
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_GWY
+        trigger = {
+			tag = GWY
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_GYR
+        trigger = {
+			tag = GYR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_GZN
+        trigger = {
+			tag = GZN
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_HMM
+        trigger = {
+			tag = HMM
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_HOY
+        trigger = {
+			tag = HOY
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_HRP
+        trigger = {
+			tag = HRP
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_HUM
+        trigger = {
+			tag = HUM
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_INA
+        trigger = {
+			tag = INA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_IST
+        trigger = {
+			tag = IST
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_JAM
+        trigger = {
+			tag = JAM
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_JUL
+        trigger = {
+			tag = JUL
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KAK
+        trigger = {
+			tag = KAK
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KES
+        trigger = {
+			tag = KES
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KHG
+        trigger = {
+			tag = KHG
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KHR
+        trigger = {
+			tag = KHR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KHT
+        trigger = {
+			tag = KHT
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KHW
+        trigger = {
+			tag = KHW
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KIR
+        trigger = {
+			tag = KIR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KLC
+        trigger = {
+			tag = KLC
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KLU
+        trigger = {
+			tag = KLU
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KMR
+        trigger = {
+			tag = KMR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KNM
+        trigger = {
+			tag = KNM
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KRS
+        trigger = {
+			tag = KRS
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_KRT
+        trigger = {
+			tag = KRT
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_LEM
+        trigger = {
+			tag = LEM
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_LIA
+        trigger = {
+			tag = LIA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_LIM
+        trigger = {
+			tag = LIM
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_LOO
+        trigger = {
+			tag = LOO
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_LUT
+        trigger = {
+			tag = LUT
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_LUV
+        trigger = {
+			tag = LUV
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_LYN
+        trigger = {
+			tag = LYN
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_MEL
+        trigger = {
+			tag = MEL
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_MNE
+        trigger = {
+			tag = MNE
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_MNJ
+        trigger = {
+			tag = MNJ
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_NAI
+        trigger = {
+			tag = NAI
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_NAM
+        trigger = {
+			tag = NAM
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_NAN
+        trigger = {
+			tag = NAN
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_NAR
+        trigger = {
+			tag = NAR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_NIC
+        trigger = {
+			tag = NIC
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_NJH
+        trigger = {
+			tag = NJH
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_NOS
+        trigger = {
+			tag = NOS
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_NRD
+        trigger = {
+			tag = NRD
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_NRI
+        trigger = {
+			tag = NRI
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_NVA
+        trigger = {
+			tag = NVA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_OLO
+        trigger = {
+			tag = OLO
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_OSR
+        trigger = {
+			tag = OSR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_PAG
+        trigger = {
+			tag = PAG
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_PLA
+        trigger = {
+			tag = PLA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_PMS
+        trigger = {
+			tag = PMS
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_PND
+        trigger = {
+			tag = PND
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_POY
+        trigger = {
+			tag = POY
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_PRA
+        trigger = {
+			tag = PRA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_PRC
+        trigger = {
+			tag = PRC
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_PRI
+        trigger = {
+			tag = PRI
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_PRS
+        trigger = {
+			tag = PRS
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_RET
+        trigger = {
+			tag = RET
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ROD
+        trigger = {
+			tag = ROD
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ROU
+        trigger = {
+			tag = ROU
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_RSH
+        trigger = {
+			tag = RSH
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SEA
+        trigger = {
+			tag = SEA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SHD
+        trigger = {
+			tag = SHD
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SJQ
+        trigger = {
+			tag = SJQ
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SLH
+        trigger = {
+			tag = SLH
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SLT
+        trigger = {
+			tag = SLT
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SMV
+        trigger = {
+			tag = SMV
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SNG
+        trigger = {
+			tag = SNG
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SNK
+        trigger = {
+			tag = SNK
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SRR
+        trigger = {
+			tag = SRR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SRW
+        trigger = {
+			tag = SRW
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SVN
+        trigger = {
+			tag = SVN
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_SYU
+        trigger = {
+			tag = SYU
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_TAT
+        trigger = {
+			tag = TAT
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_TDZ
+        trigger = {
+			tag = TDZ
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_TMU
+        trigger = {
+			tag = TMU
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_TOM
+        trigger = {
+			tag = TOM
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_TOS
+        trigger = {
+			tag = TOS
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_TPO
+        trigger = {
+			tag = TPO
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_TRB
+        trigger = {
+			tag = TRB
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_TRN
+        trigger = {
+			tag = TRN
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_TRV
+        trigger = {
+			tag = TRV
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_TUO
+        trigger = {
+			tag = TUO
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_URG
+        trigger = {
+			tag = URG
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_UYU
+        trigger = {
+			tag = UYU
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_VAL
+        trigger = {
+			tag = VAL
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_VBL
+        trigger = {
+			tag = VBL
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_VIV
+        trigger = {
+			tag = VIV
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_VLA
+        trigger = {
+			tag = VLA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_VRD
+        trigger = {
+			tag = VRD
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_WAN
+        trigger = {
+			tag = WAN
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_WCH
+        trigger = {
+			tag = WCH
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_WKK
+        trigger = {
+			tag = WKK
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_XIA
+        trigger = {
+			tag = XIA
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_YAD
+        trigger = {
+			tag = YAD
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ZAR
+        trigger = {
+			tag = ZAR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ZEE
+        trigger = {
+			tag = ZEE
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ZIR
+        trigger = {
+			tag = ZIR
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ZNS
+        trigger = {
+			tag = ZNS
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_ZYR
+		trigger = {
+			tag = ZNS
+		}
+    }
+}

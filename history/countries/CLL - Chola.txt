@@ -1,0 +1,194 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = kannada
+religion = hinduism
+technology_group = indian
+capital = 2026
+
+1070.1.1 = {
+	monarch = {
+		name = "Kulottunga I"
+		dynasty = "Chola"
+		ADM = 5
+		DIP = 4
+		MIL = 2
+		leader = {	name = "Kulottunga I"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1070.1.1 = {
+	heir = {
+		name = "Vikrama "
+		monarch_name = "Vikrama "
+		dynasty = "Chola"
+		birth_date = 1070.1.1
+		death_date = 1133.1.1
+		claim = 40
+		ADM = 4
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1118.1.1 = {
+	monarch = {
+		name = "Vikrama"
+		dynasty = "Chola"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		leader = {	name = "Vikrama"	type = general	fire = 4	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1118.1.1 = {
+	heir = {
+		name = "Kulottunga II"
+		monarch_name = "Kulottunga II"
+		dynasty = "Chola"
+		birth_date = 1018.1.1
+		death_date = 1150.1.1
+		claim = 40
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1133.1.1 = {
+	monarch = {
+		name = "Kulottunga II"
+		dynasty = "Chola"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		leader = {	name = "Kulottunga II"	type = general	fire = 3	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1133.1.1 = {
+	heir = {
+		name = "Rajaraja "
+		monarch_name = "Rajaraja II"
+		dynasty = "Chola"
+		birth_date = 1131.1.1
+		death_date = 1173.1.1
+		claim = 40
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1150.1.1 = {
+	monarch = {
+		name = "Rajaraja II"
+		dynasty = "Chola"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		leader = {	name = "Rajaraja II"	type = general	fire = 3	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1150.1.1 = {
+	heir = {
+		name = "Rajadhiraja II"
+		monarch_name = "Rajadhiraja II"
+		dynasty = "Chola"
+		birth_date = 1150.1.1
+		death_date = 1178.1.1
+		claim = 40
+		ADM = 2
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1173.1.1 = {
+	monarch = {
+		name = "Rajadhiraja II"
+		dynasty = "Chola"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		leader = {	name = "Rajadhiraja II"	type = general	fire = 3	shock = 2	manuever = 2 siege = 2	}
+	}
+}
+
+1173.1.1 = {
+	heir = {
+		name = "Kulothunga III"
+		monarch_name = "Kulothunga III"
+		dynasty = "Chola"
+		birth_date = 1160.1.1
+		death_date = 1218.1.1
+		claim = 40
+		ADM = 4
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1178.1.1 = {
+	monarch = {
+		name = "Kulothunga III"
+		dynasty = "Chola"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		leader = {	name = "Kulothunga III"	type = general	fire = 3	shock = 3	manuever = 2 siege = 1	}
+	}
+}
+
+1200.1.1 = {
+	heir = {
+		name = "Rajaraja  III"
+		monarch_name = "Rajaraja  III"
+		dynasty = "Chola"
+		birth_date = 1200.1.1
+		death_date = 1246.1.1
+		claim = 40
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1218.1.1 = {
+	monarch = {
+		name = "Rajaraja  III"
+		dynasty = "Chola"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		leader = {	name = "Rajaraja III"	type = general	fire = 3	shock = 3	manuever = 2 siege = 1	}
+	}
+}
+
+1230.1.1 = {
+	heir = {
+		name = "Rajendra  III"
+		monarch_name = "Rajendra  III"
+		dynasty = "Chola"
+		birth_date = 1230.1.1
+		death_date = 1279.1.1
+		claim = 40
+		ADM = 1
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1246.1.1 = {
+	monarch = {
+		name = "Rajendra III"
+		dynasty = "Chola"
+		ADM = 1
+		DIP = 2
+		MIL = 1
+		leader = {	name = "Rajendra III"	type = general	fire = 1	shock = 1	manuever = 0 siege = 1	}
+	}
+}

@@ -1,0 +1,18 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = sumatran
+religion = vajrayana
+technology_group = chinese
+capital = 622	
+
+1072.1.1 = {
+	monarch = {
+		name = "Ti-hua-ka-lo"
+		dynasty = "Srivijaya"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+

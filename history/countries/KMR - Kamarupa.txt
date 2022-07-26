@@ -1,0 +1,28 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = assamese
+religion = hinduism
+technology_group = indian
+capital = 566
+
+1075.1.1 = {
+	monarch = {
+		name = "Jayapala"
+		dynasty = "Pala"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+                           #Свержение династии Пала
+1110.1.1 = {
+	monarch = {
+		name = "Timgyadeva"         #Независимый король
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+

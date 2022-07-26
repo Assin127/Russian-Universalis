@@ -1,0 +1,85 @@
+### RU001 - Added
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 3
+technology_group = chinese
+religion = vajrayana
+primary_culture = xibei
+capital = 2182
+
+1086.1.1 = {
+	monarch = {
+		name = "Qianshun"
+		dynasty = "Li"
+		birth_date = 1069.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1139.1.1 = {
+	monarch = {
+		name = "Renxiao"
+		dynasty = "Li"
+		birth_date = 1023.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1193.1.1 = {
+	monarch = {
+		name = "Chunyou"
+		dynasty = "Li"
+		birth_date = 1069.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1206.1.1 = {
+	monarch = {
+		name = "Anquan"
+		dynasty = "Li"
+		birth_date = 1161.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1211.1.1 = {
+	monarch = {
+		name = "Zunxu"
+		dynasty = "Li"
+		birth_date = 1180.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1223.1.1 = {
+	monarch = {
+		name = "Dewang"
+		dynasty = "Li"
+		birth_date = 1200.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1226.1.1 = {
+	monarch = {
+		name = "Xian"
+		dynasty = "Li"
+		birth_date = 1200.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,0 +1,42 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = javanese
+technology_group = chinese
+religion = hinduism
+capital = 2689	
+
+
+1042.1.1 = {
+	monarch = {
+		name = "Vajrasattva"
+		dynasty = "Kadiri"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1080.7.25 = {
+	heir = {
+		name = "Çri Jayawarşa"
+		monarch_name = "Çri Jayawarşa"
+		dynasty = "Kadiri"
+		birth_date = 1080.1.1
+		death_date = 1115.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1104.1.1 = {
+	monarch = {
+		name = "Vajrasattva"
+		dynasty = "Kadiri"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

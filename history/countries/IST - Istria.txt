@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = croatian
+religion = catholic
+technology_group = western
+capital = 130 # Istria
+fixed_capital = 130 # Cannot move capital away from this province & no power cost to move to it
+
+1090.1.1 = {
+	monarch = {
+		name = "Engelbert I"
+		dynasty = "de Sponheim"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}

@@ -1,0 +1,23 @@
+### RU001 - Added
+# Peremyshl
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = old_russian
+religion = orthodox
+capital = 2424 # Peremyshl
+fixed_capital = 2424 # Cannot move capital away from this province & no power cost to move to it
+1084.1.2 = {
+	monarch = {
+		name = "Volodar"
+		dynasty = "Rurikovich"
+		birth_date = 1053.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = kind_hearted_personality
+}
+

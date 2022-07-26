@@ -1,0 +1,17 @@
+### RU001 - Added
+
+# Уния Фландрии с Зееландией
+union = {
+	first = FLA
+	second = ZEE
+	start_date = 1012.1.1 
+	end_date = 1256.1.1
+}
+
+# Уния Голландии с Зееландией
+union = {
+	first = HOL
+	second = ZEE
+	start_date = 1256.1.1
+	end_date = 1432.1.1
+}

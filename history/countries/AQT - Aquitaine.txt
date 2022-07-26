@@ -1,0 +1,20 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = cosmopolitan_french
+add_accepted_culture = gascon
+religion = catholic
+technology_group = western
+capital = 180 # Poitou
+
+1086.9.25 = {
+	monarch = {
+		name = "William IX"
+		dynasty = "de Poitou"
+		birth_date = 1071.10.22
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}

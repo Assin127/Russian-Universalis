@@ -1,0 +1,8 @@
+### RU001 - Added
+government = theocracy
+add_government_reform = leading_clergy_reform
+primary_culture = occitain
+religion = catholic
+technology_group = western
+capital = 4391 # Vivarais
+fixed_capital = 4391 # Cannot move capital away from this province & no power cost to move to it

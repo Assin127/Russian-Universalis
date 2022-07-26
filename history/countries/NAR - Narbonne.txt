@@ -1,0 +1,10 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = occitain
+religion = catholic
+technology_group = western
+capital = 2753	# Narbonne
+fixed_capital = 2753 # Cannot move capital away from this province & no power cost to move to it

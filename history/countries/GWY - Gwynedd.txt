@@ -1,0 +1,140 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = welsh
+religion = catholic
+capital = 242	# Gwynedd
+fixed_capital = 242 # Cannot move capital away from this province & no power cost to move to it
+
+1081.1.1 = {
+	monarch = {
+		name = "Gruffudd"
+		dynasty = "Aberffraw"
+		birth_date = 1055.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+		leader = {	name = "Gruffudd Aberffraw"	type = general	fire = 2	shock = 1	manuever = 3	siege = 1 }
+	}
+}
+
+1097.1.1 = {
+	heir = {
+		name = "Cadwallon"
+		monarch_name = "Cadwallon"
+		dynasty = "Aberffraw"
+		birth_date = 1097.1.1
+		death_date = 1132.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+		leader = {	name = "Cadwallon Aberffraw"	type = general	fire = 1	shock = 1	manuever = 0	siege = 0 }
+	}
+}
+
+1132.1.1 = {
+	heir = {
+		name = "Owain"
+		monarch_name = "Owain"
+		dynasty = "Aberffraw"
+		birth_date = 1100.1.1
+		death_date = 1170.11.28
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+		leader = {	name = "Owain Aberffraw"	type = general	fire = 2	shock = 1	manuever = 1	siege = 1 }
+	}
+}
+
+1137.1.1 = {
+	monarch = {
+		name = "Owain"
+		dynasty = Aberffraw
+		birth_date = 1100.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+		leader = {	name = "Owain Aberffraw"	type = general	fire = 2	shock = 1	manuever = 1	siege = 1 }
+	}
+	heir = {
+		name = "Llywelyn"
+		monarch_name = "Llywelyn"
+		dynasty = "Aberffraw"
+		birth_date = 1135.1.1
+		death_date = 1203.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1170.11.28 = {
+	monarch = {
+		name = "Llywelyn"
+		dynasty = Aberffraw
+		birth_date = 1135.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1172.1.1 = {
+	heir = {
+		name = "Llywelyn"
+		monarch_name = "Llywelyn the Great"
+		dynasty = "Aberffraw"
+		birth_date = 1172.1.1
+		death_date = 1240.4.11
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+		leader = {	name = "Llywelyn Aberffraw"	type = general	fire = 3	shock = 2	manuever = 3	siege = 1 }
+	}
+}
+
+1195.1.1 = {
+	monarch = {
+		name = "Llywelyn the Great"
+		dynasty = Aberffraw
+		birth_date = 1172.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+		leader = {	name = "Llywelyn Aberffraw"	type = general	fire = 3	shock = 2	manuever = 3	siege = 1 }
+	}
+}
+
+1223.1.1 = {
+	heir = {
+		name = "Llywelyn"
+		monarch_name = "Llywelyn III"
+		dynasty = "Aberffraw"
+		birth_date = 1223.1.1
+		death_date = 1282.12.11
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+		leader = {	name = "Llywelyn Aberffraw"	type = general	fire = 2	shock = 1	manuever = 1	siege = 0 }
+	}
+}
+
+1240.4.11 = {
+	monarch = {
+		name = "Llywelyn III"
+		dynasty = Aberffraw
+		birth_date = 1223.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+		leader = {	name = "Llywelyn Aberffraw"	type = general	fire = 3	shock = 2	manuever = 3	siege = 0 }
+	}
+}

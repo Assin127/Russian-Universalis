@@ -1,0 +1,19 @@
+### RU001 - Added
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = norwegian
+religion = catholic
+capital = 10
+
+930.1.1 = {
+	monarch = {
+		name = "Jamtamot"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}

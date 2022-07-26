@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 1846
+
+1071.1.1 = {
+	monarch = {
+		name = "Gazi"
+		dynasty = "Danishmendid"
+		birth_date = 1052.11.11
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

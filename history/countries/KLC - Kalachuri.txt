@@ -1,0 +1,10 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = gondi
+religion = hinduism
+technology_group = indian
+capital = 550
+
+#Соре инфы нет, я старался

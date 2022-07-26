@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = sunni
+primary_culture = afghani
+capital = 448
+religious_school = hanafi_school
+
+1059.1.1 = {
+	monarch = {
+		name = "Ibrahim"
+		culture = afghani
+		dynasty = "Ghaznavid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}

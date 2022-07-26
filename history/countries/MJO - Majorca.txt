@@ -1,0 +1,46 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = andalucian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 333
+government_rank = 1
+religious_school = maliki_school
+
+1093.1.1 = {
+	monarch = {
+		name = "Mubassir"
+		dynasty = "Aglabid"
+		birth_date = 1077.9.16
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1095.1.1 = {
+	heir = {
+		name = "Abu-l-Rabi Sulayman"
+		monarch_name = "Mubassir"
+		dynasty = "Aglabid"
+		birth_date = 1094.1.1
+		death_date = 1126.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1114.2.12 = {
+	monarch = {
+		name = "Abu-l-Rabi Sulayman"
+		dynasty = "Aglabid"
+		birth_date = 1094.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

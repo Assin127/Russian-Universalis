@@ -1,0 +1,23 @@
+### RU001 - Added
+government = tribal
+add_government_reform = tribal_despotism
+technology_group = sub_saharan
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+religion = shamanism #Fetishism
+primary_culture = sawabantu
+capital = 1151
+government_rank = 1
+
+
+1089.1.1 = {
+	monarch = {
+		birth_date = 1070.1.1
+		name = "Namoke"
+		dynasty = "Eze Nri"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,0 +1,65 @@
+### RU001 - Added
+# Генрих IV (король Германии) владел Баварией
+union = {
+	first = FKN
+	second = BAV
+	start_date = 1077.1.1
+	end_date = 1096.1.1
+}
+
+#Нордгау и Бавария
+march = {
+	first = BAV
+	second = NRD
+	start_date = 1061.1.1
+	end_date = 1146.4.8
+}
+
+#Постановление Братислава I 1054 года о разделе Моравии
+vassal = {
+	first = BOH
+	second = BRN
+	start_date = 1054.1.1
+	end_date = 1201.6.5
+}
+vassal = {
+	first = BOH
+	second = OLO
+	start_date = 1054.1.1
+	end_date = 1201.1.1
+}
+
+union = {
+	first = CAR
+	second = VRN
+	start_date = 976.1.1
+	end_date = 1167.1.1
+}
+
+march = {
+	first = CAR
+	second = STY
+	start_date = 976.1.1
+	end_date = 1122.1.1
+}
+
+march = {
+	first = BAV
+	second = HAB
+	start_date = 960.1.1
+	end_date = 1156.1.1
+}
+
+march = {
+	first = SAX
+	second = MEI
+	start_date = 968.1.1
+	end_date = 1423.1.1
+}
+
+union = {
+	first = MEI
+	second = SOR
+	start_date = 1081.1.1
+	end_date = 1123.1.1
+}

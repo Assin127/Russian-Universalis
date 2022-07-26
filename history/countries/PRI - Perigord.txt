@@ -1,0 +1,33 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = gascon
+religion = catholic
+technology_group = western
+capital = 194 # Bergerac
+fixed_capital = 194 # Cannot move capital away from this province & no power cost to move to it
+
+1073.1.1 = {
+	monarch = {
+		name = "Helie III"
+		dynasty = "de Perigord"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1085.1.1 = {
+	heir = {
+		name = "Guillaume"
+		monarch_name = "Guillaume III"
+		dynasty = "de Perigord"
+		birth_date = 1085.1.1
+		death_date = 1115.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}

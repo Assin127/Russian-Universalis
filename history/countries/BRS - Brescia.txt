@@ -1,0 +1,19 @@
+### RU001 - Added
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+primary_culture = lombard
+religion = catholic
+technology_group = western
+capital = 107 # Brescia
+fixed_capital = 107 # Cannot move capital away from this province & no power cost to move to it
+
+1086.1.1 = {
+	monarch = {
+		name = "Arimanno"
+		dynasty = "da Gavardo"
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}

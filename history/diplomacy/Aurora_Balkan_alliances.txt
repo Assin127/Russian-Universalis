@@ -1,0 +1,25 @@
+### RU001 - Added
+#Сербия под властью Византии
+
+vassal = {
+	first = BYZ
+	second = RSH
+	start_date = 1095.1.1
+	end_date = 1190.1.1
+}
+
+#Аквилея и Карниола
+march = {
+	first = AQU
+	second = CAR
+	start_date = 1077.7.11
+	end_date = 1245.1.1
+}
+
+#Аквилея и Истрия
+march = {
+	first = AQU
+	second = IST
+	start_date = 1077.7.11
+	end_date = 1245.1.1
+}

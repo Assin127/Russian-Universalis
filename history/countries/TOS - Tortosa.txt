@@ -1,0 +1,21 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = andalucian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 2988
+government_rank = 1
+religious_school = maliki_school
+
+1090.1.1 = {
+	monarch = {
+		name = "Sulayman Sayyid"
+		dynasty = "Razinid"
+		birth_date = 1073.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

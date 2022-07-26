@@ -1,0 +1,182 @@
+### RU001 - Added
+#Сельджукская империя
+vassal = {
+	first = SJQ
+	second = ABS
+	start_date = 1055.1.1
+	end_date = 1127.1.1
+}
+vassal = {
+	first = SJQ
+	second = SYR
+	start_date = 1076.1.1
+	end_date = 1123.1.1
+}
+vassal = {
+	first = SJQ
+	second = KHW
+	start_date = 1077.1.1
+	end_date = 1138.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = RUM
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = KRM
+	start_date = 1041.1.1
+	end_date = 1153.1.1
+}
+#Короткая война за независимость
+vassal = {
+	first = SJQ
+	second = KHW
+	start_date = 1142.1.1
+	end_date = 1157.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = GEO
+	start_date = 1081.1.1
+	end_date = 1099.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = TAB
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = SRV
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = MLK
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = SYU
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = TDZ
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = SHD
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = PRC
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = SLT
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = INA
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = MNJ
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = MEL
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = DNS
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+alliance = {
+	first = RUM
+	second = DNS
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = KES
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SJQ
+	second = DER
+	start_date = 1077.1.1
+	end_date = 1153.1.1
+}
+
+union = {
+	first = TRN
+	second = ANO
+	start_date = 1098.6.3
+	end_date = 1130.2.1
+}
+
+union = {
+	first = TOU
+	second = TPO
+	start_date = 1105.1.1
+	end_date = 1112.4.21
+}

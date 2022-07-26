@@ -1,0 +1,21 @@
+### RU001 - Added
+# Turov
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = old_russian
+religion = orthodox
+capital = 1941 #Turov
+fixed_capital = 1941 # Cannot move capital away from this province & no power cost to move to it
+
+1086.12.5 = {
+	monarch = {
+		name = "Viacheslav"
+		dynasty = "Rurikovich"
+		birth_date = 1083.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}

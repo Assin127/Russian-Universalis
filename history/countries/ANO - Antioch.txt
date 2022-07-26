@@ -1,0 +1,9 @@
+### RU001 - Added
+technology_group = western
+primary_culture = al_suryah_arabic
+religion = catholic
+government = monarchy
+add_government_reform = monarchy_mechanic
+government_rank = 1
+capital = 2313
+fixed_capital = 2313 # Cannot move capital away from this province & no power cost to move to it

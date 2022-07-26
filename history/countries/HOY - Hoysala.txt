@@ -1,0 +1,119 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 3
+primary_culture = kannada
+religion = hinduism
+technology_group = indian
+capital = 2032
+
+1026.1.1 = {
+	monarch = {
+		name = "Nripa Kama II"
+		dynasty = "Hoysala"
+		ADM = 4
+		DIP = 4
+		MIL = 3
+	}
+}
+
+1047.1.1 = {
+	monarch = {
+		name = "Vinayaditya"
+		dynasty = "Hoysala"
+		ADM = 5
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1098.1.1 = {
+	monarch = {
+		name = "Ereyanga"
+		dynasty = "Hoysala"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1102.1.1 = {
+	monarch = {
+		name = "Veera Ballala I"
+		dynasty = "Hoysala"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1108.1.1 = {
+	monarch = {
+		name = "Vishnuvardhana"
+		dynasty = "Hoysala"
+		ADM = 3
+		DIP = 4
+		MIL = 4
+	}
+}
+
+1152.1.1 = {
+	monarch = {
+		name = "Narasimha I"
+		dynasty = "Hoysala"
+		ADM = 5
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1173.1.1 = {
+	monarch = {
+		name = "Veera Ballala II"
+		dynasty = "Hoysala"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1220.1.1 = {
+	monarch = {
+		name = "Vira Narasimha II"
+		dynasty = "Hoysala"
+		ADM = 5
+		DIP = 4
+		MIL = 4
+	}
+}
+
+1235.1.1 = {
+	monarch = {
+		name = "Vira Someshwara"
+		dynasty = "Hoysala"
+		ADM = 1
+		DIP = 3
+		MIL = 3 
+	}
+}
+
+1263.1.1 = {
+	monarch = {
+		name = "Narasimha III"
+		dynasty = "Hoysala"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1292.1.1 = {
+	monarch = {
+		name = "Veera Ballala III"
+		dynasty = "Hoysala"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}

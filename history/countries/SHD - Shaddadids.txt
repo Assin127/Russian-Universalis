@@ -1,0 +1,8 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = azerbaijani
+technology_group = muslim
+religion = sunni
+capital = 420
+religious_school = maliki_school

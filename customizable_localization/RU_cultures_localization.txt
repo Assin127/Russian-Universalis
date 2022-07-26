@@ -1,0 +1,490 @@
+### RU001 - Added
+
+####################################################################################################
+###																								 ###
+###								   Культуры строчными буквами									 ###
+###																								 ###
+###																								 ###
+###						Культуры прописываются со специальными символами (),				 ###
+###					 Которые преобразуются в окончания только на глобальной карте.				 ###
+###				   Во всём остальном интерфейсе культуры отображаются без окончаний.			 ###
+###					   Поэтому для корректного написания необходимо их добавлять.				 ###
+###																								 ###
+###																								 ###
+###		  		  Для гос. культуры - "[TUR.CultureSmall]ие войска" : "турецкие войска"	 		 ###
+###		Для культуры владельца провы - "[326.OwnerCultureSmall]ие войска" : "турецкие войска"	 ###
+### 	  Для культуры правителя - "[TUR.RulerCultureSmall]ий султан" : "турецкий султан"		 ###
+###	 	   Для культуры консорта - "[TUR.ConsortCultureSmall]ая жена" : "турецкая жена"			 ###
+###			Для культуры наследника - "[TUR.HeirCultureSmall]ий сын" : "турецкий сын"		 	 ###
+###																								 ###
+###				В некоторых строках могут дополнительно включаться операторы:					 ###
+###		  Culture, Owner.Culture, new_ruler_culture и прочие. От них можно избавляться.			 ###
+###																								 ###
+###																								 ###
+###						  			Локализация в: gks_cultures									 ###
+###																								 ###
+####################################################################################################
+
+defined_text = {
+    name = RulerCultureSmall
+    text = {
+        localisation_key = abodritian_small
+        trigger = {
+			ruler_culture = abodritian
+		}
+    }
+    text = {
+        localisation_key = alanian_small
+        trigger = {
+			ruler_culture = alanian
+		}
+    }
+    text = {
+        localisation_key = geatish_small
+        trigger = {
+			ruler_culture = geatish
+		}
+    }
+    text = {
+        localisation_key = gutnish_small
+        trigger = {
+			ruler_culture = gutnish
+		}
+    }
+    text = {
+        localisation_key = lutic_small
+        trigger = {
+			ruler_culture = lutic
+		}
+    }
+    text = {
+        localisation_key = polabian_pommeranian_small
+        trigger = {
+			ruler_culture = polabian_pommeranian
+		}
+    }
+    text = {
+        localisation_key = rani_small
+        trigger = {
+			ruler_culture = rani
+		}
+    }
+    text = {
+        localisation_key = bulgar_small
+        trigger = {
+			ruler_culture = bulgar
+		}
+    }
+    text = {
+        localisation_key = cuman_small
+        trigger = {
+			ruler_culture = cuman
+		}
+    }
+    text = {
+        localisation_key = old_russian_small
+        trigger = {
+			ruler_culture = old_russian
+		}
+    }
+    text = {
+        localisation_key = baltic_prussian_small
+        trigger = {
+			ruler_culture = baltic_prussian
+        }
+	}
+}
+#Культура консорта с маленькой буквы
+defined_text = {
+    name = ConsortCultureSmall
+    text = {
+        localisation_key = abodritian_small
+        trigger = {
+			consort_culture = abodritian
+		}
+    }
+    text = {
+        localisation_key = alanian_small
+        trigger = {
+			consort_culture = alanian
+		}
+    }
+    text = {
+        localisation_key = geatish_small
+        trigger = {
+			consort_culture = geatish
+		}
+    }
+    text = {
+        localisation_key = gutnish_small
+        trigger = {
+			consort_culture = gutnish
+		}
+    }
+    text = {
+        localisation_key = lutic_small
+        trigger = {
+			consort_culture = lutic
+		}
+    }
+    text = {
+        localisation_key = polabian_pommeranian_small
+        trigger = {
+			consort_culture = polabian_pommeranian
+		}
+    }
+    text = {
+        localisation_key = rani_small
+        trigger = {
+			consort_culture = rani
+		}
+    }
+    text = {
+        localisation_key = bulgar_small
+        trigger = {
+			consort_culture = bulgar
+		}
+    }
+    text = {
+        localisation_key = cuman_small
+        trigger = {
+			consort_culture = cuman
+		}
+    }
+    text = {
+        localisation_key = old_russian_small
+        trigger = {
+			consort_culture = old_russian
+		}
+    }
+    text = {
+        localisation_key = baltic_prussian_small
+        trigger = {
+			consort_culture = baltic_prussian
+        }
+	}
+}
+#Культура наследника с маленькой буквы
+defined_text = {
+    name = HeirCultureSmall
+    text = {
+        localisation_key = abodritian_small
+        trigger = {
+			heir_culture = abodritian
+		}
+    }
+    text = {
+        localisation_key = alanian_small
+        trigger = {
+			heir_culture = alanian
+		}
+    }
+    text = {
+        localisation_key = geatish_small
+        trigger = {
+			heir_culture = geatish
+		}
+    }
+    text = {
+        localisation_key = gutnish_small
+        trigger = {
+			heir_culture = gutnish
+		}
+    }
+    text = {
+        localisation_key = lutic_small
+        trigger = {
+			heir_culture = lutic
+		}
+    }
+    text = {
+        localisation_key = polabian_pommeranian_small
+        trigger = {
+			heir_culture = polabian_pommeranian
+		}
+    }
+    text = {
+        localisation_key = rani_small
+        trigger = {
+			heir_culture = rani
+		}
+    }
+    text = {
+        localisation_key = bulgar_small
+        trigger = {
+			heir_culture = bulgar
+		}
+    }
+    text = {
+        localisation_key = cuman_small
+        trigger = {
+			heir_culture = cuman
+		}
+    }
+    text = {
+        localisation_key = old_russian_small
+        trigger = {
+			heir_culture = old_russian
+		}
+    }
+    text = {
+        localisation_key = baltic_prussian_small
+        trigger = {
+			heir_culture = baltic_prussian
+        }
+	}
+}
+#Культура советника/учителя с маленькой буквы
+defined_text = {
+    name = AdvisorCultureSmall
+    text = {
+        localisation_key = abodritian_small
+        trigger = {
+			employed_advisor = {
+				culture = abodritian
+			}
+		}
+    }
+    text = {
+        localisation_key = alanian_small
+        trigger = {
+			employed_advisor = {
+				culture = alanian
+			}
+		}
+    }
+    text = {
+        localisation_key = geatish_small
+        trigger = {
+			employed_advisor = {
+				culture = geatish
+			}
+		}
+    }
+    text = {
+        localisation_key = gutnish_small
+        trigger = {
+			employed_advisor = {
+				culture = gutnish
+			}
+		}
+    }
+    text = {
+        localisation_key = lutic_small
+        trigger = {
+			employed_advisor = {
+				culture = lutic
+			}
+		}
+    }
+    text = {
+        localisation_key = polabian_pommeranian_small
+        trigger = {
+			employed_advisor = {
+				culture = polabian_pommeranian
+			}
+		}
+    }
+    text = {
+        localisation_key = rani_small
+        trigger = {
+			employed_advisor = {
+				culture = rani
+			}
+		}
+    }
+    text = {
+        localisation_key = bulgar_small
+        trigger = {
+			employed_advisor = {
+				culture = bulgar
+			}
+		}
+    }
+    text = {
+        localisation_key = cuman_small
+        trigger = {
+			employed_advisor = {
+				culture = cuman
+			}
+		}
+    }
+    text = {
+        localisation_key = old_russian_small
+        trigger = {
+			employed_advisor = {
+				culture = old_russian
+			}
+		}
+    }
+    text = {
+        localisation_key = baltic_prussian_small
+        trigger = {
+			employed_advisor = {
+				culture = baltic_prussian
+			}
+        }
+	}
+}
+#Государственная культура с маленькой буквы
+defined_text = {
+    name = CultureSmall
+    text = {
+        localisation_key = abodritian_small
+        trigger = {
+			primary_culture = abodritian
+		}
+    }
+    text = {
+        localisation_key = alanian_small
+        trigger = {
+			primary_culture = alanian
+		}
+    }
+    text = {
+        localisation_key = geatish_small
+        trigger = {
+			primary_culture = geatish
+		}
+    }
+    text = {
+        localisation_key = gutnish_small
+        trigger = {
+			primary_culture = gutnish
+		}
+    }
+    text = {
+        localisation_key = lutic_small
+        trigger = {
+			primary_culture = lutic
+		}
+    }
+    text = {
+        localisation_key = polabian_pommeranian_small
+        trigger = {
+			primary_culture = polabian_pommeranian
+		}
+    }
+    text = {
+        localisation_key = rani_small
+        trigger = {
+			primary_culture = rani
+		}
+    }
+    text = {
+        localisation_key = bulgar_small
+        trigger = {
+			primary_culture = bulgar
+		}
+    }
+    text = {
+        localisation_key = cuman_small
+        trigger = {
+			primary_culture = cuman
+		}
+    }
+    text = {
+        localisation_key = old_russian_small
+        trigger = {
+			primary_culture = old_russian
+		}
+    }
+    text = {
+        localisation_key = baltic_prussian_small
+        trigger = {
+			primary_culture = baltic_prussian
+        }
+	}
+}
+#Культура владельца с маленькой буквы
+defined_text = {
+    name = OwnerCultureSmall
+    text = {
+        localisation_key = abodritian_small
+        trigger = {
+			owner = {
+				primary_culture = abodritian
+			}
+		}
+    }
+    text = {
+        localisation_key = alanian_small
+        trigger = {
+			owner = {
+				primary_culture = alanian
+			}
+		}
+    }
+    text = {
+        localisation_key = geatish_small
+        trigger = {
+			owner = {
+				primary_culture = geatish
+			}
+		}
+    }
+    text = {
+        localisation_key = gutnish_small
+        trigger = {
+			owner = {
+				primary_culture = gutnish
+			}
+		}
+    }
+    text = {
+        localisation_key = lutic_small
+        trigger = {
+			owner = {
+				primary_culture = lutic
+			}
+		}
+    }
+    text = {
+        localisation_key = polabian_pommeranian_small
+        trigger = {
+			owner = {
+				primary_culture = polabian_pommeranian
+			}
+		}
+    }
+    text = {
+        localisation_key = rani_small
+        trigger = {
+			owner = {
+				primary_culture = rani
+			}
+		}
+    }
+    text = {
+        localisation_key = bulgar_small
+        trigger = {
+			owner = {
+				primary_culture = bulgar
+			}
+		}
+    }
+    text = {
+        localisation_key = cuman_small
+        trigger = {
+			owner = {
+				primary_culture = cuman
+			}
+		}
+    }
+    text = {
+        localisation_key = old_russian_small
+        trigger = {
+			owner = {
+				primary_culture = old_russian
+			}
+		}
+    }
+    text = {
+        localisation_key = baltic_prussian_small
+        trigger = {
+			owner = {
+				primary_culture = baltic_prussian
+			}
+        }
+	}
+}

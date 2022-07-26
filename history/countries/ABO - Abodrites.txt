@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = abodritian
+religion = slavic
+technology_group = eastern
+capital = 2996 # Wismar
+
+1093.1.1 = {
+	monarch = {
+		name = "Henry"
+		dynasty = "Nakonid"
+		birth_date = 1065.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}

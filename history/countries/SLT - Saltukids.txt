@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 2
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 331
+
+1072.1.1 = {
+	monarch = {
+		name = "Saltuk I"
+		dynasty = "Saltukid"
+		birth_date = 1052.11.11
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}

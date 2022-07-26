@@ -1,0 +1,73 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+primary_culture = old_russian
+religion = orthodox
+technology_group = eastern
+capital = 310	# Novgorod
+fixed_capital = 310 # Cannot move capital away from this province & no power cost to move to it
+
+1095.1.1 = {
+	monarch = {
+		name = "Mstislav II"
+		dynasty = "Rurikovich"
+		birth_date = 1076.2.15
+		adm = 5
+		dip = 4
+		mil = 2
+		leader = {	name = "Mstislav II"             	type = general	fire = 2	shock = 1	manuever = 0	siege = 0 }
+	}
+	queen = {
+		country_of_origin = SWE
+		name = "Christina "
+		dynasty = "Stenkil"
+		birth_date = 1080.1.1
+		death_date = 1122.1.18
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = righteous_personality
+}
+
+1370.1.1 = {
+	primary_culture = novgorodian
+}
+
+1429.1.1 = {
+	monarch = {
+		name = "Evfimy II"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	government = republic
+	add_government_reform = veche_republic
+	mercantilism = 25
+	historical_rival = MOS
+}
+
+1456.2.1 = {
+	government_rank = 1
+}
+
+1459.1.1 = {
+	monarch = {
+		name = "Iona"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1470.11.1 = {
+	monarch = {
+		name = "Feofil"
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}

@@ -1,0 +1,35 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = swabian
+add_accepted_culture = swiss
+religion = catholic
+technology_group = western
+capital = 1872
+
+1079.1.1 = {
+	monarch = {
+		name = "Frederick I"
+		dynasty = "von Staufen"
+		birth_date = 1050.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+1090.5.18 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry V"
+		dynasty = "Zahringen"
+		birth_date = 1050.1.1
+		death_date = 1111.4.12
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}

@@ -1,0 +1,176 @@
+Создание стран
+
+country_tags:
+D:\vladi\Documents\Paradox Interactive\Europa Universalis IV\mod\Russian Universalis\common\country_tags\
+
+countries_path:
+D:\vladi\Documents\Paradox Interactive\Europa Universalis IV\mod\Russian Universalis\common\countries
+
+flags:
+D:\vladi\Documents\Paradox Interactive\Europa Universalis IV\mod\Russian Universalis\gfx\flags
+
+history_countries:
+D:\vladi\Documents\Paradox Interactive\Europa Universalis IV\mod\Russian Universalis\history\countries
+
+localisation:
+D:\vladi\Documents\Paradox Interactive\Europa Universalis IV\mod\Russian Universalis\localisation\
+
+customizable_localization:
+D:\vladi\Documents\Paradox Interactive\Europa Universalis IV\mod\Russian Universalis\customizable_localization\
+
+countries:
+ tag SNG: #from Aurora
+  copy: SNG
+  name: Song
+  index: RU000
+  loc_ru: Сун
+  loc_ru_rd: Сун
+  loc_ru_dt: Сун
+  loc_ru_vn: Сун
+  loc_ru_tv: Сун
+  loc_ru_pr: Сун
+  loc_ru_adj: Сунск
+  loc_ru_adj_small: сунск
+  
+ tag HRP: #from Aurora
+  copy: HRP
+  name: Haripungjaia
+  index: RU000
+  loc_ru: Харипунчайя
+  loc_ru_rd: Харипунчайя
+  loc_ru_dt: Харипунчайе
+  loc_ru_vn: Харипунчайю
+  loc_ru_tv: Харипунчайей
+  loc_ru_pr: Харипунчайе
+  loc_ru_adj: Харипунчайск
+  loc_ru_adj_small: харипунчайск
+  
+ tag PAG: #from Aurora
+  copy: PAG
+  name: Pagan
+  index: RU000
+  loc_ru: Паган
+  loc_ru_rd: Пагана
+  loc_ru_dt: Пагану
+  loc_ru_vn: Паган
+  loc_ru_tv: Паганом
+  loc_ru_pr: Пагане
+  loc_ru_adj: Паганск
+  loc_ru_adj_small: паганск
+ 
+ tag EGA: #from Aurora
+  copy: EGA
+  name: East_Gang
+  index: RU000
+  loc_ru: Восточная Ганга
+  loc_ru_rd: Восточной Ганги
+  loc_ru_dt: Восточной Ганге
+  loc_ru_vn: Восточную Гангу
+  loc_ru_tv: Восточной Гангой
+  loc_ru_pr: Восточной Ганге
+  loc_ru_adj: Восточногангск
+  loc_ru_adj_small: восточногангск
+  
+ tag KAK: #from Aurora
+  copy: KAK
+  name: Kakatiya
+  index: RU000
+  loc_ru: Какатия
+  loc_ru_rd: Какатии
+  loc_ru_dt: Какатии
+  loc_ru_vn: Какатию
+  loc_ru_tv: Какатией
+  loc_ru_pr: Какатии
+  loc_ru_adj: Какатийск
+  loc_ru_adj_small: какатийск
+  
+ tag CHN: #from Aurora
+  copy: CHN
+  name: Chandela
+  index: RU000
+  loc_ru: Чандела
+  loc_ru_rd: Чанделы
+  loc_ru_dt: Чанделе
+  loc_ru_vn: Чанделу
+  loc_ru_tv: Чанделой
+  loc_ru_pr: Чанделе
+  loc_ru_adj: Чандельск
+  loc_ru_adj_small: чандельск
+  
+ tag SEA: #from Aurora. 
+  copy: YAD #возьми из Авроры YAD. там название государства неверное просто, поэтому тег отличается тут
+  name: Seuna
+  index: RU000
+  loc_ru: Сеуна
+  loc_ru_rd: Сеуны
+  loc_ru_dt: Сеуны
+  loc_ru_vn: Сеуну
+  loc_ru_tv: Сеуной
+  loc_ru_pr: Сеуне
+  loc_ru_adj: Сеунск
+  loc_ru_adj_small: сеунск
+ 
+ tag HOY: #from Aurora
+  copy: HOY
+  name: Hoysala
+  index: RU000
+  loc_ru: Хойсала
+  loc_ru_rd: Хойсалы
+  loc_ru_dt: Хойсале
+  loc_ru_vn: Хойсалу
+  loc_ru_tv: Хойсалой
+  loc_ru_pr: Хойсале
+  loc_ru_adj: Хойсальск
+  loc_ru_adj_small: хойсальск
+  
+ tag CLL: #from Aurora
+  copy: CLL
+  name: Chola
+  index: RU000
+  loc_ru: Чола
+  loc_ru_rd: Чолы
+  loc_ru_dt: Чоле
+  loc_ru_vn: Чолу
+  loc_ru_tv: Чолой
+  loc_ru_pr: Чоле
+  loc_ru_adj: Чольск
+  loc_ru_adj_small: чольск
+  
+ tag DMB: 
+  copy: JFN
+  name: Dambadeniya
+  index: RU000
+  loc_ru: Дамбадения
+  loc_ru_rd: Дамбадении
+  loc_ru_dt: Дамбадение
+  loc_ru_vn: Дамбадению
+  loc_ru_tv: Дамбаденией
+  loc_ru_pr: Дамбадении
+  loc_ru_adj: Дамбадениийск
+  loc_ru_adj_small: дамбадениийск
+  
+ tag SRW: #from Aurora
+  copy: SRW
+  name: Srivijaya
+  index: RU000
+  loc_ru: Шривиджая
+  loc_ru_rd: Шривиджаи
+  loc_ru_dt: Шривиджае
+  loc_ru_vn: Шривиджаю
+  loc_ru_tv: Шривиджаей
+  loc_ru_pr: Шривиджае
+  loc_ru_adj: Шривиджайск
+  loc_ru_adj_small: шривиджайск
+  
+ tag SIN: 
+  copy: MAJ
+  name: Singhasari
+  index: RU000
+  loc_ru: Сингасари
+  loc_ru_rd: Сингасари
+  loc_ru_dt: Сингасари
+  loc_ru_vn: Сингасари
+  loc_ru_tv: Сингасари
+  loc_ru_pr: Сингасари
+  loc_ru_adj: Сингасарск
+  loc_ru_adj_small: сингасарск

@@ -1,0 +1,45 @@
+### RU001 - Added
+government = tribal
+add_government_reform = steppe_horde
+technology_group = nomad_group
+primary_culture = chahar
+religion = confucianism
+#add_harmonized_religion = tengri_pagan_reformed
+add_harmonized_religion = vajrayana
+capital = 4202
+
+1055.1.1 = {
+	monarch = {
+		name = "Chala"
+		dynasty = "Liao"
+		birth_date = 1032.9.14
+		dip = 3
+		adm = 3
+		mil = 2
+	}
+}
+
+1075.6.5 = {
+	heir = {
+		name = "Tianzuo"
+		monarch_name = "Chala"
+		dynasty = "Liao"
+		birth_date = 1075.6.5
+		death_date = 1128.1.1
+		claim = 95
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1101.1.1 = {
+	monarch = {
+		name = "Tianzuo"
+		dynasty = "Liao"
+		birth_date = 1075.6.5
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}

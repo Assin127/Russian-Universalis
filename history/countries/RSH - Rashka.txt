@@ -1,0 +1,45 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = serbian
+government_rank = 1
+religion = orthodox
+technology_group = eastern
+capital = 1827
+
+1083.1.1 = {
+	monarch = {
+		name = "Vukan"
+		dynasty = "Vukanovic"
+		birth_date = 1050.1.1		
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}	
+
+1083.1.1 = {
+	heir = {
+		name = "Uros"
+		monarch_name = "Uros I"
+		dynasty = "Vukanovic"
+		birth_date = 1080.1.1
+		death_date = 1145.1.1
+		claim = 85
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1112.1.1 = {
+	monarch = {
+		name = "Uros I"
+		dynasty = "Vukanovic"
+		birth_date = 1080.1.1		
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}	

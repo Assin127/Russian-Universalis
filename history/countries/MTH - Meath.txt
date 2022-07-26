@@ -1,0 +1,37 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = irish
+religion = catholic
+capital = 4379	# Dublin
+
+1092.1.1 = {
+	monarch = {
+		name = "Donnchad"
+		dynasty = "Ua Mael Sechlainn"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1092.1.1 = {
+	heir = {
+		name = "Conchobar"
+		monarch_name = "Conchobar"
+		dynasty = "Ua Mael Sechlainn"
+		birth_date = 1080.1.1
+		death_date = 1105.1.1 
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1400.1.1 = {
+	capital = 373	# Dublin
+}

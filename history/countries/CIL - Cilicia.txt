@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = autocracy_reform 
+primary_culture = armenian
+religion = coptic
+technology_group = eastern
+capital = 327
+government_rank = 1
+
+1095.1.1 = {
+	monarch = {
+		name = "Constantine I"
+		dynasty = "Roupenian"
+		birth_date = 1050.9.16
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

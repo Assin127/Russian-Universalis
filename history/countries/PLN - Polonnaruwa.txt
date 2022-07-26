@@ -1,0 +1,7 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = nayankara_reform
+technology_group = indian
+religion = buddhism
+primary_culture = sinhala
+capital = 4407 

@@ -1,0 +1,45 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = serbian
+government_rank = 1
+religion = orthodox
+technology_group = eastern
+capital = 138
+
+1081.1.1 = {
+	monarch = {
+		name = "Constantine Bodin"
+		dynasty = "Vojislavljevic"
+		birth_date = 1050.1.1		
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}	
+
+1081.1.1 = {
+	heir = {
+		name = "Dobroslav"
+		monarch_name = "Dobroslav II"
+		dynasty = "Vojislavljevic"
+		birth_date = 1056.1.1
+		death_date = 1102.1.1
+		claim = 85
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1101.1.1 = {
+	monarch = {
+		name = "Dobroslav II"
+		dynasty = "Vojislavljevic"
+		birth_date = 1080.1.1		
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}	

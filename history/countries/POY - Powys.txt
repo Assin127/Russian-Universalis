@@ -1,0 +1,36 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = welsh
+religion = catholic
+capital = 4366	# Montgomery
+fixed_capital = 4366 # Cannot move capital away from this province & no power cost to move to it
+
+1075.1.1 = {
+	monarch = {
+		name = "Cadwgan"
+		dynasty = "Mathrafal"
+		birth_date = 1051.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+		leader = {	name = "Cadwgan Mathrafal"	type = general	fire = 3	shock = 3	manuever = 1	siege = 0 }
+	}
+}
+
+1075.1.1 = {
+	heir = {
+		name = "Iorwerth"
+		monarch_name = "Iorwerth"
+		dynasty = "Mathrafal"
+		birth_date = 1053.1.1
+		death_date = 1111.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

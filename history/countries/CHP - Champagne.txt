@@ -1,0 +1,29 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 186	# Reims
+fixed_capital = 186 # Cannot move capital away from this province & no power cost to move to it
+
+1093.1.1 = {
+	monarch = {
+		name = "Hugues I"
+		dynasty = "de Blois"
+		birth_date = 1069.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+1515.1.1 = { government = monarchy
+add_government_reform = autocracy_reform }
+
+1589.8.3 = { set_legacy_government = administrative_monarchy }
+
+1661.3.9 = { government = monarchy
+add_government_reform = autocracy_reform }

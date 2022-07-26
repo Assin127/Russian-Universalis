@@ -1,0 +1,294 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = kanauji
+religion = hinduism
+technology_group = indian
+capital = 525
+
+1060.1.1 = {
+	monarch = {
+		name = "Kirttivarman"
+		dynasty = "Chandela"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		leader = {	name = "Kirttivarman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1060.1.1 = {
+	heir = {
+		name = "Sallakshana-Varman"
+		monarch_name = "Sallakshana-Varman"
+		dynasty = "Chandela"
+		birth_date = 1060.1.1
+		death_date = 1110.1.1
+		claim = 40
+		ADM = 5
+		DIP = 4
+		MIL = 4
+	}
+}
+
+1100.1.1 = {
+	monarch = {
+		name = "Sallakshana-Varman"
+		dynasty = "Chandela"
+		ADM = 5
+		DIP = 4
+		MIL = 4
+		leader = {	name = "Sallakshana-Varman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1100.1.1 = {
+	heir = {
+		name = "Jaya-Varman"
+		monarch_name = "Jaya-Varman"
+		dynasty = "Chandela"
+		birth_date = 1095.1.1
+		death_date = 1120.1.1
+		claim = 40
+		ADM = 3
+		DIP = 4
+		MIL = 4
+	}
+}
+
+1110.1.1 = {
+	monarch = {
+		name = "Jaya-Varman"
+		dynasty = "Chandela"
+		ADM = 3
+		DIP = 4
+		MIL = 4
+		leader = {	name = "Jaya-Varman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1110.1.1 = {
+	heir = {
+		name = "Prithvi-Varman"
+		monarch_name = "Prithvi-Varman"
+		dynasty = "Chandela"
+		birth_date = 1105.1.1
+		death_date = 1128.1.1
+		claim = 40
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1120.1.1 = {
+	monarch = {
+		name = "Prithvi-Varman"
+		dynasty = "Chandela"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		leader = {	name = "Prithvi-Varman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1120.1.1 = {
+	heir = {
+		name = "Madana-Varman"
+		monarch_name = "Madana-Varman"
+		dynasty = "Chandela"
+		birth_date = 1110.1.1
+		death_date = 1165.1.1
+		claim = 40
+		ADM = 2
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1128.1.1 = {
+	monarch = {
+		name = "Madana-Varman"
+		dynasty = "Chandela"
+		ADM = 2
+		DIP = 3
+		MIL = 4
+		leader = {	name = "Madana-Varman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1140.1.1 = {
+	heir = {
+		name = "Yasho-Varman II"
+		monarch_name = "Yasho-Varman II"
+		dynasty = "Chandela"
+		birth_date = 1140.1.1
+		death_date = 1165.10.1
+		claim = 40
+		ADM = 3
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1165.1.1 = {
+	monarch = {
+		name = "Yasho-Varman II"
+		dynasty = "Chandela"
+		ADM = 3
+		DIP = 3
+		MIL = 4
+		leader = {	name = "Yasho-Varman II"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1165.1.1 = {
+	heir = {
+		name = "Paramardi-Deva,"
+		monarch_name = "Paramardi-Deva"
+		dynasty = "Chandela"
+		birth_date = 1139.1.1
+		death_date = 1203.1.1
+		claim = 40
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1165.10.1 = {
+	monarch = {
+		name = "Paramardi-Deva"
+		dynasty = "Chandela"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+		leader = {	name = "Paramardi-Deva"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1175.1.1 = {
+	heir = {
+		name = "Trailokya-Varman"
+		monarch_name = "Trailokya-Varman"
+		dynasty = "Chandela"
+		birth_date = 1175.1.1
+		death_date = 1245.1.1
+		claim = 40
+		ADM = 3
+		DIP = 4
+		MIL = 4
+	}
+}
+
+1203.1.1 = {
+	monarch = {
+		name = "Trailokya-Varman"
+		dynasty = "Chandela"
+		ADM = 3
+		DIP = 4
+		MIL = 4
+		leader = {	name = "Trailokya-Varman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1203.1.1 = {
+	heir = {
+		name = "Vira-Varman"
+		monarch_name = "Vira-Varman"
+		dynasty = "Chandela"
+		birth_date = 1203.1.1
+		death_date = 1285.1.1
+		claim = 40
+		ADM = 5
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1245.1.1 = {
+	monarch = {
+		name = "Vira-Varman"
+		dynasty = "Chandela"
+		ADM = 5
+		DIP = 3
+		MIL = 4
+		leader = {	name = "Vira-Varman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1245.1.1 = {
+	heir = {
+		name = "Bhoja-Varman"
+		monarch_name = "Bhoja-Varman"
+		dynasty = "Chandela"
+		birth_date = 1245.1.1
+		death_date = 1288.1.1
+		claim = 40
+		ADM = 2
+		DIP = 4
+		MIL = 5
+	}
+}
+	
+1285.1.1 = {
+	monarch = {
+		name = "Bhoja-Varman"
+		dynasty = "Chandela"
+		ADM = 2
+		DIP = 4
+		MIL = 5
+		leader = {	name = "Bhoja-Varman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1285.1.1 = {
+	heir = {
+		name = "Hammira-Varman"
+		monarch_name = "Hammira-Varman"
+		dynasty = "Chandela"
+		birth_date = 1270.1.1
+		death_date = 1311.1.1
+		claim = 40
+		ADM = 4
+		DIP = 4
+		MIL = 5
+	}
+}
+
+1288.1.1 = {
+	monarch = {
+		name = "Hammira-Varman"
+		dynasty = "Chandela"
+		ADM = 4
+		DIP = 4
+		MIL = 5
+		leader = {	name = "Hammira-Varman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1288.1.1 = {
+	heir = {
+		name = "Vira-Varman II"
+		monarch_name = "Vira-VarmanII"
+		dynasty = "Chandela"
+		birth_date = 1280.1.1
+		death_date = 1315.1.1
+		claim = 40
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1311.1.1 = {
+	monarch = {
+		name = "Vira-Varman II"
+		dynasty = "Chandela"
+		ADM = 1
+		DIP = 1
+		MIL = 1
+		leader = {	name = "Vira-Varman II"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}

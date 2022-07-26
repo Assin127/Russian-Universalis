@@ -1,0 +1,18 @@
+### RU001 - Added
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+primary_culture = piedmontese
+religion = catholic
+technology_group = western
+capital = 1871 # Walais
+fixed_capital = 1871 # Cannot move capital away from this province & no power cost to move to it
+
+1092.1.1 = {
+	monarch = {
+		name = "Gausbertus"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}

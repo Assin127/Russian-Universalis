@@ -1,0 +1,9 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+government_rank = 1 #Emirate
+technology_group = muslim
+religion = shiite
+primary_culture = gulf_arabic
+capital = 396	
+religious_school = maliki_school

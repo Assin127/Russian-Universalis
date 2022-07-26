@@ -1,0 +1,22 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = moroccan
+religion = sunni
+add_accepted_culture = andalucian
+technology_group = muslim
+capital = 343
+government_rank = 3
+religious_school = maliki_school
+
+1086.1.1 = {
+	monarch = {
+		name = "Yusuf bnu Tasfin"
+		dynasty = "Almoravid"
+		birth_date = 1026.9.16
+		adm = 4
+		dip = 3
+		mil = 5
+		leader = {	name = "Yusuf bnu Tasfin"            	type = general	fire = 3	shock = 4	manuever = 5	siege = 3}
+	}
+}

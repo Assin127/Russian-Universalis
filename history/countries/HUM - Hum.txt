@@ -1,0 +1,9 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = serbian
+government_rank = 1
+religion = orthodox
+technology_group = eastern
+capital = 139

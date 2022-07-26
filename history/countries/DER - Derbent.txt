@@ -1,0 +1,8 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = dagestani
+religion = sunni
+technology_group = muslim
+capital = 425
+religious_school = shafii_school

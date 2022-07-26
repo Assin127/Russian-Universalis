@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = irish
+religion = catholic
+capital = 4377	# Ormond
+
+1090.1.1 = {
+	monarch = {
+		name = "Gilla Patraic Ruad"
+		dynasty = "Dal Birn"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}

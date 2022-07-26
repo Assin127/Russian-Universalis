@@ -1,0 +1,85 @@
+### RU001 - Added
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 5 50 5 }
+
+historical_idea_groups = {
+#	early_diplomatic_ideas ## RU001
+#	early_military_ideas ## RU001
+	administrative_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	maritime_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Bвbur #2" = 20
+	"'Mоrzв #1" = 10
+	"Abы Sв'id #1" = 10
+	"Shвh Rukh #1" = 10
+	"Ahmad #1" = 10
+	"Mahmud #1" = 10
+	"Mas'ud #1" = 10
+	"Bвy Sunqur #1" = 10
+	"'Alо #1" = 10
+	"Hussain #0" = 10
+	"Uways #0" = 10
+	"Nasоr #0" = 10
+	"Ulugh #1" = 10
+	"Tкmфr #1" = 1
+	
+	"Fatin #1" = -1
+	"Mumtaz #0" = -1
+	"Roshanara #0" = -1
+	"Jahanara #0" = -1
+	"Bahar Banu #0" = -1
+}
+
+leader_names = {
+	Abbвs
+	Abы Bakr
+	Akbar
+	Jahagir
+	Jalвl
+	Jвmо
+	Khalil
+	Mohsin
+	"ud-Dоn"
+	Zaman
+}
+
+ship_names = {
+	Ardabil
+	Bakhura Baluches Balkh
+	Herat
+	Ispahan
+	Kirman Kish Kharesm Kandahar
+	Lahore
+	Merv
+	Nishupur
+	Ormuz
+	Rustam
+	Sikandar Sebzewar Slurax Samarqand
+	Tamerlane Tahriz
+	"Shah Rukh"
+}

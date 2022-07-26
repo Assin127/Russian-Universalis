@@ -1,0 +1,18 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = bai
+religion = buddhism
+technology_group = chinese
+capital = 661	# Dali
+
+1085.7.13 = {
+	monarch = {
+		name = "Xu"
+		dynasty = "Gao Shengtai"
+		birth_date = 1064.1.4
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

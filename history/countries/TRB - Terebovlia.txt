@@ -1,0 +1,21 @@
+### RU001 - Added
+# Terebovlia
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = old_russian
+religion = orthodox
+capital = 281 # Podolia
+fixed_capital = 281 # Cannot move capital away from this province & no power cost to move to it
+1084.1.1 = {
+	monarch = {
+		name = "Vasylko"
+		dynasty = "Rurikovich"
+		birth_date = 1066.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+

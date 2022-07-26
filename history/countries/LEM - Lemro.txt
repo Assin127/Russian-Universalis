@@ -1,0 +1,17 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = buddhism
+primary_culture = shan
+capital = 2402
+
+1092.1.1 = {
+	monarch = {
+		name = "Min Than"
+		dynasty = "Lemro"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

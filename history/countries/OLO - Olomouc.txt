@@ -1,0 +1,32 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = czech
+religion = catholic
+government_rank = 1
+capital = 4237 # Owrucz
+fixed_capital = 4237 # Cannot move capital away from this province & no power cost to move to it
+technology_group = western
+
+1092.1.1 = {
+	monarch = {
+		name = "Svatopluk"
+		dynasty = "Premyslid"
+		birth_date = 1080.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	heir = {
+		name = "Ota"
+		monarch_name = "Ota II the Black"
+		dynasty = "Premyslid"
+		birth_date = 1085.1.1
+		death_date = 1126.2.18
+		claim = 70
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

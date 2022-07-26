@@ -1,0 +1,23 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = catalan
+religion = catholic
+add_accepted_culture = berber
+technology_group = muslim
+capital = 220
+government_rank = 1
+
+1094.1.1 = {
+	monarch = {
+		name = "Rodrigo Diaz"
+		dynasty = "de Vivar"
+		birth_date = 1057.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "El Cid Campeador"            	type = general	fire = 3	shock = 5	manuever = 4	siege = 3}
+	}
+}1370.1.1 = {
+	add_government_reform = feudalism_reform
+}

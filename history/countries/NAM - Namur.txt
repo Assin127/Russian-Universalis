@@ -1,0 +1,36 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = wallonian
+capital = 1866	# Namur
+fixed_capital = 1866	# Namur
+
+
+1063.1.1 = {
+	monarch = {
+		name = "Albert III"
+		dynasty = "de Namur"
+		birth_date = 1027.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1068.1.1 = {
+	heir = {
+		name = "Godfrey"
+		monarch_name = "Godfrey I"
+		dynasty = "de Namur"
+		birth_date = 1068.1.1
+		death_date = 1139.8.19
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

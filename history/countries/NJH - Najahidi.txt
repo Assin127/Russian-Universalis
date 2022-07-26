@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+government_rank = 1 #Emirate
+technology_group = muslim
+religion = shiite
+primary_culture = gulf_arabic
+capital = 4279
+
+1480.1.1 = { 
+	monarch = {
+		name = "Abu't-Tami Jayyash"
+		dynasty = "Najahid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}	
+

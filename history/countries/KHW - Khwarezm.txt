@@ -1,0 +1,18 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = turkmeni
+religion = sunni
+technology_group = nomad_group
+capital = 2362
+
+1090.1.1 = {
+	monarch = {
+		name = "Muhammad I"
+		dynasty = "Anushtegin"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}

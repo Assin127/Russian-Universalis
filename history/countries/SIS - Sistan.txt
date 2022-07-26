@@ -1,0 +1,44 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = khorasani
+religion = sunni
+government_rank = 1
+technology_group = muslim
+capital = 435	# Zaranj
+religious_school = shafii_school
+
+#Nasrids
+
+1090.1.1 = {
+	monarch = {
+		name = "Baha al-Dawala Khalaf"
+		dynasty = "Nasrid"
+		birth_date = 1054.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+#Mihrabanids
+
+1439.1.1 = {
+	monarch = {
+		name = "Mahmud"
+		dynasty = "Mihrabanid"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1480.1.1 = {
+	monarch = {
+		name = "Shams al-Din Muhammad"
+		dynasty = "Mihrabanid"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

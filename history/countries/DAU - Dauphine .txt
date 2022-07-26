@@ -1,0 +1,33 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = occitain
+capital = 204	# Grenoble
+
+1079.1.1 = {
+	monarch = {
+		name = "Guigues III"
+		dynasty = "d'Albon"
+		birth_date = 1060.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1095.1.1 = {
+	queen = {
+		country_of_origin = SIC
+		name = "Matilda"
+		dynasty = "Altavilla"
+		female = yes
+		birth_date = 1060.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}

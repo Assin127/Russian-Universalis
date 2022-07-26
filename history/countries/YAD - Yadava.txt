@@ -1,0 +1,149 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 2
+primary_culture = marathi
+religion = hinduism
+technology_group = indian
+capital = 545
+
+1085.1.1 = {
+	monarch = {
+		name = "Airamadeva"
+		dynasty = "Seuna"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1115.1.1 = {
+	monarch = {
+		name = "Singhana I"
+		dynasty = "Seuna"
+		ADM = 4
+		DIP = 4 
+		MIL = 3
+	}
+}
+
+1145.1.1 = {
+	monarch = {
+		name = "Mallugi I"
+		dynasty = "Seuna"
+		ADM = 2
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1150.1.1 = {
+	monarch = {
+		name = "Amaragangeyya"
+		dynasty = "Seuna"
+		ADM = 3
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "Amara Mallugi II"
+		dynasty = "Seuna"
+		ADM = 4
+		DIP = 3
+		MIL = 4 
+	}
+}
+
+1165.1.1 = {
+	monarch = {
+		name = "Kaliya Ballala"
+		dynasty = "Seuna"
+		ADM = 3
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1173.1.1 = {
+	monarch = {
+		name = "Bhillama V" #Великий Покоритель Чалукья.
+		dynasty = "Seuna"
+		ADM = 6
+		DIP = 5
+		MIL = 6
+		leader = {	name = "Bhillama V"	type = general	fire = 5	shock = 4	manuever = 3 siege = 0	}
+	}
+}
+
+1191.1.1 = {
+	monarch = {
+		name = "Jaitugi I"
+		dynasty = "Seuna"
+		ADM = 5
+		DIP = 4
+		MIL = 6  
+		leader = {	name = "Jaitugi I"	type = general	fire = 4	shock = 3	manuever = 3 siege = 1	}
+	}
+} 
+
+1200.1.1 = {
+	monarch = {
+		name = "Simhana"
+		dynasty = "Seuna"
+		ADM = 5
+		DIP = 5
+		MIL = 6 
+		leader = {	name = "Simhana"	type = general	fire = 4	shock = 3	manuever = 3 siege = 1	}
+	}
+}
+
+1246.1.1 = {
+	monarch = {
+		name = "Krishna"
+		dynasty = "Seuna"
+		ADM = 4
+		DIP = 4
+		MIL = 5 
+		leader = {	name = "Krishna"	type = general	fire = 3	shock = 2	manuever = 3 siege = 1	}
+	}
+}
+
+1261.1.1 = {
+	monarch = {
+		name = "Mahadeva"
+		dynasty = "Seuna"
+		ADM = 4
+		DIP = 4
+		MIL = 4
+		leader = {	name = "Mahadeva"	type = general	fire = 3	shock = 2	manuever = 3 siege = 1	}
+	}
+}
+
+1271.1.1 = {
+	monarch = {
+		name = "Amana"
+		dynasty = "Seuna"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1272.1.1 = {
+	monarch = {
+		name = "Ramachandra"
+		dynasty = "Seuna"
+		ADM = 4
+		DIP = 4
+		MIL = 4
+	}
+}
+
+
+
+
+

@@ -1,0 +1,23 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = soninke
+religion = sunni
+technology_group = sub_saharan
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+capital = 2245
+government_rank = 3
+religious_school = maliki_school
+
+1090.1.1 = {
+	monarch = {
+		name = "Suleiman"
+		dynasty = "Sosso"
+		birth_date = 1071.9.16
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}

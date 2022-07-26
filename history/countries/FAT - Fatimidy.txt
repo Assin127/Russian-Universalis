@@ -1,0 +1,149 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = al_misr_arabic
+religion = shiite
+technology_group = muslim
+capital = 361 # Cairo
+religious_school = ismaili_school
+
+1094.1.1 = {
+	monarch = {
+		name = "Al-Musta'li"
+		dynasty = "Fatimid"
+		birth_date = 1074.9.16
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1096.12.31 = {
+	heir = {
+		name = "Al-Amir"
+		monarch_name = "Al-Amir"
+		dynasty = "Fatimid"
+		birth_date = 1096.12.31
+		death_date = 1130.10.7
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1101.12.12 = {
+	monarch = {
+		name = "Al-Amir"
+		dynasty = "Fatimid"
+		birth_date = 1096.12.31
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1101.12.12 = {
+	heir = {
+		name = "Al-Hafiz"
+		monarch_name = "Al-Hafiz"
+		dynasty = "Fatimid"
+		birth_date = 1076.1.1
+		death_date = 1149.10.8
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+
+1130.10.7 = {
+	monarch = {
+		name = "Al-Hafiz"
+		dynasty = "Fatimid"
+		birth_date = 1076.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1133.2.1 = {
+	heir = {
+		name = "Az-Zafir"
+		monarch_name = "Az-Zafir"
+		dynasty = "Fatimid"
+		birth_date = 1133.2.1
+		death_date = 1154.4.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1149.10.8 = {
+	monarch = {
+		name = "Az-Zafir"
+		dynasty = "Fatimid"
+		birth_date = 1133.2.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1149.10.8 = {
+	heir = {
+		name = "Al-Fa'iz"
+		monarch_name = "Al-Fa'iz"
+		dynasty = "Fatimid"
+		birth_date = 1149.1.1
+		death_date = 1160.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1154.1.1 = {
+	monarch = {
+		name = "Al-Fa'iz"
+		dynasty = "Fatimid"
+		birth_date = 1149.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+		regent = yes
+	}
+}
+
+1154.1.1 = {
+	heir = {
+		name = "Al-Azid"
+		monarch_name = "al-Azid"
+		dynasty = "Fatimid"
+		birth_date = 1149.1.1
+		death_date = 1171.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "Al-Azid"
+		dynasty = "Fatimid"
+		birth_date = 1149.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1169.3.26 = { leader = {	name = "Salah ad-Din"	type = general	fire = 3	shock = 3	manuever = 4	siege = 2	death_date = 1193.4.3 } }

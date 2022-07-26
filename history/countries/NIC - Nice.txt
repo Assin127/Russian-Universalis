@@ -1,0 +1,18 @@
+### RU001 - Added
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+technology_group = western
+primary_culture = ligurian
+religion = catholic
+capital = 102 # Nice
+fixed_capital = 102 # Cannot move capital away from this province & no power cost to move to it
+
+1078.1.1 = {
+	monarch = {
+		name = "Archimbaud"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

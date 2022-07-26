@@ -1,0 +1,16 @@
+### RU001 - Added
+#Карлукская зависимость от Восточно-Караханидского государства
+vassal = {
+	first = EKK
+	second = KLU
+	start_date = 1040.1.1
+	end_date = 1130.1.1
+}
+
+#Гуридская зависимость от Газневидов
+vassal = {
+	first = GZN
+	second = GYR
+	start_date = 1095.1.1
+	end_date = 1150.1.1
+}

@@ -1,0 +1,322 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = malvi
+add_accepted_culture = rajput
+religion = hinduism
+technology_group = indian
+capital = 517
+
+1094.1.1 = {
+	monarch = {
+		name = "Naravarman"
+		dynasty = "Paramara"
+		ADM = 4
+		DIP = 3
+		MIL = 2
+		leader = {	name = "Naravarman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1115.1.1 = {
+	heir = {
+		name = "Yashovarman"
+		monarch_name = "Yashovarman"
+		dynasty = "Paramara"
+		birth_date = 1115.1.1
+		death_date = 1142.1.1
+		claim = 40                                 
+		ADM = 3
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1133.1.1 = {
+	monarch = {
+		name = "Yashovarman"
+		dynasty = "Paramara"
+		ADM = 4
+		DIP = 3
+		MIL = 2
+		leader = {	name = "Yashovarman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1133.1.1 = {
+	heir = {
+		name = "Jayavarman"
+		monarch_name = "Jayavarman"
+		dynasty = "Paramara"
+		birth_date = 1127.1.1
+		death_date = 1143.1.1
+		claim = 40                                 
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1142.1.1 = {
+	monarch = {
+		name = "Jayavarman"
+		dynasty = "Paramara"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		leader = {	name = "Jayavarman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1142.1.1 = {
+	heir = {
+		name = "Ballala"
+		monarch_name = "Ballala"
+		dynasty = "Paramara"
+		birth_date = 1120.1.1
+		death_date = 1174.1.1
+		claim = 40                                 
+		ADM = 4
+		DIP = 4                                             #Узурпатор
+		MIL = 2
+	}
+}
+
+1143.1.1 = {
+	monarch = {
+		name = "Ballala"
+		dynasty = "Paramara"
+		ADM = 4
+		DIP = 4
+		MIL = 2
+		leader = {	name = "Ballala"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1155.1.1 = {
+	heir = {
+		name = "Vindhyavarman"
+		monarch_name = "Vindhyavarman"
+		dynasty = "Paramara"
+		birth_date = 1130.1.1
+		death_date = 1194.1.1
+		claim = 40                                 
+		ADM = 3
+		DIP = 4                                             
+		MIL = 5
+	}
+}
+
+1174.1.1 = {
+	monarch = {
+		name = "Vindhyavarman"
+		dynasty = "Paramara"
+		ADM = 3
+		DIP = 4
+		MIL = 5
+		leader = {	name = "Vindhyavarman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1174.1.1 = {
+	heir = {
+		name = "Subhatavarman"
+		monarch_name = "Subhatavarman"
+		dynasty = "Paramara"
+		birth_date = 1155.1.1
+		death_date = 1209.1.1
+		claim = 40                                 
+		ADM = 3
+		DIP = 4                                             
+		MIL = 3
+	}
+}
+
+1194.1.1 = {
+	monarch = {
+		name = "Subhatavarman"
+		dynasty = "Paramara"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		leader = {	name = "Subhatavarman"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1194.1.1 = {
+	heir = {
+		name = "Arjunavarman I"
+		monarch_name = "Arjunavarman I"
+		dynasty = "Paramara"
+		birth_date = 1190.1.1
+		death_date = 1215.1.1
+		claim = 40                                 
+		ADM = 2
+		DIP = 5                                          
+		MIL = 3
+	}
+}
+
+1209.1.1 = {
+	monarch = {
+		name = "Arjunavarman I"
+		dynasty = "Paramara"
+		ADM = 2
+		DIP = 5
+		MIL = 3
+		leader = {	name = "Arjunavarman I"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1209.1.1 = {
+	heir = {
+		name = "Devapala"
+		monarch_name = "Devapala"
+		dynasty = "Paramara"
+		birth_date = 1200.1.1
+		death_date = 1239.1.1
+		claim = 40                                 
+		ADM = 2
+		DIP = 3                                        
+		MIL = 2
+	}
+}
+
+1215.1.1 = {
+	monarch = {
+		name = "Devapala"
+		dynasty = "Paramara"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		leader = {	name = "Devapala"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1215.1.1 = {
+	heir = {
+		name = "Jaitugideva"
+		monarch_name = "Jaitugideva"
+		dynasty = "Paramara"
+		birth_date = 1206.1.1
+		death_date = 1255.1.1
+		claim = 40                                 
+		ADM = 4
+		DIP = 3                                        
+		MIL = 4
+	}
+}
+
+1239.1.1 = {
+	monarch = {
+		name = "Jaitugideva"
+		dynasty = "Paramara"
+		ADM = 4
+		DIP = 3
+		MIL = 4
+		leader = {	name = "Jaitugideva"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1240.1.1 = {
+	heir = {
+		name = "Jayavarman II"
+		monarch_name = "Jayavarman II"
+		dynasty = "Paramara"
+		birth_date = 1240.1.1
+		death_date = 1274.1.1
+		claim = 40                                 
+		ADM = 3
+		DIP = 3                                        
+		MIL = 3
+	}
+}
+
+1255.1.1 = {
+	monarch = {
+		name = "Jayavarman II"
+		dynasty = "Paramara"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		leader = {	name = "Jayavarman II"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1255.1.1 = {
+	heir = {
+		name = "Arjunavarman II"
+		monarch_name = "Arjunavarman II"
+		dynasty = "Paramara"
+		birth_date = 1230.1.1
+		death_date = 1286.1.1
+		claim = 40                                 
+		ADM = 4
+		DIP = 3                                        
+		MIL = 4
+	}
+}
+
+1274.1.1 = {
+	monarch = {
+		name = "Arjunavarman II"
+		dynasty = "Paramara"
+		ADM = 4
+		DIP = 3
+		MIL = 4
+		leader = {	name = "Arjunavarman II"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1274.1.1 = {
+	heir = {
+		name = "Bhoja II"
+		monarch_name = "Bhoja  II"
+		dynasty = "Paramara"
+		birth_date = 1250.1.1
+		death_date = 1297.1.1
+		claim = 40                                 
+		ADM = 2
+		DIP = 3                                        
+		MIL = 2
+	}
+}
+
+1286.1.1 = {
+	monarch = {
+		name = "Bhoja II"
+		dynasty = "Paramara"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		leader = {	name = "Bhoja  II"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+1286.1.1 = {
+	heir = {
+		name = "Mahlakadeva"
+		monarch_name = "Mahlakadeva"
+		dynasty = "Paramara"
+		birth_date = 1270.1.1
+		death_date = 1305.1.1
+		claim = 40                                 
+		ADM = 2
+		DIP = 4                                        
+		MIL = 2
+	}
+}
+
+1297.1.1 = {
+	monarch = {
+		name = "Mahlakadeva"
+		dynasty = "Paramara"
+		ADM = 2
+		DIP = 4
+		MIL = 2
+		leader = {	name = "Mahlakadeva"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+	}
+}
+
+

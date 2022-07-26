@@ -1,0 +1,9 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = telegu
+add_accepted_culture = gondi
+religion = hinduism
+technology_group = indian
+capital = 2084

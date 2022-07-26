@@ -1,0 +1,32 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = highland_scottish
+religion = catholic
+technology_group = western
+capital = 4365 # Mann
+
+1095.1.1 = {
+	monarch = {
+		name = "Logmann Gufrifarson"
+		dynasty = "Crovan"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1095.1.1 = {
+	heir = {
+		name = "Olafr"
+		monarch_name = "Olafr I"
+		dynasty = "Crovan"
+		birth_date = 1085.1.1
+		death_date = 1153.6.29
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

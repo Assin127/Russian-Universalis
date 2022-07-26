@@ -1,0 +1,19 @@
+### RU001 - Added
+technology_group = muslim
+primary_culture = armenian
+religion = coptic
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+capital = 2306
+fixed_capital = 2306 # Cannot move capital away from this province & no power cost to move to it
+
+1092.1.1 = {
+	monarch = {
+		name = "Abelkharib"
+		dynasty = "Pahlavuni"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

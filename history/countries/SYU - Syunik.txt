@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = autocracy_reform 
+primary_culture = armenian
+religion = coptic
+technology_group = eastern
+capital = 419
+government_rank = 1
+
+1072.1.1 = {
+	monarch = {
+		name = "Senekerim"
+		dynasty = "Senekerimian"
+		birth_date = 1050.9.16
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

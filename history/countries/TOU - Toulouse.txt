@@ -1,0 +1,51 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = occitain
+religion = catholic
+technology_group = western
+capital = 196	# Toulouse
+fixed_capital = 196 # Cannot move capital away from this province & no power cost to move to it
+
+1088.1.1 = {
+	monarch = {
+		name = "Raymond IV"
+		dynasty = "de Toulouse"
+		birth_date = 1042.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+		leader = {	name = "Raymond IV"		type = general	fire = 3	shock = 3	manuever = 2	siege = 2 }
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = zealot_personality
+}
+
+1088.1.1 = {
+	heir = {
+		name = "Bertrand"
+		monarch_name = "Bertrand"
+		dynasty = "de Toulouse"
+		birth_date = 1065.1.1
+		death_date = 1112.4.21
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1370.1.1 = {
+	add_accepted_culture = occitain
+}
+
+1515.1.1 = { government = monarchy
+add_government_reform = autocracy_reform }
+
+1560.1.1 = { religion = reformed }
+
+1589.8.3 = { set_legacy_government = administrative_monarchy }
+
+1661.3.9 = { government = monarchy
+add_government_reform = autocracy_reform }

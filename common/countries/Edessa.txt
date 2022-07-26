@@ -1,0 +1,162 @@
+### RU001 - Added
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 237 198 37 }
+
+historical_idea_groups = {
+#	early_diplomatic_ideas ## RU001
+#	early_administrative_ideas ## RU001
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Baldwin #0" = 20
+	"Joscelin #0" = 20
+	"Filips #1" = 15
+	"Jan #0" = 15
+	"Raymond #7" = 5
+	"Alphonse #3" = 5
+	"Simon #1" = 5
+	"Guillaume #4" = 5
+	"Bertrand #1" = 5
+	"Bernard #2" = 5
+	"Pons #2" = 5
+	"Odo #1" = 5
+	"Boudewijn #9" = 5
+	"Arnolf #3" = 5
+	"Lodewijk #3" = 5
+	"Robrecht #3" = 5
+	"Willem #2" = 5
+	"Diederik #1" = 5	
+	"Gwijde #1" = 5	
+	"Karel #1" = 5
+	"Antoon #0" = 5
+	"Abraham #0" = 0
+	"Alexander #0" = 0
+	"Alfons #0" = 0
+	"Andries #0" = 0
+	"Balthasar #0" = 0
+	"Bartholomeus #0" = 0
+	"Christoffel #0" = 0
+	"Constantijn #0" = 0
+	"Cornelis #0" = 0
+	"Daniлl #0" = 0
+	"David #0" = 0
+	"Ernst #0" = 0
+	"Erwin #0" = 0
+	"Ewoud #0" = 0
+	"Floris #0" = 0
+	"Gabriel #0" = 0
+	"Godfried #0" = 0
+	"Hans #0" = 0
+	"Jacob #0" = 0
+	"Kasper #0" = 0
+	"Ludger #0" = 0
+	"Luuk #0" = 0
+	"Marinus #0" = 0
+	"Pieter #0" = 0
+	"Renate #0" = 0
+	"Rodolf #0" = 0
+	"Roeland #0" = 0
+	"Valentijn #0" = 0
+	"Andiru #0" = 0
+	"Antoine #0" = 0
+	"Borel #0" = 0
+	"Charles #0" = 0
+	"Claude #0" = 0
+	"Danis #0" = 0
+	"Emmanuel #0" = 0
+	"Eugиne #0" = 0
+	"Evrard #0" = 0
+	"Foilan #0" = 0
+	"Franзois #0" = 0
+	"Frйdйric #0" = 0
+	"Gilles #0" = 0
+	"Godefroi #0" = 0
+	"Guiraud #0" = 0
+	"Henri #0" = 0
+	"Huc #0" = 0
+	"Ignace #0" = 0
+	"Jacques #0" = 0
+	"Jules #0" = 0
+	"Lйopold #0" = 0
+	"Louis #0" = 0
+	"Mamert #0" = 0
+	"Maurice #0" = 0
+	"Olivier #0" = 0
+	"Patrici #0" = 0
+	"Richartz #0" = 0
+	"Roger #0" = 0
+	"Sauson #0" = 0
+	"Valeray #0" = 0
+	"Xavier #0" = 0
+	
+	"Margareta #3" = -15
+	"Jeanne #0" = -15
+	"Maria #0" = -5
+	"Jeanne #0" = -1
+	"Matilda #0" = -1
+	"Beatrix #0" = -1
+	"Yolande #2" = -1
+	"Marie #0" = -1
+	"Philippa #0" = -1
+}
+
+leader_names = { 
+	Adamian Adomian
+	Aghajanian Altounyan 
+	Apkarian Bagian
+	Babaian Babikian
+	Chobanian Bhobanyan
+	Damadian Eskandarian
+	Kapikian Kazanjian Kebabian
+	Kevorkian Khachikyan
+	Khatchaturian Kirlian
+	Mergelyan Orbeli
+	Pogosyan Sadian Simjian 
+	Sevanian Meymarian Shahinian
+}
+
+ship_names = {
+	Aramu Argishtis Ararat Ani Artsakh
+	Dvin
+	Erimena
+	Haik Haldi
+	Ishpuinis
+	Kars
+	Lutipri
+	Musasir Menuas Manzikert
+	Parisos
+	"Rusas II"
+	Siwini Selardi "Sarduri I" "Sarduris II"
+	Vaspurakan
+	Yerevan
+}

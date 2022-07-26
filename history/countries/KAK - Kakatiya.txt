@@ -1,0 +1,62 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = telegu
+religion = hinduism
+technology_group = indian
+capital = 2037
+
+1163.1.1 = {
+	monarch = {
+		name = "Rudra"
+		dynasty = "Kakatiya"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+	}
+}
+
+1195.1.1 = {
+	monarch = {
+		name = "Mahadeva" 
+		dynasty = "Kakatiya"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1199.1.1 = {
+	monarch = {
+		name = "Ganapati-deva" 
+		dynasty = "Kakatiya"
+		ADM = 5
+		DIP = 5
+		MIL = 5
+	}
+}
+
+1262.1.1 = {
+	monarch = {
+		name = "Rudrama-devi" 
+		dynasty = "Kakatiya"
+		ADM = 4
+		DIP = 4
+		MIL = 4
+	}
+}
+
+
+1289.1.1 = {
+	monarch = {
+		name = "Prataparudra-deva " 
+		dynasty = "Kakatiya"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+	}
+}
+
+

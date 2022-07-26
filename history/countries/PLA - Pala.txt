@@ -1,0 +1,43 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = bengali
+add_accepted_culture = jharkhandi
+religion = hinduism
+technology_group = indian
+capital = 561   
+
+1077.1.1 = {
+	monarch = {
+		name = "Ramapala"
+		dynasty = "Pala"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1090.1.1 = {
+	heir = {
+		name = "Kumarapala"
+		monarch_name = "Kumarapala"
+		dynasty = "Pala"
+		birth_date = 1090.1.1
+		death_date = 1140.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1130.1.1 = {
+	monarch = {
+		name = "Kumarapala"
+		dynasty = "Pala"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}

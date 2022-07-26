@@ -1,0 +1,9 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = leonese
+religion = catholic
+technology_group = western
+historical_friend = CAS
+capital = 208 #Leon
+government_rank = 1

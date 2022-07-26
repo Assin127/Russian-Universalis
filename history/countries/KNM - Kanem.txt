@@ -1,0 +1,23 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = kanuri
+religion = sunni
+technology_group = sub_saharan
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+capital = 1158
+government_rank = 3
+religious_school = maliki_school
+
+1085.1.1 = {
+	monarch = {
+		name = "Hume"
+		dynasty = "Sefuwa"
+		birth_date = 1066.9.16
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 2
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 418
+
+1095.1.1 = {
+	monarch = {
+		name = "Sadr"
+		dynasty = "Inalid"
+		birth_date = 1072.11.11
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}

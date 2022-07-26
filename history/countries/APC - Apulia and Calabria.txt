@@ -1,0 +1,37 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = neapolitan
+religion = catholic
+capital = 2983 #Salerno
+
+1085.9.1 = {
+	monarch = {
+		name = "Roger I Borsa"
+		dynasty = "Altavilla"
+		culture = normand
+		birth_date = 1060.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}
+
+1095.1.1 = {
+	heir = {
+		name = "William"
+		monarch_name = "William II"
+		dynasty = "Altavilla"
+		culture = normand
+		birth_date = 1095.1.1
+		death_date = 1127.7.25
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+

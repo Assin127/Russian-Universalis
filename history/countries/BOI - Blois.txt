@@ -1,0 +1,36 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 4389 # Touraine
+
+1089.1.1 = {
+	monarch = {
+		name = "Etienne II"
+		dynasty = "de Blois"
+		birth_date = 1045.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+		leader = {	name = "Etienne II de Blois"	type = general	fire = 2	shock = 1	manuever = 0	siege = 1 }
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = craven_personality
+}
+
+1093.1.1 = {
+	heir = {
+		name = "Thibaut"
+		monarch_name = "Thibaut IV"
+		dynasty = "de Blois"
+		birth_date = 1093.1.1
+		death_date = 1152.1.1
+		claim = 95
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+}

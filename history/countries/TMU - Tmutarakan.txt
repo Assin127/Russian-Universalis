@@ -1,0 +1,9 @@
+### RU001 - Added
+technology_group = eastern
+primary_culture = pontic_greek
+religion = orthodox
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+capital = 2447
+fixed_capital = 2447 # Cannot move capital away from this province & no power cost to move to it

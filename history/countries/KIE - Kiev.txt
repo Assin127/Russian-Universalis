@@ -1,0 +1,33 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = principality
+government_rank = 2
+technology_group = eastern
+religion = orthodox
+primary_culture = old_russian
+capital = 280	# Kiev
+fixed_capital = 280 # Cannot move capital away from this province & no power cost to move to it
+1093.4.24 = {
+	monarch = {
+		name = "Sviatopolk II"
+		dynasty = "Rurikovich"
+		birth_date = 1050.11.8
+		adm = 4
+		dip = 4
+		mil = 3
+		leader = {	name = "Sviatopolk Rurikovich"             	type = general	fire = 2	shock = 2	manuever = 0	siege = 2 }
+	}
+	heir = {
+		name = "Yaroslav"
+		monarch_name = "Yaroslav II"
+		dynasty = "Rurikovich"
+		birth_date = 1072.1.1
+		death_date = 1123.5.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = scholar_personality
+}

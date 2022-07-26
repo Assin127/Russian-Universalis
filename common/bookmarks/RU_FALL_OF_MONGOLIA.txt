@@ -1,0 +1,10 @@
+### RU001 - Added
+bookmark =
+{
+	name = "FALL_OF_MONGOLIA_NAME"
+	desc = "FALL_OF_MONGOLIA_DESC"
+	date = 1259.08.11
+	
+	center = 112
+	default = yes
+}

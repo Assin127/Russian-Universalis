@@ -1,0 +1,21 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = andalucian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 2990
+government_rank = 1
+religious_school = maliki_school
+
+1043.11.11 = {
+	monarch = {
+		name = "'Abd Allah II"
+		dynasty = "Qasimid"
+		birth_date = 1027.9.16
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

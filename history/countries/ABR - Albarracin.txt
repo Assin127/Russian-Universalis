@@ -1,0 +1,46 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = andalucian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 214
+government_rank = 1
+religious_school = maliki_school
+
+1045.1.1 = {
+	monarch = {
+		name = "Abu Marwan 'Abd al-Malik"
+		dynasty = "Razinid"
+		birth_date = 1030.9.16
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1088.1.1 = {
+	heir = {
+		name = "Yahya Husam ad-Dawla"
+		monarch_name = "Abu Marwan 'Abd al-Malik"
+		dynasty = "Razinid"
+		birth_date = 1088.1.1
+		death_date = 1104.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1103.2.12 = {
+	monarch = {
+		name = "Yahya Husam ad-Dawla"
+		dynasty = "Razinid"
+		birth_date = 1088.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

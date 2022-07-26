@@ -1,0 +1,8 @@
+### RU001 - Added
+# Тоскана и Сполето
+union = {
+	first = NAP
+	second = PRO
+	start_date = 1057.1.1
+	end_date = 1093.1.1
+}

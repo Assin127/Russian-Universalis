@@ -1,0 +1,10 @@
+### RU001 - Added
+# Galich
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = ruthenian
+religion = orthodox
+capital = 261 # Halicz
+fixed_capital = 261 # Cannot move capital away from this province & no power cost to move to it

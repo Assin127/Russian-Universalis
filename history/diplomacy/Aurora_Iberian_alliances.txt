@@ -1,0 +1,38 @@
+### RU001 - Added
+# Португальский феод
+vassal = {
+	first = CAS
+	second = POR
+	start_date = 1093.7.9
+	end_date = 1139.7.25
+}
+
+# Королевство Арагона и Наварры
+union = {
+	first = ARA
+	second = NAV
+	start_date = 1076.7.9
+	end_date = 1134.9.7
+}
+
+# Императоры всей Испании
+union = {
+	first = CAS
+	second = LON
+	start_date = 1077.7.9
+	end_date = 1157.8.21
+}
+union = {
+	first = CAS
+	second = GAL
+	start_date = 1077.7.9
+	end_date = 1157.8.21
+}
+
+# Сид Кампеадор
+vassal = {
+	first = CAS
+	second = VAL
+	start_date = 1094.7.10
+	end_date = 1099.7.10
+}

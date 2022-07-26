@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = rani
+religion = slavic
+technology_group = eastern
+capital = 47 # Stralsund
+
+1093.1.1 = {
+	monarch = {
+		name = "Grines"
+		dynasty = "Wizlawid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

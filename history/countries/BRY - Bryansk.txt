@@ -1,0 +1,14 @@
+### RU001 - Added
+# Bryansk
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = old_russian
+religion = orthodox
+capital = 297 # Bryansk
+fixed_capital = 297 # Cannot move capital away from this province & no power cost to move to it
+
+1370.1.1 = {
+	primary_culture = ryazanian
+}

@@ -1,0 +1,204 @@
+### RU000 - Added
+
+## RU001 - Start
+#Аравия
+SLH = "countries/Sulaihidi.txt"
+UYU = "countries/Uyunidi.txt"
+ZYR = "countries/Zyraidi.txt"
+NJH = "countries/Najahidi.txt"
+
+#Африка
+GHA	= "countries/Ghana.txt"
+NRI	= "countries/Nri.txt"
+KNM	= "countries/Kanem.txt"
+
+#Балканы 
+DYC = "countries/Dyklja.txt"
+HUM = "countries/Hum.txt"
+IST	= "countries/Istria.txt"
+RSH = "countries/Rashka.txt"
+TRV = "countries/Travunia.txt"
+
+#Ближний Восток
+ABS	= "countries/Abbasids.txt"
+ANO = "countries/Antioch.txt"
+CIL	= "countries/Cilicia.txt"
+DNS	= "countries/Danishmendids.txt"
+EDE	= "countries/Edessa.txt"
+GZN	= "countries/Ghaznavids.txt"
+INA	= "countries/Inalids.txt"
+KES	= "countries/Kesun.txt"
+MEL	= "countries/Melitena.txt"
+MNJ	= "countries/Mengujeks.txt"
+PRC	= "countries/Pir.txt"
+SHD	= "countries/Shaddadids.txt"
+SJQ	= "countries/Seljuq.txt"
+SLT	= "countries/Saltukids.txt"
+TPO = "countries/County_of_Tripoli.txt"
+
+#Великобритания и Ирландия
+DEH = "countries/Deheubarth.txt"
+GWY	= "countries/Gwynedd.txt"
+OSR = "countries/Osraige.txt"
+POY = "countries/Powys.txt"
+
+#Германия
+ABO	= "countries/Abodrites.txt"
+#BAM = "countries/Bamberg.txt" #Добавлено парадоксами в 1.30
+#BRG = "countries/Berg.txt" #Добавлено парадоксами в 1.30
+BRN	= "countries/Brno.txt"
+CAR	= "countries/Carinthia.txt"
+CRL	= "countries/Carniola.txt"
+#FNC	= "countries/Franconia.txt" #Добавлено парадоксами в 1.30
+JUL	= "countries/Julich.txt"
+#LUS	= "countries/Lusatia.txt" #Добавлено парадоксами в 1.30
+NRD	= "countries/Nordgau.txt"
+OLO	= "countries/Olomouc.txt"
+#SWA = "countries/Swabia.txt" #Добавлено парадоксами в 1.30
+LUT = "countries/Lutici.txt"
+#RUG = "countries/Rugen.txt" #Добавлено парадоксами в 1.30
+
+#Иберия
+ABR	= "countries/Albarracin.txt"
+ALP	= "countries/Alpuente.txt"
+BRC	= "countries/Barcelona.txt"
+TOS	= "countries/Tortosa.txt"
+URG	= "countries/Urgell.txt"
+ZAR	= "countries/Zaragoza.txt"
+
+#Индия
+CER	= "countries/Chera.txt"
+CHN	= "countries/Chandela.txt"
+CLL	= "countries/Chola.txt"
+CMN	= "countries/Chahamani.txt"
+ECH	= "countries/East_Chalukyas.txt"
+EGA	= "countries/East_Gang.txt"
+GAH	= "countries/Gahadavali.txt"
+GYR = "countries/Gyrid.txt"
+HOY = "countries/Hoysala.txt"
+KAK = "countries/Kakatiya.txt"
+KLC	= "countries/Kalachuri.txt"
+KMR = "countries/Kamarupa.txt"
+PND = "countries/Pandya.txt"
+PLA	= "countries/Pala.txt"
+PLN	= "countries/Polonnaruwa.txt"
+PRA	= "countries/Paramara.txt"
+SEA = "countries/Sena.txt"
+SMV	= "countries/Somavanshi.txt"
+SNK	= "countries/Solanki.txt"
+TOM	= "countries/Tomari.txt"
+WCH	= "countries/West_Chalukyas.txt"
+YAD = "countries/Yadava.txt"
+
+#Индокитай
+PAG = "countries/Pagan.txt"
+DVA = "countries/Dvaravati.txt"
+HRP = "countries/Haripungjaia.txt"
+LEM = "countries/Lemro.txt"
+
+#Индонейзия
+SRW = "countries/Srivijaya.txt"
+GLU = "countries/Galuh.txt"
+CDR = "countries/Kadiri.txt"
+
+#Италия
+APC	= "countries/ApuliaAndCalabria.txt"
+AVE	= "countries/Aversa.txt"
+BSC	= "countries/Brescia.txt"
+CRM	= "countries/Cremona.txt"
+NIC	= "countries/Nice.txt"
+NVA	= "countries/Novara.txt"
+#SPO	= "countries/Spoleto.txt" #Добавлено парадоксами в 1.30
+SVN	= "countries/Savona.txt"
+#TNT	= "countries/Trent.txt" #Добавлено парадоксами в 1.30
+TRN	= "countries/Taranto.txt"
+#VRN	= "countries/Verona.txt" #Добавлено парадоксами в 1.30
+
+#Кавказ
+ALN	= "countries/Alania.txt"
+BLK	= "countries/Balkaria.txt"
+DER	= "countries/Derbent.txt"
+SRR	= "countries/Sarir.txt"
+SYU	= "countries/Syunik.txt"
+TDZ	= "countries/Tashir-Dzoraget.txt"
+
+#Китай
+LIA	= "countries/Liao.txt"
+SNG	= "countries/Song.txt"
+XIA	= "countries/Xi_Xia.txt"
+
+#Магриб
+ALM	= "countries/Almoravids.txt"
+FAT	= "countries/Fatimidy.txt"
+HMM	= "countries/Hammadids.txt"
+ZIR	= "countries/Zirids.txt"
+
+#Монголия
+BAY	= "countries/Bayads.txt"
+#GIL	= "countries/Gilyak.txt" #Замена на NVK
+KRT	= "countries/Keraites.txt"
+KHG	= "countries/Khamags.txt"
+KHR	= "countries/Khori-Tumeds.txt"
+KHT	= "countries/Khatagins.txt"
+NAI	= "countries/Naimans.txt"
+TAT	= "countries/Tatars.txt"
+WAN	= "countries/Wanyan.txt"
+
+#Нижние Земли
+LIM	= "countries/Limburg.txt"
+LOO	= "countries/Loon.txt"
+LUV	= "countries/Louvain.txt"
+NAM	= "countries/Namur.txt"
+ZEE	= "countries/Zeeland.txt"
+
+#Россия и Рутения
+VBL = "countries/Volga_Bulgaria.txt"
+BRY = "countries/Bryansk.txt"
+BUS	= "countries/Burtas.txt"
+CUM	= "countries/Cumans.txt"
+GLC = "countries/Galich.txt"
+KIR	= "countries/KievanRus.txt"
+KRS = "countries/Kursk.txt"
+NOS = "countries/Novgorod-Seversk.txt"
+PMS = "countries/Peremyshl.txt"
+PRS = "countries/Pereyaslav.txt"
+TMU	= "countries/Tmutarakan.txt"
+TRB = "countries/Terebovlia.txt"
+TUO = "countries/Turov.txt"
+
+#Скандинавия
+JAM	= "countries/Jamtland.txt"
+
+#Средняя Азия
+EKK	= "countries/Eastern_Kara-Khanids.txt"
+KHW	= "countries/Khwarezm.txt"
+KLU	= "countries/Karluks.txt"
+WKK	= "countries/Western_Kara-Khanids.txt"
+
+#Тибет
+AMD = "countries/Amdo.txt"
+ZNS = "countries/Zanskar.txt"
+
+#Франция
+AMI = "countries/Amiens.txt"
+ANG = "countries/Angoumois.txt"
+ANJ = "countries/Anjou.txt"
+AQT = "countries/Aquitaine.txt"
+ART = "countries/Artois.txt"
+BEA = "countries/Bearn.txt"
+BLN = "countries/Boulogne.txt"
+BOI = "countries/Blois.txt"
+BU0 = "countries/BurgundyCounty.txt"
+CMB = "countries/Cambray.txt"
+LYN = "countries/Lyon.txt"
+MNE = "countries/Maine.txt"
+NAN = "countries/Nantes.txt"
+NAR = "countries/Narbonne.txt"
+PRI = "countries/Perigord.txt"
+RET = "countries/Rethel.txt"
+ROD = "countries/Rodez.txt"
+ROU = "countries/Roussillon.txt"
+VIV = "countries/Vivarais.txt"
+VLA = "countries/Valais.txt"
+VRD = "countries/Vermandois.txt"
+## RU0001 - End

@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = al_suryah_arabic
+religion = sunni
+technology_group = muslim
+capital = 382	# Damascus
+religious_school = shafii_school
+
+1095.1.1 = {
+	monarch = {
+		name = "Fakhr al-Mulk Radwan"
+		dynasty = "Seljuqid"
+		birth_date = 1075.9.16
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

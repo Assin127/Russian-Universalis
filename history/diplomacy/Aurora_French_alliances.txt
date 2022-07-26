@@ -1,0 +1,16 @@
+### RU001 - Added
+# Тулуза и Нарбонна
+union = {
+	first = TOU
+	second = NAR
+	start_date = 1088.1.1
+	end_date = 1271.8.25
+}
+
+# Анжу и Мэн
+union = {
+	first = ANJ
+	second = MNE
+	start_date = 1081.1.1
+	end_date = 1110.7.11
+}

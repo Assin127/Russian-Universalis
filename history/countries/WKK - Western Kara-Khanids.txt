@@ -1,0 +1,18 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = uyghur
+religion = sunni
+technology_group = nomad_group
+capital = 454
+religious_school = hanafi_school
+
+1090.1.1 = {
+	monarch = {
+		name = "Kharun II"
+		dynasty = "Kara-Khanid"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

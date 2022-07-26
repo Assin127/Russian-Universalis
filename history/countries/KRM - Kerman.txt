@@ -1,0 +1,28 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+primary_culture = persian
+religion = sunni
+technology_group = muslim
+capital = 432 # Kerman
+religious_school = maliki_school
+
+1084.1.1 = {
+	monarch = {
+		name = "Turan Shah I"
+		dynasty = "Seljuqid"
+		birth_date = 1061.9.16
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1400.1.1 = {
+	religion = shiite
+	religious_school = ismaili_school
+}
+1504.1.1 = {
+	religious_school = jafari_school
+}

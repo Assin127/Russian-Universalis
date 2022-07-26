@@ -1,0 +1,127 @@
+### RU001 - Added
+graphical_culture = muslimgfx
+
+color = { 53 120 160 }
+
+historical_idea_groups = {
+#	early_diplomatic_ideas ## RU001
+#	early_administrative_ideas ## RU001
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	religious_ideas
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+	influence_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Ramazan #1" = 10
+	"Ibrвhim #2" = 30
+	"Ahmed #1" = 20
+	"Hamza #1" = 20
+	"Mehmed #1" = 40
+	"Eylьk #1" = 10
+	"Dьndar #1" = 10
+	"Цmer #0" = 10
+	"Halil #0" = 10
+	"Mahmud #0" = 10
+	"Selim #0" = 10
+
+	"Kubad #0" = 10
+	"Dervish #0" = 10
+	"Mansur #0" = 10
+	"Izeddоn #0" = 5
+	"Sihвbeddоn #0" = 5
+	"Giyвseddоn #0" = 5
+	"Pоrо #0" = 5
+	"Pоr #0" = 5
+	"Ilyas #0" = 0
+	"Sьleyman #0" = 0
+	"Cihangir #0" = 0
+	"Isa #0" = 0
+	"Musa #0" = 0
+	"Orhan #0" = 0
+	"Abdulrahman #0" = 0
+	"Alaaddin #0" = 0
+	"Ali #0" = 0
+	"Davud #0" = 0
+	"Hasan #0" = 0
+	"Hьseyin #0" = 0
+	"Kasim #0" = 0
+	"Korkud #0" = 0
+	"Murad #0" = 0
+	"Yakub #0" = 0
+	"Yusuf #0" = 0
+	"Iskender #0" = 0
+	
+	"Ayse #0" = -1
+	"Ulviye #0" = -1
+	"Zeynep #0" = -1
+}
+
+leader_names = {
+	Alemdar Amasyali Ayas
+	Bali Barbaros Bayram
+	Cezzar Зandarli Зelebi Cerrah Зerkes Civan Зuhadar
+	Damad Dervis Defterdar
+	Gedik Gazi Gьmьlcineli Gьrcь
+	Hadim Hekimoglu Hersekli
+	Kцprьlь Kemal Kьзьk Koca Karamanli Kцse Kara Kanijeli Kemankes Kaymak Kavalali
+	Ishak Izzed
+	Lala Lefkeli
+	Malkoз Mьezzinzade
+	Nevsehirli Nisanci
+	Oruз Uluз Osmancikli Ohrili Oflu
+	Rumi
+	Piri Pargali Piyale Pehlivan
+	Salih Sokullu Sari Silahdar Semiz Serdar
+	Topal Tayyar Turgut Tarhuncu
+	Veli
+	Yemisзi
+}
+
+ship_names = {
+	Adana Tarsus Mersin Erdemli Asmali Sis Agaзli Misis
+	Osmaniye Konstantiniyye Hьdavendigar Muradiye Mesudiye Hamidiye Resadiye
+	Heybetnьma Tayyar Sultanhisar Gelibolu Alparslan Timsah Mecidiye Mahabet Ejder
+	Yunus Sivrihisar Akhisar Akka Aziziye Bereket Galata Kozlu Kuzlum Nilьfer Zuhaf
+	Ceyhan Feke Kozan Seyhan Kahta Bolvadin Dinar Ihsaniye Incehisar Sandikli Sultandagi
+	Gьdьl Haymana Kazan Kalecik Nallihan Polatli Akseki Alanya Elmali Finike Kepez Korkuteli
+	Kumluca Manavgat Serik Saka Kuyucak Kusadasi Nazilli Sцke Ayvalik
+	Havran Bigadiз Edremit Manyas Balya Amasra Bozьyьk Sцgьt Adakli Solhan Ahlat Gerede
+	Seben Gцynьk Bucak Gemlik Gьrsu Inegцl Ayvacik Biga Ezine Lapseki Korgun Dodurga Iskilip
+	Laзin Зivril Honaz Tavas Dicle Firat Lice Ergani Enez Ipsala Meriз Havsa Nizip Gцrele
+	Gцce Kelkit Belen Erzin Hassa Gцnen Safranbolu Ermenek Akyaka Sьrmene Vakfikebir Eregli
+	Darica Kandira Ahirli Emet Yatagan Malazgirt Fatsa Ьnye
+	Kadirli Findikli Arifiye Atakum Havza Kavak Ladik Terme Baykan Boyabat
+}
+
+army_names = {
+	"$PROVINCE$ Ordusu"
+}
+
+fleet_names = {
+	"$PROVINCE$ Donanmasо"
+}

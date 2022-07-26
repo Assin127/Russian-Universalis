@@ -1,0 +1,8 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = sorbian
+religion = catholic
+capital = 1759	# Potsdam

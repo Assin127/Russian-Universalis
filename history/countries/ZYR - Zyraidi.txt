@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+government_rank = 1 #Emirate
+technology_group = muslim
+religion = sunni
+primary_culture = gulf_arabic
+capital = 388
+
+1480.1.1 = { 
+	monarch = {
+		name = "Zuray bin Al-Abbas"
+		dynasty = "Zuraidi"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}	
+

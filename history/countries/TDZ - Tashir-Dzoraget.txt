@@ -1,0 +1,19 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = autocracy_reform 
+primary_culture = armenian
+religion = coptic
+technology_group = eastern
+capital = 2205
+government_rank = 1
+
+1089.1.1 = {
+	monarch = {
+		name = "David II"
+		dynasty = "Kiurikyian"
+		birth_date = 1053.9.16
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

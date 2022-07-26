@@ -1,0 +1,20 @@
+### RU001 - Added
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+government = monarchy
+add_government_reform = iqta
+government_rank = 3
+capital = 429
+religious_school = hanafi_school
+
+1092.1.1 = {
+	monarch = {
+		name = "Barkiyaruq"
+		dynasty = "Seljuqid"
+		birth_date = 1079.9.16
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}

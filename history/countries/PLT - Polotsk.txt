@@ -1,0 +1,43 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+primary_culture = old_russian
+religion = orthodox
+technology_group = eastern
+capital = 275	# Polotsk
+fixed_capital = 275 # Cannot move capital away from this province & no power cost to move to it
+
+1044.1.1 = {
+	monarch = {
+		name = "Vseslav II"
+		birth_date = 1029.1.1
+		dynasty = "Rurikovich"
+		adm = 3
+		dip = 0
+		mil = 4
+		leader = { name = "Vseslav II" type = general fire = 3 shock = 3 manuever = 2 siege = 1 }
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1052.1.1 = {
+	heir = {
+		name = "David"
+		monarch_name = "David"
+		dynasty = "Rurikovich"
+		birth_date = 1052.1.1
+		death_date = 1130.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+	clear_scripted_personalities = yes
+	add_heir_personality = intricate_web_weaver_personality
+}
+
+1370.1.1 = {
+	primary_culture = byelorussian
+}

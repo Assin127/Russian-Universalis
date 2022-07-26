@@ -1,0 +1,20 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = iqta
+primary_culture = berber
+religion = sunni
+technology_group = muslim
+capital = 339
+government_rank = 2
+religious_school = maliki_school
+
+1088.1.1 = {
+	monarch = {
+		name = "Al-Mansur"
+		dynasty = "Hammadid"
+		birth_date = 1067.9.16
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}

@@ -1,0 +1,28 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 2
+primary_culture = turkish
+add_accepted_culture = pontic_greek
+religion = sunni
+technology_group = ottoman
+capital = 317
+
+1092.1.1 = {
+	monarch = {
+		name = "Kilij Arslan I"
+		dynasty = "Seljuqid"
+		birth_date = 1079.9.16
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1097.1.1 = {
+	capital = 323
+}
+1370.1.1 = {
+	capital = 329	# Sivas
+	government_rank = 3
+}
+

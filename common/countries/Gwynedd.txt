@@ -1,0 +1,117 @@
+### RU001 - Added
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 215  101  23 }
+
+historical_idea_groups = {
+#	early_military_ideas ## RU001
+#	early_administrative_ideas ## RU001
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Owain #3" = 20
+	"Dafydd #3" = 10
+	"Gruffydd #3" = 10
+	"Llewelyn #3" = 10
+	"Rhodri #3" = 10
+	"Maredudd #2" = 10
+	"Cynan #3" = 10
+	"Cadwaladr #3" = 10
+	"Iago #3" = 10
+	"Idwal #2" = 5
+	"Maelgwyn #2" = 5
+	"Einion #1" = 5
+	"Iorwerth #1" = 5
+	"Trahaearn #1" = 5
+	"Aeron #0" = 0
+	"Aled #0" = 0
+	"Aneirin #0" = 0
+	"Arvel #0" = 0
+	"Berwyn #0" = 0
+	"Brynmor #0" = 0
+	"Cadfael #0" = 0
+	"Cadoc #0" = 0
+	"Cadwgawn #0" = 0
+	"Celyn #0" = 0
+	"Cledwyn #0" = 0
+	"Colwyn #0" = 0
+	"Dai #0" = 0
+	"Dilwyn #0" = 0
+	"Emyr #0" = 0
+	"Gawain #0" = 0
+	"Glynn #0" = 0
+	"Gwyn #0" = 0
+	"Heddwyn #0" = 0
+	"Heilyn #0" = 0
+	"Rhian #0" = 0
+	"Tristan #0" = 0
+	"Tudor #0" = 0
+	"Urien #0" = 0
+	"Vaughan #0" = 0
+	
+	"Cadwallon #3" = 10
+	"Maelgwn #1" = 5
+	"Rhun #1" = 5
+	"Beli #1" = 5
+	"Cadfan #1" = 5
+	"Cadafael #1" = 5
+	"Caradog #1" = 5
+	"Hywel #3" = 10
+	"Merfyn #1" = 5
+	"Anarawd #1" = 5
+	"Ieuaf #1" = 5
+	"Aeddan #1" = 5
+	"Llywelyn #1" = 5
+	"Bleddyn #1" = 5
+	
+	
+	"Ceridwen #0" = -1
+	"Elain #0" = -1
+	"Gwenyth #0" = -1
+	"Megan #0" = -1
+}
+
+leader_names = { 
+	Bennett Bevan Bowen
+	Cadell Cadwallader
+	Daniels Davis Davies
+	Edwards Ellis Evans
+	Griffiths Gough Gwyn
+	Harris Hopkins Howells Hughes Humphries
+	James Jenkins John Jones
+	Lewis Llewellyn Lloyd
+	Madog Matthews Meredith Merrick Morgan Morris Mostyn
+	Owen
+	Parry Phillips Powell Prees Price Pritchard Protheroe Pugh
+	Rees Richards Roberts Rogers
+	Thomas
+	Vaughan
+	Watkins Williams
+}

@@ -1,0 +1,25 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = old_russian
+religion = orthodox
+capital = 279 # Volhynia
+fixed_capital = 279 # Cannot move capital away from this province & no power cost to move to it
+1086.12.5 = {
+	monarch = {
+		name = "Davyd"
+		dynasty = "Rurikovich"
+		birth_date = 1055.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = pious_personality
+}
+1370.1.1 = {
+	religion = catholic
+	primary_culture = ruthenian
+}

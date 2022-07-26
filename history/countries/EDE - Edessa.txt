@@ -1,0 +1,31 @@
+### RU001 - Added
+technology_group = muslim
+primary_culture = armenian
+religion = coptic
+government = monarchy
+add_government_reform = autocracy_reform 
+government_rank = 1
+capital = 2308
+fixed_capital = 2308 # Cannot move capital away from this province & no power cost to move to it
+
+1092.1.1 = {
+	monarch = {
+		name = "Thoros"
+		dynasty = "Pahlavouni"
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+
+1098.3.1 = {
+	add_government_reform = monarchy_mechanic
+	primary_culture = flemish
+	monarch = {
+		name = "Baldwin"
+		dynasty = "de Boulogne"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}

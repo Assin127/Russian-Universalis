@@ -1,0 +1,43 @@
+### RU001 - Added
+government = monarchy
+
+add_government_reform = feudalism_reform
+primary_culture = avadhi
+add_accepted_culture = bihari
+religion = hinduism
+technology_group = indian
+capital = 2094   
+
+1089.1.1 = {
+	monarch = {
+		name = "Chandradeva"
+		dynasty = "Gahadavala"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1089.1.1 = {
+	heir = {
+		name = "Madanapala"
+		monarch_name = "Madanapala"
+		dynasty = "Gahadavala"
+		birth_date = 1080.1.1
+		death_date = 1113.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+1104.1.1 = {
+	monarch = {
+		name = "Madanapala"
+		dynasty = "Gahadavala"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
