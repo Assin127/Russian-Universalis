@@ -1,7 +1,7 @@
 # 2978 - Arezzo
 
-owner = LAN
-controller = LAN
+owner = TUS
+controller = TUS
 culture = tuscan 
 religion = catholic 
 hre = yes 
@@ -11,12 +11,17 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Arezzo" 
 is_city = yes # Estimated 
-add_core = LAN
+add_core = TUS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1115.7.24 = { 
+	controller = LAN 
+	owner = LAN 
+	add_core = LAN 
+}
 
 1495.1.1 = { hre = no }
 1527.1.1 = { controller = SPA } # War of the League of Cognac

@@ -1,5 +1,6 @@
-owner = PSS
-controller = PSS
+owner = BAV
+controller = BAV
+add_core = BAV
 capital = "Passau"
 is_city = yes
 culture = bavarian
@@ -16,6 +17,10 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1250.1.1 = {
+	owner = PSS
+	controller = PSS
+}
 
 1704.8.13 = {
 	owner = HAB

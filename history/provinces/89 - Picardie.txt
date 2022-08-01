@@ -1,8 +1,8 @@
 # 89 Picardie - Principal cities: Amiens
 
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = AMI
+controller = AMI
+add_core = AMI
 capital = "Amiens"
 is_city = yes
 culture = cosmopolitan_french
@@ -19,6 +19,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1185.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
 
 1435.1.1 = {
 	owner = BUR

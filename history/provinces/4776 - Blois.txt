@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = BOI
+controller = BOI
 capital = "Blois"
 is_city = yes
 culture = cosmopolitan_french
@@ -9,12 +9,18 @@ base_tax = 4
 base_production = 4
 trade_goods = wine
 base_manpower = 3
+add_core = BOI
 add_core = ORL
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1391.7.15 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
 1444.1.1  = {
 	owner = ORL
 	controller = ORL

@@ -1,7 +1,7 @@
 #1023 - Echizen
 
-owner = SBA
-controller = SBA
+owner = JAP
+controller = JAP
 culture = japanese
 religion = shinto
 capital = "Takefu"
@@ -11,8 +11,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = SBA
-add_core = ASA
+add_core = JAP
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -20,6 +19,12 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
+1192.1.1 = {
+	owner = SBA
+	controller = SBA
+	add_core = SBA
+	add_core = ASA
+}
 1471.7.1 = { owner = ASA controller = ASA }
 1471.7.1 = { capital = "Ichijodani" }
 1487.1.1 = { remove_core = SBA }

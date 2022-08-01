@@ -1,7 +1,7 @@
 # 175 Armagnac - Principal cities: Auch
 
-owner = FRA
-controller = FRA
+owner = AMG
+controller = AMG
 capital = "Auch"
 is_city = yes
 culture = gascon

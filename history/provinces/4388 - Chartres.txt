@@ -1,7 +1,7 @@
 # 4388 Chartres
 
-owner = FRA
-controller = FRA
+owner = BOI
+controller = BOI
 capital = "Chartres"
 is_city = yes
 culture = cosmopolitan_french
@@ -12,12 +12,17 @@ base_production = 5
 trade_goods = cloth
 base_manpower = 6
 fort_15th = yes
-add_core = FRA
+add_core = BOI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1391.7.15 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
 1420.1.1 = { controller = ENG } # Captured by the English
 1437.1.1 = { controller = FRA } # Retaken by Charles VII
 1571.1.1 = { unrest = 5 } # Unrest spreads in catholic territory: massacres of protestants in Rouen, Orange & Paris

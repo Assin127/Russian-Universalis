@@ -1,5 +1,5 @@
-owner = KNZ
-controller = KNZ
+owner = SWA
+controller = SWA
 capital = "Konstanz"
 is_city = yes
 culture = swabian
@@ -9,6 +9,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 1
 trade_goods = cloth
+add_core = SWA
 add_core = KNZ
 center_of_trade = 1
 
@@ -16,6 +17,11 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+1155.1.1 = {
+	owner = KNZ
+	controller = KNZ
+}
 
 1525.1.1 = {
 	religion = reformed

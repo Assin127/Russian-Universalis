@@ -1,23 +1,41 @@
 #1060 - Irkutsk
 
+owner = KHR
+controller = KHR
+add_core = KHR
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "Irkutsk"
-trade_goods = unknown
+trade_goods = fur
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-native_size = 10
-native_ferocity = 1
-native_hostileness = 3
-
+is_city = yes
 
 
 discovered_by = nomad_group
 discovered_by = BRT
 
-
+1217.1.1 = {
+	owner = MGE
+	controller = MGE
+	add_core = MGE
+}
+1271.1.1 = {
+	owner = YUA
+	controller = YUA
+	add_core = YUA
+}
+1368.1.1 = {
+	owner = ---
+	controller = ---
+	is_city = no
+	native_size = 10
+	native_ferocity = 1
+	native_hostileness = 3
+	trade_goods = unknown
+}
 1633.1.1 = {
 	discovered_by = RUS
 	owner = RUS
@@ -25,5 +43,6 @@ discovered_by = BRT
 	religion = orthodox
 	culture = russian
 	is_city = yes
+	trade_goods = fur ## RU001
 }
 1634.1.1 = { add_core = RUS }

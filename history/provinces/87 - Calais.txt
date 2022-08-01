@@ -1,16 +1,16 @@
 # 87 Calais - Principal cities: Calais
 
-owner = ENG
-controller = ENG 
+owner = BLN
+controller = BLN 
+add_core = BLN
 capital = "Calais"
-culture = wallonian
+culture = flemish
 religion = catholic
 hre = no
 base_tax = 5 
 base_production = 5
 trade_goods = fish
 base_manpower = 3
-add_core = ENG
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -19,6 +19,24 @@ fort_15th = yes
 is_city = yes
 extra_cost = 8
 center_of_trade = 1
+
+1214.1.1 = {
+	owner = FRA
+	controller = FRA 
+	add_core = FRA
+}
+1265.1.1 = {
+	owner = AUV
+	controller = AUV 
+	add_core = AUV
+	remove_core = FRA
+}
+1346.1.1 = {
+	owner = ENG
+	controller = ENG 
+	add_core = ENG
+	remove_core = AUV
+}
 
 1459.1.1 = { unrest = 7 } # War of the Roses in England
 1459.11.1 = { revolt = { type = pretender_rebels size = 2 } controller = REB } # Yorkist control over Calais
@@ -33,3 +51,5 @@ center_of_trade = 1
 1598.1.1 = { controller = FRA } # Treaty of Vervins, Calais back to France
 1648.1.1 = { fort_16th = no fort_17th = yes }
 1715.1.1 = { fort_17th = no fort_18th = yes }
+
+

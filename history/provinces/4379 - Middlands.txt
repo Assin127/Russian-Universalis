@@ -1,7 +1,7 @@
 #4379 - Offaly, Longford, Westmeath, Laois
 
-owner = FLY
-controller = FLY
+owner = MTH
+controller = MTH
 culture = irish
 religion = catholic
 hre = no
@@ -11,12 +11,18 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Annaly"
 is_city = yes
-add_core = FLY
+add_core = MTH
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+1171.1.1 = {
+	owner = FLY
+	controller = FLY
+	add_core = FLY
+	remove_core = MTH
+}
 1525.1.1 = {
 	owner = ENG
 	controller = ENG

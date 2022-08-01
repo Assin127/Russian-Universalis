@@ -1,8 +1,8 @@
 # 95 Breda - Principal cities: Breda
 
-owner = BRB
-controller = BRB
-add_core = BRB
+owner = LUV
+controller = LUV
+add_core = LUV
 is_city = yes
 capital = "Breda"
 culture = dutch
@@ -18,6 +18,15 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1183.1.1 = {
+	owner = BRB
+	controller = BRB
+	add_core = BRB
+	capital = "Brussel"
+}
+1290.1.1 = {
+	remove_core = LUV
+}
 1477.1.5 = { owner = HAB controller = HAB add_core = HAB }
 1519.1.12 = { owner = SPA controller = SPA add_core = SPA remove_core = HAB }
 1549.11.4 = { owner = NED controller = NED add_core = NED remove_core = SPA }

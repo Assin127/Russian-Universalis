@@ -1,7 +1,7 @@
 # 2979 - Novara
 
-owner = MLO
-controller = MLO
+owner = NVA
+controller = NVA
 culture = lombard
 religion = catholic
 hre = yes
@@ -11,7 +11,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Novara"
 is_city = yes	# Estimated
-add_core = MLO
+add_core = NVA
 
 
 
@@ -21,6 +21,11 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1200.1.1 = {
+	owner = MLO
+	controller = MLO
+	add_core = MLO
+}
 1495.1.1 = { hre = no }
 1499.8.10 = { controller = FRA } # Louis XII of France invades...
 1504.1.31 = { owner = FRA add_core = FRA } # ...and seizes Milan, Treaty of Lyon
@@ -65,3 +70,4 @@ discovered_by = ottoman
 	controller = SPI
 	remove_core = FRA
 } # Napoleon abdicates and Victor Emmanuel is able to return to Turin
+

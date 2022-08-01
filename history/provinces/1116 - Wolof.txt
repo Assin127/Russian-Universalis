@@ -1,23 +1,30 @@
 #1116 - Wolof
 
-owner = JOL
-controller = JOL
 culture = senegambian
-is_city = yes
 base_manpower = 2
 religion = shamanism #Fetishism
 capital = "Jowol"
-trade_goods = slaves
+trade_goods = unknown
 hre = no
 base_tax = 3 
 base_production = 3
-add_core = JOL
+native_size = 50
+native_ferocity = 4
+native_hostileness = 9
 
 
 
 discovered_by = sub_saharan
 
 
+1200.1.1 = {
+	owner = JOL
+	controller = JOL
+	add_core = JOL
+	is_city = yes
+	trade_goods = slaves
+	is_city = yes
+}
 1493.1.1 = { unrest = 4 } # Fulani incursions begin
 1549.1.1 = { owner = FUL controller = FUL add_core = FUL } #Fulani kingdom conquers the region under Koli Tengella
 1590.1.1 = { revolt = {} } #Samba Lamu ends instability in Futa Toro, begins period of expansion

@@ -1,10 +1,11 @@
 #265 - Brno
 
-owner = BOH
-controller = BOH
+owner = BRN
+controller = BRN
+add_core = BRN
 capital = "Brünn"
 culture = czech
-religion = hussite
+religion = catholic
 trade_goods = wine 
 hre = yes
 base_tax = 3
@@ -12,7 +13,6 @@ base_production = 3
 base_manpower = 2
 #is_city = yes
 add_core = BOH
-add_core = MVA
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -23,6 +23,18 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1182.1.1 = {
+	owner = MVA
+	controller = MVA
+	add_core = MVA
+}
+1212.7.26 = {
+	owner = BOH
+	controller = BOH
+}
+1415.7.6 = {
+	religion = hussite
+}
 
 1419.12.1 = { revolt = { type = heretic_rebels size = 2 } controller = REB } # Hussite Wars, Battle of Nekmir
 1436.7.5 = { revolt = {} controller = BOH } # Peace is signed in Jihlava

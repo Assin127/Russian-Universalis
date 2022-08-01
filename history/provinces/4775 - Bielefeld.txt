@@ -1,8 +1,8 @@
 # 4775 - Bielefeld
 
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = LPP
 culture = hannoverian
 religion = catholic
@@ -19,6 +19,17 @@ discovered_by = ottoman
 
 hre = yes
 
+1235.8.21 = {
+	owner = LUN
+	controller = LUN
+	add_core = LUN
+}
+1269.1.1 = {
+	owner = BRG
+	controller = BRG
+	add_core = BRG
+	add_core = LPP
+}
 1511.9.6 = { owner = KLE controller = KLE add_core = KLE } # John III of Cleves inherits Berg through his marriage to Maria of Jülich-Berg
 1610.1.1 = { owner = BRA controller = BRA add_core = BRA }
 1701.1.18 = {

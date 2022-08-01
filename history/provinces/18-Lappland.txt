@@ -2,7 +2,7 @@
 
 capital = "Arvidsjaur"
 culture = sapmi
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1 
 base_production = 1
@@ -22,6 +22,7 @@ discovered_by = western
 	is_city = yes
 	add_local_autonomy = 70
 	trade_goods = fur
+	religion = catholic
 }
 1607.1.1 = { capital = "Lycksele" }
 1640.1.2 = { culture = swedish }

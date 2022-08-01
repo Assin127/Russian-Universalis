@@ -1,9 +1,13 @@
 #1127 - Tuat
 
+owner = ALM
+controller = ALM
+add_core = ALM
+is_city = yes
 culture = tuareg
 capital = "Tawat"
 religion = sunni
-trade_goods = unknown
+trade_goods = salt
 hre = no
 base_tax = 1 
 base_production = 1
@@ -18,6 +22,12 @@ native_size = 30
 native_ferocity = 4
 native_hostileness = 9
 
+1147.1.1 = {
+	owner = ---
+	controller = ---
+	remove_core = ALM
+	trade_goods = unknown
+}
 1555.1.1 = {
 	owner = MOR
 	controller = MOR

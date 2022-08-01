@@ -1,7 +1,8 @@
 #1758 - Hannover
 
-owner = BRU
-controller = BRU
+owner = SAX
+controller = SAX
+add_core = SAX
 culture = lower_saxon
 religion = catholic
 capital = "Hannover"
@@ -21,7 +22,15 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1235.8.21 = {
+	owner = LUN
+	controller = LUN
+	add_core = LUN
+}
+1269.1.1 = {
+	owner = BRU
+	controller = BRU
+}
 1529.1.1 = { religion = protestant }
 
 1692.1.1 = {

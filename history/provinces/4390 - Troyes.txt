@@ -1,7 +1,7 @@
 # 4390 - Troyes
 
-owner = FRA
-controller = FRA
+owner = CHP
+controller = CHP
 capital = "Troyes"
 is_city = yes
 culture = cosmopolitan_french
@@ -12,12 +12,16 @@ base_production = 5
 trade_goods = iron
 base_manpower = 3
 add_core = CHP
-add_core = FRA
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1314.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
 
 1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
 1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism

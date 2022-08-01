@@ -1,5 +1,5 @@
-owner = BOH
-controller = BOH
+owner = OLO
+controller = OLO
 capital = "Ostrava"
 culture = czech
 religion = catholic
@@ -10,7 +10,7 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_core = BOH
-add_core = MVA
+add_core = OLO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -21,7 +21,18 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1182.1.1 = {
+	owner = MVA
+	controller = MVA
+	add_core = MVA
+}
+1212.7.26 = {
+	owner = BOH
+	controller = BOH
+}
+1415.7.6 = {
+	religion = hussite
+}
 1419.12.1 = { revolt = { type = heretic_rebels size = 2 } controller = REB } # Hussite Wars, Battle of Nekmir
 1436.7.5 = { revolt = {} controller = BOH } # Peace is signed in Jihlava
 1457.1.1 = { unrest = 5 } # George of Podiebrand had to secure recognition from the German and Catholic towns

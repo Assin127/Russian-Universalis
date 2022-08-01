@@ -1,13 +1,9 @@
 #1129 - Azawadd
 
-owner = TMB
-controller = TMB # under Tuareg rule to 1468
-add_core = TMB
-is_city = yes
 culture = tuareg
 religion = sunni
 capital = "Arawan"
-trade_goods = salt
+trade_goods = unknown
 hre = no
 base_tax = 1 
 base_production = 1
@@ -21,7 +17,22 @@ native_hostileness = 10
 discovered_by = sub_saharan
 discovered_by = MOR
 
-
+1100.1.1 = {
+	owner = TMB
+	controller = TMB
+	add_core = TMB
+	trade_goods = salt
+	is_city = yes
+}
+1324.1.1 = {
+	owner = MAL
+	controller = MAL
+	add_core = MAL
+}
+1400.1.1 = {
+	owner = TMB
+	controller = TMB
+}
 1517.1.1 = {	
 	owner = SON
 	controller = SON

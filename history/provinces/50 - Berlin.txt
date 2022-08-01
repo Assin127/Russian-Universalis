@@ -1,12 +1,12 @@
 # NB: If changing the ID for this province, code (CPowerSpending::OnExecute) also has to change for achievement_tear_down_this_wall to work.
 #50 - Brandenburg
 
-owner = BRA
-controller = BRA
-add_core = BRA
-culture = saxon
-religion = catholic
-hre = yes
+owner = LUT 
+controller = LUT 
+add_core = LUT 
+culture = lutic
+religion = slavic
+hre = no
 base_tax = 4
 base_production = 4
 trade_goods = cloth
@@ -21,7 +21,14 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-
+1157.10.3 = {
+	hre = yes
+	owner = BRA
+	controller = BRA
+	add_core = BRA
+	culture = saxon
+	religion = catholic
+}
 1539.1.1 = { religion = protestant }
 1594.1.1 = { fort_15th = no fort_16th = yes } #Spandau
 1648.1.1 = { fort_16th = no fort_17th = yes } 

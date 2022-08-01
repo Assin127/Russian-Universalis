@@ -1,8 +1,8 @@
 # 186 Champagne - Principal cities: Reims
 
-owner = FRA
-controller = FRA
-capital = "Reims"
+owner = CHP
+controller = CHP
+capital = "Provins"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic
@@ -12,7 +12,6 @@ base_production = 6
 trade_goods = wine
 base_manpower = 4
 add_core = CHP
-add_core = FRA
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -20,6 +19,12 @@ discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
 
+1314.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	capital = "Reims"
+}
 1420.5.12 = { owner = ENG controller = ENG add_core = ENG } # Treaty of Troyes, ceded to the English
 1429.1.1 = { owner = FRA controller = FRA remove_core = ENG } # Retaken by the French
 1466.2.10 = { add_core = BUR } # Treaty of Conflans, Champagne is promised to Charles the Bold as dowry

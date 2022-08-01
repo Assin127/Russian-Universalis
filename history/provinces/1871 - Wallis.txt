@@ -1,8 +1,8 @@
 #1871 - Wallis
 
-owner = SAV
-controller = SAV
-culture = swiss
+owner = VLA
+controller = VLA
+culture = piedmontese
 religion = catholic
 capital = "Sion"
 trade_goods = livestock
@@ -11,12 +11,19 @@ base_tax = 3
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = SAV
+add_core = VLA
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1350.1.1 = {
+	owner = SAV
+	controller = SAV
+	add_core = SAV
+}
+1444.1.1 = { add_core = SWI }
+1457.1.1 = { culture = swiss }
 1499.1.1 = { owner = FRA controller = FRA add_core = FRA } 
 1513.7.3 = { unrest = 7 } # Luzern Peasant War
 1515.1.1 = { unrest = 0 }

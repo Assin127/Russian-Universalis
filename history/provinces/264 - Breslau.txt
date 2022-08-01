@@ -1,17 +1,18 @@
 #264 - Breslau (Breslau+Brieg+Öls+Wartenberg+Wohlau/Steinau)
 
-owner = OPL
-controller = OPL
+owner = POL 
+controller = POL 
+add_core = POL 
 culture = schlesian
 religion = catholic
 capital = "Breslau"
 trade_goods = cloth
-hre = yes
+hre = no
 base_tax = 5 
 base_production = 5
 is_city = yes 
 base_manpower = 3
-add_core = OPL
+add_core = WRO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -24,6 +25,21 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
+1138.1.1 = {
+	owner = SIL
+	controller = SIL
+	add_core = SIL
+	hre = yes
+}
+1173.1.1 = {
+	owner = WRO
+	controller = WRO
+}
+1290.1.1 = {
+	owner = LEG
+	controller = LEG
+	add_core = LEG
+}
 1470.1.1 = {
 	trade_goods = paper
 }

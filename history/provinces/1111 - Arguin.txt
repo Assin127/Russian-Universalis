@@ -1,18 +1,28 @@
 #1111 - Arguin
 
+owner = ALM
+controller = ALM
+add_core = ALM
 culture = berber
 religion = sunni
+is_city = yes
 capital = "Arguin"
-trade_goods = unknown
+trade_goods = fish
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-native_size = 50
-native_ferocity = 4
-native_hostileness = 9
 
-
+1147.1.1 = {
+	owner = ---
+	controller = ---
+	remove_core = ALM
+	trade_goods = unknown
+	native_size = 50
+	native_ferocity = 4
+	native_hostileness = 9
+	is_city = no
+}
 1443.1.1 = { discovered_by = POR }
 1445.1.1 = { #Portuguese Trading Post
 	owner = POR
@@ -76,3 +86,5 @@ native_hostileness = 9
 	is_city = no
 	remove_core = FRA
 }
+
+

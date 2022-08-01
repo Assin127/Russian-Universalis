@@ -1,16 +1,13 @@
 #Kola
 
-owner = NOV
-controller = NOV 
 capital = "Kola"
 culture = sapmi
-religion = orthodox
+religion = norse_pagan_reformed
 hre = no
 add_core = NOV
 base_tax = 1 
 base_production = 1
-is_city = yes
-trade_goods = fur
+trade_goods = unknown
 base_manpower = 1
 native_hostileness = 1
 native_size = 2
@@ -21,7 +18,15 @@ native_ferocity = 2
 discovered_by = western
 discovered_by = eastern
 
-add_local_autonomy = 25
 
+1216.1.1 = {
+	owner = NOV
+	controller = NOV
+	add_core = NOV
+	religion = orthodox
+	trade_goods = fur
+	is_city = yes
+	add_local_autonomy = 25
+}
 1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = NOV }
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }

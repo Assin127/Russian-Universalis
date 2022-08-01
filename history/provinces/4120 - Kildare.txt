@@ -1,7 +1,7 @@
 #4120 - Kildare
 
-owner = KID
-controller = KID
+owner = LEI
+controller = LEI
 culture = irish
 religion = catholic
 hre = no
@@ -11,12 +11,18 @@ trade_goods = grain
 base_manpower = 3
 capital = "Naas"
 is_city = yes
-add_core = KID
+add_core = LEI
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+1297.1.1 = {
+	owner = KID
+	controller = KID
+	add_core = KID
+	remove_core = LEI
+}
 1537.2.3 = {
 	owner = ENG
 	controller = ENG

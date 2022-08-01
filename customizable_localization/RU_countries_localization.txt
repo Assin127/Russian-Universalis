@@ -2,24 +2,42 @@
 
 ####################################################################################################
 ###																								 ###
-###							  Падежи государств с прописной буквой								 ###
+###							  РџР°РґРµР¶Рё РіРѕСЃСѓРґР°СЂСЃС‚РІ СЃ РїСЂРѕРїРёСЃРЅРѕР№ Р±СѓРєРІРѕР№								 ###
 ###																								 ###
 ###																								 ###
-###						  Падежи прописаны с уже готовыми окончаниями!							 ###
+###						  РџР°РґРµР¶Рё РїСЂРѕРїРёСЃР°РЅС‹ СЃ СѓР¶Рµ РіРѕС‚РѕРІС‹РјРё РѕРєРѕРЅС‡Р°РЅРёСЏРјРё!							 ###
 ###																								 ###
-###				  Именительный (Кто, что?) - "[TUR.GetName]" : "Османы"  						 ###
-###				  Родительный (Кого, чего?) - "[TUR.GetTagRD]" : "Османов"  					 ###
-###				  Дательный (Кому, чему?) - "[TUR.GetTagDT]" : "Османам"  						 ###
-###				  Винительный (Куда?) - "[TUR.GetTagVN]" : "Османскую империю" 				 	 ###
-###				  Творительный (Кем, чем?) - "[TUR.GetTagTV]" : "Османами"  					 ###
-###				  Предложный (О ком, о чём?) - "[TUR.GetTagPR]" : "Османах"  					 ###
+###				  РРјРµРЅРёС‚РµР»СЊРЅС‹Р№ (РљС‚Рѕ, С‡С‚Рѕ?) - "[TUR.GetName]" : "РћСЃРјР°РЅС‹"  						 ###
+###				  Р РѕРґРёС‚РµР»СЊРЅС‹Р№ (РљРѕРіРѕ, С‡РµРіРѕ?) - "[TUR.GetTagRD]" : "РћСЃРјР°РЅРѕРІ"  					 ###
+###				  Р”Р°С‚РµР»СЊРЅС‹Р№ (РљРѕРјСѓ, С‡РµРјСѓ?) - "[TUR.GetTagDT]" : "РћСЃРјР°РЅР°Рј"  						 ###
+###				  Р’РёРЅРёС‚РµР»СЊРЅС‹Р№ (РљСѓРґР°?) - "[TUR.GetTagVN]" : "РћСЃРјР°РЅСЃРєСѓСЋ РёРјРїРµСЂРёСЋ" 				 	 ###
+###				  РўРІРѕСЂРёС‚РµР»СЊРЅС‹Р№ (РљРµРј, С‡РµРј?) - "[TUR.GetTagTV]" : "РћСЃРјР°РЅР°РјРё"  					 ###
+###				  РџСЂРµРґР»РѕР¶РЅС‹Р№ (Рћ РєРѕРј, Рѕ С‡С‘Рј?) - "[TUR.GetTagPR]" : "РћСЃРјР°РЅР°С…"  					 ###
 ###																								 ###
-###						  Локализация в: gks_countries, gks_converter							 ###
+###						  Р›РѕРєР°Р»РёР·Р°С†РёСЏ РІ: gks_countries, gks_converter							 ###
 ###																								 ###
 ####################################################################################################
 
 defined_text = {
     name = GetTagRD
+    text = {
+        localisation_key = TAG_RD_WRO
+        trigger = {
+			tag = WRO
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_LEG
+        trigger = {
+			tag = LEG
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_PMR
+        trigger = {
+			tag = PMR
+		}
+    }
     text = {
         localisation_key = TAG_RD_ABO
         trigger = {
@@ -36,6 +54,12 @@ defined_text = {
         localisation_key = TAG_RD_ABS
         trigger = {
 			tag = ABS
+		}
+    }
+	text = {
+        localisation_key = TAG_RD_ALD
+        trigger = {
+			tag = ALD
 		}
     }
     text = {
@@ -192,6 +216,12 @@ defined_text = {
         localisation_key = TAG_RD_CER
         trigger = {
 			tag = CER
+		}
+    }
+    text = {
+        localisation_key = TAG_RD_CHB
+        trigger = {
+			tag = CHB
 		}
     }
     text = {
@@ -657,6 +687,12 @@ defined_text = {
 		}
     }
     text = {
+        localisation_key = TAG_RD_RAV
+        trigger = {
+			tag = RAV
+		}
+    }
+    text = {
         localisation_key = TAG_RD_RET
         trigger = {
 			tag = RET
@@ -919,6 +955,24 @@ defined_text = {
 defined_text = {
     name = GetTagVN
     text = {
+        localisation_key = TAG_VN_WRO
+        trigger = {
+			tag = WRO
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_LEG
+        trigger = {
+			tag = LEG
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_PMR
+        trigger = {
+			tag = PMR
+		}
+    }
+    text = {
         localisation_key = TAG_VN_ABO
         trigger = {
 			tag = ABO
@@ -934,6 +988,12 @@ defined_text = {
         localisation_key = TAG_VN_ABS
         trigger = {
 			tag = ABS
+		}
+    }
+	text = {
+        localisation_key = TAG_VN_ALD
+        trigger = {
+			tag = ALD
 		}
     }
     text = {
@@ -1090,6 +1150,12 @@ defined_text = {
         localisation_key = TAG_VN_CER
         trigger = {
 			tag = CER
+		}
+    }
+    text = {
+        localisation_key = TAG_VN_CHB
+        trigger = {
+			tag = CHB
 		}
     }
     text = {
@@ -1555,6 +1621,12 @@ defined_text = {
 		}
     }
     text = {
+        localisation_key = TAG_VN_RAV
+        trigger = {
+			tag = RAV
+		}
+    }
+    text = {
         localisation_key = TAG_VN_RET
         trigger = {
 			tag = RET
@@ -1817,6 +1889,24 @@ defined_text = {
 defined_text = {
     name = GetTagTV
     text = {
+        localisation_key = TAG_TV_WRO
+        trigger = {
+			tag = WRO
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_LEG
+        trigger = {
+			tag = LEG
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_PMR
+        trigger = {
+			tag = PMR
+		}
+    }
+    text = {
         localisation_key = TAG_TV_ABO
         trigger = {
 			tag = ABO
@@ -1832,6 +1922,12 @@ defined_text = {
         localisation_key = TAG_TV_ABS
         trigger = {
 			tag = ABS
+		}
+    }
+	text = {
+        localisation_key = TAG_TV_ALD
+        trigger = {
+			tag = ALD
 		}
     }
     text = {
@@ -1988,6 +2084,12 @@ defined_text = {
         localisation_key = TAG_TV_CER
         trigger = {
 			tag = CER
+		}
+    }
+    text = {
+        localisation_key = TAG_TV_CHB
+        trigger = {
+			tag = CHB
 		}
     }
     text = {
@@ -2453,6 +2555,12 @@ defined_text = {
 		}
     }
     text = {
+        localisation_key = TAG_TV_RAV
+        trigger = {
+			tag = RAV
+		}
+    }
+    text = {
         localisation_key = TAG_TV_RET
         trigger = {
 			tag = RET
@@ -2716,6 +2824,24 @@ defined_text = {
 defined_text = {
     name = GetTagPR
     text = {
+        localisation_key = TAG_PR_WRO
+        trigger = {
+			tag = WRO
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_LEG
+        trigger = {
+			tag = LEG
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_PMR
+        trigger = {
+			tag = PMR
+		}
+    }
+    text = {
         localisation_key = TAG_PR_ABO
         trigger = {
 			tag = ABO
@@ -2731,6 +2857,12 @@ defined_text = {
         localisation_key = TAG_PR_ABS
         trigger = {
 			tag = ABS
+		}
+    }
+	text = {
+        localisation_key = TAG_PR_ALD
+        trigger = {
+			tag = ALD
 		}
     }
     text = {
@@ -2887,6 +3019,12 @@ defined_text = {
         localisation_key = TAG_PR_CER
         trigger = {
 			tag = CER
+		}
+    }
+    text = {
+        localisation_key = TAG_PR_CHB
+        trigger = {
+			tag = CHB
 		}
     }
     text = {
@@ -3352,6 +3490,12 @@ defined_text = {
 		}
     }
     text = {
+        localisation_key = TAG_PR_RAV
+        trigger = {
+			tag = RAV
+		}
+    }
+    text = {
         localisation_key = TAG_PR_RET
         trigger = {
 			tag = RET
@@ -3615,6 +3759,24 @@ defined_text = {
 defined_text = {
     name = GetTagDT
     text = {
+        localisation_key = TAG_DT_WRO
+        trigger = {
+			tag = WRO
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_LEG
+        trigger = {
+			tag = LEG
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_PMR
+        trigger = {
+			tag = PMR
+		}
+    }
+    text = {
         localisation_key = TAG_DT_ABO
         trigger = {
 			tag = ABO
@@ -3630,6 +3792,12 @@ defined_text = {
         localisation_key = TAG_DT_ABS
         trigger = {
 			tag = ABS
+		}
+    }
+	text = {
+        localisation_key = TAG_DT_ALD
+        trigger = {
+			tag = ALD
 		}
     }
     text = {
@@ -3786,6 +3954,12 @@ defined_text = {
         localisation_key = TAG_DT_CER
         trigger = {
 			tag = CER
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_CHB
+        trigger = {
+			tag = CHB
 		}
     }
     text = {
@@ -4248,6 +4422,12 @@ defined_text = {
         localisation_key = TAG_DT_PRS
         trigger = {
 			tag = PRS
+		}
+    }
+    text = {
+        localisation_key = TAG_DT_RAV
+        trigger = {
+			tag = RAV
 		}
     }
     text = {

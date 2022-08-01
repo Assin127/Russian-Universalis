@@ -1,8 +1,8 @@
 # - Ingolstadt + Neuburg
 
-owner = ING
-controller = ING
-add_core = ING
+owner = BAV
+controller = BAV
+add_core = BAV
 culture = bavarian
 religion = catholic
 base_tax = 5 
@@ -20,6 +20,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1392.1.1 = {
+	owner = ING
+	controller = ING 
+	add_core = ING
+}
 
 #Last of the Ingolstadt Wittelsbachs dies
 1447.5.1 = {

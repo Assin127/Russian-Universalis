@@ -1,6 +1,7 @@
 culture = swabian
-owner = WUR
-controller = WUR
+owner = SWA
+controller = SWA
+add_core = SWA
 add_core = WUR
 capital = "Stuttgart"
 religion = catholic
@@ -19,6 +20,10 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1083.1.1 = {
+	owner = WUR
+	controller = WUR
+}
 1519.1.1 = { 
 	controller = HAB 
 	owner = HAB 

@@ -1,7 +1,8 @@
 # 4741 - Halle
 
-owner = MAG
-controller = MAG
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = MAG
 culture = saxon
 religion = catholic
@@ -20,7 +21,10 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1218.1.1 = {
+	owner = MAG
+	controller = MAG 
+}
 1524.1.1 = { religion = protestant }
 1650.1.1 = { culture = prussian }
 1680.10.4 = {

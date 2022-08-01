@@ -4,7 +4,7 @@ owner = AQU
 controller = AQU
 culture = venetian 
 religion = catholic 
-hre = no 
+hre = yes 
 base_tax = 5
 base_production = 5    
 trade_goods = wine
@@ -25,6 +25,7 @@ discovered_by = ottoman
 	owner = VEN
 	controller = VEN
 	add_core = VEN
+	hre = no
 } # To Venice
 1593.1.1 = { fort_16th = yes } 
 1797.10.17 = {

@@ -22,7 +22,7 @@ add_province_triggered_modifier = non_catholic_rome
 extra_cost = 8
 center_of_trade = 1
 
-
+1274.1.1 = { hre = no }
 1408.1.1 = { owner = NAP controller = NAP add_core = NAP } # Ladislas takes control of Ancona
 1414.8.6 = { owner = PAP controller = PAP remove_core = NAP }
 1750.1.1 = { add_core = ITA } 

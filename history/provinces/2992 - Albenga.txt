@@ -1,8 +1,8 @@
 # - Albenga
 
-owner = GEN
-controller = GEN
-add_core = GEN
+owner = SVN
+controller = SVN
+add_core = SVN
 culture = ligurian
 religion = catholic
 hre = yes
@@ -21,6 +21,20 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1131.1.1 = {
+	owner = SAV
+	controller = SAV
+	add_core = SAV
+}
+1191.4.10 = {
+	owner = SVN
+	controller = SVN
+}
+1440.1.1 = {
+	owner = GEN
+	controller = GEN
+	add_core = GEN
+}
 1477.3.20 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB }
 1477.4.28 = { revolt = {} controller = GEN }
 1478.7.7 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB }

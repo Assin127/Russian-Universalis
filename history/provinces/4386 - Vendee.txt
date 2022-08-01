@@ -1,7 +1,7 @@
 # 4111 - Vendée
 
-owner = FRA
-controller = FRA
+owner = AQT
+controller = AQT
 capital = "Luçon"
 is_city = yes
 culture = cosmopolitan_french
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 trade_goods = salt
 base_manpower = 3
-add_core = FRA
+add_core = AQT
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -19,6 +19,32 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
+1137.7.25 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
+1152.3.21 = {
+	owner = AQT
+	controller = AQT
+}
+1152.5.18 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+}
+1224.7.15 = {
+	owner = FRA
+	controller = FRA
+}
+1360.1.1 = {
+	owner = ENG
+	controller = ENG
+}
+1372.8.23 = {
+	owner = FRA
+	controller = FRA
+}
 1560.1.1 = { religion = reformed }
 1565.1.1 = { unrest = 8 } # France is restless once again as ultra-catholic intentions become clear
 1568.9.1 = { unrest = 15 } # Catherine de Medici and Charles IX side with the Guise faction, religious intolerance peaks

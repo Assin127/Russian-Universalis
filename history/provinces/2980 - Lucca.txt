@@ -1,7 +1,8 @@
 # Lucca
 
-owner = LUC
-controller = LUC
+owner = TUS
+controller = TUS
+add_core = TUS
 add_core = LUC
 culture = tuscan
 religion = catholic
@@ -19,7 +20,16 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-
+1115.7.24 = {
+	owner = LAN
+	controller = LAN
+	add_core = LAN
+}
+1119.1.1 = {
+	owner = LUC
+	controller = LUC
+	remove_core = LAN
+}
 1495.1.1 = { hre = no }
 1805.6.10 = {
 	owner = FRA
@@ -32,3 +42,4 @@ center_of_trade = 1
 	controller = LUC
 	remove_core = FRA
 } # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+

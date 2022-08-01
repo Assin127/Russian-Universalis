@@ -1,7 +1,7 @@
 # 4769 - Jülich
 
-owner = BRG
-controller = BRG
+owner = JUL
+controller = JUL
 culture = hessian
 religion = catholic
 trade_goods = grain
@@ -9,7 +9,7 @@ capital = "Jülich"
 base_tax = 3
 base_production = 3
 is_city = yes
-add_core = BRG
+add_core = JUL
 base_manpower = 2
 hre = yes
 
@@ -19,6 +19,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1166.1.1 = {
+	owner = BRG
+	controller = BRG
+	add_core = BRG
+}
 1511.9.6 = { owner = KLE controller = KLE add_core = KLE } # John III of Cleves inherits Berg through his marriage to Maria of Jülich-Berg
 1547.1.1 = { fort_15th = yes } # Renaissance citadel built after a fire ravages Julich
 1615.10.13 = { owner = PAL controller = PAL add_core = PAL remove_core = BRG } # End of the War of the Jülich Succession

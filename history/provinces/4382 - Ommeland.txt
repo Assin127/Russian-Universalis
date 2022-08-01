@@ -1,7 +1,8 @@
 # 4383 Ommeland - Groningen, Ommeland & Drenthe
 
-owner = FRI
-controller = FRI
+owner = UTR
+controller = UTR
+add_core = UTR
 capital = "Groningen"
 is_city = yes
 culture = frisian
@@ -18,6 +19,11 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1101.4.4 = {
+	owner = FRI
+	controller = FRI
+	remove_core = UTR
+}
 1445.1.1 = { add_core = BUR }
 1473.2.23 = { owner = BUR controller = BUR } # Charles the Bold annexes Friesland
 1477.1.5 = { owner = FRI controller = FRI add_core = HAB remove_core = BUR } # Charles the Bold dies and Friesland is re-established

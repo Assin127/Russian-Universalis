@@ -24,5 +24,6 @@ discovered_by = BRT
 	controller = RUS
 	religion = orthodox
 	culture = russian
+	is_city = yes ## RU001
 }
 1657.1.1 = { add_core = RUS }

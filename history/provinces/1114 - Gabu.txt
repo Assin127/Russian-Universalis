@@ -1,9 +1,6 @@
 #1114 - Gabu
 
-owner = MAL
-controller = MAL
 culture = senegambian
-is_city = yes
 base_manpower = 2
 religion = shamanism #Fetishism
 capital = "Kansala"
@@ -11,15 +8,24 @@ trade_goods = ivory
 hre = no
 base_tax = 3 
 base_production = 3
-add_core = MAL 
-add_core = KBU #Subject province within the empire
+native_size = 50
+native_ferocity = 4
+native_hostileness = 9
 discovered_by = sub_saharan
-add_local_autonomy = 50
 1446.1.1 = { discovered_by = POR }
 extra_cost = 8
 center_of_trade = 1
 
-
+1230.1.1 = {
+	owner = MAL
+	controller = MAL
+	add_core = MAL
+	add_core = KBU #Subject province within the empire
+	is_city = yes
+	trade_goods = ivory
+	is_city = yes
+	add_local_autonomy = 50
+}
 1497.1.1 = { unrest = 4 } #Fulani incursions begin
 1499.1.1 = { unrest = 0 } #Fulani checked by Kaabu governors 
 1537.1.1 = { owner = KBU controller = KBU add_core = KBU remove_core = MAL } #Kaabu declares independece from Mali

@@ -1,22 +1,30 @@
 #315 - Finnmark
 
-owner = NOR
-controller = NOR
+
 culture = sapmi
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-trade_goods = fish
+trade_goods = unknown
 capital = "Vardø"
-is_city = yes
-add_core = NOR
-add_local_autonomy = 70
 discovered_by = eastern
 discovered_by = western
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
 
 
+1326.6.3 = {
+	owner = NOR
+	controller = NOR
+	add_core = NOR
+	is_city = yes
+	trade_goods = fish
+	add_local_autonomy = 70
+	religion = catholic
+}
 1450.1.1 = { culture = norwegian }
 1536.1.1 = { religion = protestant owner = DAN controller = DAN add_core = DAN }
 1814.1.14 = {

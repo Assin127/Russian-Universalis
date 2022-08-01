@@ -1,8 +1,9 @@
 # 88 Artois - Principal cities: Arras, Saint-Omer & Lille
 
-owner = BUR
-controller = BUR
-add_core = BUR
+owner = FLA
+controller = FLA
+add_core = FLA
+add_core = ART
 capital = "Arras"
 is_city = yes
 culture = wallonian
@@ -18,6 +19,15 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1191.1.1 = {
+	owner = ART
+	controller = ART
+}
+1302.7.11 = {
+	owner = BUR
+	controller = BUR
+	add_core = BUR
+}
 
 1477.1.5 = { owner = FRA controller = FRA add_core = FRA remove_core = BUR } # Charles the Bold dies and Louis XII takes Artois
 1493.8.19 = { owner = HAB controller = HAB add_core = HAB } # Frederick III dies, Charles VII cedes Artois to Maximilian I von Habsburg

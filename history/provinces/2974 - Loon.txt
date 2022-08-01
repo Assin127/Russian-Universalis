@@ -1,10 +1,11 @@
 #2974 Loon
 
-owner = LIE
-controller = LIE
+owner = LOO
+controller = LOO
+add_core = LOO
 add_core = LIE
 is_city = yes
-capital = "Loon"
+capital = "Borgloon"
 culture = flemish
 religion = catholic
 hre = yes
@@ -18,6 +19,15 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1200.1.1 = {
+	capital = "Hasselt"
+}
+1366.1.1 = {
+	owner = LIE
+	controller = LIE
+	add_core = LIE
+	capital = "Loon"
+}
 1453.1.1 = { add_core = BUR }
 1465.1.1 = { unrest = 4 } # Revolt imminent
 1465.4.22 = { unrest = 8 } # Citizens revolt
@@ -39,3 +49,4 @@ discovered_by = ottoman
 	add_core = NED
 	remove_core = FRA
 } # The United Kingdom of the Netherlands
+

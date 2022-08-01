@@ -1,11 +1,11 @@
 #47 - Stralsund
 
-owner = WOL
-controller = WOL
-add_core = WOL
-culture = pommeranian
-religion = catholic
-hre = yes
+owner = RUG 
+controller = RUG 
+add_core = RUG 
+culture = rani
+religion = slavic
+hre = no
 base_tax = 2 
 base_production = 2
 trade_goods = fish
@@ -19,6 +19,22 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
+1168.1.1 = {
+	religion = catholic
+}
+1326.1.1 = {
+	hre = yes
+	owner = MKL
+	controller = MKL
+	add_core = MKL
+}
+1355.1.1 = {
+	owner = WOL
+	controller = WOL
+	add_core = WOL
+	culture = pommeranian
+	remove_core = MKL
+}
 1529.1.1 = { add_core = BRA }
 1534.1.1 = { religion = protestant  }
 1630.1.1 = { base_tax = 4 } # Devastating population losses in Thirty Years War

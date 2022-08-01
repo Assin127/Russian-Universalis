@@ -5,7 +5,7 @@ controller = BRA
 add_core = BRA
 culture = saxon
 religion = catholic
-hre = yes
+hre = no
 base_tax = 4
 base_production = 3
 trade_goods = iron
@@ -20,7 +20,9 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1157.10.3 = {
+	hre = yes
+}
 1539.1.1 = { religion = protestant }
 1650.1.1 = { culture = prussian }
 1701.1.18 = {

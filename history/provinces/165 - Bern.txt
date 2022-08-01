@@ -1,7 +1,7 @@
 #165 - Bern
 
-owner = SWI
-controller = SWI 
+owner = BU0
+controller = BU0 
 culture = swiss
 religion = catholic
 capital = "Bern"
@@ -12,7 +12,7 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = SWI
+add_core = BU0
 extra_cost = 8
 center_of_trade = 1
 
@@ -22,6 +22,18 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1191.1.1 = {
+	owner = SWA
+	controller = SWA 
+	add_core = SWA
+	remove_core = BU0
+}
+1323.1.1 = {
+	owner = SWI
+	controller = SWI 
+	add_core = SWI
+	remove_core = SWA
+}
 1513.7.3 = { unrest = 7 } # Luzern Peasant War
 1515.1.1 = { unrest = 0 }
 1528.1.1 = { religion = reformed }

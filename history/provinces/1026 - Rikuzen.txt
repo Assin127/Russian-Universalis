@@ -1,7 +1,7 @@
 #1026 - Mutsu
 
-owner = DTE
-controller = DTE
+owner = JAP 
+controller = JAP 
 culture = togoku
 religion = shinto
 capital = "Aizu"
@@ -11,7 +11,7 @@ base_tax = 3
 base_manpower = 3
 base_production = 3
 is_city = yes
-add_core = DTE
+add_core = JAP 
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -19,6 +19,11 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
+1192.1.1 = {
+	owner = DTE
+	controller = DTE
+	add_core = DTE
+}
 1520.1.1 = { fort_15th = yes } # Iwadeyama Castle, Estimation
 1542.1.1 = { discovered_by = POR }
 1601.6.28 = { capital = "Sendai" }

@@ -1,7 +1,7 @@
 #370 - Reykjavik
 
-owner = NOR
-controller = NOR 
+owner = ICE
+controller = ICE 
 culture = icelandic
 religion = catholic
 hre = no
@@ -12,10 +12,14 @@ base_manpower = 1
 add_local_autonomy = 25
 capital = "Reykjavik"
 is_city = yes 	
-add_core = NOR
 add_core = ICE
 discovered_by = western
 
+1262.1.1 = {
+	owner = NOR
+	controller = NOR
+	add_core = NOR 
+}
 
 1536.1.1 = {
 	religion = protestant

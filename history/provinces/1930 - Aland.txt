@@ -1,8 +1,5 @@
 #Åland
 
-owner = SWE
-controller = SWE
-add_core = SWE
 culture = swedish
 religion = catholic
 capital = "Mariehamn"
@@ -11,14 +8,22 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-trade_goods = fish
-
-
+trade_goods = unknown
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1155.1.1 = {
+	owner = SWE
+	controller = SWE
+	add_core = SWE
+	is_city = yes
+	trade_goods = fish
+}
 
 1527.6.1 = { religion = protestant}
 1563.6.7 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # Duke Johan is sentenced to death

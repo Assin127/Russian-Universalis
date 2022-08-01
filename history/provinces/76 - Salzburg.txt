@@ -1,7 +1,8 @@
 #76 - Salzburg
 
-owner = SLZ
-controller = SLZ 
+owner = BAV
+controller = BAV 
+add_core = BAV
 culture = bavarian
 religion = catholic
 capital = "Salzburg"
@@ -22,6 +23,10 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1278.1.1 = {
+	owner = SLZ
+	controller = SLZ 
+}
 1731.11.11 = { unrest = 5 } # Leopold von Firmian declared that all Protestants would be banished
 1732.1.1 = { unrest = 0 }
 1803.1.1 = {

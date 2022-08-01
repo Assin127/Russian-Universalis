@@ -1,16 +1,17 @@
 # Urbino
 
-owner = URB
-controller = URB
+owner = TUS
+controller = TUS
 culture = umbrian 
 religion = catholic 
-hre = no 
+hre = yes 
 base_tax = 5
 base_production = 5
 trade_goods = grain
 base_manpower = 2
 capital = "Urbino" 
 is_city = yes
+add_core = TUS
 add_core = URB
 discovered_by = western
 discovered_by = eastern
@@ -20,6 +21,11 @@ extra_cost = 8
 center_of_trade = 1
 
 
+1213.1.1 = {
+	owner = URB
+	controller = URB
+	remove_core = TUS
+}
 1408.1.1 = { owner = NAP controller = NAP add_core = NAP } # Ladislas takes control of Ancona
 1414.8.6 = { owner = URB controller = URB remove_core = NAP }
 1626.1.1 = { controller = PAP owner = PAP add_core = PAP } # Annexed to the Holy See

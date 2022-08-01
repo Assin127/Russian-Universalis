@@ -1,17 +1,16 @@
 #1113 - Cayor
 
-owner = JOL
-controller = JOL
 culture = senegambian
-is_city = yes
 base_manpower = 2
 religion = shamanism #Fetishism
 capital = "Mboul"
-trade_goods = slaves
+trade_goods = unknown
 hre = no
 base_tax = 3 
 base_production = 3
-add_core = JOL
+native_size = 50
+native_ferocity = 4
+native_hostileness = 9
 discovered_by = sub_saharan
 extra_cost = 10
 
@@ -20,9 +19,14 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-
-
-
+1200.1.1 = {
+	owner = JOL
+	controller = JOL
+	add_core = JOL
+	is_city = yes
+	trade_goods = slaves
+	is_city = yes
+}
 1445.1.1 = { discovered_by = POR }
 
 1482.1.1 = { unrest = 4 } #Bemoy revolt against Jolof governors, aided by Portuguese

@@ -3,7 +3,7 @@
 add_core = SWE
 owner = SWE
 controller = SWE
-culture = swedish
+culture = geatish
 religion = catholic
 hre = no
 base_tax = 2
@@ -20,6 +20,9 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
+1420.1.1 = {
+	culture = swedish
+}
 
 1527.6.1 = { religion = protestant}
 1598.8.15 = { controller = PLC } # Sigismund tries to reconquer his crown

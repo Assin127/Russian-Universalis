@@ -1,7 +1,7 @@
 #1020 - Yamashiro (Kyoto)
 
-owner = ASK
-controller = ASK
+owner = JAP 
+controller = JAP 
 culture = japanese
 religion = shinto
 capital = "Kyoto"
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = ASK
+add_core = JAP 
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -24,6 +24,11 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
+1192.1.1 = {
+	owner = ASK
+	controller = ASK
+	add_core = ASK
+}
 1542.1.1 = { discovered_by = POR }
 1573.7.3 = { add_core = ODA owner = ODA controller = ODA remove_core = ASK } #Nobunaga ousts Yoshiaki
 1600.10.21 = { add_core = TKG owner = TKG controller = TKG remove_core = ODA } # Tokugawa won the battle of Sekigahara

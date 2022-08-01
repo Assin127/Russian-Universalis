@@ -1,7 +1,8 @@
 # 4742 - Goslar
 
-owner = GOS
-controller = GOS
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = GOS
 culture = saxon
 religion = catholic
@@ -20,7 +21,10 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1218.1.1 = {
+	owner = GOS
+	controller = GOS 
+}
 1524.1.1 = { religion = protestant }
 1803.4.27 = {
 	owner = PRU

@@ -1,5 +1,5 @@
-owner = AMG
-controller = AMG
+owner = AQT
+controller = AQT
 capital = "Guéret"
 is_city = yes
 culture = gascon
@@ -9,14 +9,32 @@ base_tax = 2
 base_production = 2
 trade_goods = livestock
 base_manpower = 2
-add_core = AMG
+add_core = AQT
 add_core = GUY
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1152.5.18 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+}
+1204.1.1 = {
+	owner = FRA
+	controller = FRA
+}
+1308.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
+1435.1.1 = {
+	owner = AMG
+	controller = AMG
+	add_core = AMG
+}
 1560.1.1 = { religion = reformed }
 1589.8.2 = { owner = FRA controller = FRA add_core = FRA } # Armagnac to France proper, after Henri IV, King of France & Duke of Armagnac
 1594.1.1 = { unrest = 10 } # 'Paris vaut bien une messe!', Henri converts to Catholicism

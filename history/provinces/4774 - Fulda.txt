@@ -1,6 +1,7 @@
 #4774 - Fulda
-owner = WBG
-controller = WBG
+owner = FKN
+controller = FKN
+add_core = FKN
 add_core = WBG
 culture = hessian
 religion = catholic
@@ -20,6 +21,10 @@ discovered_by = ottoman
 
 is_city = yes
 
+1168.1.1 = {
+	owner = WBG
+	controller = WBG
+}
 1631.10.15 = { controller = SWE }
 1635.1.16 = { controller = WBG }
 1803.4.27 = {

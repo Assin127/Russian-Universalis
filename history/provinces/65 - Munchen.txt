@@ -1,6 +1,7 @@
 # 65 - München
-owner = UBV
-controller = UBV
+owner = BAV
+controller = BAV
+add_core = BAV
 add_core = UBV
 culture = bavarian
 religion = catholic
@@ -17,6 +18,10 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1180.1.1 = {
+	owner = UBV
+	controller = UBV
+}
 
 #Last of the Landshuter Wittelsbachs dies
 1503.12.1 = {

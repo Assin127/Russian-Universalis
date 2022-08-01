@@ -1,7 +1,8 @@
 #81 - Hessen
 
-owner = HES
-controller = HES
+owner = FKN
+controller = FKN
+add_core = FKN
 add_core = HES
 capital = "Marburg"
 trade_goods = wool
@@ -18,6 +19,17 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1137.1.1 = {
+	owner = THU
+	controller = THU
+	add_core = THU
+	remove_core = FKN
+}
+1264.1.1 = {
+	owner = HES
+	controller = HES
+	remove_core = THU
+}
 1536.1.1 = { religion = protestant }
 1555.1.1 = { base_tax = 14 
 base_production = 14 } # Full minting rights granted by the Emperor

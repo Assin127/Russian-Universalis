@@ -1,21 +1,29 @@
 #4123 - Birkaland
 
-owner = SWE
-controller = SWE
-add_core = SWE
-add_core = FIN
 culture = finnish
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1 
 base_production = 1
-trade_goods = fur
+trade_goods = unknown
 base_manpower = 1
 capital = "Messukylä"
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+
+1249.1.1 = {
+	owner = SWE
+	controller = SWE
+	add_core = SWE
+	add_core = FIN
+	is_city = yes
+	trade_goods = fur
+	religion = catholic
+}
 1527.6.1 = { religion = protestant}
 1596.11.1 = { revolt = { type = anti_tax_rebels size = 1} controller = REB }
 1597.2.24 = { revolt = {} controller = SWE }

@@ -1,24 +1,29 @@
 #1117 - Futa Jallon
 
-owner = MAL
-controller = MAL
 culture = fulani
-is_city = yes
 base_manpower = 3
 religion = shamanism #Fetishism
 capital = "Timbo"
-trade_goods = ivory
+trade_goods = unknown
 hre = no
 base_tax = 3 
 base_production = 3
-add_core = MAL
-add_core = KBU #Subject province within the empire
-
+native_size = 50
+native_ferocity = 4
+native_hostileness = 9
 
 
 discovered_by = sub_saharan
 
-
+1230.1.1 = {
+	owner = MAL
+	controller = MAL
+	add_core = MAL
+	add_core = KBU #Subject province within the empire
+	is_city = yes
+	trade_goods = ivory
+	is_city = yes
+}
 1490.1.1 = { unrest = 3 } #Fulani uprisings under Koly Tengella wreak havoc before moving down Senegal River
 1504.1.1 = { unrest = 8 } #Koly Tengella launches new wave of Fulani incursions from base in Toro
 1512.1.1 = { unrest = 0 } #Koly Tengella killed, Fulani settle down among Jallonke under Malian leadership 

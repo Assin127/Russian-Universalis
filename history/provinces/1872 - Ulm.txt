@@ -1,6 +1,7 @@
 # 1872 - Ulm
-owner = ULM
-controller = ULM
+owner = SWA
+controller = SWA
+add_core = SWA
 add_core = ULM
 culture = swabian
 religion = catholic
@@ -18,6 +19,10 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
+1181.1.1 = {
+	owner = ULM
+	controller = ULM
+}
 1803.1.1 = {
 	add_core = WUR
 	owner = WUR

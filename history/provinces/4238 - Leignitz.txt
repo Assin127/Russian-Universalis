@@ -1,8 +1,9 @@
 #4238 - Liegnitz (Liegnitz+Schweidnitz+Jauer+Glatz+Neisse+Münsterberg)
 
 #Coal
-owner = GLG
-controller = GLG
+owner = POL
+controller = POL
+add_core = POL
 culture = schlesian
 religion = catholic
 capital = "Liegnitz"
@@ -12,7 +13,7 @@ base_tax = 4
 base_production = 4
 is_city = yes 
 base_manpower = 2
-add_core = GLG
+add_core = LEG
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -23,6 +24,22 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1138.1.1 = {
+	owner = SIL
+	controller = SIL
+	add_core = SIL
+	hre = yes
+}
+1173.1.1 = {
+	owner = WRO
+	controller = WRO
+	add_core = WRO
+}
+1248.1.1 = {
+	owner = LEG
+	controller = LEG
+	remove_core = WRO
+}
 1526.8.30 = { owner = HAB controller = HAB add_core = HAB }
 1618.5.23 = { # Defenestration of Prague
 	owner = BOH

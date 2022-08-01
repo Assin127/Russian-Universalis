@@ -1,7 +1,7 @@
 #1027 - Hitachi
 
-owner = STK
-controller = STK
+owner = JAP 
+controller = JAP 
 culture = togoku
 religion = shinto
 capital = "Ota"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = STK
+add_core = JAP 
 
 
 
@@ -22,6 +22,11 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
+1192.1.1 = {
+	owner = STK
+	controller = STK
+	add_core = STK
+}
 1542.1.1 = { discovered_by = POR }
 1602.5.17 = { owner = TKG controller = TKG add_core = TKG remove_core = STK } # The Satake clan moved to Akita
 1609.1.1 = { capital = "Mito" } # Mito-Tokugawa han

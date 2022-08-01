@@ -4,14 +4,14 @@ capital = "Heidelberg"
 culture = hessian
 religion = catholic
 trade_goods = wine
-owner = PAL
+owner = FKN
 base_tax = 5
 base_production = 4
 base_manpower = 4
 fort_15th = yes
 is_city = yes
-controller = PAL
-add_core = PAL
+controller = FKN
+add_core = FKN
 hre = yes
 
 
@@ -21,6 +21,11 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1214.1.1 = {
+	owner = PAL
+	controller = PAL
+	add_core = PAL
+}
 1546.4.19 = { religion = protestant } # #Friedrich II converts the coutnry to protestant
 1689.8.1 = { base_tax = 5 
 base_production = 5 controller = FRA } # French troops burn, pillage and destroy in the succession wars.

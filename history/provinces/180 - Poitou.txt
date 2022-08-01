@@ -1,7 +1,7 @@
 # 180 Haut-Poitou. Principal cities: Poitiers
 
-owner = FRA
-controller = FRA
+owner = AQT
+controller = AQT
 capital = "Poitiers"
 is_city = yes
 culture = cosmopolitan_french
@@ -11,13 +11,31 @@ base_tax = 4
 base_production = 4
 trade_goods = livestock
 base_manpower = 4
-add_core = FRA
+add_core = AQT
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1137.7.25 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
+1152.3.21 = {
+	owner = AQT
+	controller = AQT
+}
+1152.5.18 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+}
+1204.1.1 = {
+	owner = FRA
+	controller = FRA
+}
 1560.1.1 = { religion = reformed }
 1565.1.1 = { unrest = 8 } # France is restless once again as ultra-catholic intentions become clear
 1568.9.1 = { unrest = 15 } # Catherine de Medici and Charles IX side with the Guise faction, religious intolerance peaks

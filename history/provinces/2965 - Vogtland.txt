@@ -1,7 +1,7 @@
 # - Vogtland
 
-owner = THU
-controller = THU
+owner = MEI
+controller = MEI
 culture = saxon
 religion = catholic
 capital = "Plauen"
@@ -11,13 +11,17 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = THU
+add_core = MEI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1423.1.1 = {
+	owner = THU
+	controller = THU
+	add_core = THU
+}
 1547.5.19 = {
 	owner = SAX
 	controller = SAX

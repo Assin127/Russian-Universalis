@@ -1,7 +1,7 @@
 #372 - Tyrone
 
-owner = TYR
-controller = TYR
+owner = TRY
+controller = TRY
 culture = irish
 religion = catholic
 hre = no
@@ -11,12 +11,18 @@ trade_goods = wool
 base_manpower = 2
 capital = "Dungannon"
 is_city = yes
-add_core = TYR
+add_core = TRY
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+1185.1.1 = {
+	owner = TYR
+	controller = TYR
+	add_core = TYR
+	remove_core = TRY
+}
 1607.9.4 = {
 	owner = ENG
 	controller = ENG

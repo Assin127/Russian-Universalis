@@ -4,8 +4,10 @@ latent_trade_goods = {
 	coal
 }
 
-owner = AAC
-controller = AAC
+owner = JUL
+controller = JUL
+add_core = JUL
+add_core = AAC
 culture = hessian
 religion = catholic
 trade_goods = grain
@@ -13,7 +15,6 @@ capital = "Aachen"
 base_tax = 6
 base_production = 6
 is_city = yes
-add_core = AAC
 base_manpower = 2
 hre = yes
 
@@ -24,6 +25,10 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1166.1.1 = {
+	owner = AAC
+	controller = AAC
+}
 1690.1.1 = { base_manpower = 1 }
 1730.1.1 = { base_manpower = 2 } #
 1792.12.15 = { controller = FRA } # Occupied by French troops

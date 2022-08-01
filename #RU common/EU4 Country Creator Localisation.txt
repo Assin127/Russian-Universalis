@@ -1,0 +1,8 @@
+localisation\RU_countries_l_english.yml: [TAG]:Именительный падеж
+localisation\RU_custom_countries_l_english.yml: TAG_RD_[TAG]:Родительный падеж:customizable_localization\RU_countries_localization.txt:GetTagRD
+localisation\RU_custom_countries_l_english.yml: TAG_DT_[TAG]:Дательный падеж:customizable_localization\RU_countries_localization.txt:GetTagDT
+localisation\RU_custom_countries_l_english.yml: TAG_VN_[TAG]:Винительный падеж:customizable_localization\RU_countries_localization.txt:GetTagVN
+localisation\RU_custom_countries_l_english.yml: TAG_TV_[TAG]:Творительный падеж:customizable_localization\RU_countries_localization.txt:GetTagTV
+localisation\RU_custom_countries_l_english.yml: TAG_PR_[TAG]:Предложный падеж:customizable_localization\RU_countries_localization.txt:GetTagPR
+localisation\RU_countries_l_english.yml: [TAG]_ADJ:Прилагательное
+localisation\RU_custom_countries_l_english.yml: ADJ_[TAG]:Прилагательное строчными буквами:customizable_localization\RU_adjective_localization.txt:GetAdjsmall

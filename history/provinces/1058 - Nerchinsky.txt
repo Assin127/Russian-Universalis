@@ -1,8 +1,8 @@
 #1058 - Nerchinsky
 
-owner = KHA
-controller = KHA
-add_core = KHA
+owner = KHG
+controller = KHG
+add_core = KHG
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "Onan Gol"
@@ -17,8 +17,21 @@ is_city = yes
 
 discovered_by = nomad_group
 discovered_by = BRT
-
-
+1206.3.1 = {
+	owner = MGE
+	controller = MGE
+	add_core = MGE
+}
+1271.1.1 = {
+	owner = YUA
+	controller = YUA
+	add_core = YUA
+}
+1368.1.1 = {
+	owner = KHA
+	controller = KHA
+	add_core = KHA
+}
 1653.1.1 = {
 	discovered_by = RUS 
 	owner = RUS

@@ -1,17 +1,17 @@
 # 203 Lyonnais - Principal cities: Lyon
 
-owner = FRA
-controller = FRA
+owner = LYN
+controller = LYN
 capital = "Lyon"
 is_city = yes
 culture = occitain
 religion = catholic
-hre = no
+hre = yes
 base_tax = 6
 base_production = 6
 trade_goods = paper #Great printing industry form the 15th century and french center of paperproduction in Ambert close by (even though not the main trade good for that province).
 base_manpower = 6
-add_core = FRA
+add_core = LYN
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western
@@ -20,6 +20,12 @@ discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
 
+1307.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	hre = no
+}
 1399.1.1 = { add_core = DAU }
 1446.9.27 = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Dauphiné is ruled as a separate kingdom by Louis
 1461.7.22 = { revolt = {} controller = FRA } # Louis is proclaimed king of France

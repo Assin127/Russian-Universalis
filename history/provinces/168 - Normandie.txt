@@ -1,7 +1,7 @@
 # 168 Normandie - Principal cities: Caen
 
-owner = FRA
-controller = FRA 
+owner = NRM
+controller = NRM 
 capital = "Caen"
 is_city = yes
 culture = normand
@@ -15,10 +15,14 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = FRA
 add_core = NRM
 fort_15th = yes
 
+1204.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
 1415.10.25 = { controller = ENG } # The Battle of Agincourt
 1420.5.12 = { owner = ENG add_core = ENG } # Treaty of Troyes
 1450.1.1 = { owner = FRA controller = FRA } # Retaken by France

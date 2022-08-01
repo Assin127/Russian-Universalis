@@ -1,12 +1,11 @@
 #51 - Ruppin
 
-owner = BRA
-controller = BRA
-add_core = BRA
-add_core = RUP
-culture = saxon
-religion = catholic
-hre = yes
+owner = ABO 
+controller = ABO 
+add_core = ABO 
+culture = lutic
+religion = slavic
+hre = no
 base_tax = 2 
 base_production = 2
 trade_goods = livestock
@@ -18,6 +17,15 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1157.10.3 = {
+	hre = yes
+	owner = BRA
+	controller = BRA
+	add_core = BRA
+	culture = saxon
+	religion = catholic
+	add_core = RUP
+}
 1536.1.1 = { religion = protestant }
 1650.1.1 = { culture = prussian  }
 1701.1.18 = {

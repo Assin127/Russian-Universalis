@@ -1,7 +1,7 @@
 #4377 - Ormond
 
-owner = ORD
-controller = ORD
+owner = OSR
+controller = OSR
 culture = irish
 religion = catholic
 hre = no
@@ -11,12 +11,24 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Kilkenny"
 is_city = yes
-add_core = ORD
+add_core = OSR
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+1176.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	remove_core = OSR
+}
+1328.11.2 = {
+	owner = ORD
+	controller = ORD
+	add_core = ORD
+	remove_core = ENG
+}
 1632.2.24 = {
 	owner = ENG
 	controller = ENG

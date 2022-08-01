@@ -1,0 +1,7 @@
+### RU001 - Added
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = polabian_pommeranian
+religion = catholic
+technology_group = eastern
+capital = 43 # Gdansk

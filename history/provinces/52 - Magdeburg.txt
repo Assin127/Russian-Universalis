@@ -1,7 +1,8 @@
 #52 - Altmark
 
-owner = MAG
-controller = MAG
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = MAG
 culture = saxon
 religion = catholic
@@ -20,6 +21,10 @@ extra_cost = 16
 center_of_trade = 2
 fort_15th = yes
 
+1180.1.1 = {
+	owner = MAG
+	controller = MAG
+}
 1524.1.1 = { religion = protestant }
 1650.1.1 = { culture = prussian }
 1680.10.4 = {

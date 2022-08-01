@@ -1,7 +1,7 @@
 # 198 Rouergue - Principal cities: Rodez
 
-owner = FRA
-controller = FRA
+owner = TOU
+controller = TOU
 capital = "Rodez"
 is_city = yes
 culture = occitain
@@ -12,17 +12,26 @@ base_production = 3
 trade_goods = livestock
 base_manpower = 2
 add_local_autonomy = 25
-add_core = GUY
+add_core = ROD
 add_core = TOU
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1444.1.1 = {
+1112.1.1 = {
+	owner = ROD
+	controller = ROD
+}
+1292.1.1 = {
 	owner = AMG
 	controller = AMG
 	add_core = AMG
+}
+1525.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
 }
 1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
 1589.1.5 = { owner = NAV controller = NAV add_core = NAV }

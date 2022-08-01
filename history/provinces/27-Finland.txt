@@ -1,23 +1,36 @@
 #Finland, incl. Åbo.
 
-owner = SWE
-controller = SWE
-add_core = SWE
-add_core = FIN
-culture = swedish
-religion = catholic
+culture = finnish
+religion = norse_pagan_reformed
 hre = no
 base_tax = 3 
 base_production = 3
-trade_goods = grain
+trade_goods = unknown
 base_manpower = 2
 capital = "Åbo"
 is_city = yes
-fort_15th = yes
 discovered_by = western
 discovered_by = eastern
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
 
 
+1155.1.1 = {
+	owner = SWE
+	controller = SWE
+	add_core = SWE
+	add_core = FIN
+	trade_goods = grain
+	fort_15th = yes
+	is_city = yes
+	religion = catholic
+}
+1323.8.12 = {
+	base_tax = 3
+	base_production = 3
+	base_manpower = 2
+}
 1468.3.15 = { owner = DAN controller = DAN } # Bishop Bitz
 1468.6.15 = { owner = SWE controller = SWE } # Recaptured by Karl Knutsson Bonde
 1497.3.13 = { controller = DAN } # Danish loyalists at Danish DoW

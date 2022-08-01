@@ -1,7 +1,7 @@
 #1028 - Musashi
 
-owner = UES
-controller = UES
+owner = JAP 
+controller = JAP 
 culture = togoku
 religion = shinto
 capital = "Kawagoe"
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
-add_core = UES
+add_core = JAP 
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -21,6 +21,11 @@ discovered_by = ANU
 extra_cost = 16
 center_of_trade = 2
 
+1192.1.1 = {
+	owner = UES
+	controller = UES
+	add_core = UES
+}
 1457.1.1 = { fort_15th = yes } # Edo Castle
 1524.1.1 = { add_core = HJO }
 1542.1.1 = { discovered_by = POR }

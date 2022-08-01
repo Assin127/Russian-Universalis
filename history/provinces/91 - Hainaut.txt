@@ -1,8 +1,8 @@
 # 91 Hainaut - Principal cities: Mons & Tournai
 
-owner = BUR
-controller = BUR
-add_core = BUR
+owner = HAI
+controller = HAI
+add_core = HAI
 capital = "Mons"
 is_city = yes
 culture = wallonian
@@ -12,12 +12,16 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 3
-add_core = HAI
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1433.4.1 = {
+	owner = BUR
+	controller = BUR
+	add_core = BUR
+}
 
 1477.1.5 = { owner = HAB controller = HAB add_core = HAB remove_core = BUR } # Charles the Bold dies, Lowlands to Austria
 1519.1.12 = { owner = SPA controller = SPA add_core = SPA remove_core = HAB } # Charles V gets total control over his Burgundian inheritance

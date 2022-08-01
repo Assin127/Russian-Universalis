@@ -4,8 +4,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = FRA
-controller = FRA
+owner = AUV
+controller = AUV
 capital = "Clermont"
 is_city = yes
 culture = occitain
@@ -24,6 +24,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1188.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
 1444.1.1 = {
 	owner = AUV
 	controller = AUV

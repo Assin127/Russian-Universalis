@@ -1,11 +1,11 @@
 #1775 - Holstein
 
-owner = SHL
-controller = SHL
-add_core = SHL
-culture = lower_saxon
-religion = catholic
-hre = yes
+owner = ABO 
+controller = ABO 
+add_core = ABO 
+culture = abodritian
+religion = slavic
+hre = no
 base_tax = 4
 base_production = 4
 trade_goods = livestock
@@ -19,6 +19,14 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
+1110.1.1 = {
+	hre = yes
+	owner = SHL
+	controller = SHL
+	add_core = SHL
+	religion = catholic
+	culture = lower_saxon
+}
 1460.3.5 = { owner = DAN controller = DAN add_core = DAN }
 1529.1.1 = { religion = protestant }
 1544.1.1 = { owner = SHL controller = SHL }

@@ -1,7 +1,8 @@
 # 69 - Dortmund
 culture = hannoverian
-owner = RVA
-controller = RVA
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = RVA
 capital = "Dortmund"
 religion = catholic
@@ -18,6 +19,16 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+1180.1.1 = {
+	owner = MUN
+	controller = MUN
+	add_core = MUN
+}
+1276.1.1 = {
+	owner = RVA
+	controller = RVA
+}
 
 1803.4.27 = {
 	owner = NSA

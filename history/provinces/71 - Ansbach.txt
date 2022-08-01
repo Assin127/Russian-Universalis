@@ -1,7 +1,8 @@
 # 71 - Ansbach
 
-owner = ANS
-controller = ANS
+owner = FKN
+controller = FKN
+add_core = FKN
 add_core = ANS
 culture = franconian
 religion = catholic
@@ -21,6 +22,10 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1398.1.1 = {
+	owner = ANS
+	controller = ANS
+}
 1522.1.1 = { religion = protestant }
 1525.1.1 = { unrest = 6 }
 1526.1.1 = { unrest = 0 }

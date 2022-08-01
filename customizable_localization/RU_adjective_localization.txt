@@ -2,21 +2,39 @@
 
 ####################################################################################################
 ###																								 ###
-###						   Џрилагательные государств строчными буквами							 ###
+###						   РџСЂРёР»Р°РіР°С‚РµР»СЊРЅС‹Рµ РіРѕСЃСѓРґР°СЂСЃС‚РІ СЃС‚СЂРѕС‡РЅС‹РјРё Р±СѓРєРІР°РјРё							 ###
 ###																								 ###
 ###																								 ###
-###						Џрилагательные в локализации записаны без окончаний,					 ###
-###				     Џоэтому длЯ корректного написаниЯ необходимо их добавлЯть.					 ###
+###						РџСЂРёР»Р°РіР°С‚РµР»СЊРЅС‹Рµ РІ Р»РѕРєР°Р»РёР·Р°С†РёРё Р·Р°РїРёСЃР°РЅС‹ Р±РµР· РѕРєРѕРЅС‡Р°РЅРёР№,					 ###
+###				     РџРѕСЌС‚РѕРјСѓ РґР»СЏ РєРѕСЂСЂРµРєС‚РЅРѕРіРѕ РЅР°РїРёСЃР°РЅРёСЏ РЅРµРѕР±С…РѕРґРёРјРѕ РёС… РґРѕР±Р°РІР»СЏС‚СЊ.					 ###
 ###																								 ###
-###						   Џример: "[RUS.GetAdjectiveSmall]аЯ держава"						 	 ###
-###								 Ћтображение: "русскаЯ держава"									 ###
+###						   РџСЂРёРјРµСЂ: "[RUS.GetAdjectiveSmall]Р°СЏ РґРµСЂР¶Р°РІР°"						 	 ###
+###								 РћС‚РѕР±СЂР°Р¶РµРЅРёРµ: "СЂСѓСЃСЃРєР°СЏ РґРµСЂР¶Р°РІР°"									 ###
 ###																								 ###
-###						   ‹окализациЯ в: gks_adjective, gks_converter							 ###
+###						   Р›РѕРєР°Р»РёР·Р°С†РёСЏ РІ: gks_adjective, gks_converter							 ###
 ###																								 ###
 ####################################################################################################
 
 defined_text = {
     name = GetAdjsmall
+    text = {
+        localisation_key = ADJ_WRO
+        trigger = {
+			tag = WRO
+		}
+    }
+    text = {
+        localisation_key = ADJ_LEG
+        trigger = {
+			tag = LEG
+		}
+    }
+    text = {
+        localisation_key = ADJ_PMR
+        trigger = {
+			tag = PMR
+		}
+    }
     text = {
         localisation_key = ADJ_ABO
         trigger = {
@@ -33,6 +51,12 @@ defined_text = {
         localisation_key = ADJ_ABS
         trigger = {
 			tag = ABS
+		}
+    }
+	text = {
+        localisation_key = ADJ_ALD
+        trigger = {
+			tag = ALD
 		}
     }
     text = {
@@ -189,6 +213,12 @@ defined_text = {
         localisation_key = ADJ_CER
         trigger = {
 			tag = CER
+		}
+    }
+    text = {
+        localisation_key = ADJ_CHB
+        trigger = {
+			tag = CHB
 		}
     }
     text = {
@@ -651,6 +681,12 @@ defined_text = {
         localisation_key = ADJ_PRS
         trigger = {
 			tag = PRS
+		}
+    }
+    text = {
+        localisation_key = ADJ_RAV
+        trigger = {
+			tag = RAV
 		}
     }
     text = {
