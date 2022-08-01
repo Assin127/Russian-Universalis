@@ -1,5 +1,11 @@
 ﻿### RU001 - Added
 l_english:
+ TAG_RD_GNI: "‚°©°"
+ TAG_DT_GNI: "‚°©°³"
+ TAG_VN_GNI: "‚°©°"
+ TAG_TV_GNI: "‚°©°¯"
+ TAG_PR_GNI: "‚°©°"
+ ADJ_GNI: "¥°©°°¬"
  TAG_RD_LEG: "ˆ¥°ªµº"
  TAG_DT_LEG: "ˆ¥°ªµ"
  TAG_VN_LEG: "ˆ¥°ªµ³"
