@@ -18,6 +18,12 @@
 defined_text = {
     name = GetAdjsmall
     text = {
+        localisation_key = ADJ_LAE
+        trigger = {
+			tag = LAE
+		}
+    }
+    text = {
         localisation_key = ADJ_WRO
         trigger = {
 			tag = WRO

@@ -20,6 +20,12 @@
 
 defined_text = {
     name = GetTagRD
+    text = { ## RU002
+        localisation_key = TAG_RD_LAE
+        trigger = {
+			tag = LAE
+		}
+    }
     text = {
         localisation_key = TAG_RD_WRO
         trigger = {
@@ -954,6 +960,12 @@ defined_text = {
 
 defined_text = {
     name = GetTagVN
+    text = { ## RU002
+        localisation_key = TAG_VN_LAE
+        trigger = {
+			tag = LAE
+		}
+    }
     text = {
         localisation_key = TAG_VN_WRO
         trigger = {
@@ -1888,6 +1900,12 @@ defined_text = {
 
 defined_text = {
     name = GetTagTV
+    text = { ## RU002
+        localisation_key = TAG_TV_LAE
+        trigger = {
+			tag = LAE
+		}
+    }
     text = {
         localisation_key = TAG_TV_WRO
         trigger = {
@@ -2823,6 +2841,12 @@ defined_text = {
 
 defined_text = {
     name = GetTagPR
+    text = { ## RU002
+        localisation_key = TAG_PR_LAE
+        trigger = {
+			tag = LAE
+		}
+    }
     text = {
         localisation_key = TAG_PR_WRO
         trigger = {
@@ -3758,6 +3782,12 @@ defined_text = {
 
 defined_text = {
     name = GetTagDT
+    text = { ## RU002
+        localisation_key = TAG_DT_LAE
+        trigger = {
+			tag = LAE
+		}
+    }
     text = {
         localisation_key = TAG_DT_WRO
         trigger = {

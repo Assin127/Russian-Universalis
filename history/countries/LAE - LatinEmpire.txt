@@ -1,0 +1,76 @@
+### RU002 - Added
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 3
+primary_culture = cosmopolitan_french
+add_accepted_culture = greek
+religion = catholic
+technology_group = western
+capital = 151 # Constantinopolis
+
+1204.5.9 = {
+	monarch = {
+		name = "Baldwin I"
+		dynasty = "de Hainaut"
+		birth_date = 1171.7.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1205.4.14 = {
+	monarch = {
+		name = "Henry"
+		dynasty = "de Hainaut"
+		birth_date = 1174.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1216.6.11 = {
+	monarch = {
+		name = "Peter"
+		dynasty = "de Courtenay"
+		birth_date = 1158.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1217.4.9 = {
+	monarch = {
+		name = "Yolanda"
+		dynasty = "de Hainaut"
+		birth_date = 1175.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+		female = yes
+	}
+}
+
+1219.10.1 = {
+	monarch = {
+		name = "Robert I"
+		dynasty = "de Courtenay"
+		birth_date = 1201.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1228.1.1 = {
+	monarch = {
+		name = "Baldwin II"
+		dynasty = "de Courtenay"
+		birth_date = 1217.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}

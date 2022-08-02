@@ -16,6 +16,7 @@ KNM = "countries/Kanem.txt"
 DYC = "countries/Dyklja.txt"
 HUM = "countries/Hum.txt"
 IST = "countries/Istria.txt"
+LAE = "countries/LatinEmpire.txt" ## RU002
 RSH = "countries/Rashka.txt"
 TRV = "countries/Travunia.txt"
 
