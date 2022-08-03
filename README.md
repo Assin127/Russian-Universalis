@@ -1,2 +1,2 @@
-# Russian Universalis
- Новая сборка
+# Russian Universalis II
+Новая сборка Russian Universalis
