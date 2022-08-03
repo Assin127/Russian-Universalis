@@ -17,7 +17,31 @@
 
 defined_text = {
     name = GetAdjsmall
-    text = {
+    text = { ## RU002
+        localisation_key = ADJ_MRN
+        trigger = {
+			tag = MRN
+		}
+    }
+    text = { ## RU002
+        localisation_key = ADJ_THE
+        trigger = {
+			tag = THE
+		}
+    }
+    text = { ## RU002
+        localisation_key = ADJ_THS
+        trigger = {
+			tag = THS
+		}
+    }
+    text = { ## RU002
+        localisation_key = ADJ_NIE
+        trigger = {
+			tag = NIE
+		}
+    }
+    text = { ## RU002
         localisation_key = ADJ_LAE
         trigger = {
 			tag = LAE

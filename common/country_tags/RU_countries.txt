@@ -17,7 +17,10 @@ DYC = "countries/Dyklja.txt"
 HUM = "countries/Hum.txt"
 IST = "countries/Istria.txt"
 LAE = "countries/LatinEmpire.txt" ## RU002
+NIE = "countries/Nicaea.txt" ## RU002
 RSH = "countries/Rashka.txt"
+THE = "countries/Thessaly.txt" ## RU002
+THS = "countries/Thessalonica.txt" ## RU002
 TRV = "countries/Travunia.txt"
 
 #Ближний Восток
@@ -54,6 +57,7 @@ CRL = "countries/Carniola.txt"
 #FNC = "countries/Franconia.txt" #Добавлено парадоксами в 1.30
 JUL = "countries/Julich.txt"
 #LUS = "countries/Lusatia.txt" #Добавлено парадоксами в 1.30
+MRN = "countries/Merania.txt" ## RU002
 NRD = "countries/Nordgau.txt"
 OLO = "countries/Olomouc.txt"
 #SWA = "countries/Swabia.txt" #Добавлено парадоксами в 1.30

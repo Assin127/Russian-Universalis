@@ -21,6 +21,30 @@
 defined_text = {
     name = GetTagRD
     text = { ## RU002
+        localisation_key = TAG_RD_MRN
+        trigger = {
+			tag = MRN
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_RD_THE
+        trigger = {
+			tag = THE
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_RD_THS
+        trigger = {
+			tag = THS
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_RD_NIE
+        trigger = {
+			tag = NIE
+		}
+    }
+    text = { ## RU002
         localisation_key = TAG_RD_LAE
         trigger = {
 			tag = LAE
@@ -961,6 +985,30 @@ defined_text = {
 defined_text = {
     name = GetTagVN
     text = { ## RU002
+        localisation_key = TAG_VN_MRN
+        trigger = {
+			tag = MRN
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_VN_THE
+        trigger = {
+			tag = THE
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_VN_THS
+        trigger = {
+			tag = THS
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_VN_NIE
+        trigger = {
+			tag = NIE
+		}
+    }
+    text = { ## RU002
         localisation_key = TAG_VN_LAE
         trigger = {
 			tag = LAE
@@ -1900,6 +1948,30 @@ defined_text = {
 
 defined_text = {
     name = GetTagTV
+    text = { ## RU002
+        localisation_key = TAG_TV_MRN
+        trigger = {
+			tag = MRN
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_TV_THE
+        trigger = {
+			tag = THE
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_TV_THS
+        trigger = {
+			tag = THS
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_TV_NIE
+        trigger = {
+			tag = NIE
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_TV_LAE
         trigger = {
@@ -2842,6 +2914,30 @@ defined_text = {
 defined_text = {
     name = GetTagPR
     text = { ## RU002
+        localisation_key = TAG_PR_MRN
+        trigger = {
+			tag = MRN
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_PR_THE
+        trigger = {
+			tag = THE
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_PR_THS
+        trigger = {
+			tag = THS
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_PR_NIE
+        trigger = {
+			tag = NIE
+		}
+    }
+    text = { ## RU002
         localisation_key = TAG_PR_LAE
         trigger = {
 			tag = LAE
@@ -3782,6 +3878,30 @@ defined_text = {
 
 defined_text = {
     name = GetTagDT
+    text = { ## RU002
+        localisation_key = TAG_DT_MRN
+        trigger = {
+			tag = MRN
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_DT_THE
+        trigger = {
+			tag = THE
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_DT_THS
+        trigger = {
+			tag = THS
+		}
+    }
+    text = { ## RU002
+        localisation_key = TAG_DT_NIE
+        trigger = {
+			tag = NIE
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_DT_LAE
         trigger = {
