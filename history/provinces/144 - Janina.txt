@@ -1,7 +1,7 @@
 #144 - Epiros
 
-owner = EPI
-controller = EPI
+owner = BYZ
+controller = BYZ
 culture = greek
 religion = orthodox
 capital = "Ioannina"
@@ -23,6 +23,23 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 
+1204.4.13 = {
+	owner = EPI
+	controller = EPI
+}
+1337.1.1 = {
+	owner = BYZ
+	controller = BYZ
+}
+1345.1.1 = {
+	owner = SER
+	controller = SER
+	add_core = SER
+}
+1367.1.1 = {
+	owner = EPI
+	controller = EPI
+}
 
 1430.1.1 = { owner = TUR add_core = TUR controller = TUR capital = "Janina" }
 1502.1.1 = { remove_core = BYZ remove_core = EPI }

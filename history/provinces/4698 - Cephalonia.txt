@@ -1,5 +1,5 @@
-owner = EPI
-controller = EPI
+owner = BYZ
+controller = BYZ
 culture = greek
 religion = orthodox
 capital = "Agios Georgios"
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = EPI
+add_core = BYZ
 
 
 
@@ -18,6 +18,11 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1185.1.1 = {
+	owner = SIC
+	controller = SIC
+	add_core = SIC
+}
 
 1479.1.24 = { owner = TUR controller = TUR add_core = TUR }
 1500.12.24 = { controller = VEN } # end of the Siege of the Castle of Saint George

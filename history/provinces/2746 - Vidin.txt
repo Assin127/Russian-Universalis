@@ -1,7 +1,7 @@
 #2746 - Vidin
 
-owner = TUR
-controller = TUR
+owner = BYZ
+controller = BYZ
 culture = bulgarian
 religion = orthodox
 capital = "Vidin"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = TUR
+add_core = BYZ
 add_core = BUL
 discovered_by = western
 discovered_by = eastern
@@ -19,3 +19,14 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
+
+1204.4.13 = {
+	owner = VID
+	controller = VID
+	add_core = VID
+}
+1396.9.25 = {
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+}
