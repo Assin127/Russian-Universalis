@@ -1,0 +1,530 @@
+### RU006 - Added
+monarch_power = DIP
+
+#Технологии относительно ванильной версии: +18 начиная с 4-ого теха (32 в ванили, 50 в моде).
+
+# applied when a country is ahead of time in this technology
+ahead_of_time = {
+	trade_efficiency = 0.2
+	yearly_corruption = -0.05
+}
+
+# Pre-era techs
+technology = { #Early Ships
+	# Tech 0
+	year = 1000
+	
+	naval_morale			=	1.0
+	range					=	20
+	may_fabricate_claims = yes
+
+}
+
+technology = { #Merchants & Trade
+	# Tech 1
+	year = 1040
+	
+	merchants = yes
+	trade_range				=	100
+	global_colonial_growth	= 	5
+}
+
+technology = { #The Barque
+	# Tech 2
+	year = 1070
+	
+	
+	enable = barque
+	trade_range				=	50
+	enable = cog
+	enable = galley
+
+}
+
+# The 30 big techs from here on
+
+technology = { #Хомут
+	# Tech 3
+	year = 1090
+	
+	trade_range = 10
+}
+
+technology = { #Средневековая торговля
+	# Tech 4
+	year = 1110
+		
+	
+	
+	
+}
+
+technology = { #Астролябия
+	# Tech 5
+	year = 1130
+		
+	trade_range	= 10
+	
+	
+}
+
+technology = { #Ранние нефы
+	# Tech 6
+	year = 1150
+		
+	naval_maintenance		= 	0.05
+	
+	
+}
+
+technology = { #Компас
+	# Tech 7
+	year = 1170
+		
+	range	= 20
+	global_colonial_growth	= 	5
+}
+
+technology = { #Верфи
+	# Tech 8
+	year = 1190
+		
+
+	
+	
+}
+
+technology = { #Торговые державы
+	# Tech 9
+	year = 1210
+		
+	trade_range	= 20
+	
+	
+}
+
+technology = { #Портовый кран
+	# Tech 10
+	year = 1230
+	
+	trade_efficiency 		= 	0.02
+	
+}
+
+technology = { #Гильдии
+	# Tech 11
+	year = 1250
+		
+	
+	
+	
+}
+
+technology = { #Рецепция римского права
+	# Tech 12
+	year = 1270
+		
+	trade_range	= 10
+	
+	
+}
+
+technology = { #Хольки и Галеры
+	# Tech 13
+	year = 1290
+	
+	naval_maintenance		= 	0.1
+
+	
+}
+
+technology = { #Посох Якова
+	# Tech 14
+	year = 1310
+		
+	trade_range	= 10
+	
+	
+}
+
+technology = { #Песочные часы
+	# Tech 15
+	year = 1330
+		
+	range = 20
+	
+	
+}
+
+technology = { #Плавучий кран
+	# Tech 16
+	year = 1350
+		
+	trade_efficiency 		= 	0.02
+	
+	
+}
+
+technology = { #Средневековые доки
+	# Tech 17
+	year = 1370
+		
+	
+	
+	
+}
+
+technology = { #The Early Carrack
+	# Tech 18
+	year = 1390
+		
+	naval_morale			=	0.1
+	naval_maintenance		= 	0.1
+	range					= 	100
+	
+	
+	
+}
+
+technology = { #Венецианская торговля
+	# Tech 19
+	year = 1410
+		
+	trade_range	= 20
+	
+	
+}
+
+technology = { #Морское страхование
+	# Tech 20
+	year = 1425
+		
+	trade_efficiency 		= 	0.02
+	
+	
+}
+
+technology = { #Нефы
+	# Tech 21
+	year = 1440
+		
+	naval_maintenance		= 	0.05
+	global_colonial_growth	= 	25
+	
+	
+	
+}
+
+technology = { #Marketplace
+	# Tech 22
+	year = 1453
+		
+	trade_range	= 10
+	marketplace = yes 
+	
+	
+}
+
+technology = { #Basic Financial Instruments
+	# Tech 23
+	year = 1466
+	
+	naval_maintenance		=	0.1	
+	trade_efficiency 		= 	0.02
+	trade_range				=	20
+	
+	coastal_defence = yes
+}
+
+technology = { #Shipyards
+	# Tech 24
+	year = 1479
+	
+	dock = yes	
+	may_steal_maps = yes
+
+}
+
+technology = { #Naval Ambitions
+	# Tech 25
+	year = 1492
+	
+	naval_morale			= 0.3
+	range					= 115
+	impressment_offices 	= yes
+}
+
+technology  = { #Docks
+	# Tech 26
+	year = 1505
+	
+	num_accepted_cultures = 1
+	shipyard = yes
+
+	trade_range				=	10
+	naval_morale			=	0.2
+
+}
+
+technology = { #Carracks & Caravel
+	# Tech 27
+	year = 1518
+	
+	naval_maintenance		= 	0.1
+	range					=	50
+	
+	enable = carrack
+	enable = caravel
+	may_study_technology = yes
+	
+}
+
+technology = { #The Flute
+	# Tech 28
+	year = 1531
+	
+	trade_efficiency		= 	0.02
+	trade_range				=	20
+	global_colonial_growth  = 	10
+	enable = flute
+	enable = war_galley
+}
+
+technology = { #Wharf
+	# Tech 29
+	year = 1544
+	
+	range					= 	100
+
+	wharf = yes
+
+}
+
+technology = { #Man of War
+	# Tech 30
+	year = 1557
+	naval_morale			=	0.4
+	may_slander_merchants = yes
+
+	naval_battery = yes
+	
+}
+
+technology = { #Chartered Companies
+	# Tech 31
+	year = 1570
+	
+	trade_efficiency 		= 	0.02
+	enable = brig
+
+}
+
+technology = { #The Galleass
+	# Tech 32
+	year = 1583
+	
+	tradecompany = yes
+	num_accepted_cultures = 1
+
+	
+	enable = galleass
+}
+ 
+technology = { #The Galleon
+	# Tech 33
+	year = 1596
+	
+	naval_maintenance		= 	0.1
+	range					=	50
+	global_colonial_growth  = 	15
+	
+	enable = galleon
+	enable = early_frigate
+	may_sabotage_recruitment = yes
+
+}
+
+technology = { #Development of Maritime Law
+	# Tech 34
+	year = 1609
+	
+	trade_efficiency 		= 	0.02
+	trade_range				=	20
+
+}
+
+technology = { #Merchantman
+	# Tech 35
+	year = 1622
+	
+	trade_range				=	20
+	range					=	50
+	
+	
+	trade_depot = yes 
+
+
+	enable = merchantman
+}
+
+technology = { #Line of Battle
+	# Tech 36
+	year = 1635
+	
+	enable = galiot
+	naval_morale			=	0.5
+	may_sow_discontent = yes
+
+	
+}
+
+technology = { #The War Galleon
+	# Tech 37
+	year = 1648
+	
+	naval_maintenance		= 	0.1	
+	range					=	50
+	
+	drydock = yes 
+	
+	
+	enable = wargalleon
+	enable = frigate
+}
+
+technology = { #Naval Professionalization
+	# Tech 38
+	year = 1661
+
+	trade_efficiency 		= 	0.02
+	trade_range				=	20
+	num_accepted_cultures = 1
+	
+}
+
+technology = { #The Chebeck
+	# Tech 39
+	year = 1674
+	
+
+	enable = chebeck
+	may_sabotage_reputation = yes
+
+}
+
+technology = { #Limes
+	# Tech 40
+	year = 1687
+	
+	naval_morale			=	0.5
+	naval_maintenance		= 	0.1
+	
+
+	stock_exchange = yes
+
+	reduced_naval_attrition = yes
+	enable = twodecker
+	enable = trabakul
+}
+
+technology = { #Heavy Frigates
+	# Tech 41
+	year = 1700
+	
+	global_colonial_growth  = 	25	
+	range					=	150
+	allow_client_states = yes		
+
+	
+	enable = heavy_frigate
+}
+
+technology = { #The Archipelago Frigate
+	# Tech 42
+	year = 1715
+	
+	
+	grand_shipyard = yes 
+
+	
+	trade_efficiency 		= 	0.02
+	trade_range				=	20
+	enable = archipelago_frigate
+	may_corrupt_officials = yes
+
+}
+
+technology = { #The Threedeckers
+	# Tech 43
+	year = 1730
+	
+	naval_morale			=	0.5
+	naval_maintenance		= 	0.1
+	
+	enable = threedecker
+}
+
+technology = { #The Eastindiaman
+	# Tech 44
+	year = 1745
+	
+	range					=	200
+	global_colonial_growth  = 	25
+	num_accepted_cultures = 1
+	
+	enable = eastindiaman
+	enable = great_frigate
+}
+
+technology = { #Public Punishments
+	# Tech 45
+	year = 1760
+	
+	naval_morale			=	0.5
+	naval_maintenance		= 	0.1
+	may_agitate_for_liberty = yes
+
+}
+
+technology = { #Joint Stock Companies
+	# Tech 46
+	year = 1775
+	
+	trade_efficiency 		= 	0.02
+	trade_range				=	20
+}
+
+technology = { #Midshipmen Cadets
+	# Tech 47
+	year = 1790
+	
+	naval_morale			=	0.5
+	naval_maintenance		= 	0.1
+}
+
+technology = { #Insurance Companies
+	# Tech 48
+	year = 1805
+	
+	trade_efficiency 		= 	0.02
+	trade_range				=	20
+	may_infiltrate_administration = yes
+}
+
+technology = { #Superior Ship Design
+	# Tech 49
+	year = 1820
+	
+	naval_morale			=	0.5
+	naval_maintenance		= 	0.1	
+	num_accepted_cultures = 1
+}
+
+technology = { #The Gold Standard
+	# Tech 50
+	year = 1835
+	
+	trade_efficiency 		= 	0.02
+	trade_range				=	20
+	global_colonial_growth  = 	50
+}
