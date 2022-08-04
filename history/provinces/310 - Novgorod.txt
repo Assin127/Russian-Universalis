@@ -11,6 +11,7 @@ trade_goods = fur
 base_manpower = 6
 capital = "Novgorod"
 is_city = yes
+
 add_core = NOV
 discovered_by = eastern
 discovered_by = western
@@ -20,6 +21,7 @@ center_of_trade = 2
 
 1370.1.1 = {
 	fort_15th = yes #Novgorod Kremlin
+
 }
 
 1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = NOV }
