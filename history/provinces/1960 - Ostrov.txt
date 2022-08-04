@@ -1,7 +1,7 @@
 #Ostrov
 
-owner = PSK
-controller = PSK
+owner = KIR
+controller = KIR
 culture = novgorodian
 religion = orthodox
 hre = no
@@ -11,7 +11,8 @@ trade_goods = naval_supplies
 base_manpower = 2
 capital = "Ostrov"
 is_city = yes
-add_core = PSK
+add_core = KIR
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -20,6 +21,21 @@ discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 
+1136.1.1 = {
+	owner = NOV
+	controller = NOV
+	add_core = NOV
+	remove_core = KIR
+} # creation of the Novgorod republic
+
+1348.1.1 = {
+
+	owner = PSK
+	controller = PSK
+	add_core = PSK
+	remove_core = NOV
+
+} # Bolotovskiy dogovor
 
 1510.1.13 = {	owner = RUS controller = RUS add_core = RUS remove_core = PSK } # Pskov annexed by Russia
 1581.9.1 = { controller = PLC } # Ostrov conquered by Stefan Bathory
