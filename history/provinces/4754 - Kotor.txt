@@ -11,9 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = MON
-add_core = SER
 add_core = BYZ
+add_core = KOT
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -24,30 +23,9 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1282.1.1 = {
-	owner = SER
-	controller = SER
-	add_core = SER
-}
-1371.1.1 = {
-	owner = HUN
-	controller = HUN
-	add_core = HUN
-}
-1324.1.1 = {
-	owner = RSH
-	controller = RSH
-	add_core = RSH
-}
-1384.1.1 = {
-	owner = BOS
-	controller = BOS
-	add_core = BOS
-}
-1391.1.1 = {
+1185.1.1 = {
 	owner = KOT
 	controller = KOT
-	add_core = KOT
 }
 1420.1.1 = {
 	owner = VEN

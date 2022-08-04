@@ -22,9 +22,9 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 1099.1.1 = {
-	owner = BYZ
-	controller = BYZ
-	add_core = BYZ
+	owner = RSH
+	controller = RSH
+	add_core = RSH
 }
 1282.1.1 = {
 	owner = SER
