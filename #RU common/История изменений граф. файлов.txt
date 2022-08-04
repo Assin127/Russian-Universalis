@@ -3,4 +3,5 @@ Assin - Владислав Хозяшев
 
 Список изменений в формате: [Индекс] [Автор] [Дата]  [Список файлов] [Содержание]
 
+RU002 Assin 02.08.22 Папка: flags Добавлены флаги новых стран. Добавлено лого мода для Стима.
 RU001 Assin 25.07.22 Папки: flags, religion_icons. Файлы: country_icon_religion, icon_religion, icon_religion_small, province_view_religion. Перенос флагов и религий из Авроры
