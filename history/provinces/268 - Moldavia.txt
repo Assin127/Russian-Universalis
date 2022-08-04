@@ -2,8 +2,8 @@
 
 owner = CUM
 controller = CUM
-culture = romanian
-religion = orthodox
+culture = cuman
+religion = tengri_pagan_reformed
 hre = no
 base_tax = 5
 base_production = 4
@@ -35,6 +35,8 @@ discovered_by = nomad_group
 	owner = MOL
 	controller = MOL
 	add_core = MOL
+	culture = romanian
+	religion = orthodox
 }
 
 1484.1.1 = { controller = TUR } #Turkish invasion
