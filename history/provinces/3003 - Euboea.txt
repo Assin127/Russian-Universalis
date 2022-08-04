@@ -1,7 +1,7 @@
 # - Euboea
 
-owner = VEN
-controller = VEN
+owner = BYZ
+controller = BYZ
 culture = greek
 religion = orthodox
 capital = "Negroponte"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = VEN
+add_core = BYZ
 
 
 
@@ -20,6 +20,25 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 
+
+1204.4.13 = {
+	owner = NEG
+	controller = NEG
+	add_core = NEG
+}
+1277.1.1 = {
+	owner = BYZ
+	controller = BYZ
+}
+1296.1.1 = {
+	owner = NEG
+	controller = NEG
+}
+1365.1.1 = {
+	owner = VEN
+	controller = VEN
+	add_core = VEN
+}
 
 1470.7.1 = {
 	owner = TUR

@@ -1,7 +1,7 @@
 #143 - Vlorë - Southern Albania
 
-owner = TUR
-controller = TUR
+owner = BYZ
+controller = BYZ
 culture = albanian
 religion = orthodox
 capital = "Vlorë"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = TUR
+add_core = BYZ
 add_core = ALB
 discovered_by = KAZ
 discovered_by = CRI
@@ -22,6 +22,30 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
+
+1204.4.13 = {
+	owner = EPI
+	controller = EPI
+	add_core = EPI
+}
+1337.1.1 = {
+	owner = BYZ
+	controller = BYZ
+	add_core = BYZ
+}
+1417.1.1 = {
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+}
+1432.1.1 = {
+	owner = ALB
+	controller = ALB
+}
+
+
+
+
 
 1520.1.1 = { religion = sunni } # Predominant religion under Turkish rule
 1555.1.1 = { unrest = 5 } # General discontent against the Janissaries' dominance

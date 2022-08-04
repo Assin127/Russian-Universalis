@@ -1,7 +1,7 @@
 #147 - Salonica
 
-owner = TUR
-controller = TUR
+owner = BYZ
+controller = BYZ
 culture = greek
 religion = orthodox
 capital = "Trikala"
@@ -12,12 +12,53 @@ base_production = 5
 base_manpower = 2
 is_city = yes
 add_core = BYZ
-add_core = TUR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
+
+1204.04.13 = {
+	owner = THE
+	controller = THE
+	add_core = THE
+}
+1215.1.1 = {
+	owner = EPI
+	controller = EPI
+	add_core = EPI
+}
+1230.1.1 = {
+	owner = THE
+	controller = THE
+}
+1241.1.1 = {
+	owner = NIE
+	controller = NIE
+	add_core = NIE
+}
+1348.1.1 = {
+	owner = SER
+	controller = SER
+	add_core = SER
+}
+1373.1.1 = {
+	owner = BYZ
+	controller = BYZ
+}
+1394.1.1 = {
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+}
+1403.1.1 = {
+	owner = BYZ
+	controller = BYZ
+}
+1411.1.1 = {
+	owner = TUR
+	controller = TUR
+}
 
 
 1402.1.1 = { revolt = { type = nationalist_rebels size = 1 } controller = REB } # Interregnum
