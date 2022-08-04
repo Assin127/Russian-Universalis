@@ -26,6 +26,8 @@ discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
 
+
+
 1806.5.26 = { controller = FRA } # Occupied by French troops
 1806.6.17 = { controller = RAG } # The French are defeated
 1806.7.12 = { controller = FRA }
