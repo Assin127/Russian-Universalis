@@ -2,7 +2,7 @@
 
 owner = SMO
 controller = SMO
-culture = zalesky
+culture = russian
 religion = orthodox
 hre = no
 base_tax = 5 
