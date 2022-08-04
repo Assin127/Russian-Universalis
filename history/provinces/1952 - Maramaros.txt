@@ -2,7 +2,7 @@
 
 owner = HUN
 controller = HUN 
-culture = ruthenian
+culture = transylvanian
 religion = orthodox
 capital = "Huszt"
 trade_goods = naval_supplies
@@ -25,6 +25,9 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1370.1.1 = {	
+	culture = ruthenian
+}
 1444.1.1 = { add_core = TRA }
 1526.8.30 = {
 	owner = TRA
