@@ -1,10 +1,10 @@
-#143 - VlorÐ» - Southern Albania
+#143 - Vlorë - Southern Albania
 
 owner = BYZ
 controller = BYZ
 culture = albanian
 religion = orthodox
-capital = "VlorÐ»"
+capital = "Vlorë"
 trade_goods = wool #or salt
 hre = no
 base_tax = 2

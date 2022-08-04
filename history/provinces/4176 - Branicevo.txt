@@ -40,7 +40,7 @@ discovered_by = ottoman
 	add_core = TUR
 	capital = "Golubac"
 }
-1265.1.1 = {
+1465.1.1 = {
 	owner = SER
 	controller = SER
 	add_core = SER
