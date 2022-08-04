@@ -1,7 +1,7 @@
 #274 - Pskov
 
-owner = KIR
-controller = KIR
+owner = NOV
+controller = NOV
 culture = novgorodian
 religion = orthodox
 hre = no
@@ -20,25 +20,14 @@ discovered_by = western
 discovered_by = eastern
 extra_cost = 8
 center_of_trade = 1
-add_core = KIR
-
-
-
-1136.1.1 = {
-	owner = NOV
-	controller = NOV
-	add_core = NOV
-	remove_core = KIR
-} # creation of the Novgorod republic
+add_core = NOV
 
 1348.1.1 = {
-
 	owner = PSK
-	fort_15th = yes
 	controller = PSK
 	add_core = PSK
 	remove_core = NOV
-
+	fort_15th = yes
 } # Bolotovskiy dogovor
 
 1470.1.1 = { unrest = 5 } # Struggles between the boyars and smerds
