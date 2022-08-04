@@ -28,6 +28,16 @@ discovered_by = ottoman
 	culture = pommeranian
 	religion = catholic
 }
+1170.1.1 = {
+	owner = STE
+	controller = STE
+	add_core = STE
+}
+1295.1.1 = {
+	owner = WOL
+	controller = WOL
+	add_core = WOL
+}
 1230.1.1 = {
 	owner = BRA
 	controller = BRA
