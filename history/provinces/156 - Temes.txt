@@ -3,7 +3,7 @@
 owner = HUN
 controller = HUN 
 culture = transylvanian
-religion = catholic
+religion = orthodox
 capital = "Temesvár"
 trade_goods = wool
 hre = no
@@ -25,6 +25,9 @@ discovered_by = ottoman
 
 
  # Great plague
+1370.1.1 = {
+	religion = catholic
+}
 1514.1.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Rebel peasant troops led by Gheorghe Doja
 1514.6.1 = { revolt = {} controller = HUN }
 1526.8.30 = {

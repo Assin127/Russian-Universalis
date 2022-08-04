@@ -1,7 +1,7 @@
 # Giurgiu
 
-owner = WAL
-controller = WAL  
+owner = CUM
+controller = CUM  
 culture = romanian
 religion = orthodox
 capital = "Giurgiu"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = WAL
+add_core = CUM
 fort_15th = yes
 discovered_by = KAZ
 discovered_by = CRI
@@ -24,6 +24,11 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1310.1.1 = {
+	owner = WAL
+	controller = WAL
+	add_core = WAL
+}
 1593.1.1 = { unrest = 7 } # Wallachian rising, the Turks & Tatars are expelled
 1595.1.1 = { unrest = 0  } # The Turks take control of most of Wallachia again
 1650.1.1 = { revolt = { type = noble_rebels size = 1 } controller = REB } # Boyar rebellions
