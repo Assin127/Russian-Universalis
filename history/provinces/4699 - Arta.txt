@@ -1,5 +1,5 @@
-owner = EPI
-controller = EPI
+owner = BYZ
+controller = BYZ
 culture = greek
 religion = orthodox
 capital = "Arta"
@@ -20,6 +20,21 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
+
+
+1204.4.13 = {
+	owner = EPI
+	controller = EPI
+}
+1368.1.1 = {
+	owner = ATD
+	controller = ATD
+	add_core = ATD
+}
+1416.10.4 = {
+	owner = EPI
+	controller = EPI
+}
 
 1449.3.24 = { capital = "Angelokastron" } # Arta falls to the Ottomans
 1460.1.1 = { capital = "Arta" owner = TUR controller = TUR add_core = TUR } # Angelokastron falls to the Ottomans, Epirus left with Vonitsa and Cephalonia
