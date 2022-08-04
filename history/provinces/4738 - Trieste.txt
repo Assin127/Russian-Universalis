@@ -1,7 +1,7 @@
 # 4738 - Trieste
 
-owner = HAB
-controller = HAB
+owner = AQU
+controller = AQU
 culture = venetian 
 religion = catholic 
 hre = yes
@@ -11,15 +11,23 @@ trade_goods = fish
 base_manpower = 2    
 capital = "Trieste" 
 is_city = yes # Estimated
-add_core = HAB
-add_core = STY
+add_core = AQU
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1202.1.1 = {
+	owner = VEN
+	controller = VEN
+	add_core = VEN
+}
+1382.1.1 = {
+	owner = HAB
+	controller = HAB
+	add_core = HAB
+}
 1508.4.1 = {
 	owner = VEN
 	controller = VEN

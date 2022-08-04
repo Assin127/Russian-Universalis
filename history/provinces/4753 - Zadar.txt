@@ -1,7 +1,7 @@
 # 4753 - Zadar
 
-owner = DAL
-controller = DAL
+owner = CRO
+controller = CRO
 culture = dalmatian
 religion = catholic
 capital = "Zadar"
@@ -23,8 +23,32 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
-1420.1.1 = { owner = VEN controller = VEN add_core = VEN }
+1160.1.1 = {
+	owner = VEN
+	controller = VEN
+	add_core = CRO
+	unrest = 20
+}
+1205.1.1 = {
+	unrest = 10
+	add_local_autonomy = 75
+}
+1216.1.1 = {
+	remove_core = CRO
+}
+1358.1.1 = {
+	owner = CRO
+	controller = CRO
+	add_core = CRO
+	unrest = 0
+	add_local_autonomy = -75
+}
+1409.1.1 = {
+	owner = VEN
+	controller = VEN
+	add_core = VEN
+	remove_core = CRO
+}
 1540.10.2 = { owner = TUR controller = TUR add_core = TUR } # A large part of Dalmatia is incorporated into the Ottoman empire
 1699.1.26 = { owner = VEN controller = VEN remove_core = TUR } # Peace of Karlowitz, Dalmatian hinterland given to Venice
 1710.1.1 = { fort_15th = no fort_17th = yes }

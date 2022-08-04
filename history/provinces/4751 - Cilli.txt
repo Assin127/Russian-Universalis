@@ -1,8 +1,8 @@
 # 4751 - Cilli
-owner = CLI
-controller = CLI
-add_core = CLI
-culture = slovene
+owner = STY
+controller = STY
+add_core = STY
+culture = austrian
 religion = catholic
 base_tax = 3
 base_production = 4
@@ -20,10 +20,16 @@ discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
-
-1452.1.1 = {
-	owner = STY
-	controller = STY
+1192.1.1 = {
+	owner = HAB
+	controller = HAB
+	add_core = HAB
+}
+1341.1.1 = {
+	owner = CLI
+	controller = CLI
+	add_core = CLI
+	culture = slovene
 }
 1456.11.9 = {
 	owner = HAB
