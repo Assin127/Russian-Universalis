@@ -137,6 +137,9 @@ change_estate_land_share = {
 		name = "Felicia"
 		dynasty = "of Sicily"
 		female = yes
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -239,6 +242,9 @@ change_estate_land_share = {
 		name = "Euphrosyne"
 		dynasty = "Rurikovich"
 		female = yes
+		adm = 3
+		dip = 4
+		mil = 2
 	}
 	heir = {
 		name = "Stephen III"
@@ -286,6 +292,9 @@ change_estate_land_share = {
 		name = "Agnes"
 		dynasty = "Antioch"
 		female = yes
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 	heir = {
 		name = "Emeric I"
@@ -312,6 +321,9 @@ change_estate_land_share = {
 		name = "Infanta Constance"
 		dynasty = "Aragon"
 		female = yes
+		adm = 4
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -321,6 +333,9 @@ change_estate_land_share = {
 		dynasty = "Arpad"
 		birth_date = 1200.1.1
 		death_date = 1205.5.7
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
@@ -339,11 +354,17 @@ change_estate_land_share = {
 		dynasty = "Arpad"
 		birth_date = 1200.1.1
 		death_date = 1205.5.7
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 	queen = {
 		name = "Gertrude"
 		dynasty = "Merania"
 		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -373,12 +394,18 @@ change_estate_land_share = {
 		name = "Maria"
 		dynasty = "Lascaris"
 		female = yes
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 	heir = {
 		name = "Stephen V"
 		dynasty = "Arpad"
 		birth_date = 1235.7.11
 		death_date = 1272.8.6
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -388,6 +415,9 @@ change_estate_land_share = {
 		dynasty = "Arpad"
 		birth_date = 1235.7.11
 		death_date = 1272.8.6
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 	heir = {
 		name = "Ladislaus IV the Cuman"
@@ -430,6 +460,9 @@ change_estate_land_share = {
 		dynasty = "Premyslid"
 		birth_date = 1289.10.6
 		death_date = 1306.8.4
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -439,6 +472,9 @@ change_estate_land_share = {
 		dynasty = "Wittelsbach"
 		birth_date = 1261.2.11
 		death_date = 1312.11.9
+		adm = 4
+		dip = 3
+		mil = 2
 	}
 }
 
@@ -468,6 +504,9 @@ change_estate_land_share = {
 		name = "Elizabeth"
 		dynasty = "Piast"
 		female = yes
+		adm = 3
+		dip = 5
+		mil = 2
 	}
 }
 
@@ -485,6 +524,9 @@ change_estate_land_share = {
 		name = "Elizabeth"
 		dynasty = "Kotromanic"
 		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -506,6 +548,9 @@ change_estate_land_share = {
 		name = "Elizabeth"
 		dynasty = "Kotromanic"
 		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -529,8 +574,8 @@ change_estate_land_share = {
 		dynasty = "von Luxemburg"
 		birth_date = 1368.2.14	
 		adm = 4
-		dip = 3
-		mil = 3
+		dip = 5
+		mil = 4
 	}
 	queen = {
 		name "Mary"
@@ -552,6 +597,9 @@ change_estate_land_share = {
 		name = "Albert I"
 		dynasty = "von Luxemburg"
 		birth_date = 1391.2.16
+		adm = 2
+		dip = 4
+		mil = 2
 	}
 }
 
@@ -561,7 +609,7 @@ change_estate_land_share = {
 		dynasty = "Jagiellon"
 		birth_date = 1424.10.31
 		death_date = 1444.11.10
-		adm = 3
+		adm = 4
 		dip = 4
 		mil = 5
 	}
