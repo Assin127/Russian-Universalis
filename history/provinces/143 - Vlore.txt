@@ -38,6 +38,10 @@ discovered_by = western
 	controller = SER
 	add_core = SER
 }
+1363.1.1 = {
+	owner = ALB
+	controller = ALB
+}
 1417.1.1 = {
 	owner = TUR
 	controller = TUR
