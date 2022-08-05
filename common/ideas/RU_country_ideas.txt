@@ -1,4 +1,4 @@
-#RU003 by Astarot
+### RU003 - Added
 
 NIE_ideas = {
 	start = {
@@ -17,7 +17,7 @@ NIE_ideas = {
 	
 	NIE_akrites = {
 		infantry_power = 0.10
-		global_manpower_modifier = 0.10
+		manpower_recovery_speed = 0.10
 	}
 	repopulation_of_countryside = {
 		global_trade_goods_size_modifier = 0.05
