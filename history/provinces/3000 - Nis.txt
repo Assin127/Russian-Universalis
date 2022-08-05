@@ -23,20 +23,28 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
-1162.1 = {
+1162.1.1 = {
+	owner = RSH
+	controller = RSH
+	add_core = RSH
+}
+1217.1.1 = {
+	owner = SER
+	controller = SER
+	add_core = SER
+	remove_core = RSH
+}
+1265.1.1 = {
+	owner = HUN
+	controller = HUN
+	add_core = HUN
+}
+1282.1.1 = {
 	owner = SER
 	controller = SER
 	add_core = SER
 }
-1203.1.1 = {
-	owner = BUL
-	controller = BUL
-	add_core = BUL
-}
-1204.1.1 = {
-	owner = SER
-	controller = SER
-}
+
 1385.1.1 = {
 	owner = TUR
 	controller = TUR
@@ -45,6 +53,7 @@ discovered_by = ottoman
 1443.1.1 = {
 	owner = SER
 	controller = SER
+	add_core = SER
 }
 1448.1.1 = {
 	owner = TUR

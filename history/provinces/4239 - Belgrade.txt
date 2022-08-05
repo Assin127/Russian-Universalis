@@ -1,7 +1,7 @@
 #4239 - Belgrade
 
-owner = BYZ
-controller = BYZ
+owner = RSH
+controller = RSH
 culture = bulgarian
 religion = orthodox
 capital = "Belgrade"
@@ -13,7 +13,7 @@ base_manpower = 2
 is_city = yes
 fort_15th = yes
 add_core = HUN
-add_core = SER
+add_core = RSH
 add_core = BYZ
 discovered_by = KAZ
 discovered_by = CRI
@@ -30,19 +30,14 @@ center_of_trade = 1
 1204.4.13 = {
 	owner = HUN
 	controller = HUN
+	add_core = HUN
+	remove_core = RSH
 }
-1284.1.1 = {
+1282.1.1 = {
 	owner = SER
 	controller = SER
+	add_core = SER
 	culture = serbian
-}
-1319.1.1 = {
-	owner = HUN
-	controller = HUN
-}
-1389.6.16 = {
-	owner = SER
-	controller = SER
 }
 1427.1.1 = {
 	owner = HUN

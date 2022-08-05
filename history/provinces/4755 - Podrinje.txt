@@ -23,9 +23,9 @@ discovered_by = muslim
 discovered_by = ottoman
 
 1324.1.1 = {
-	owner = RSH
-	controller = RSH
-	add_core = RSH
+	owner = SER
+	controller = SER
+	add_core = SER
 }
 1404.1.1 = {
 	owner = BOS

@@ -1,0 +1,42 @@
+### RU003 - Added
+
+NIE_ideas = {
+	start = {
+		advisor_cost = -0.10
+		tolerance_own = 3
+	}
+	
+	bonus = {
+		prestige = 1
+	}
+	
+	trigger = {
+		tag = NIE
+	}
+	free = yes
+	
+	NIE_akrites = {
+		infantry_power = 0.10
+		global_manpower_modifier = 0.10
+	}
+	repopulation_of_countryside = {
+		global_trade_goods_size_modifier = 0.05
+		global_manpower_modifier = 0.10
+	}
+	NIE_fortress = {
+		defensiveness = 0.15
+	}
+	NIE_greek_legacy = {
+		technology_cost = -0.1
+	}
+	NIE_sebastokrator = {
+		global_autonomy = -0.05
+	}
+	NIE_diplomacy = {
+		diplomats = 1
+		diplomatic_reputation = 1
+	}
+	ecumenical_patriarch = {
+		global_missionary_strength = 0.03
+	}
+}
