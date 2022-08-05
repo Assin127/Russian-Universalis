@@ -1,4 +1,4 @@
-#RU003 by Astarot
+### RU003 - Added
 
 NIE_ideas = {
 	start = {
