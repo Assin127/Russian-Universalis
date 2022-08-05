@@ -1,7 +1,7 @@
 # 4750 - Krujë, Tirana, central Albania
 
-owner = ALB
-controller = ALB
+owner = BYZ
+controller = BYZ
 culture = albanian
 religion = orthodox
 capital = "Krujë"
@@ -13,6 +13,7 @@ base_manpower = 1
 is_city = yes
 fort_15th = yes # Krujë Castle
 add_core = ALB
+add_core = BYZ
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -22,6 +23,42 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
+
+1190.1.1 = {
+	owner = ALB
+	controller = ALB
+}
+1204.4.13 = {
+	owner = EPI
+	controller = EPI
+	add_core = EPI
+}
+1343.1.1 = {
+	owner = SER
+	controller = SER
+	add_core = SER
+}
+1363.1.1 = {
+	owner = ALB
+	controller = ALB
+}
+1395.1.1 = {
+	owner = TUR
+	controller = TUR
+}
+1403.1.1 = {
+	owner = ALB
+	controller = ALB
+}
+1415.1.1 = {
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+}
+1444.1.1 = {
+	owner = ALB
+	controller = ALB
+}
 
 1431.1.1 = { add_core = TUR }
 1478.6.16 = { owner = TUR controller = TUR }

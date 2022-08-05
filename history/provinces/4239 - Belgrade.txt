@@ -1,8 +1,8 @@
 #4239 - Belgrade
 
-owner = RSH
-controller = RSH
-culture = serbian
+owner = BYZ
+controller = BYZ
+culture = bulgarian
 religion = orthodox
 capital = "Belgrade"
 trade_goods = cloth
@@ -12,7 +12,9 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = RSH
+add_core = HUN
+add_core = SER
+add_core = BYZ
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -25,32 +27,29 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-1240.1.1 = {
+1204.4.13 = {
 	owner = HUN
 	controller = HUN
-	add_core = HUN
 }
-1282.1.1 = {
+1284.1.1 = {
 	owner = SER
 	controller = SER
-	add_core = SER
+	culture = serbian
 }
-1324.1.1 = {
-	owner = RSH
-	controller = RSH
-	add_core = RSH
-}
-1404.1.1 = {
-	owner = SER
-	controller = SER
-	add_core = SER
-}
-1428.1.1 = {
+1319.1.1 = {
 	owner = HUN
 	controller = HUN
-	add_core = HUN
-	capital = "Nándorfehérvár"
 }
+1389.6.16 = {
+	owner = SER
+	controller = SER
+}
+1427.1.1 = {
+	owner = HUN
+	controller = HUN
+	culture = hungarian
+}
+
 1521.8.29 = {
 	owner = TUR
 	controller = TUR

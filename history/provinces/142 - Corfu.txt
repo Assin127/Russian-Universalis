@@ -1,7 +1,7 @@
 #142 - Corfu
 
-owner = VEN
-controller = VEN
+owner = BYZ
+controller = BYZ
 culture = greek
 religion = orthodox
 capital = "Corfu"
@@ -12,7 +12,7 @@ base_production = 1
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = CEP
+add_core = BYZ
 
 
 
@@ -20,6 +20,37 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+1147.1.1 = {
+	owner = SIC
+	controller = SIC
+	add_core = SIC
+}
+1149.1.1 = {
+	owner = BYZ
+	controller = BYZ
+}
+1197.1.1 = {
+	owner = GEN
+	controller = GEN
+}
+1207.1.1 = {
+	owner = VEN
+	controller = VEN
+}
+1214.1.1 = {
+	owner = EPI
+	controller = EPI
+	add_core = EPI
+}
+1259.1.1 = {
+	owner = SIC
+	controller = SIC
+}
+1386.1.1 = {
+	owner = VEN
+	controller = VEN
+}
 
 
 1444.1.1 = { add_core = VEN}
