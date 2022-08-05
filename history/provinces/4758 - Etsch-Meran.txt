@@ -1,8 +1,8 @@
 #4758 - Etsch (Meran)
 
-owner = HAB
-controller = HAB
-add_core = HAB
+owner = BAV
+controller = BAV
+add_core = BAV
 add_core = TIR
 culture = austrian
 religion = catholic
@@ -19,7 +19,21 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1153.1.1 = {
+	owner = MRN
+	controller = MRN
+	add_core = MRN
+}
+1248.1.1 = {
+	owner = TIR
+	controller = TIR
+	add_core = TIR
+}
+1363.1.1 = {
+	owner = HAB
+	controller = HAB
+	add_core = HAB
+}
 1452.1.1 = {
 	owner = STY
 	controller = STY

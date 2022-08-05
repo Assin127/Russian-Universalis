@@ -1,7 +1,7 @@
 #141 - Serbia
 
-owner = SER
-controller = SER
+owner = BYZ
+controller = BYZ
 culture = serbian
 religion = orthodox
 capital = "Smederevo"
@@ -12,6 +12,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 fort_15th = yes
+add_core = BYZ
 add_core = SER
 discovered_by = KAZ
 discovered_by = CRI
@@ -22,6 +23,20 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+
+1204.4.13 = {
+	owner = SER
+	controller = SER
+}
+1439.1.1 = {
+	owner = TUR
+	controller = TUR
+}
+1444.8.14 = {
+	owner = SER
+	controller = SER
+}
 
 1459.6.20 = {
 	owner = TUR

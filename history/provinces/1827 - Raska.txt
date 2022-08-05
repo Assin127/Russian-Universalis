@@ -1,7 +1,7 @@
 #1827 - Raska
 
-owner = SER
-controller = SER
+owner = RSH
+controller = RSH
 culture = serbian
 religion = orthodox
 capital = "Trgoviste"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = SER
+add_core = RSH
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -21,6 +21,26 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+1265.1.1 = {
+	owner = HUN
+	controller = HUN
+	add_core = HUN
+}
+1282.1.1 = {
+	owner = SER
+	controller = SER
+	add_core = SER
+}
+1324.1.1 = {
+	owner = RSH
+	controller = RSH
+	add_core = RSH
+}
+1404.1.1 = {
+	owner = SER
+	controller = SER
+	add_core = SER
+}
 
 
 1459.6.20 = {

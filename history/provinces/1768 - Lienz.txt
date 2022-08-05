@@ -1,9 +1,8 @@
 #1768 - Lienz
 
-owner = HAB
-controller = HAB
-add_core = TIR
-add_core = HAB
+owner = CAR
+controller = CAR
+add_core = CAR
 culture = austrian
 religion = catholic
 base_tax = 4 
@@ -21,7 +20,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1335.1.1 = {
+	owner = HAB
+	controller = HAB
+	add_core = HAB
+}
 1452.1.1 = {
 	owner = STY
 	controller = STY

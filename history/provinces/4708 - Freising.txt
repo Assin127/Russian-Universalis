@@ -16,6 +16,16 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1153.1.1 = {
+	owner = MRN
+	controller = MRN 
+	add_core = MRN
+}
+1248.1.1 = {
+	owner = BAV
+	controller = BAV 
+	add_core = BAV
+}
 1353.1.1 = {
 	owner = LBV
 	controller = LBV 

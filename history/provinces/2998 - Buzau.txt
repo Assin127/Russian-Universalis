@@ -1,7 +1,7 @@
 # - Buzau
 
-owner = WAL
-controller = WAL  
+owner = CUM
+controller = CUM  
 culture = romanian
 religion = orthodox
 capital = "Buzau"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = WAL
+add_core = CUM
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -23,6 +23,11 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1241.1.1 = {
+	owner = WAL
+	controller = WAL
+	add_core = WAL
+}
 1593.1.1 = { unrest = 7 } # Wallachian rising, the Turks & Tatars are expelled
 1595.1.1 = { unrest = 0  } # The Turks take control of most of Wallachia again
 1650.1.1 = { revolt = { type = noble_rebels size = 1 } controller = REB } # Boyar rebellions

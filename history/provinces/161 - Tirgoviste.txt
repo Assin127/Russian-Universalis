@@ -1,7 +1,7 @@
 #161 - Tîrgoviste
 
-owner = WAL
-controller = WAL 
+owner = CUM
+controller = CUM
 culture = romanian
 religion = orthodox
 capital = "Tîrgoviste"
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = WAL
+add_core = CUM
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -24,6 +24,11 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
+1241.1.1 = {
+	owner = WAL
+	controller = WAL
+	add_core = WAL
+}
 1593.1.1 = { unrest = 7 } # Wallachian rising, the Turks & Tatars are expelled
 1595.1.1 = { unrest = 0 } # The Turks take control of most of Wallachia again
 1650.1.1 = { revolt = { type = noble_rebels size = 1 } controller = REB } # Boyar rebellions

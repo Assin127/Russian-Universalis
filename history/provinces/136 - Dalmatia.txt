@@ -1,7 +1,7 @@
 #136 - Split
 
-owner = DAL
-controller = DAL
+owner = VEN
+controller = VEN
 culture = dalmatian
 religion = catholic
 capital = "Split"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 fort_15th = yes # Klis Fortress
-add_core = CRO
+add_core = VEN
 add_core = DAL
 discovered_by = KAZ
 discovered_by = CRI
@@ -24,7 +24,33 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1105.1.1 = {
+	owner = CRO		
+	controller = CRO
+	add_core = CRO
+	add_local_autonomy = 50
+}
+1116.1.1 = {
+	owner = VEN		
+	controller = VEN
+	add_core = VEN
+}
+1141.1.1 = {
+	owner = CRO		
+	controller = CRO
+	add_core = CRO
+}
+1164.1.1 = {
+	owner = BYZ		
+	controller = BYZ
+	add_core = BYZ
+}
+1182.1.1 = {
+	owner = CRO		
+	controller = CRO
+	add_core = CRO
+	add_local_autonomy = -50
+}
 1420.1.1 = { owner = VEN controller = VEN add_core = VEN }
 1540.10.2 = { owner = TUR controller = TUR add_core = TUR } # A large part of Dalmatia is incorporated into the Ottoman empire
 1699.1.26 = { owner = VEN controller = VEN remove_core = TUR } # Peace of Karlowitz, Dalmatian hinterland given to Venice

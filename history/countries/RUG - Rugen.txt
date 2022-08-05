@@ -17,3 +17,6 @@ capital = 47 # Stralsund
 		mil = 1
 	}
 }
+1168.1.1 = {
+	religion = catholic
+}
