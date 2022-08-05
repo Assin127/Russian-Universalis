@@ -203,7 +203,7 @@ change_estate_land_share = {
 }
 
 1141.2.13 = {
-	queen_consort = {
+	queen = {
 		name = "Helena"
 		dynasty = "of Raška"
 		adm = 3
@@ -237,7 +237,7 @@ change_estate_land_share = {
 1146.1.1 = {
 	queen = {
 		name = "Euphrosyne"
-		dynasty = "Rurikids"
+		dynasty = "Rurikovich"
 		female = yes
 	}
 	heir = {
@@ -502,7 +502,7 @@ change_estate_land_share = {
 }
 
 1382.9.10 = {
-	queen_consort = {
+	queen = {
 		name = "Elizabeth"
 		dynasty = "Kotromanic"
 		female = yes
@@ -544,6 +544,9 @@ change_estate_land_share = {
 	}
 }
 
+
+1437.1.1 = { leader = {	name = "János Hunyadi"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1445.1.1 } }
+
 1438.1.1 = {
 	monarch = {
 		name = "Albert I"
@@ -563,9 +566,6 @@ change_estate_land_share = {
 		mil = 5
 	}
 }
-
-
-1437.1.1 = { leader = {	name = "János Hunyadi"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1445.1.1 } }
 
 # Personal union with Habsburg under Albrecht II 1437-39
 # Personal union with Poland under Wladyslaw III 1439-44
