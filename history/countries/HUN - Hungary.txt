@@ -107,22 +107,421 @@ change_estate_land_share = {
 		name = "Saint Ladislaus I"
 		dynasty = "Arpad"
 		birth_date = 1040.1.22	
+		death_date = 1095.7.29
 		adm = 5
 		dip = 3
 		mil = 4
 	}	
-}		
-
-1095.2.23 = {
-	monarch = {
+	heir = {
 		name = "Coloman"
 		dynasty = "Arpad"
 		birth_date = 1070.5.2	
+		death_date = 1116.2.3
 		adm = 3
 		dip = 6
 		mil = 2
 	}
+}		
+
+1095.7.29 = {
+	monarch = {
+		name = "Coloman"
+		dynasty = "Arpad"
+		birth_date = 1070.5.2	
+		death_date = 1116.2.3
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+	queen = {
+		name = "Felicia"
+		dynasty = "of Sicily"
+		female = yes
+	}
 }
+
+1101.1.1 = {
+	heir = {
+		name = "Stephen II"
+		dynasty = "Arpad"
+		birth_date = 1101.1.1
+		death_date = 1131.3.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1116.2.3 = {
+	monarch = {
+		name = "Stephen II"
+		dynasty = "Arpad"
+		birth_date = 1101.1.1
+		death_date = 1131.3.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	heir = {
+		name = "Béla II the Blind"
+		dynasty = "Arpad"
+		birth_date = 1110.1.1
+		death_date = 1141.2.13
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1131.3.1 = {
+	monarch = {
+		name = "Béla II the Blind"
+		dynasty = "Arpad"
+		birth_date = 1110.1.1
+		death_date = 1141.2.13
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+	queen = {
+		name = "Helena"
+		dynasty = "of Raška"
+		adm = 3
+		dip = 2
+		mil = 1
+		female = yes
+	}
+	heir = {
+		name = "Géza II"
+		dynasty = "Arpad"
+		birth_date = 1130.1.1
+		death_date = 1162.5.31
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1141.2.13 = {
+	queen_consort = {
+		name = "Helena"
+		dynasty = "of Raška"
+		adm = 3
+		dip = 2
+		mil = 1
+		female = yes
+	}
+	heir = {
+		name = "Géza II"
+		dynasty = "Arpad"
+		birth_date = 1130.1.1
+		death_date = 1162.5.31
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1145.1.1 = {
+	monarch = {
+		name = "Géza II"
+		dynasty = "Arpad"
+		birth_date = 1130.1.1
+		death_date = 1162.5.31
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1146.1.1 = {
+	queen = {
+		name = "Euphrosyne"
+		dynasty = "Rurikids"
+		female = yes
+	}
+	heir = {
+		name = "Stephen III"
+		dynasty = "Arpad"
+		birth_date = 1146.1.1
+		death_date = 1172.3.4
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1162.5.31 = {
+	monarch = {
+		name = "Stephen III"
+		dynasty = "Arpad"
+		birth_date = 1146.1.1
+		death_date = 1172.3.4
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	heir = {
+		name = "Béla III"
+		dynasty = "Arpad"
+		birth_date = 1148.1.1
+		death_date = 1196.4.23
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+1172.3.4 = {
+	monarch = {
+		name = "Béla III"
+		dynasty = "Arpad"
+		birth_date = 1148.1.1
+		death_date = 1196.4.23
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+	queen = {
+		name = "Agnes"
+		dynasty = "Antioch"
+		female = yes
+	}
+	heir = {
+		name = "Emeric I"
+		dynasty = "Arpad"
+		birth_date = 1172.2.1
+		death_date = 1204.9.30
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1196.4.23 = {
+	monarch = {
+		name = "Emeric I"
+		dynasty = "Arpad"
+		birth_date = 1172.2.1
+		death_date = 1204.9.30
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	queen = {
+		name = "Infanta Constance"
+		dynasty = "Aragon"
+		female = yes
+	}
+}
+
+1200.1.1 = {
+	heir = {
+		name = "Ladislaus III"
+		dynasty = "Arpad"
+		birth_date = 1200.1.1
+		death_date = 1205.5.7
+	}
+}
+
+1204.9.30 = {
+	monarch = {
+		name = "Andrew II"
+		dynasty = "Arpad"
+		birth_date = 1177.1.1
+		death_date = 1235.9.21
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	heir = {
+		name = "Ladislaus III"
+		dynasty = "Arpad"
+		birth_date = 1200.1.1
+		death_date = 1205.5.7
+	}
+	queen = {
+		name = "Gertrude"
+		dynasty = "Merania"
+		female = yes
+	}
+}
+
+1206.1.1 = {
+	heir = {
+		name = "Béla IV"
+		dynasty = "Arpad"
+		birth_date = 1206.1.1
+		death_date = 1270.5.3
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+}
+
+1235.9.21 = {
+	monarch = {
+		name = "Béla IV"
+		dynasty = "Arpad"
+		birth_date = 1206.1.1
+		death_date = 1270.5.3
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+	queen = {
+		name = "Maria"
+		dynasty = "Lascaris"
+		female = yes
+	}
+	heir = {
+		name = "Stephen V"
+		dynasty = "Arpad"
+		birth_date = 1235.7.11
+		death_date = 1272.8.6
+	}
+}
+
+1270.5.3 = {
+	monarch = {
+		name = "Stephen V"
+		dynasty = "Arpad"
+		birth_date = 1235.7.11
+		death_date = 1272.8.6
+	}
+	heir = {
+		name = "Ladislaus IV the Cuman"
+		dynasty = "Arpad"
+		birth_date = 1262.8.1
+		death_date = 1290.7.10
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1272.8.6 = {
+	monarch = {
+		name = "Ladislaus IV the Cuman"
+		dynasty = "Arpad"
+		birth_date = 1262.8.1
+		death_date = 1290.7.10
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1290.7.10 = {
+	monarch = {
+		name = "Andrew III"
+		dynasty = "Arpad"
+		birth_date = 1265.1.1
+		death_date = 1301.1.14
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1301.1.14 = {
+	monarch = {
+		name = "Wenceslaus III"
+		dynasty = "Premyslid"
+		birth_date = 1289.10.6
+		death_date = 1306.8.4
+	}
+}
+
+1305.8.1 = {
+	monarch = {
+		name = "Otto III of Bavaria"
+		dynasty = "Wittelsbach"
+		birth_date = 1261.2.11
+		death_date = 1312.11.9
+	}
+}
+
+1312.7.12 = {
+	monarch = {
+		name = "Charles I"
+		dynasty = "Anjou"
+		birth_date = 1288.1.1
+		death_date = 1342.7.16
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+}
+
+1326.3.5 = {
+	heir = {
+		name = "Louis I the Great"
+		dynasty = "Anjou"
+		birth_date = 1326.3.5
+		death_date = 1382.9.10
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+	queen = {
+		name = "Elizabeth"
+		dynasty = "Piast"
+		female = yes
+	}
+}
+
+1342.7.16 = {
+	monarch = {
+		name = "Louis I the Great"
+		dynasty = "Anjou"
+		birth_date = 1326.3.5
+		death_date = 1382.9.10
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+	queen = {
+		name = "Elizabeth"
+		dynasty = "Kotromanic"
+		female = yes
+	}
+}
+
+1371.1.1 = {
+	heir = {
+		name "Mary"
+		dynasty = "Anjou"
+		birth_date = 1371.1.1
+		death_date = 1395.5.17
+		adm = 2
+		dip = 3
+		mil = 1
+		female = yes
+	}
+}
+
+1382.9.10 = {
+	queen_consort = {
+		name = "Elizabeth"
+		dynasty = "Kotromanic"
+		female = yes
+	}
+}
+
+1386.1.1 = {
+	monarch = {
+		name "Mary"
+		dynasty = "Anjou"
+		birth_date = 1371.1.1
+		death_date = 1395.5.17
+		adm = 2
+		dip = 3
+		mil = 1
+		female = yes
+	}
+}
+
 		
 1387.3.31 = {
 	monarch = {
@@ -132,6 +531,36 @@ change_estate_land_share = {
 		adm = 4
 		dip = 3
 		mil = 3
+	}
+	queen = {
+		name "Mary"
+		dynasty = "Anjou"
+		birth_date = 1371.1.1
+		death_date = 1395.5.17
+		adm = 2
+		dip = 3
+		mil = 1
+		female = yes
+	}
+}
+
+1438.1.1 = {
+	monarch = {
+		name = "Albert I"
+		dynasty = "von Luxemburg"
+		birth_date = 1391.2.16
+	}
+}
+
+1440.5.15 = {
+	monarch = {
+		name = "Wladyslaw III"
+		dynasty = "Jagiellon"
+		birth_date = 1424.10.31
+		death_date = 1444.11.10
+		adm = 3
+		dip = 4
+		mil = 5
 	}
 }
 
