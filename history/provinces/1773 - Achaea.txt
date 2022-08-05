@@ -23,7 +23,11 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
-
+1204.4.13 = {
+	owner = LAE
+	controller = LAE
+	add_core = LAE
+}
 1212.1.1 = {
 	owner = ACH
 	controller = ACH

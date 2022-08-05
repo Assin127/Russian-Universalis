@@ -26,7 +26,7 @@ discovered_by = western
 	owner = EPI
 	controller = EPI
 }
-1368.1.1 = {
+1358.1.1 = {
 	owner = ATD
 	controller = ATD
 	add_core = ATD
