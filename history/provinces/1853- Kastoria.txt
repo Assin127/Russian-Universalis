@@ -37,14 +37,14 @@ discovered_by = nomad_group
 	controller = NIE
 	add_core = NIE
 }
+1261.8.15 = {
+	owner = BYZ
+	controller = BYZ
+}
 1345.1.1 = {
 	owner = SER
 	controller = SER
 	add_core = SER
-}
-1380.1.1 = {
-	owner = ALB
-	controller = ALB
 }
 1385.1.1 = {
 	owner = TUR

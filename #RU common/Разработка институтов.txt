@@ -1,0 +1,23 @@
+# Aurora не реализовано
+# feodalism 1075
+# war_monks 1125 +50
+# religion_philosophy 1200 +75
+# east_embassies 1275 +75
+# powder_age 1350 +75
+# regular_army 1425 +75
+# regular_army 1450 +25
+
+# RU реализовано
+# 1310 Dark Times I. The Orders Legacy
+# 1340 +30 Dark Times II. Gunpowder
+# 1380 +40 Dark Times III. Ordonnance
+# 1410 +30 Dark Times IV. national consciousness
+# 1450 +40
+
+# Кошмар Вольтера
+# 1100 Investiture
+# 1200 Universities +50
+# 1250 Guilds +50
+# 1300 Chivalry +50
+# 1350 Public Health +50
+# 1400 Popular Theology +50

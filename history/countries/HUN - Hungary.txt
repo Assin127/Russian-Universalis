@@ -107,22 +107,483 @@ change_estate_land_share = {
 		name = "Saint Ladislaus I"
 		dynasty = "Arpad"
 		birth_date = 1040.1.22	
+		death_date = 1095.7.29
 		adm = 5
 		dip = 3
 		mil = 4
+		leader = {	name = "Saint Ladislaus I"         	type = general	fire = 3	shock = 2	manuever = 3	siege = 1 }
 	}	
-}		
-
-1095.2.23 = {
-	monarch = {
+	heir = {
 		name = "Coloman"
 		dynasty = "Arpad"
 		birth_date = 1070.5.2	
+		death_date = 1116.2.3
 		adm = 3
 		dip = 6
 		mil = 2
 	}
+}		
+
+1095.7.29 = {
+	monarch = {
+		name = "Coloman"
+		dynasty = "Arpad"
+		birth_date = 1070.5.2	
+		death_date = 1116.2.3
+		adm = 5
+		dip = 6
+		mil = 2
+		leader = {	name = "Coloman"         	type = general	fire = 2	shock = 2	manuever = 1	siege = 1 }
+	}
+	queen = {
+		name = "Felicia"
+		dynasty = "of Sicily"
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 1
+	}
 }
+
+1101.1.1 = {
+	heir = {
+		name = "Stephen II"
+		dynasty = "Arpad"
+		birth_date = 1101.1.1
+		death_date = 1131.3.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1116.2.3 = {
+	monarch = {
+		name = "Stephen II"
+		dynasty = "Arpad"
+		birth_date = 1101.1.1
+		death_date = 1131.3.1
+		adm = 3
+		dip = 3
+		mil = 2
+		leader = {	name = "Stephen II"         	type = general	fire = 2	shock = 2	manuever = 1	siege = 0 }
+	}
+	heir = {
+		name = "Béla II the Blind"
+		dynasty = "Arpad"
+		birth_date = 1110.1.1
+		death_date = 1141.2.13
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1131.3.1 = {
+	monarch = {
+		name = "Béla II the Blind"
+		dynasty = "Arpad"
+		birth_date = 1110.1.1
+		death_date = 1141.2.13
+		adm = 3
+		dip = 5
+		mil = 2
+		leader = {	name = "Béla II the Blind"         	type = general	fire = 0	shock = 0	manuever = 0	siege = 1 }
+	}
+	queen = {
+		name = "Helena"
+		dynasty = "of Raška"
+		adm = 3
+		dip = 2
+		mil = 1
+		female = yes
+	}
+	heir = {
+		name = "Géza II"
+		dynasty = "Arpad"
+		birth_date = 1130.1.1
+		death_date = 1162.5.31
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+	leader = {	name = "Belosh of Raška"        	type = general	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1143.2.2 }
+}
+
+1141.2.13 = {
+	regent = {
+		name = "Helena"
+		dynasty = "of Raška"
+		adm = 3
+		dip = 2
+		mil = 1
+		female = yes
+	}
+	heir = {
+		name = "Géza II"
+		dynasty = "Arpad"
+		birth_date = 1130.1.1
+		death_date = 1162.5.31
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1145.1.1 = {
+	monarch = {
+		name = "Géza II"
+		dynasty = "Arpad"
+		birth_date = 1130.1.1
+		death_date = 1162.5.31
+		adm = 5
+		dip = 2
+		mil = 5
+		leader = {	name = "Géza II"         	type = general	fire = 4	shock = 2	manuever = 3	siege = 2 }
+	}
+}
+
+1146.1.1 = {
+	queen = {
+		name = "Euphrosyne"
+		dynasty = "Rurikovich"
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	heir = {
+		name = "Stephen III"
+		dynasty = "Arpad"
+		birth_date = 1146.1.1
+		death_date = 1172.3.4
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1162.5.31 = {
+	monarch = {
+		name = "Stephen III"
+		dynasty = "Arpad"
+		birth_date = 1146.1.1
+		death_date = 1172.3.4
+		adm = 2
+		dip = 3
+		mil = 3
+		leader = {	name = "Stephen III"         	type = general	fire = 2	shock = 2	manuever = 1	siege = 0 }
+	}
+	heir = {
+		name = "Béla III"
+		dynasty = "Arpad"
+		birth_date = 1148.1.1
+		death_date = 1196.4.23
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+1172.3.4 = {
+	monarch = {
+		name = "Béla III"
+		dynasty = "Arpad"
+		birth_date = 1148.1.1
+		death_date = 1196.4.23
+		adm = 5
+		dip = 5
+		mil = 3
+		leader = {	name = "Béla III"         	type = general	fire = 1	shock = 2	manuever = 2	siege = 1 }
+	}
+	queen = {
+		name = "Agnes"
+		dynasty = "Antioch"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	heir = {
+		name = "Emeric I"
+		dynasty = "Arpad"
+		birth_date = 1172.2.1
+		death_date = 1204.9.30
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1196.4.23 = {
+	monarch = {
+		name = "Emeric I"
+		dynasty = "Arpad"
+		birth_date = 1172.2.1
+		death_date = 1204.9.30
+		adm = 3
+		dip = 3
+		mil = 4
+		leader = {	name = "Emeric I"         	type = general	fire = 3	shock = 3	manuever = 2	siege = 2 }
+	}
+	queen = {
+		name = "Infanta Constance"
+		dynasty = "Aragon"
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1200.1.1 = {
+	heir = {
+		name = "Ladislaus III"
+		dynasty = "Arpad"
+		birth_date = 1200.1.1
+		death_date = 1205.5.7
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1204.9.30 = {
+	monarch = {
+		name = "Andrew II"
+		dynasty = "Arpad"
+		birth_date = 1177.1.1
+		death_date = 1235.9.21
+		adm = 4
+		dip = 3
+		mil = 4
+		leader = {	name = "Andrew II"         	type = general	fire = 1	shock = 3	manuever = 2	siege = 1 }
+	}
+	heir = {
+		name = "Ladislaus III"
+		dynasty = "Arpad"
+		birth_date = 1200.1.1
+		death_date = 1205.5.7
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	queen = {
+		name = "Gertrude"
+		dynasty = "Merania"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1206.1.1 = {
+	heir = {
+		name = "Béla IV"
+		dynasty = "Arpad"
+		birth_date = 1206.1.1
+		death_date = 1270.5.3
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+}
+
+1235.9.21 = {
+	monarch = {
+		name = "Béla IV"
+		dynasty = "Arpad"
+		birth_date = 1206.1.1
+		death_date = 1270.5.3
+		adm = 6
+		dip = 3
+		mil = 4
+		leader = {	name = "Béla IV"         	type = general	fire = 2	shock = 2	manuever = 1	siege = 1 }
+	}
+	queen = {
+		name = "Maria"
+		dynasty = "Lascaris"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	heir = {
+		name = "Stephen V"
+		dynasty = "Arpad"
+		birth_date = 1235.7.11
+		death_date = 1272.8.6
+		adm = 2
+		dip = 2
+		mil = 3
+		leader = {	name = "Stephen V"         	type = general	fire = 2	shock = 1	manuever = 1	siege = 0 }
+	}
+}
+
+1270.5.3 = {
+	monarch = {
+		name = "Stephen V"
+		dynasty = "Arpad"
+		birth_date = 1235.7.11
+		death_date = 1272.8.6
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Ladislaus IV the Cuman"
+		dynasty = "Arpad"
+		birth_date = 1262.8.1
+		death_date = 1290.7.10
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1272.8.6 = {
+	monarch = {
+		name = "Ladislaus IV the Cuman"
+		dynasty = "Arpad"
+		birth_date = 1262.8.1
+		death_date = 1290.7.10
+		adm = 2
+		dip = 5
+		mil = 2
+		leader = {	name = "Ladislaus IV the Cuman"         	type = general	fire = 2	shock = 4	manuever = 5	siege = 2 }
+	}
+}
+
+1290.7.10 = {
+	monarch = {
+		name = "Andrew III"
+		dynasty = "Arpad"
+		birth_date = 1265.1.1
+		death_date = 1301.1.14
+		adm = 3
+		dip = 3
+		mil = 2
+		leader = {	name = "Andrew III"         	type = general	fire = 1	shock = 2	manuever = 1	siege = 1 }
+	}
+}
+
+1301.1.14 = {
+	monarch = {
+		name = "Wenceslaus III"
+		dynasty = "Premyslid"
+		birth_date = 1289.10.6
+		death_date = 1306.8.4
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1305.8.1 = {
+	monarch = {
+		name = "Otto III of Bavaria"
+		dynasty = "Wittelsbach"
+		birth_date = 1261.2.11
+		death_date = 1312.11.9
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1312.7.12 = {
+	monarch = {
+		name = "Charles I"
+		dynasty = "Anjou"
+		birth_date = 1288.1.1
+		death_date = 1342.7.16
+		adm = 6
+		dip = 5
+		mil = 3
+		leader = {	name = "Charles I"         	type = general	fire = 3	shock = 2	manuever = 3	siege = 2 }
+	}
+}
+
+1326.3.5 = {
+	heir = {
+		name = "Louis I the Great"
+		dynasty = "Anjou"
+		birth_date = 1326.3.5
+		death_date = 1382.9.10
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+	queen = {
+		name = "Elizabeth"
+		dynasty = "Piast"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1342.7.16 = {
+	monarch = {
+		name = "Louis I the Great"
+		dynasty = "Anjou"
+		birth_date = 1326.3.5
+		death_date = 1382.9.10
+		adm = 5
+		dip = 6
+		mil = 6
+		leader = {	name = "Louis I the Great"         	type = general	fire = 4	shock = 2	manuever = 2	siege = 2 }
+	}
+	queen = {
+		name = "Elizabeth"
+		dynasty = "Kotromanic"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	leader = {	name = "István Latzkfi"        	type = general	fire = 4	shock = 4	manuever = 1	siege = 2	death_date = 1378.3.11 }
+}
+
+1371.1.1 = {
+	heir = {
+		name "Mary"
+		dynasty = "Anjou"
+		birth_date = 1371.1.1
+		death_date = 1395.5.17
+		adm = 2
+		dip = 3
+		mil = 1
+		female = yes
+	}
+}
+
+1382.9.10 = {
+	regent = {
+		name = "Elizabeth"
+		dynasty = "Kotromanic"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1386.1.1 = {
+	monarch = {
+		name "Mary"
+		dynasty = "Anjou"
+		birth_date = 1371.1.1
+		death_date = 1395.5.17
+		adm = 2
+		dip = 3
+		mil = 1
+		female = yes
+	}
+}
+
 		
 1387.3.31 = {
 	monarch = {
@@ -130,13 +591,48 @@ change_estate_land_share = {
 		dynasty = "von Luxemburg"
 		birth_date = 1368.2.14	
 		adm = 4
+		dip = 5
+		mil = 4
+		leader = {	name = "Sigismund I"         	type = general	fire = 3	shock = 2	manuever = 1	siege = 1 }
+	}
+	queen = {
+		name "Mary"
+		dynasty = "Anjou"
+		birth_date = 1371.1.1
+		death_date = 1395.5.17
+		adm = 2
 		dip = 3
-		mil = 3
+		mil = 1
+		female = yes
 	}
 }
 
 
 1437.1.1 = { leader = {	name = "János Hunyadi"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1445.1.1 } }
+
+1438.1.1 = {
+	monarch = {
+		name = "Albert I"
+		dynasty = "von Luxemburg"
+		birth_date = 1391.2.16
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1440.5.15 = {
+	monarch = {
+		name = "Wladyslaw III"
+		dynasty = "Jagiellon"
+		birth_date = 1424.10.31
+		death_date = 1444.11.10
+		adm = 4
+		dip = 4
+		mil = 5
+		leader = {	name = "Wladyslaw III"         	type = general	fire = 3	shock = 4	manuever = 3	siege = 3 }
+	}
+}
 
 # Personal union with Habsburg under Albrecht II 1437-39
 # Personal union with Poland under Wladyslaw III 1439-44

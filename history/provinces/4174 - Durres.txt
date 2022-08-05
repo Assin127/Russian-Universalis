@@ -36,15 +36,6 @@ center_of_trade = 1
 	controller = EPI
 	add_core = EPI
 }
-1259.1.1 = {
-	owner = NIE
-	controller = NIE
-	add_core = NIE
-}
-1270.1.1 = {
-	owner = EPI
-	controller = EPI
-}
 1278.1.1 = {
 	owner = SIC
 	controller = SIC
