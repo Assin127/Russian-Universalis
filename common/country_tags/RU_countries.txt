@@ -186,6 +186,7 @@ TRB = "countries/Terebovlia.txt"
 TUO = "countries/Turov.txt"
 VBL = "countries/Volga_Bulgaria.txt"
 #VLD = "countries/VladimirSuzdal.txt" ## RU004
+YEL = "countries/Yelets.txt" ## RU007
 
 #Скандинавия
 JAM = "countries/Jamtland.txt"

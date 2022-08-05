@@ -1,7 +1,7 @@
 #1752 - Rzhev
 
-owner = MOS
-controller = MOS
+owner = SMO
+controller = SMO
 culture = russian
 religion = orthodox
 hre = no
@@ -11,12 +11,15 @@ trade_goods = grain
 base_manpower = 3
 capital = "Rzhev"
 is_city = yes
-add_core = MOS
-add_core = TVE
+add_core = SMO
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
+1168.1.1 = {owner = TRG controller = TRG add_core = TRG remove_core = SMO}
+1226.1.1 = {owner = RZE controller = RZE add_core = RZE remove_core = TRG}
+1410.1.1 = {owner = MOS controller = MOS add_core = MOS add_core = TVE} 
 
 1446.1.1 = { owner = TVE controller = TVE } # Vasily II gives Rzhev to Boris of Tver
 1448.1.1 = { owner = LIT controller = LIT add_core = LIT } # Rzhev conquered by Lithuania
