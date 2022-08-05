@@ -48,6 +48,12 @@ discovered_by = ottoman
 	controller = SER
 	add_core = SER
 }
+1428.1.1 = {
+	owner = HUN
+	controller = HUN
+	add_core = HUN
+	capital = "Nándorfehérvár"
+}
 1471.1.1 = { capital = "Kupinik" }
 1514.1.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Rebel peasant troops led by Gheorghe Doja
 1514.6.1 = { revolt = {} controller = HUN } # Estimated
