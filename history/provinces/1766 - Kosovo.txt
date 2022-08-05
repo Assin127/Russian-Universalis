@@ -30,6 +30,13 @@ discovered_by = ottoman
 1190.1.1 = {
 	owner = RSH
 	controller = RSH
+	add_core = RSH
+}
+1217.1.1 = {
+	owner = SER
+	controller = SER
+	add_core = SER
+	remove_core = RSH
 }
 1265.1.1 = {
 	owner = HUN
@@ -40,14 +47,6 @@ discovered_by = ottoman
 	owner = SER
 	controller = SER
 	add_core = SER
-}
-1324.1.1 = {
-	owner = RSH
-	controller = RSH
-}
-1404.1.1 = {
-	owner = SER
-	controller = SER
 }
 
 1455.1.1 = {

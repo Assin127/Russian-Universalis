@@ -28,6 +28,12 @@ discovered_by = western
 	controller = RSH
 	add_core = RSH
 }
+1217.1.1 = {
+	owner = SER
+	controller = SER
+	add_core = SER
+	remove_core = RSH
+}
 1265.1.1 = {
 	owner = HUN
 	controller = HUN
@@ -37,14 +43,6 @@ discovered_by = western
 	owner = SER
 	controller = SER
 	add_core = SER
-}
-1324.1.1 = {
-	owner = RSH
-	controller = RSH
-}
-1404.1.1 = {
-	owner = SER
-	controller = SER
 }
 1386.1.1 = {
 	owner = VEN
