@@ -29,6 +29,10 @@ discovered_by = western
 	controller = NIE
 	add_core = NIE
 }
+1261.8.15 = {
+	owner = BYZ
+	controller = BYZ
+}
 1354.1.1 = {
 	owner = GEN
 	controller = GEN

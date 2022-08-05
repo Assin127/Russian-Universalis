@@ -37,6 +37,10 @@ center_of_trade = 2
 	controller = NIE
 	add_core = NIE
 }
+1261.8.15 = {
+	owner = BYZ
+	controller = BYZ
+}
 1387.1.1 = {
 	owner = TUR
 	controller = TUR
