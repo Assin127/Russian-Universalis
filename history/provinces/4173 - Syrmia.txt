@@ -1,7 +1,7 @@
 #4173 - Syrmia
 
-owner = BYZ
-controller = BYZ
+owner = HUN
+controller = HUN 
 culture = serbian
 religion = orthodox
 capital = "Mitrovica"
@@ -11,9 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = BYZ
 add_core = HUN
-add_core = BUL
 add_core = SER
 discovered_by = KAZ
 discovered_by = CRI
@@ -25,22 +23,20 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
-1071.1.1 = {
-	owner = HUN
-	controller = HUN
-}
 1167.1.1 = {
-	owner = BYZ
-	controller = BYZ
+	owner = RSH
+	controller = RSH
+	add_core = RSH
 }
 1180.1.1 = {
 	owner = HUN
 	controller = HUN
+	add_core = HUN
 }
 1282.1.1 = {
 	owner = SER
 	controller = SER
+	add_core = SER
 }
 1324.1.1 = {
 	owner = RSH
@@ -50,9 +46,14 @@ discovered_by = ottoman
 1404.1.1 = {
 	owner = SER
 	controller = SER
+	add_core = SER
 }
-
-
+1428.1.1 = {
+	owner = HUN
+	controller = HUN
+	add_core = HUN
+	capital = "Nándorfehérvár"
+}
 1471.1.1 = { capital = "Kupinik" }
 1514.1.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Rebel peasant troops led by Gheorghe Doja
 1514.6.1 = { revolt = {} controller = HUN } # Estimated
