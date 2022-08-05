@@ -23,6 +23,13 @@ discovered_by = ottoman
 	controller = SIC
 	add_core = SIC
 }
+1282.1.1 = {
+	owner = NAP
+	controller = NAP
+	add_core = NAP
+}
+
+
 
 1479.1.24 = { owner = TUR controller = TUR add_core = TUR }
 1500.12.24 = { controller = VEN } # end of the Siege of the Castle of Saint George
