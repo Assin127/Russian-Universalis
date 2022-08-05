@@ -29,10 +29,9 @@ discovered_by = nomad_group
 	owner = BUL
 	controller = BUL
 }
-1334.1.1 = {
+1282.1.1 = {
 	owner = SER
 	controller = SER
-	add_core = SER
 }
 1394.1.1 = {
 	owner = TUR

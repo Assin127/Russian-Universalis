@@ -33,6 +33,11 @@ discovered_by = western
 	controller = BYZ
 	add_core = BYZ
 }
+1345.1.1 = {
+	owner = SER
+	controller = SER
+	add_core = SER
+}
 1417.1.1 = {
 	owner = TUR
 	controller = TUR
