@@ -156,6 +156,7 @@ l_english:
  ADJ_WRO: "¢µ®¢¬"
  ADJ_XIA: "ª¾°¬"
  ADJ_YAD: "¾¦¢¬"
+ ADJ_YEL: "®µ" ## RU007
  ADJ_ZAR: "¥¬"
  ADJ_ZEE: "©®°¦¬"
  ADJ_ZIR: "©ªª¦¬"
@@ -317,6 +318,7 @@ l_english:
  TAG_DT_WRO: "Ïµ®¢³"
  TAG_DT_XIA: "Ôª Ô¾"
  TAG_DT_YAD: "×¦¢"
+ TAG_DT_YEL: "®µ³" ## RU007
  TAG_DT_ZAR: "Ô¥"
  TAG_DT_ZEE: "…®°¦ªª"
  TAG_DT_ZIR: "…ªª¦¯"
@@ -478,6 +480,7 @@ l_english:
  TAG_PR_WRO: "Ïµ®¢"
  TAG_PR_XIA: "Ôª Ô¾"
  TAG_PR_YAD: "×¦¢"
+ TAG_PR_YEL: "®µ" ## RU007
  TAG_PR_ZAR: "Ô¥"
  TAG_PR_ZEE: "…®°¦ªª"
  TAG_PR_ZIR: "…ªª¦"
@@ -639,6 +642,7 @@ l_english:
  TAG_RD_WRO: "Ïµ®¢"
  TAG_RD_XIA: "Ôª Ô¾"
  TAG_RD_YAD: "×¦¢º"
+ TAG_RD_YEL: "®µ" ## RU007
  TAG_RD_ZAR: "Ô¥º"
  TAG_RD_ZEE: "…®°¦ªª"
  TAG_RD_ZIR: "…ªª¦¢"
@@ -800,6 +804,7 @@ l_english:
  TAG_TV_WRO: "Ïµ®¢¯"
  TAG_TV_XIA: "Ôª Ô¾"
  TAG_TV_YAD: "×¦¢þ"
+ TAG_TV_YEL: "®µ¯" ## RU007
  TAG_TV_ZAR: "Ô¥þ"
  TAG_TV_ZEE: "…®°¦ªþ"
  TAG_TV_ZIR: "…ªª¦¯ª"
@@ -961,6 +966,7 @@ l_english:
  TAG_VN_WRO: "Ïµ®¢"
  TAG_VN_XIA: "Ôª Ô¾"
  TAG_VN_YAD: "×¦¢³"
+ TAG_TV_YEL: "®µ" ## RU007
  TAG_VN_ZAR: "Ô¥³"
  TAG_VN_ZEE: "…®°¦ª½"
  TAG_VN_ZIR: "…ªª¦¢"
