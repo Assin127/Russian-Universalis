@@ -34,7 +34,6 @@ center_of_trade = 1
 	owner = POL
 	controller = POL
 	add_core = POL
-	add_local_autonomy = 25
 }
 
 1569.7.1 = {
@@ -42,7 +41,6 @@ center_of_trade = 1
 	controller = PLC
 	remove_core = POL
 	add_core = PLC
-	add_local_autonomy = -25
 } # Union of Lublin
 1572.1.1 = { unrest = 6 } # Sigismund II dies
 1588.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war

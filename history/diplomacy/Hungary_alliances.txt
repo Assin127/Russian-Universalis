@@ -1,7 +1,0 @@
-# Hungary vassal
-vassal = {
-	first = HUN
-	second = MOL
-	start_date = 1346.1.1
-	end_date = 1359.1.1
-}

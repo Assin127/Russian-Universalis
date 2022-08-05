@@ -23,14 +23,12 @@ discovered_by = nomad_group
 	owner = POL
 	controller = POL
 	add_core = POL
-	add_local_autonomy = 25
 }
 
 1569.7.1 = {
 	owner = PLC
 	controller = PLC
 	add_core = PLC
-	add_local_autonomy = -25
 } # Polish-Lithuanian Commonwealth
 1570.1.1 = { religion = catholic } # Union of Lublin
 1657.7.1 = { controller = SWE }

@@ -33,7 +33,6 @@ discovered_by = ottoman
 	owner = MAZ
 	controller = MAZ
 	add_core = MAZ
-	add_local_autonomy = 25
 }
 
 1462.7.1 = { owner = POL controller = POL add_core = POL remove_core = MAZ } # Belz incorporated into Poland
@@ -42,7 +41,6 @@ discovered_by = ottoman
 	controller = PLC
 	remove_core = POL
 	add_core = PLC
-	add_local_autonomy = -25
 } # Union of Lublin
 1570.1.1 = { religion = catholic } # Union of Lublin
 1588.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war

@@ -27,7 +27,6 @@ discovered_by = ottoman
 	owner = POL
 	controller = POL
 	add_core = POL
-	add_local_autonomy = 25
 }
 
 1492.1.1 = { unrest = 0 } 
@@ -36,7 +35,6 @@ discovered_by = ottoman
 	controller = PLC
 	remove_core = POL
 	add_core = PLC
-	add_local_autonomy = -25
 } # Union of Lublin
 1572.1.1 = { unrest = 6 } # Sigismund II dies
 1588.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war
