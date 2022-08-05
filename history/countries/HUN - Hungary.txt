@@ -111,6 +111,7 @@ change_estate_land_share = {
 		adm = 5
 		dip = 3
 		mil = 4
+		leader = {	name = "Saint Ladislaus I"         	type = general	fire = 3	shock = 2	manuever = 3	siege = 1 }
 	}	
 	heir = {
 		name = "Coloman"
@@ -132,6 +133,7 @@ change_estate_land_share = {
 		adm = 5
 		dip = 6
 		mil = 2
+		leader = {	name = "Coloman"         	type = general	fire = 2	shock = 2	manuever = 1	siege = 1 }
 	}
 	queen = {
 		name = "Felicia"
@@ -164,6 +166,7 @@ change_estate_land_share = {
 		adm = 3
 		dip = 3
 		mil = 2
+		leader = {	name = "Stephen II"         	type = general	fire = 2	shock = 2	manuever = 1	siege = 0 }
 	}
 	heir = {
 		name = "Béla II the Blind"
@@ -185,6 +188,7 @@ change_estate_land_share = {
 		adm = 3
 		dip = 5
 		mil = 2
+		leader = {	name = "Béla II the Blind"         	type = general	fire = 0	shock = 0	manuever = 0	siege = 1 }
 	}
 	queen = {
 		name = "Helena"
@@ -203,10 +207,11 @@ change_estate_land_share = {
 		dip = 2
 		mil = 5
 	}
+	leader = {	name = "Belosh of Raška"        	type = general	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1143.2.2 }
 }
 
 1141.2.13 = {
-	queen = {
+	regent = {
 		name = "Helena"
 		dynasty = "of Raška"
 		adm = 3
@@ -234,6 +239,7 @@ change_estate_land_share = {
 		adm = 5
 		dip = 2
 		mil = 5
+		leader = {	name = "Géza II"         	type = general	fire = 4	shock = 2	manuever = 3	siege = 2 }
 	}
 }
 
@@ -266,6 +272,7 @@ change_estate_land_share = {
 		adm = 2
 		dip = 3
 		mil = 3
+		leader = {	name = "Stephen III"         	type = general	fire = 2	shock = 2	manuever = 1	siege = 0 }
 	}
 	heir = {
 		name = "Béla III"
@@ -287,6 +294,7 @@ change_estate_land_share = {
 		adm = 5
 		dip = 5
 		mil = 3
+		leader = {	name = "Béla III"         	type = general	fire = 1	shock = 2	manuever = 2	siege = 1 }
 	}
 	queen = {
 		name = "Agnes"
@@ -316,6 +324,7 @@ change_estate_land_share = {
 		adm = 3
 		dip = 3
 		mil = 4
+		leader = {	name = "Emeric I"         	type = general	fire = 3	shock = 3	manuever = 2	siege = 2 }
 	}
 	queen = {
 		name = "Infanta Constance"
@@ -348,6 +357,7 @@ change_estate_land_share = {
 		adm = 4
 		dip = 3
 		mil = 4
+		leader = {	name = "Andrew II"         	type = general	fire = 1	shock = 3	manuever = 2	siege = 1 }
 	}
 	heir = {
 		name = "Ladislaus III"
@@ -389,6 +399,7 @@ change_estate_land_share = {
 		adm = 6
 		dip = 3
 		mil = 4
+		leader = {	name = "Béla IV"         	type = general	fire = 2	shock = 2	manuever = 1	siege = 1 }
 	}
 	queen = {
 		name = "Maria"
@@ -406,6 +417,7 @@ change_estate_land_share = {
 		adm = 2
 		dip = 2
 		mil = 3
+		leader = {	name = "Stephen V"         	type = general	fire = 2	shock = 1	manuever = 1	siege = 0 }
 	}
 }
 
@@ -439,6 +451,7 @@ change_estate_land_share = {
 		adm = 2
 		dip = 5
 		mil = 2
+		leader = {	name = "Ladislaus IV the Cuman"         	type = general	fire = 2	shock = 4	manuever = 5	siege = 2 }
 	}
 }
 
@@ -451,6 +464,7 @@ change_estate_land_share = {
 		adm = 3
 		dip = 3
 		mil = 2
+		leader = {	name = "Andrew III"         	type = general	fire = 1	shock = 2	manuever = 1	siege = 1 }
 	}
 }
 
@@ -487,6 +501,7 @@ change_estate_land_share = {
 		adm = 6
 		dip = 5
 		mil = 3
+		leader = {	name = "Charles I"         	type = general	fire = 3	shock = 2	manuever = 3	siege = 2 }
 	}
 }
 
@@ -519,6 +534,7 @@ change_estate_land_share = {
 		adm = 5
 		dip = 6
 		mil = 6
+		leader = {	name = "Louis I the Great"         	type = general	fire = 4	shock = 2	manuever = 2	siege = 2 }
 	}
 	queen = {
 		name = "Elizabeth"
@@ -528,6 +544,7 @@ change_estate_land_share = {
 		dip = 3
 		mil = 3
 	}
+	leader = {	name = "István Latzkfi"        	type = general	fire = 4	shock = 4	manuever = 1	siege = 2	death_date = 1378.3.11 }
 }
 
 1371.1.1 = {
@@ -544,7 +561,7 @@ change_estate_land_share = {
 }
 
 1382.9.10 = {
-	queen = {
+	regent = {
 		name = "Elizabeth"
 		dynasty = "Kotromanic"
 		female = yes
@@ -576,6 +593,7 @@ change_estate_land_share = {
 		adm = 4
 		dip = 5
 		mil = 4
+		leader = {	name = "Sigismund I"         	type = general	fire = 3	shock = 2	manuever = 1	siege = 1 }
 	}
 	queen = {
 		name "Mary"
@@ -612,6 +630,7 @@ change_estate_land_share = {
 		adm = 4
 		dip = 4
 		mil = 5
+		leader = {	name = "Wladyslaw III"         	type = general	fire = 3	shock = 4	manuever = 3	siege = 3 }
 	}
 }
 
