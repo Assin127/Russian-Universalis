@@ -29,6 +29,12 @@ defined_text = {
 			tag = THE
 		}
     }
+    text = { ## RU007
+        localisation_key = ADJ_YEL
+        trigger = {
+			tag = YEL
+		}
+    }
     text = { ## RU002
         localisation_key = ADJ_THS
         trigger = {

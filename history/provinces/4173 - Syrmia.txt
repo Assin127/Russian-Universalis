@@ -1,7 +1,7 @@
 #4173 - Syrmia
 
-owner = BYZ
-controller = BYZ
+owner = HUN
+controller = HUN
 culture = serbian
 religion = orthodox
 capital = "Mitrovica"
@@ -13,8 +13,6 @@ base_manpower = 1
 is_city = yes
 add_core = BYZ
 add_core = HUN
-add_core = BUL
-add_core = SER
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -25,11 +23,6 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
-1071.1.1 = {
-	owner = HUN
-	controller = HUN
-}
 1167.1.1 = {
 	owner = BYZ
 	controller = BYZ
@@ -37,19 +30,17 @@ discovered_by = ottoman
 1180.1.1 = {
 	owner = HUN
 	controller = HUN
+	add_core = HUN
+	remove_core = RSH
 }
 1282.1.1 = {
 	owner = SER
 	controller = SER
 }
-1324.1.1 = {
-	owner = RSH
-	controller = RSH
-	add_core = RSH
-}
-1404.1.1 = {
-	owner = SER
-	controller = SER
+1427.1.1 = {
+	owner = HUN
+	controller = HUN
+	culture = hungarian
 }
 
 

@@ -23,3 +23,11 @@ march = {
 	start_date = 1077.7.11
 	end_date = 1245.1.1
 }
+
+# Hungary vassal
+vassal = {
+	first = HUN
+	second = MOL
+	start_date = 1346.1.1
+	end_date = 1359.1.1
+}
