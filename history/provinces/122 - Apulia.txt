@@ -26,7 +26,6 @@ discovered_by = ottoman
 	add_core = NAP
 }
 
-
 1494.1.1 = { add_core = FRA } # Angevine claims
 1495.2.22 = { controller = FRA } # Charles VIII invades Naples
 1495.7.7 = { controller = NAP } # Charles VIII leaves Italy
