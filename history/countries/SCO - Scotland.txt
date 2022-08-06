@@ -42,7 +42,7 @@ capital = 248 # Edinburgh
 
 877.1.1 = {
 	monarch = {
-		name = "¡ed"
+		name = "√Åed"
 		dynasty = "MacAlpin"
 		birth_date = 840.1.1
 		adm = 2
@@ -54,7 +54,7 @@ capital = 248 # Edinburgh
 878.1.1 = {
 	monarch = {
 		name = "Giric"
-		dynasty = "MacD˙ngail"
+		dynasty = "MacD√∫ngail"
 		adm = 5
 		dip = 4
 		mil = 5
@@ -117,7 +117,7 @@ capital = 248 # Edinburgh
 
 967.7.10 = {
 	monarch = {
-		name = "CuilÈn"
+		name = "Cuil√©n"
 		dynasty = "MacAlpin"
 		adm = 0
 		dip = 1
@@ -1311,7 +1311,7 @@ capital = 248 # Edinburgh
 	}
 	queen = {
 		country_of_origin = FRA
-		name = "FranÁois II"
+		name = "Fran√ßois II"
 		dynasty = "de Valois"
 		birth_date = 1494.9.12
 		death_date = 1560.12.5
