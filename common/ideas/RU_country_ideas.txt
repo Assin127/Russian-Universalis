@@ -40,3 +40,45 @@ NIE_ideas = {
 		global_missionary_strength = 0.03
 	}
 }
+
+LAE_ideas = {
+	start = {
+		discipline = 0.05
+		tolerance_heretic = 1
+	}
+	
+	bonus = {
+		legitimacy = 1
+	}
+	
+	trigger = {
+        tag = LAE
+    }
+	free = yes        #will be added at load.
+	
+	LAE_defense_of_the_faith = {
+		defensiveness = 0.25
+	}
+	LAE_assistance_to_the_suffering = {
+		manpower_recovery_speed = 0.15
+	}
+	LAE_the_tongues_of_knights = {
+		diplomatic_upkeep = 1
+		diplomatic_reputation = 1
+	}
+	LAE_greek_library = {
+		idea_cost = -0.1
+		embracement_cost = -0.1
+	}
+	LAE_naval = {
+		naval_forcelimit_modifier = 0.2
+		transport_cost = -0.1
+	}
+	LAE_trade_gate = {
+	    trade_efficiency = 0.1
+		center_of_trade_upgrade_cost = -0.1
+	}
+	LAE_crusader_tradition = {
+		army_tradition = 1
+	}
+}
