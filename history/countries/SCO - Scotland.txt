@@ -1,5 +1,5 @@
 ### RU001 - Added
-### made by platel test testr
+### made by platel test testr 2
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = scottish
