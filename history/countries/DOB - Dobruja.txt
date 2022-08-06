@@ -1,0 +1,70 @@
+### RU004 - Added
+
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+capital = 159	# Silistra
+
+1322.1.1 = {
+	monarch = {
+		name = "Balik"
+		dynasty = "Terter"
+		birth_date = 1280.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1322.1.1 = {
+	heir = {
+		name = "Dobrotitsa"
+		monarch_name = "Dobrotitsa"
+		dynasty = "Terter"
+		birth_date = 1320.1.1
+		death_date = 1385.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+1347.1.1 = {
+	monarch = {
+		name = "Dobrotitsa"
+		dynasty = "Terter"
+		birth_date = 1320.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+1350.1.1 = {
+	heir = {
+		name = "Ivanko"
+		monarch_name = "Ivanko"
+		dynasty = "Terter"
+		birth_date = 1350.1.1
+		death_date = 1395.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1385.1.1 = {
+	monarch = {
+		name = "Ivanko"
+		dynasty = "Terter"
+		birth_date = 1350.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
