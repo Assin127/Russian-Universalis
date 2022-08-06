@@ -1,4 +1,5 @@
 ### RU001 - Added
+### made by platel test testr 2
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = scottish
@@ -7,55 +8,689 @@ religion = catholic
 technology_group = western
 capital = 248 # Edinburgh
 
-1094.5.1 = {
+843.1.1 = {
 	monarch = {
-		name = "Duncan II"
-		dynasty = Dunkeld
-		birth_date = 1060.1.1
-		adm = 1
+		name = "Kenneth I"
+		dynasty = "MacAlpin"
+		birth_date = 810.1.1
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+}
+
+858.2.3 = {
+	monarch = {
+		name = "Donald I"
+		dynasty = "MacAlpin"
+		birth_date = 812.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+862.4.13 = {
+	monarch = {
+		name = "Constantine I"
+		dynasty = "MacAlpin"
+		birth_date = 836.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+877.1.1 = {
+	monarch = {
+		name = "Áed"
+		dynasty = "MacAlpin"
+		birth_date = 840.1.1
+		adm = 2
 		dip = 2
 		mil = 1
 	}
 }
 
-1094.11.12 = {
+878.1.1 = {
 	monarch = {
-		name = "Donald III the Fair"
-		dynasty = Dunkeld
-		birth_date = 1033.1.1
+		name = "Giric"
+		dynasty = "MacDúngail"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+889.1.1 = {
+	monarch = {
+		name = "Donald II"
+		dynasty = "MacAlpin"
+		birth_date = 840.1.1
 		adm = 2
-		dip = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+900.1.1 = {
+	monarch = {
+		name = "Constantine II"
+		dynasty = "MacAlpin"
+		birth_date = 879.1.1
+		adm = 4
+		dip = 2
 		mil = 3
 	}
-	heir = {
-		name = "Edmund"
-		monarch_name = "Edmund"
-		dynasty = "Dunkeld"
-		birth_date = 1070.1.1
-		death_date = 1097.1.1
-		claim = 95
+}
+
+943.1.1 = {
+	monarch = {
+		name = "Malcolm I"
+		dynasty = "MacAlpin"
+		birth_date = 897.10.5
 		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+954.12.3 = {
+	monarch = {
+		name = "Indulf"
+		dynasty = "MacAlpin"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+962.1.1 = {
+	monarch = {
+		name = "Dub"
+		dynasty = "MacAlpin"
+		birth_date = 928.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+967.7.10 = {
+	monarch = {
+		name = "Cuilén"
+		dynasty = "MacAlpin"
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+971.1.1 = {
+	monarch = {
+		name = "Kenneth II"
+		dynasty = "MacAlpin"
+		birth_date = 954.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+
+995.1.1 = {
+	monarch = {
+		name = "Constantine III"
+		dynasty = "MacAlpin"
+		birth_date = 970.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+997.1.1 = {
+	monarch = {
+		name = "Kenneth III"
+		dynasty = "MacAlpin"
+		birth_date = 966.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1005.3.25 = {
+	monarch = {
+		name = "Malcolm II"
+		dynasty = "MacAlpin"
+		birth_date = 954.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1034.11.25 = {
+	monarch = {
+		name = "Duncan I"
+		dynasty = "Dunkeld"
+		birth_date = 1001.8.15
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1040.8.14 = {
+	monarch = {
+		name = "Macbeth"
+		dynasty = "Moray"
+		birth_date = 1005.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1057.8.15 = {
+	monarch = {
+		name = "Lulach"
+		dynasty = "Moray"
+		birth_date = 1033.1.1
+		adm = 1
 		dip = 1
 		mil = 1
 	}
 }
 
-1390.1.1 = {
+1058.3.17 = {
 	monarch = {
-		name = "Robert III"
-		dynasty = Stuart
+		name = "Malcolm III"
+		dynasty = "Dunkeld"
+		birth_date = 1031.3.26
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1093.11.13 = {
+	monarch = {
+		name = "Donald III"
+		dynasty = "Dunkeld"
+		birth_date = 1033.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1094.6.1 = {
+	monarch = {
+		name = "Duncan II"
+		dynasty = "Dunkeld"
+		birth_date = 1060.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1094.11.12 = {
+	monarch = {
+		name = "Donald III"
+		dynasty = "Dunkeld"
+		birth_date = 1033.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1097.10.1 = {
+	monarch = {
+		name = "Edgar"
+		dynasty = "Dunkeld"
+		birth_date = 1074.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1107.1.8 = {
+	monarch = {
+		name = "Alexander I"
+		dynasty = "Dunkeld"
+		birth_date = 1078.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1124.4.23 = {
+	monarch = {
+		name = "David I"
+		dynasty = "Dunkeld"
+		birth_date = 1084.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1153.5.24 = {
+	monarch = {
+		name = "Malcolm IV"
+		dynasty = "Dunkeld"
+		birth_date = 1141.5.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1165.12.9 = {
+	monarch = {
+		name = "William I"
+		dynasty = "Dunkeld"
+		birth_date = 1142.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1214.12.4 = {
+	monarch = {
+		name = "Alexander II"
+		dynasty = "Dunkeld"
+		birth_date = 1198.8.24
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1249.7.6 = {
+	monarch = {
+		name = "Alexander III"
+		dynasty = "Dunkeld"
+		birth_date = 1241.9.4
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	heir = {
+		name = "Margaret"
+		monarch_name = "Margaret I"
+		dynasty = "Dunkeld"
+		birth_date = 1193.1.21
+		death_date = 1259.11.25
+		female = yes
+		claim = 50
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1251.12.26 = {
+	queen = {
+		country_of_origin = ENG
+		name = "Margaret"
+		dynasty = "Plantagenet"
+		birth_date = 1240.9.29
+		death_date = 1275.2.26
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1259.11.25 = {
+	heir = {
+		name = "Isabella"
+		monarch_name = "Isabella I"
+		dynasty = "Dunkeld"
+		birth_date = 1195.1.1
+		death_date = 1263.10.1
+		female = yes
+		claim = 50
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1261.2.28 = {
+	heir = {
+		name = "Margaret"
+		monarch_name = "Margaret I"
+		dynasty = "Dunkeld"
+		birth_date = 1261.2.28
+		death_date = 1283.4.9
+		female = yes
+		claim = 85
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1264.1.21 = {
+	heir = {
+		name = "Alexander"
+		monarch_name = "Alexander IV"
+		dynasty = "Dunkeld"
+		birth_date = 1264.1.21
+		death_date = 1284.1.17
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1284.2.5 = {
+	heir = {
+		name = "Margaret"
+		monarch_name = "Margaret"
+		dynasty = "Sverre"
+		birth_date = 1283.4.9
+		death_date = 1290.9.26
+		female = yes
+		claim = 50
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1285.10.15 = {
+	queen = {
+		country_of_origin = FRA
+		name = "Yolande"
+		dynasty = "de Dreux"
+		birth_date = 1263.3.20
+		death_date = 1330.8.2
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1286.3.19 = {
+	monarch = {
+		name = "Guardians of Scotland"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1286.3.19 = {
+	heir = {
+		name = "Margaret"
+		monarch_name = "Margaret"
+		dynasty = "Sverre"
+		birth_date = 1283.4.9
+		death_date = 1290.9.26
+		female = yes
+		claim = 50
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1290.9.26 = {
+	monarch = {
+		name = "(Interregnum)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1292.11.17 = {
+	monarch = {
+		name = "John I"
+		dynasty = "Balliol"
+		birth_date = 1249.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1292.11.17 = {
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward I"
+		dynasty = "Balliol"
+		birth_date = 1283.1.1
+		death_date = 1364.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1296.7.10 = {
+	monarch = {
+		name = "(Interregnum)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1306.3.25 = {
+	monarch = {
+		name = "Robert I"
+		dynasty = "Bruce"
+		birth_date = 1274.7.11
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+	queen = {
+		country_of_origin = ULS
+		name = "Elizabeth"
+		dynasty = "de Burgh"
+		birth_date = 1284.1.1
+		death_date = 1327.10.27
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1315.4.27 = {
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward II"
+		dynasty = "Bruce"
+		birth_date = 1280.1.1
+		death_date = 1318.10.14
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1318.12.3 = {
+	heir = {
+		name = "Robert"
+		monarch_name = "Robert II"
+		dynasty = "Stuart"
+		birth_date = 1316.3.2
+		death_date = 1390.4.19
+		claim = 65
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1324.3.5 = {
+	heir = {
+		name = "David"
+		monarch_name = "David II"
+		dynasty = "Bruce"
+		birth_date = 1324.3.5
+		death_date = 1371.2.22
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1329.6.7 = {
+	monarch = {
+		name = "Guardians of Scotland"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1329.6.7 = {
+	heir = {
+		name = "David II"
+		monarch_name = "David II"
+		dynasty = "Bruce"
+		birth_date = 1324.3.5
+		death_date = 1371.2.22
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1341.6.2 = {
+	monarch = {
+		name = "David II"
+		dynasty = "Bruce"
+		birth_date = 1324.3.5
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	queen = {
+		country_of_origin = ENG
+		name = "Joan of the Tower"
+		dynasty = "Plantagenet"
+		birth_date = 1321.7.5
+		death_date = 1362.9.7
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Robert"
+		monarch_name = "Robert II"
+		dynasty = "Stuart"
+		birth_date = 1316.3.2
+		death_date = 1390.4.19
+		claim = 75
 		adm = 1
 		dip = 2
 		mil = 2
 	}
 }
 
-1394.12.10 = {
+1371.2.22 = {
+	monarch = {
+		name = "Robert II"
+		dynasty = "Stuart"
+		birth_date = 1316.3.2
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	queen = {
+		country_of_origin = SCO
+		name = "Euphemia"
+		dynasty = "de Ross"
+		birth_date = 1330.1.1
+		death_date = 1386.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1371.3.27 = {
+	heir = {
+		name = "John"
+		monarch_name = "Robert III"
+		dynasty = "Stuart"
+		birth_date = 1337.8.14
+		death_date = 1406.4.4
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1390.4.19 = {
+	monarch = {
+		name = "Robert III"
+		dynasty = "Stuart"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	queen = {
+		country_of_origin = SCO
+		name = "Anabella"
+		dynasty = "Drummond"
+		birth_date = 1340.1.1
+		death_date = 1401.10.1
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+	heir = {
+		name = "David"
+		monarch_name = "David III"
+		dynasty = "Stuart"
+		birth_date = 1378.10.24
+		death_date = 1402.3.26
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1400.12.24 = { leader = { name = "Archibald Douglas"	type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1424.8.17 } }
+
+1402.3.26 = {
 	heir = {
 		name = "James"
 		monarch_name = "James I"
 		dynasty = "Stuart"
-		birth_date = 1394.12.10
+		birth_date = 1394.7.25
 		death_date = 1437.2.21
 		claim = 95
 		adm = 3
@@ -64,19 +699,115 @@ capital = 248 # Edinburgh
 	}
 }
 
-1400.12.24 = { leader = { name = "Archibald Douglas"	type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1424.8.17 } }
-
-1406.1.1 = {
+1406.4.4 = {
 	monarch = {
+		name = "Robert"
+		dynasty = "Stuart"
+		birth_date = 1340.1.1
+		death_date = 1420.9.3
+		adm = 2
+		dip = 1
+		mil = 4
+		regent = yes
+	}
+	heir = {
 		name = "James I"
-		dynasty = Stuart
+		monarch_name = "James I"
+		dynasty = "Stuart"
+		birth_date = 1394.7.25
+		death_date = 1437.2.21
+		claim = 95
 		adm = 3
 		dip = 1
 		mil = 2
 	}
 }
 
+1420.9.3 = {
+	monarch = {
+		name = "Murdoch"
+		dynasty = "Stuart"
+		birth_date = 1362.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+		regent = yes
+	}
+	heir = {
+		name = "James I"
+		monarch_name = "James I"
+		dynasty = "Stuart"
+		birth_date = 1394.7.25
+		death_date = 1437.2.21
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1424.5.21 = {
+	monarch = {
+		name = "James I"
+		dynasty = "Stuart"
+		birth_date = 1394.7.25
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	queen = {
+		country_of_origin = FRA
+		name = "Joan"
+		dynasty = "Beaufort"
+		birth_date = 1404.1.1
+		death_date = 1445.7.15
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	heir = {	
+		name = "Murdoch"
+		monarch_name = "Murdoch"
+		dynasty = "Stuart"
+		birth_date = 1362.1.1
+		death_date = 1425.5.25
+		claim = 65
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1425.5.25 = {
+	heir = {	
+		name = "Walter"
+		monarch_name = "Walter"
+		dynasty = "Stuart"
+		birth_date = 1360.1.1
+		death_date = 1437.3.26
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
 1430.10.16 = {
+	heir = {	
+		name = "Alexander"
+		monarch_name = "Alexander IV"
+		dynasty = "Stuart"
+		birth_date = 1430.10.16
+		death_date = 1430.10.17
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1430.10.17 = {
 	heir = {	
 		name = "James"
 		monarch_name = "James II"
@@ -94,13 +825,25 @@ capital = 248 # Edinburgh
 	#decision = use_highland_charge
 	monarch = {
 		name = "James II"
-		dynasty = Stuart
+		dynasty = "Stuart"
+		birth_date = 1430.10.16
 		adm = 3
 		dip = 2
 		mil = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = righteous_personality
+	heir = {	
+		name = "Walter"
+		monarch_name = "Walter"
+		dynasty = "Stuart"
+		birth_date = 1360.1.1
+		death_date = 1437.3.26
+		claim = 30
+		adm = 1
+		dip = 2
+		mil = 3
+	}
 }
 
 1449.7.3 = {
@@ -134,9 +877,35 @@ capital = 248 # Edinburgh
 1460.8.3 = {
 	monarch = {
 		name = "James III"
-		dynasty = Stuart
+		dynasty = "Stuart"
+		birth_date = 1451.7.10
 		adm = 0
 		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Alexander"
+		monarch_name = "Alexander IV"
+		dynasty = "Stuart"
+		birth_date = 1454.1.1
+		death_date = 1485.8.7
+		claim = 65
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1469.7.1 = {
+	queen = {
+		country_of_origin = DAN
+		name = "Margaret"
+		dynasty = "von Oldenburg"
+		birth_date = 1456.6.23
+		death_date = 1486.7.14
+		female = yes
+		adm = 2
+		dip = 1
 		mil = 2
 	}
 }
@@ -159,11 +928,107 @@ capital = 248 # Edinburgh
 1488.6.12 = {
 	monarch = {
 		name = "James IV"
-		dynasty = Stuart
+		dynasty = "Stuart"
+		birth_date = 1473.3.17
 		adm = 3
 		dip = 4
 		mil = 1
 		leader = { name = "James IV"		type = general	fire = 1	shock = 3	manuever = 2	siege = 0 }
+	}
+	heir = {
+		name = "James"
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1476.3.1
+		death_date = 1504.1.12
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1503.8.8 = {
+	queen = {
+		country_of_origin = ENG
+		name = "Margaret"
+		dynasty = "Tudor"
+		birth_date = 1489.11.28
+		death_date = 1541.10.18
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1504.1.12 = {
+	heir = {
+		name = "John"
+		monarch_name = "John II"
+		dynasty = "Stuart"
+		birth_date = 1482.7.8
+		death_date = 1536.7.2
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1507.2.21 = {
+	heir = {
+		name = "James"
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1507.2.21
+		death_date = 1508.2.27
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1508.2.27 = {
+	heir = {
+		name = "John"
+		monarch_name = "John II"
+		dynasty = "Stuart"
+		birth_date = 1482.7.8
+		death_date = 1536.7.2
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1509.10.20 = {
+	heir = {
+		name = "Arthur"
+		monarch_name = "Arthur I"
+		dynasty = "Stuart"
+		birth_date = 1509.10.20
+		death_date = 1510.7.14
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1510.7.14 = {
+	heir = {
+		name = "John"
+		monarch_name = "John II"
+		dynasty = "Stuart"
+		birth_date = 1482.7.8
+		death_date = 1536.7.2
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 
@@ -183,11 +1048,187 @@ capital = 248 # Edinburgh
 
 1513.9.10 = {
 	monarch = {
+		name = "Mary"
+		dynasty = "de Guise"
+		birth_date = 1515.11.22
+		adm = 2
+		dip = 2
+		mil = 1
+		female = yes
+		regent = yes
+	}
+	heir = {
 		name = "James V"
-		dynasty = Stuart
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1512.4.10
+		death_date = 1542.12.14
+		claim = 95
 		adm = 3
 		dip = 1
 		mil = 2
+	}
+}
+
+1515.7.1 = {
+	monarch = {
+		name = "John"
+		dynasty = "Stuart"
+		birth_date = 1482.7.8
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+	heir = {
+		name = "James V"
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1512.4.10
+		death_date = 1542.12.14
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1524.7.1 = {
+	monarch = {
+		name = "Mary"
+		dynasty = "de Guise"
+		birth_date = 1515.11.22
+		adm = 2
+		dip = 2
+		mil = 1
+		female = yes
+		regent = yes
+	}
+	heir = {
+		name = "James V"
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1512.4.10
+		death_date = 1542.12.14
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1525.2.1 = {
+	monarch = {
+		name = "Archibald"
+		dynasty = "Douglas"
+		birth_date = 1489.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+	heir = {
+		name = "James V"
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1512.4.10
+		death_date = 1542.12.14
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1528.3.11 = {
+	monarch = {
+		name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1512.4.10
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	heir = {
+		name = "John"
+		monarch_name = "John II"
+		dynasty = "Stuart"
+		birth_date = 1482.7.8
+		death_date = 1536.7.2
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1536.7.2 = {
+	heir = {
+		name = "James"
+		monarch_name = "James VI"
+		dynasty = "Hamilton"
+		birth_date = 1519.1.1
+		death_date = 1575.1.22
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1537.1.1 = {
+	queen = {
+		country_of_origin = FRA
+		name = "Madeleine"
+		dynasty = "de Valois"
+		birth_date = 1520.8.10
+		death_date = 1537.7.17
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1538.5.18 = {
+	queen = {
+		country_of_origin = FRA
+		name = "Marie"
+		dynasty = "de Guise"
+		birth_date = 1515.11.22
+		death_date = 1560.6.11
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1540.5.22 = {
+	heir = {
+		name = "James"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1540.5.22
+		death_date = 1541.4.21
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1541.4.21 = {
+	heir = {
+		name = "James"
+		monarch_name = "James VI"
+		dynasty = "Hamilton"
+		birth_date = 1519.1.1
+		death_date = 1575.1.22
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 
@@ -208,12 +1249,25 @@ capital = 248 # Edinburgh
 
 1542.12.15 = {
 	monarch = {
+		name = "James"
+		dynasty = "Hamilton"
+		birth_date = 1519.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+		regent = yes
+	}
+	heir = {
 		name = "Mary I"
-		dynasty = Stuart
+		monarch_name = "Mary I"
+		dynasty = "Stuart"
+		birth_date = 1542.12.8
+		death_date = 1587.2.8
+		female = yes
+		claim = 95
 		adm = 2
 		dip = 3
 		mil = 3
-		female = yes
 	}
 }
 
@@ -221,7 +1275,78 @@ capital = 248 # Edinburgh
 
 1550.1.1 = { leader = {	name = "Malcolm"               	type = general	fire = 2	shock = 4	manuever = 2	siege = 0	death_date = 1595.1.1 } }
 
+1554.4.15 = {
+	monarch = {
+		name = "Mary"
+		dynasty = "de Guise"
+		birth_date = 1515.11.22
+		adm = 2
+		dip = 2
+		mil = 1
+		female = yes
+		regent = yes
+	}
+	heir = {
+		name = "Mary I"
+		monarch_name = "Mary I"
+		dynasty = "Stuart"
+		birth_date = 1542.12.8
+		death_date = 1587.2.8
+		female = yes
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1560.6.11 = {
+	monarch = {
+		name = "Mary I"
+		dynasty = "Stuart"
+		birth_date = 1542.12.8
+		adm = 2
+		dip = 3
+		mil = 3
+		female = yes
+	}
+	queen = {
+		country_of_origin = FRA
+		name = "François II"
+		dynasty = "de Valois"
+		birth_date = 1494.9.12
+		death_date = 1560.12.5
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+	heir = {
+		name = "James"
+		monarch_name = "James VI"
+		dynasty = "Hamilton"
+		birth_date = 1519.1.1
+		death_date = 1575.1.22
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
 1560.8.1 = { religion = reformed }
+
+1565.7.29 = {
+	queen = {
+		country_of_origin = SCO
+		name = "Henry"
+		dynasty = "Stuart"
+		birth_date = 1546.1.1
+		death_date = 1567.2.10
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
 
 1566.6.19 = {
 	heir = {
@@ -237,10 +1362,36 @@ capital = 248 # Edinburgh
 	}
 }
 
+1567.5.15 = {
+	queen = {
+		country_of_origin = SCO
+		name = "James"
+		dynasty = "Hepburn"
+		birth_date = 1534.1.1
+		death_date = 1578.4.14
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
 1567.7.15 = {
 	monarch = {
-		name = "James VI"
-		dynasty = Stuart
+		name = "James"
+		dynasty = "Stuart"
+		birth_date = 1531.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+		regent = yes
+	}
+	heir = {
+		name = James VI"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		death_date = 1625.3.27
+		claim = 95
 		adm = 2
 		dip = 3
 		mil = 4
@@ -250,7 +1401,126 @@ capital = 248 # Edinburgh
 1567.7.15 = { government = monarchy
 add_government_reform = autocracy_reform	religion = reformed }
 
-1600.11.19 = {
+1570.1.23 = {
+	monarch = {
+		name = "Matthew"
+		dynasty = "Stuart"
+		birth_date = 1516.12.21
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+	heir = {
+		name = James VI"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		death_date = 1625.3.27
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1571.9.4 = {
+	monarch = {
+		name = "John"
+		dynasty = "Erskine"
+		birth_date = 1500.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+	heir = {
+		name = James VI"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		death_date = 1625.3.27
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1572.10.28 = {
+	monarch = {
+		name = "James"
+		dynasty = "Douglas"
+		birth_date = 1516.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+		regent = yes
+	}
+	heir = {
+		name = James VI"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		death_date = 1625.3.27
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1581.5.30 = {
+	monarch = {
+		name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	heir = {
+		name = "James"
+		monarch_name = "James VII"
+		dynasty = "Hamilton"
+		birth_date = 1537.1.1
+		death_date = 1609.3.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1589.8.20 = {
+	queen = {
+		country_of_origin = DAN
+		name = "Anne"
+		dynasty = "von Oldenburg"
+		birth_date = 1574.12.12
+		death_date = 1619.3.2
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1594.2.19 = {
+	heir = {
+		name = "Henry Frederick"
+		monarch_name = "Henry I"
+		dynasty = "Stuart"
+		birth_date = 1594.2.19
+		death_date = 1612.11.6
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1612.11.6 = {
 	heir = {
 		name = "Charles"
 		monarch_name = "Charles I"
@@ -269,10 +1539,36 @@ add_government_reform = autocracy_reform	religion = reformed }
 1625.3.28 = {
 	monarch = {
 		name = "Charles I"
-		dynasty = Stuart
+		dynasty = "Stuart"
+		birth_date = 1600.11.19
 		adm = 2
 		dip = 1
 		mil = 4
+	}
+	heir = {
+		name = "Elizabeth"
+		monarch_name = "Elizabeth I"
+		dynasty = "Stuart"
+		birth_date = 1596.8.19
+		death_date = 1662.2.13
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1625.6.13 = {
+	queen = {
+		country_of_origin = FRA
+		name = "Henrietta Maria"
+		dynasty = "de Bourbon"
+		birth_date = 1609.11.25
+		death_date = 1669.9.10
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 2
 	}
 }
 
@@ -299,17 +1595,29 @@ add_government_reform = autocracy_reform	religion = reformed }
 1649.1.30 = {
 	monarch = {
 		name = "Alexander"
-		dynasty = Leslie
+		dynasty = "Leslie"
+		birth_date = 1580.1.1
 		adm = 4
 		dip = 3
 		mil = 5
+	}
+	queen = {
+		country_of_origin =SCO
+		name = "Agnes"
+		dynasty = "Renton"
+		death_date = 1651.6.29
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 
 1660.4.24 = {
 	monarch = {
 		name = "Charles II"
-		dynasty = Stuart
+		dynasty = "Stuart"
+		birth_date = 1630.5.29
 		adm = 0
 		dip = 3
 		mil = 3
@@ -336,7 +1644,7 @@ add_government_reform = autocracy_reform	religion = reformed }
 1685.2.6 = {
 	monarch = {
 		name = "James VII"
-		dynasty = Stuart
+		dynasty = "Stuart"
 		adm = 1
 		dip = 3
 		mil = 3
@@ -358,7 +1666,7 @@ add_government_reform = autocracy_reform	religion = reformed }
 1701.9.7 = {
 	monarch = {
 		name = "James VIII"
-		dynasty = Stuart
+		dynasty = "Stuart"
 		adm = 3
 		dip = 5
 		mil = 4
@@ -368,7 +1676,7 @@ add_government_reform = autocracy_reform	religion = reformed }
 1702.3.20 = {
 	monarch = {
 		name = "Anne"
-		dynasty = Stuart
+		dynasty = "Stuart"
 		adm = 3
 		dip = 5
 		mil = 4
