@@ -1,0 +1,147 @@
+### RU004 - Added
+
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+capital = 2746	#Видин
+
+1261.1.1 = {
+	monarch = {
+		name = "Yakov Svyatoslav"
+		dynasty = "Ryurikovich"
+		birth_date = 1220.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1276.1.1 = {
+	monarch = {
+		name = "Shishman I"
+		dynasty = "Shishman"
+		birth_date = 1250.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1280.1.1 = {
+	heir = {
+		name = "Mikhail"
+		monarch_name = "Mikhail I"
+		dynasty = "Shishman"
+       	birth_date = 1280.1.1
+		death_date = 1330.7.31
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1313.1.1 = {
+	monarch = {
+		name = "Mikhail I"
+		dynasty = "Shishman"
+		birth_date = 1280.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1313.1.1 = {
+	heir = {
+		name = "Belaur"
+		monarch_name = "Belaur"
+		dynasty = "Shishman"
+       	birth_date = 1285.1.1
+		death_date = 1337.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1323.1.1 = {
+	monarch = {
+		name = "Belaur"
+		dynasty = "Shishman"
+		birth_date = 1285.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1323.1.1 = {
+	heir = {
+		name = "Keratsa Petritsa"
+		monarch_name = "Keratsa Petritsa"
+		dynasty = "Shishman"
+       	birth_date = 1290.1.1
+		death_date = 1337.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 1
+		female = yes
+	}
+}
+
+1336.1.1 = {
+	monarch = {
+		name = "Ivan Sratsimir"
+		dynasty = "Shishman"
+		birth_date = 1294.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1356.1.1 = {
+	monarch = {
+		name = "Ivan Aleksandr"
+		dynasty = "Shishman"
+		birth_date = 1324.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1356.1.1 = {
+government_rank = 3
+}
+
+1369.1.1 = {
+	heir = {
+		name = "Konstantin"
+		monarch_name = "Konstantin I Asen"
+		dynasty = "Shishman"
+       	birth_date = 1369.1.1
+		death_date = 1422.9.17
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1396.1.1 = {
+	monarch = {
+		name = "Konstantin II Asen"
+		dynasty = "Shishman"
+		birth_date = 1369.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
