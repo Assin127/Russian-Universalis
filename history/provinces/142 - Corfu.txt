@@ -47,6 +47,11 @@ discovered_by = ottoman
 	owner = SIC
 	controller = SIC
 }
+1282.1.1 = {
+	owner = NAP
+	controller = NAP
+	add_core = NAP
+}
 1386.1.1 = {
 	owner = VEN
 	controller = VEN
