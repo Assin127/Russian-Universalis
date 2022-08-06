@@ -1,0 +1,20 @@
+#Lithuania union
+union = {
+	first = LIT
+	second = VOL
+	start_date = 1340.1.1
+	end_date = 1392.1.1
+}
+#Poland vassal
+vassal = {
+	first = POL
+	second = GLC
+	start_date = 1340.1.1
+	end_date = 1387.1.1
+}
+vassal = {
+	first = POL
+	second = MOL
+	start_date = 1387.1.1
+	end_date = 1444.1.1
+}

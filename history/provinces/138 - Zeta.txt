@@ -26,16 +26,13 @@ discovered_by = ottoman
 	controller = RSH
 	add_core = RSH
 }
-1282.1.1 = {
+1217.1.1 = {
 	owner = SER
 	controller = SER
 	add_core = SER
+	remove_core = RSH
 }
-1324.1.1 = {
-	owner = RSH
-	controller = RSH
-	add_core = RSH
-}
+
 1326.1.1 = {
 	owner = MON
 	controller = MON

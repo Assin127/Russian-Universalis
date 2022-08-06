@@ -1,7 +1,7 @@
 #141 - Serbia
 
-owner = BYZ
-controller = BYZ
+owner = RSH
+controller = RSH
 culture = serbian
 religion = orthodox
 capital = "Smederevo"
@@ -24,10 +24,22 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
-1204.4.13 = {
+1217.1.1 = {
 	owner = SER
 	controller = SER
+	add_core = SER
+	remove_core = RSH
+}
+
+1265.1.1 = {
+	owner = HUN
+	controller = HUN
+	add_core = HUN
+}
+1282.1.1 = {
+	owner = SER
+	controller = SER
+	add_core = SER
 }
 1439.1.1 = {
 	owner = TUR
