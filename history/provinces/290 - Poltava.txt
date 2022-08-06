@@ -26,12 +26,18 @@ discovered_by = nomad_group
 	culture = crimean
 }
 
-1363.1.1 = {
+1362.1.1 = {
+	owner = KIE
+	controller = KIE
+	add_core = KIE
+	culture = ruthenian
+	religion = orthodox
+}
+
+1398.1.1 = {
 	owner = LIT
 	controller = LIT
 	add_core = LIT
-	culture = ruthenian
-	religion = orthodox
 }
 
 1569.7.1 = {	owner = PLC
