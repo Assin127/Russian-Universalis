@@ -27,6 +27,11 @@ discovered_by = nomad_group
 	add_core = GLH
 	culture = crimean
 }
+1441.1.1 = {
+	owner = CRI
+	controller = CRI
+	add_core = CRI
+}
 1478.6.1 = { add_core = TUR } # Crimea becomes a vassal of the Ottoman Empire
 1495.1.1 = { capital = "Salaciq" }
 1532.1.1 = { capital = "Bakhchisaray" } # A new capital is founded by Sahib Giray I
