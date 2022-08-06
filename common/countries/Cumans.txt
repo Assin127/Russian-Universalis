@@ -3,7 +3,7 @@
 
 graphical_culture = muslimgfx
 
-color = { 250  182  3 }
+color = { 250  235  176 } ## RU008
 
 historical_idea_groups = {
 #	early_diplomatic_ideas ## RU001
