@@ -1,0 +1,54 @@
+### RU004 - Added
+
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = ligurian
+add_accepted_culture = greek
+religion = catholic
+technology_group = western
+capital = 2348	# Chios
+
+historical_friend = GEN
+
+1304.1.1 = {
+	monarch = {
+		name = "Benedetto I"
+		dynasty = "Dzakkaria"
+		death_date = 1307.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+}
+1307.1.1 = {
+	monarch = {
+		name = "Paleologo"
+		dynasty = "Dzakkaria"
+		death_date = 1314.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1314.1.1 = {
+	monarch = {
+		name = "Benedetto II"
+		dynasty = "Dzakkaria"
+		death_date = 13.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+1325.1.1 = {
+	monarch = {
+		name = "Martino"
+		dynasty = "Dzakkaria"
+		claim = 95
+		death_date = 1314.1.1
+		adm = 0
+		dip = 3
+		mil = 6
+	}
+}

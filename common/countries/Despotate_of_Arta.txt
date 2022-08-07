@@ -1,0 +1,113 @@
+### RU004 - Added
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 211  188  245 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Tomas #2" = 20
+	"Mikèl’ #2" = 20
+	"Nikifor #2" = 20
+	"Nikolas #1" = 10
+	"Dzhovanni #1" = 10
+	"Tèodor #1" = 5
+	"Mariya #1" = -5
+	"Simeon #1" = 5
+	"Agapy #0" = 0
+	"Akaky #0" = 0
+	"Aleksandr #0" = 0
+	"Anargiry #0" = 0
+	"Anastasy #0" = 0
+	"Andreas #0" = 0
+	"Angelos #0" = 0
+	"Aniket #0" = 0
+	"Apostol #0" = 0
+	"Argiros #0" = 0
+	"Atanasy #0" = 0
+	"Sharlampy #0" = 0
+	"Kristiantis #0" = 0
+	"Demetry #0" = 0
+	"Dimosfen #0" = 0
+	"Dionisy #0" = 0
+	"Dorofey #0" = 0
+	"Èleftery #0" = 0
+	"Èlias #0" = 0
+	"Èmmanuil #0" = 0
+	"Evangely #0" = 0
+	"Georgy #0" = 0
+	"Grigory #0" = 0
+	"Ioann #0" = 0
+	"Konstantin #0" = 0
+	"Pavel #0" = 0
+	"Petr #0" = 0
+	"Filipp #0" = 0
+	"Foty #0" = 0
+	"Stefan #0" = 0
+	"Teofilaktus #0" = 0
+	"Vasily #0" = 0
+	"Vlasy #0" = 0
+	"Sibilla #0" = -1
+	"Kseniya #0" = -1
+}	
+
+leader_names = { 
+	"Angelus"
+	"Asan"
+	"Bran"
+	"Kantakuzin"
+	"Komnin"
+	"Duka"
+	"Mavr"
+	"Notara"
+	"Paleolog"
+	"Foka"
+	"Raul’"
+	"Span’oli"
+	"Sfrandzi"
+	"Tokko"
+	"Zakkariya"
+}
+
+ship_names = {
+	"Agios Kiprianos"
+	"Areopoli"
+	"Èlika"
+	"Gerolimenas"
+	"Giteyo"
+	"Kardamili"
+	"Kokkala"
+	"Kotronas"
+	"Skutari"
+	"Vatiya"
+}

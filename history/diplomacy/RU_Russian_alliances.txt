@@ -54,3 +54,38 @@ union = {
 	start_date = 1245.17.8
 	end_date = 1340.19.6
 }
+
+#Bryansk union
+union = {
+	first = BRY
+	second = CHR
+	start_date = 1246.1.1
+	end_date = 1356.1.1
+}
+
+#Chernigov vassal
+vassal = {
+	first = CHR
+	second = NOS
+	start_date = 1097.1.1
+	end_date = 1246.1.1
+}
+vassal = {
+	first = CHR
+	second = KRS
+	start_date = 1164.1.1
+	end_date = 1246.1.1
+}
+#Bryansk vassal
+vassal = {
+	first = BRY
+	second = NOS
+	start_date = 1246.1.1
+	end_date = 1356.1.1
+}
+vassal = {
+	first = BRY
+	second = KRS
+	start_date = 1246.1.1
+	end_date = 1301.1.1
+}
