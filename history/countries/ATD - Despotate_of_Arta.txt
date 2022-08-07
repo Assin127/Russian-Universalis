@@ -1,0 +1,52 @@
+### RU004 - Added
+
+government = monarchy
+government_rank = 1
+technology_group = eastern
+primary_culture = albanian
+add_accepted_culture = greek
+religion = orthodox
+capital = 4699 # Arta
+
+1359.1.1 = {
+	monarch = {
+		name = "Peter"
+		dynasty = "Losha"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1374.1.1 = {
+	monarch = {
+		name = "Gjin"
+		dynasty = "Shpata"
+		birth_date = 1180.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+1400.1.1 = {
+	monarch = {
+		name = "Muriq"
+		dynasty = "Shpata"
+		birth_date = 1205.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Jakup"
+		dynasty = "Shpata"
+		birth_date = 1240.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}

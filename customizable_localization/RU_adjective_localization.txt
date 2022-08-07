@@ -161,6 +161,12 @@ defined_text = {
 			tag = ART
 		}
     }
+	text = { ## RU004
+        localisation_key = ADJ_ATD
+        trigger = {
+			tag = ATD
+		}
+    }
     text = {
         localisation_key = ADJ_AVE
         trigger = {
@@ -269,6 +275,12 @@ defined_text = {
 			tag = CIL
 		}
     }
+	text = { ## RU004
+        localisation_key = ADJ_CIO	
+        trigger = {
+			tag = CIO
+		}
+    }
     text = {
         localisation_key = ADJ_CLL
         trigger = {
@@ -321,6 +333,12 @@ defined_text = {
         localisation_key = ADJ_DNS
         trigger = {
 			tag = DNS
+		}
+    }
+	text = { ## RU004
+        localisation_key = ADJ_DOB
+        trigger = {
+			tag = DOB
 		}
     }
     text = {
@@ -521,6 +539,12 @@ defined_text = {
 			tag = KNM
 		}
     }
+	text = { ## RU004
+        localisation_key = ADJ_KOT
+        trigger = {
+			tag = KOT
+		}
+    }
     text = {
         localisation_key = ADJ_KRS
         trigger = {
@@ -615,6 +639,12 @@ defined_text = {
         localisation_key = ADJ_NAR
         trigger = {
 			tag = NAR
+		}
+    }
+	text = { ## RU004
+        localisation_key = ADJ_NEG
+        trigger = {
+			tag = NEG
 		}
     }
     text = {
@@ -903,6 +933,12 @@ defined_text = {
         localisation_key = ADJ_VBL
         trigger = {
 			tag = VBL
+		}
+    }
+	text = { ## RU004
+        localisation_key = ADJ_VID
+        trigger = {
+			tag = VID
 		}
     }
     text = {

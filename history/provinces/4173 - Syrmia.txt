@@ -23,7 +23,6 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
 1167.1.1 = {
 	owner = RSH
 	controller = RSH
@@ -44,6 +43,7 @@ discovered_by = ottoman
 	owner = HUN
 	controller = HUN
 	culture = hungarian
+	religion = catholic
 }
 
 

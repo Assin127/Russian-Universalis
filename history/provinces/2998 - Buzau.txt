@@ -2,8 +2,8 @@
 
 owner = CUM
 controller = CUM  
-culture = romanian
-religion = orthodox
+culture = cuman
+religion = tengri_pagan_reformed
 capital = "Buzau"
 trade_goods = livestock
 hre = no
@@ -27,6 +27,10 @@ discovered_by = ottoman
 	owner = WAL
 	controller = WAL
 	add_core = WAL
+}
+1300.1.1 = {
+	culture = romanian
+	religion = orthodox
 }
 1593.1.1 = { unrest = 7 } # Wallachian rising, the Turks & Tatars are expelled
 1595.1.1 = { unrest = 0  } # The Turks take control of most of Wallachia again

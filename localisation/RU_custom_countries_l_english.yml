@@ -15,6 +15,7 @@ l_english:
  ADJ_APC: "±³®¿¬-¬®¡ªþ¬"
  ADJ_AQT: "¬¢ª²°¬"
  ADJ_ART: "²³þ¬"
+ ADJ_ATD: "²¬"
  ADJ_AVE: "¢¬"
  ADJ_BAY: "¡¾²¬"
  ADJ_BEA: "¡°¬"
@@ -33,6 +34,7 @@ l_english:
  ADJ_CHB: "¡¬"
  ADJ_CHN: "¶°¦®¿¬"
  ADJ_CIL: "¬ª®ª¬ªþ¬"
+ ADJ_CIO: "ª¬"
  ADJ_CLL: "¶®¿¬"
  ADJ_CMB: "¬¯¡þ¬"
  ADJ_CMN: "¶¯°¬"
@@ -42,6 +44,7 @@ l_english:
  ADJ_DEH: "¦þ¡²¬"
  ADJ_DER: "¦¡°²¬"
  ADJ_DNS: "¦°ªŒ¯°¦ª¦¬"
+ ADJ_DOB: "¦¡³¦¨¬"  ## RU004
  ADJ_DVA: "¦¢¢²¬"
  ADJ_DYC: "¦³¬®¾°¬"
  ADJ_ECH: "¶®³¬¬"
@@ -76,6 +79,7 @@ l_english:
  ADJ_KLU: "¬®³¬¬"
  ADJ_KMR: "¬¯³±¬"
  ADJ_KNM: "¬°¯¬"
+ ADJ_KOT: "¬²¬" ## RU004
  ADJ_KRS: "¬³¬"
  ADJ_KRT: "¬ª²¬"
  ADJ_LAE: "®²ª°¬" ## RU002
@@ -95,6 +99,7 @@ l_english:
  ADJ_NAM: "°¯½¬"
  ADJ_NAN: "°°²¬"
  ADJ_NAR: "°¡°°¬"
+ ADJ_NEG: "°¥±°²¬"
  ADJ_NIC: "°ªµµ¬"
  ADJ_NIE: "°ª¬þ¬" ## RU002
  ADJ_NJH: "°¦¨ª¦¬"
@@ -147,6 +152,7 @@ l_english:
  ADJ_UYU: "³½°ª¦¬"
  ADJ_VAL: "¢®°ªþ¬"
  ADJ_VBL: "¡³®¥¬"
+ ADJ_VID: "¢ª¦ª°¬"  ## RU004
  ADJ_VIV: "¢ª¢þ¬"
  ADJ_VLA: "¢®þ¬"
  ADJ_VRD: "¢¯°¦³þ¬"
@@ -177,6 +183,7 @@ l_english:
  TAG_DT_APC: "±³®ªª ª ®¡ªª"
  TAG_DT_AQT: "¬¢ª²°ªª"
  TAG_DT_ART: "²³"
+ TAG_DT_ATD: "²¬¯³ ¦±²²³" ## RU004
  TAG_DT_AVE: "¢"
  TAG_DT_BAY: "€¾²¯"
  TAG_DT_BEA: "€°³"
@@ -195,6 +202,7 @@ l_english:
  TAG_DT_CHB: "Û¡³"
  TAG_DT_CHN: "Ì°¦®"
  TAG_DT_CIL: "ª®ª¬ªª"
+ TAG_DT_CIO: "Ûª³" ## RU004
  TAG_DT_CLL: "Ì®"
  TAG_DT_CMB: "¯¡"
  TAG_DT_CMN: "Ì¯°¯"
@@ -204,6 +212,7 @@ l_english:
  TAG_DT_DEH: "ƒþ¡²³"
  TAG_DT_DER: "ƒ¡°²³"
  TAG_DT_DNS: "ƒ°ªŒ¯°¦ª¦¯"
+ TAG_DT_DOB: "ƒ¡³¦¨" ## RU004
  TAG_DT_DVA: "ƒ¢¢²ª"
  TAG_DT_DYC: "ƒ³¬®"
  TAG_DT_ECH: "Ï²¶°º¯ Ì®³¬¿¾"
@@ -238,6 +247,7 @@ l_english:
  TAG_DT_KLU: "®³¬¯"
  TAG_DT_KMR: "¯³±"
  TAG_DT_KNM: "°¯³"
+ TAG_DT_KOT: "²³" ## RU004
  TAG_DT_KRS: "³¬³"
  TAG_DT_KRT: "ª²¯"
  TAG_DT_LAE: "ˆ²ª°¬þ ª¯±ªª" ## RU002
@@ -257,6 +267,7 @@ l_english:
  TAG_DT_NAM: "¯½³"
  TAG_DT_NAN: "°²³"
  TAG_DT_NAR: "¡°°"
+ TAG_DT_NEG: "¥±°²³" ## RU004
  TAG_DT_NIC: "ªµµ"
  TAG_DT_NIE: "ª¬þ¬þ ª¯±ªª" ## RU002
  TAG_DT_NJH: "¦¨ª¦¯"
@@ -309,6 +320,7 @@ l_english:
  TAG_DT_UYU: "‹½°ª¦¯"
  TAG_DT_VAL: "Ï®°ªª"
  TAG_DT_VBL: "Ï®¨¬þ €³®¥ªª"
+ TAG_DT_VID: "Ïª¦ª°³" ## RU004
  TAG_DT_VIV: "Ïª¢"
  TAG_DT_VLA: "Ï®"
  TAG_DT_VRD: "Ï¯°¦³"
@@ -339,6 +351,7 @@ l_english:
  TAG_PR_APC: "±³®ªª ª ®¡ªª"
  TAG_PR_AQT: "¬¢ª²°ªª"
  TAG_PR_ART: "²³"
+ TAG_PR_ATD: "²¬¯ ¦±²²" ## RU004
  TAG_PR_AVE: "¢"
  TAG_PR_BAY: "€¾²"
  TAG_PR_BEA: "€°"
@@ -357,6 +370,7 @@ l_english:
  TAG_PR_CHB: "Û¡"
  TAG_PR_CHN: "Ì°¦®"
  TAG_PR_CIL: "ª®ª¬ªª"
+ TAG_PR_CIO: "Ûª" ## RU004
  TAG_PR_CLL: "Ì®"
  TAG_PR_CMB: "¯¡"
  TAG_PR_CMN: "Ì¯°"
@@ -366,6 +380,7 @@ l_english:
  TAG_PR_DEH: "ƒþ¡²"
  TAG_PR_DER: "ƒ¡°²"
  TAG_PR_DNS: "ƒ°ªŒ¯°¦ª¦"
+ TAG_PR_DOB: "ƒ¡³¦¨" ## RU004
  TAG_PR_DVA: "ƒ¢¢²ª"
  TAG_PR_DYC: "ƒ³¬®"
  TAG_PR_ECH: "Ï²¶°º Ì®³¬¿¾"
@@ -400,6 +415,7 @@ l_english:
  TAG_PR_KLU: "®³¬"
  TAG_PR_KMR: "¯³±"
  TAG_PR_KNM: "°¯"
+ TAG_PR_KOT: "²" ## RU004
  TAG_PR_KRS: "³¬"
  TAG_PR_KRT: "ª²"
  TAG_PR_LAE: "ˆ²ª°¬þ ª¯±ªª" ## RU002
@@ -419,6 +435,7 @@ l_english:
  TAG_PR_NAM: "¯½"
  TAG_PR_NAN: "°²"
  TAG_PR_NAR: "¡°°"
+ TAG_PR_NEG: "¥±°²" ## RU004
  TAG_PR_NIC: "ªµµ"
  TAG_PR_NIE: "ª¬þ¬þ ª¯±ªª" ## RU002
  TAG_PR_NJH: "¦¨ª¦"
@@ -471,6 +488,7 @@ l_english:
  TAG_PR_UYU: "‹½°ª¦"
  TAG_PR_VAL: "Ï®°ªª"
  TAG_PR_VBL: "Ï®¨¬þ €³®¥ªª"
+ TAG_PR_VID: "Ïª¦ª°" ## RU004
  TAG_PR_VIV: "Ïª¢"
  TAG_PR_VLA: "Ï®"
  TAG_PR_VRD: "Ï¯°¦³"
@@ -501,6 +519,7 @@ l_english:
  TAG_RD_APC: "±³®ªª ª ®¡ªª"
  TAG_RD_AQT: "¬¢ª²°ªª"
  TAG_RD_ART: "²³"
+ TAG_RD_ATD: "²¬¥ ¦±²²" ## RU004
  TAG_RD_AVE: "¢º"
  TAG_RD_BAY: "€¾²"
  TAG_RD_BEA: "€°"
@@ -519,6 +538,7 @@ l_english:
  TAG_RD_CHB: "Û¡"
  TAG_RD_CHN: "Ì°¦®º"
  TAG_RD_CIL: "ª®ª¬ªª"
+ TAG_RD_CIO: "Ûª" ## RU004
  TAG_RD_CLL: "Ì®º"
  TAG_RD_CMB: "¯¡"
  TAG_RD_CMN: "Ì¯°"
@@ -528,6 +548,7 @@ l_english:
  TAG_RD_DEH: "ƒþ¡²"
  TAG_RD_DER: "ƒ¡°²"
  TAG_RD_DNS: "ƒ°ªŒ¯°¦ª¦¢"
+ TAG_RD_DOB: "ƒ¡³¦¨ª" ## RU004
  TAG_RD_DVA: "ƒ¢¢²ª"
  TAG_RD_DYC: "ƒ³¬®ª"
  TAG_RD_ECH: "Ï²¶°º Ì®³¬¿¾"
@@ -562,6 +583,7 @@ l_english:
  TAG_RD_KLU: "®³¬¢"
  TAG_RD_KMR: "¯³±º"
  TAG_RD_KNM: "°¯"
+ TAG_RD_KOT: "²" ## RU004
  TAG_RD_KRS: "³¬"
  TAG_RD_KRT: "ª²¢"
  TAG_RD_LAE: "ˆ²ª°¬þ ª¯±ªª" ## RU002
@@ -581,6 +603,7 @@ l_english:
  TAG_RD_NAM: "¯½"
  TAG_RD_NAN: "°²"
  TAG_RD_NAR: "¡°°º"
+ TAG_RD_NEG: "¥±°²" ## RU004
  TAG_RD_NIC: "ªµµº"
  TAG_RD_NIE: "ª¬þ¬þ ª¯±ªª" ## RU002
  TAG_RD_NJH: "¦¨ª¦¢"
@@ -633,6 +656,7 @@ l_english:
  TAG_RD_UYU: "‹½°ª¦¢"
  TAG_RD_VAL: "Ï®°ªª"
  TAG_RD_VBL: "Ï®¨¬þ €³®¥ªª"
+ TAG_RD_VID: "Ïª¦ª°" ## RU004
  TAG_RD_VIV: "Ïª¢"
  TAG_RD_VLA: "Ï®"
  TAG_RD_VRD: "Ï¯°¦³"
@@ -663,6 +687,7 @@ l_english:
  TAG_TV_APC: "±³®ªþ ª ®¡ªþ"
  TAG_TV_AQT: "¬¢ª²°ªþ"
  TAG_TV_ART: "²³"
+ TAG_TV_ATD: "²¬¯ ¦±²²" ## RU004
  TAG_TV_AVE: "¢þ"
  TAG_TV_BAY: "€¾²¯ª"
  TAG_TV_BEA: "€°¯"
@@ -681,6 +706,7 @@ l_english:
  TAG_TV_CHB: "Û¡¯"
  TAG_TV_CHN: "Ì°¦®þ"
  TAG_TV_CIL: "ª®ª¬ªþ"
+ TAG_TV_CIO: "Ûª¯" ## RU004
  TAG_TV_CLL: "Ì®þ"
  TAG_TV_CMB: "¯¡"
  TAG_TV_CMN: "Ì¯°¯ª"
@@ -690,6 +716,7 @@ l_english:
  TAG_TV_DEH: "ƒþ¡²¯"
  TAG_TV_DER: "ƒ¡°²¯"
  TAG_TV_DNS: "ƒ°ªŒ¯°¦ª¦¯ª"
+ TAG_TV_DOB: "ƒ¡³¦¨þ" ## RU004
  TAG_TV_DVA: "ƒ¢¢²ª"
  TAG_TV_DYC: "ƒ³¬®þ"
  TAG_TV_ECH: "Ï²¶°º¯ª Ì®³¬¿¾"
@@ -724,6 +751,7 @@ l_english:
  TAG_TV_KLU: "®³¬¯ª"
  TAG_TV_KMR: "¯³±þ"
  TAG_TV_KNM: "°¯¯"
+ TAG_TV_KOT: "²¯" ## RU004
  TAG_TV_KRS: "³¬¯"
  TAG_TV_KRT: "ª²¯ª"
  TAG_TV_LAE: "ˆ²ª°¬þ ª¯±ªþ" ## RU002
@@ -743,6 +771,7 @@ l_english:
  TAG_TV_NAM: "¯½¯"
  TAG_TV_NAN: "°²¯"
  TAG_TV_NAR: "¡°°þ"
+ TAG_TV_NEG: "¥±°²¯" ## RU004
  TAG_TV_NIC: "ªµµþ"
  TAG_TV_NIE: "ª¬þ¬þ ª¯±ªþ" ## RU002
  TAG_TV_NJH: "¦¨ª¦¯ª"
@@ -795,6 +824,7 @@ l_english:
  TAG_TV_UYU: "‹½°ª¦¯ª"
  TAG_TV_VAL: "Ï®°ªþ"
  TAG_TV_VBL: "Ï®¨¬þ €³®¥ªþ"
+ TAG_TV_VID: "Ïª¦ª°¯" ## RU004
  TAG_TV_VIV: "Ïª¢"
  TAG_TV_VLA: "Ï®"
  TAG_TV_VRD: "Ï¯°¦³"
@@ -825,6 +855,7 @@ l_english:
  TAG_VN_APC: "±³®ª½ ª ®¡ª½"
  TAG_VN_AQT: "¬¢ª²°ª½"
  TAG_VN_ART: "²³"
+ TAG_VN_ATD: "²¬ªþ ¦±²²" ## RU004
  TAG_VN_AVE: "¢³"
  TAG_VN_BAY: "€¾²¢"
  TAG_VN_BEA: "€°"
@@ -843,6 +874,7 @@ l_english:
  TAG_VN_CHB: "Û¡"
  TAG_VN_CHN: "Ì°¦®³"
  TAG_VN_CIL: "ª®ª¬ª½"
+ TAG_VN_CIO: "Ûª" ## RU004
  TAG_VN_CLL: "Ì®³"
  TAG_VN_CMB: "¯¡"
  TAG_VN_CMN: "Ì¯°¢"
@@ -852,6 +884,7 @@ l_english:
  TAG_VN_DEH: "ƒþ¡²"
  TAG_VN_DER: "ƒ¡°²"
  TAG_VN_DNS: "ƒ°ªŒ¯°¦¢"
+ TAG_VN_DOB: "ƒ¡³¦¨³" ## RU004
  TAG_VN_DVA: "ƒ¢¢²ª"
  TAG_VN_DYC: "ƒ³¬®½"
  TAG_VN_ECH: "Ï²¶°º Ì®³¬¿¾"
@@ -886,6 +919,7 @@ l_english:
  TAG_VN_KLU: "®³¬¢"
  TAG_VN_KMR: "¯³±³"
  TAG_VN_KNM: "°¯"
+ TAG_VN_KOT: "²" ## RU004
  TAG_VN_KRS: "³¬"
  TAG_VN_KRT: "ª²¢"
  TAG_VN_LAE: "ˆ²ª°¬³½ ª¯±ª½" ## RU002
@@ -905,6 +939,7 @@ l_english:
  TAG_VN_NAM: "¯½"
  TAG_VN_NAN: "°²"
  TAG_VN_NAR: "¡°°³"
+ TAG_VN_NEG: "¥±°²" ## RU004
  TAG_VN_NIC: "ªµµ³"
  TAG_VN_NIE: "ª¬þ¬³½ ª¯±ª½" ## RU002
  TAG_VN_NJH: "¦¨ª¦¢"
@@ -957,6 +992,7 @@ l_english:
  TAG_VN_UYU: "‹½°ª¦¢"
  TAG_VN_VAL: "Ï®°ª½"
  TAG_VN_VBL: "Ï®¨¬³½ €³®¥ª½"
+ TAG_VN_VID: "Ïª¦ª°" ## RU004
  TAG_VN_VIV: "Ïª¢"
  TAG_VN_VLA: "Ï®"
  TAG_VN_VRD: "Ï¯°¦³"
