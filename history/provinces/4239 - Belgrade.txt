@@ -2,7 +2,7 @@
 
 owner = RSH
 controller = RSH
-culture = bulgarian
+culture = serbian
 religion = orthodox
 capital = "Belgrade"
 trade_goods = cloth
@@ -43,6 +43,7 @@ center_of_trade = 1
 	owner = HUN
 	controller = HUN
 	culture = hungarian
+	religion = catholic
 }
 
 1521.8.29 = {

@@ -2,9 +2,8 @@
 
 owner = HUN
 controller = HUN 
-culture = transylvanian
-religion = orthodox
-capital = "Huszt"
+culture = romanian
+religion = catholic
 trade_goods = naval_supplies
 hre = no
 base_tax = 2 
@@ -25,8 +24,21 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1150.1.1 = {
+	culture = saxon
+}
+1225.1.1 = {
+	culture = transylvanian #Szeklers
+}
+1241.4.11 = {
+	add_local_autonomy = 50
+}
+1278.6.1 = {
+	add_local_autonomy = -50
+}
 1370.1.1 = {	
 	culture = ruthenian
+	religion = orthodox
 }
 1444.1.1 = { add_core = TRA }
 1526.8.30 = {
