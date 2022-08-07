@@ -6,8 +6,8 @@ latent_trade_goods = {
 
 owner = HUN
 controller = HUN 
-culture = transylvanian
-religion = orthodox
+culture = romanian
+religion = catholic
 capital = "Alba Iulia"
 trade_goods = iron
 hre = no
@@ -28,6 +28,18 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
+1150.1.1 = {
+	culture = saxon
+}
+1225.1.1 = {
+	culture = transylvanian
+}
+1241.4.11 = {
+	add_local_autonomy = 50
+}
+1278.6.1 = {
+	add_local_autonomy = -50
+}
 1506.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Szekely rebellion
 1507.1.1 = { revolt = {} controller = HUN } # Estimated
 1514.4.1 = { revolt = { type = anti_tax_rebels size = 0 } controller = REB } # Peasant rebellion against Hungary's magnates
