@@ -25,7 +25,6 @@ discovered_by = KAZ
 	owner = PRZ
 	controller = PRZ
 	add_core = PRZ
-
 }
 
 1246.1.1 = {
