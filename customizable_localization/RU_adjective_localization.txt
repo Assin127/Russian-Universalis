@@ -47,6 +47,18 @@ defined_text = {
 			tag = PRZ
 		}
     }
+   text = { ## RU010
+        localisation_key = ADJ_MOZ
+        trigger = {
+			tag = MOZ
+		}
+    }
+   text = { ## RU010
+        localisation_key = ADJ_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
     text = { ## RU010
         localisation_key = ADJ_TRG
         trigger = {

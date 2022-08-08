@@ -55,6 +55,7 @@ l_english:
  ADJ_GAH: "¥¦¢®¿¬"
  ADJ_GHA: "¥°¬"
  ADJ_GLC: "¥®ª¶¬"
+ ADJ_GLD: "¥®ª¶¬" ## RU010
  ADJ_GLU: "¥®³¬¥²¬"
  ADJ_GNI: "¥°©°°¬"
  ADJ_GWY: "¥¢ª°¦¬"
@@ -95,6 +96,7 @@ l_english:
  ADJ_MEL: "¯®ª²°¬"
  ADJ_MNE: "¯¼°¬"
  ADJ_MNJ: "¯°¥¦¨³¬¬"
+ ADJ_MOZ: "¯¨þ¬" ## RU010
  ADJ_MRN: "¯°¬" ## RU002
  ADJ_NAI: "°þ¯°¬"
  ADJ_NAM: "°¯½¬"
@@ -228,6 +230,7 @@ l_english:
  TAG_DT_GAH: "‚¦¢®ª"
  TAG_DT_GHA: "‚°"
  TAG_DT_GLC: "‚®ª¶³"
+ TAG_DT_GLD: "‚®ª¶³" ## RU010
  TAG_DT_GLU: "‚®³³"
  TAG_DT_GNI: "‚°©°³"
  TAG_DT_GWY: "‚¢ª°¦³"
@@ -268,6 +271,7 @@ l_english:
  TAG_DT_MEL: "®ª²°"
  TAG_DT_MNE: "¼°³"
  TAG_DT_MNJ: "°¥¦¨³¬¯"
+ TAG_DT_MOZ: "¨þ¬³"  ## RU010
  TAG_DT_MRN: "°ªª" ## RU002
  TAG_DT_NAI: "þ¯°¯"
  TAG_DT_NAM: "¯½³"
@@ -401,6 +405,7 @@ l_english:
  TAG_PR_GAH: "‚¦¢®ª"
  TAG_PR_GHA: "‚°"
  TAG_PR_GLC: "‚®ª¶"
+ TAG_PR_GLD: "‚®ª¶" ## RU010
  TAG_PR_GLU: "‚®³"
  TAG_PR_GNI: "‚°©°"
  TAG_PR_GWY: "‚¢ª°¦"
@@ -441,6 +446,7 @@ l_english:
  TAG_PR_MEL: "®ª²°"
  TAG_PR_MNE: "¼°"
  TAG_PR_MNJ: "°¥¦¨³¬"
+ TAG_PR_MOZ: "¨þ¬"  ## RU010
  TAG_PR_MRN: "°ªª" ## RU002
  TAG_PR_NAI: "þ¯°"
  TAG_PR_NAM: "¯½"
@@ -574,6 +580,7 @@ l_english:
  TAG_RD_GAH: "‚¦¢®ª"
  TAG_RD_GHA: "‚°º"
  TAG_RD_GLC: "‚®ª¶"
+ TAG_RD_GLD: "‚®ª¶" ## RU010
  TAG_RD_GLU: "‚®³"
  TAG_RD_GNI: "‚°©°"
  TAG_RD_GWY: "‚¢ª°¦"
@@ -614,6 +621,7 @@ l_english:
  TAG_RD_MEL: "®ª²°º"
  TAG_RD_MNE: "¼°"
  TAG_RD_MNJ: "°¥¦¨³¬¢"
+ TAG_RD_MOZ: "¨þ¬"  ## RU010
  TAG_RD_MRN: "°ªª" ## RU002
  TAG_RD_NAI: "þ¯°¢"
  TAG_RD_NAM: "¯½"
@@ -747,6 +755,7 @@ l_english:
  TAG_TV_GAH: "‚¦¢®ª"
  TAG_TV_GHA: "‚°þ"
  TAG_TV_GLC: "‚®ª¶¯"
+ TAG_TV_GLD: "‚®ª¶¯" ## RU010
  TAG_TV_GLU: "‚®³¯"
  TAG_TV_GNI: "‚°©°¯"
  TAG_TV_GWY: "‚¢ª°¦¯"
@@ -787,6 +796,7 @@ l_english:
  TAG_TV_MEL: "®ª²°þ"
  TAG_TV_MNE: "¼°¯"
  TAG_TV_MNJ: "°¥¦¨³¬¯ª"
+ TAG_TV_MOZ: "¨þ¬¯"  ## RU010
  TAG_TV_MRN: "°ªþ" ## RU002
  TAG_TV_NAI: "þ¯°¯ª"
  TAG_TV_NAM: "¯½¯"
@@ -920,6 +930,7 @@ l_english:
  TAG_VN_GAH: "‚¦¢®ª"
  TAG_VN_GHA: "‚°³"
  TAG_VN_GLC: "‚®ª¶"
+ TAG_VN_GLD: "‚®ª¶" ## RU010
  TAG_VN_GLU: "‚®³"
  TAG_VN_GNI: "‚°©°"
  TAG_VN_GWY: "‚¢ª°¦"
@@ -960,6 +971,7 @@ l_english:
  TAG_VN_MEL: "®ª²°³"
  TAG_VN_MNE: "¼°"
  TAG_VN_MNJ: "°¥¦¨³¬¢"
+ TAG_VN_MOZ: "¨þ¬"  ## RU010
  TAG_VN_MRN: "°ª½" ## RU002
  TAG_VN_NAI: "þ¯°¢"
  TAG_VN_NAM: "¯½"
