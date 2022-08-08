@@ -181,14 +181,16 @@ KRS = "countries/Kursk.txt"
 NOS = "countries/Novgorod-Seversk.txt"
 PMS = "countries/Peremyshl.txt"
 PRS = "countries/Pereyaslav.txt"
-#RZE = "countries/Rzev.txt" ## RU004
+PRZ = "countries/Pereyaslavl-Zalesskiy.txt" ## RU010
+RZE = "countries/Rzev.txt" ## RU010
 TMU = "countries/Tmutarakan.txt"
 TRB = "countries/Terebovlia.txt"
-#TRG = "countries/Toropets.txt" ## RU004
+TRG = "countries/Toropets.txt" ## RU010
 TUO = "countries/Turov.txt"
 VBL = "countries/Volga_Bulgaria.txt"
-#VLD = "countries/VladimirSuzdal.txt" ## RU004
+VLD = "countries/Vladimir.txt" ## RU010
 YEL = "countries/Yelets.txt" ## RU007
+KHN = "countries/Kashin.txt" ## RU010
 
 #Скандинавия
 JAM = "countries/Jamtland.txt"
