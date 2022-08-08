@@ -1,0 +1,50 @@
+### RU004 - Added
+
+government = monarchy
+government_rank = 1
+primary_culture = lombard
+add_accepted_culture = venetian
+religion = catholic
+technology_group = western
+capital = 3003 #Euboea
+
+historical_friend = VEN
+
+1296.1.1 = {
+	monarch = {
+		name = "Pyetro"
+		dynasty = "dalle Karcheri"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+1340.1.1 = {
+	monarch = {
+		name = "Dzhovanni"
+		dynasty = "dalle Karcheri"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1358.1.1 = {
+	monarch = {
+		name = "Bartolomeo"
+		dynasty = "Gizi"
+		birth_date = 1343.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+1383.1.1 = {
+	monarch = {
+		name = "Mariya"
+		dynasty = "Sanudo"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

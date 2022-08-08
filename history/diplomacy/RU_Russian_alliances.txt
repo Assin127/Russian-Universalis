@@ -1,0 +1,91 @@
+### RU001 - Added
+union = {
+	first = KIE
+	second = TUO
+	start_date = 1054.2.20
+	end_date = 1444.1.1
+}
+
+union = {
+	first = CHR
+	second = TMU
+	start_date = 1094.6.1
+	end_date = 1115.8.1
+}
+
+union = {
+	first = PRS
+	second = KRS
+	start_date = 1095.1.1
+	end_date = 1127.1.1
+}
+
+vassal = {
+	first = PRS
+	second = NOV
+	start_date = 1095.1.1
+	end_date = 1117.1.1
+}
+
+royal_marriage = {
+	first = PRS
+	second = NOV
+	start_date = 1095.1.1
+	end_date = 1117.1.1
+}
+
+alliance = {
+	first = PRS
+	second = KIE
+	start_date = 1093.4.24
+	end_date = 1113.4.16
+}
+
+#Halicz-Volyn union
+union = {
+	first = GLC
+	second = VOL
+	start_date = 1199.1.1
+	end_date = 1205.19.6
+}
+union = {
+	first = GLC
+	second = VOL
+	start_date = 1245.17.8
+	end_date = 1340.19.6
+}
+
+#Bryansk union
+union = {
+	first = BRY
+	second = CHR
+	start_date = 1246.1.1
+	end_date = 1356.1.1
+}
+
+#Chernigov vassal
+vassal = {
+	first = CHR
+	second = NOS
+	start_date = 1097.1.1
+	end_date = 1246.1.1
+}
+vassal = {
+	first = CHR
+	second = KRS
+	start_date = 1164.1.1
+	end_date = 1246.1.1
+}
+#Bryansk vassal
+vassal = {
+	first = BRY
+	second = NOS
+	start_date = 1246.1.1
+	end_date = 1356.1.1
+}
+vassal = {
+	first = BRY
+	second = KRS
+	start_date = 1246.1.1
+	end_date = 1301.1.1
+}

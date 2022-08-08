@@ -13,24 +13,26 @@ NRI = "countries/Nri.txt"
 KNM = "countries/Kanem.txt"
 
 #Балканы 
-#DOB = "countries/Dobruja.txt" ## RU004
+DOB = "countries/Dobruja.txt" ## RU004
 DYC = "countries/Dyklja.txt"
 HUM = "countries/Hum.txt"
 IST = "countries/Istria.txt"
-#KOT = "countries/Kotor.txt" ## RU004
+KOT = "countries/Kotor.txt" ## RU004
 LAE = "countries/LatinEmpire.txt" ## RU002
 NIE = "countries/Nicaea.txt" ## RU002
 RSH = "countries/Rashka.txt"
 THE = "countries/Thessaly.txt" ## RU002
 THS = "countries/Thessalonica.txt" ## RU002
 TRV = "countries/Travunia.txt"
-#VID = "countries/Vidin.txt" ## RU004
+VID = "countries/Vidin.txt" ## RU004
+NEG = "countries/Negroponte.txt" ## RU004
+ATD = "countries/Despotate_of_Arta.txt" ## RU004
 
 #Ближний Восток
 ABS = "countries/Abbasids.txt"
 ANO = "countries/Antioch.txt"
 CIL = "countries/Cilicia.txt"
-#CIO = "countries/Chios.txt" ## RU004
+CIO = "countries/Chios.txt" ## RU004
 DNS = "countries/Danishmendids.txt"
 EDE = "countries/Edessa.txt"
 GZN = "countries/Ghaznavids.txt"
@@ -179,13 +181,16 @@ KRS = "countries/Kursk.txt"
 NOS = "countries/Novgorod-Seversk.txt"
 PMS = "countries/Peremyshl.txt"
 PRS = "countries/Pereyaslav.txt"
-#RZE = "countries/Rzev.txt" ## RU004
+PRZ = "countries/Pereyaslavl-Zalesskiy.txt" ## RU010
+RZE = "countries/Rzev.txt" ## RU010
 TMU = "countries/Tmutarakan.txt"
 TRB = "countries/Terebovlia.txt"
-#TRG = "countries/Toropets.txt" ## RU004
+TRG = "countries/Toropets.txt" ## RU010
 TUO = "countries/Turov.txt"
 VBL = "countries/Volga_Bulgaria.txt"
-#VLD = "countries/VladimirSuzdal.txt" ## RU004
+VLD = "countries/Vladimir.txt" ## RU010
+YEL = "countries/Yelets.txt" ## RU007
+KHN = "countries/Kashin.txt" ## RU010
 
 #Скандинавия
 JAM = "countries/Jamtland.txt"

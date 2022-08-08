@@ -1,7 +1,7 @@
 #123 - Calabria
 
-owner = NAP
-controller = NAP
+owner = APC
+controller = APC
 culture = sicilian 
 religion = catholic 
 hre = no 
@@ -11,7 +11,7 @@ trade_goods = fish
 base_manpower = 2
 capital = "Reggio di Calabria"
 is_city = yes 
-add_core = NAP
+add_core = APC
 
 
 
@@ -19,6 +19,19 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+1130.1.1 = {
+	owner = SIC
+	controller = SIC
+	add_core = SIC
+}
+1282.1.1 = {
+	owner = NAP
+	controller = NAP
+	add_core = NAP
+}
+
+
 
 
 1494.1.1 = { add_core = FRA } # Angevine claims

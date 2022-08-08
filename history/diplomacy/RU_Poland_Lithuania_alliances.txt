@@ -1,0 +1,63 @@
+#Lithuania union
+union = {
+	first = LIT
+	second = VOL
+	start_date = 1340.1.1
+	end_date = 1392.1.1
+}
+#Poland vassal
+vassal = {
+	first = POL
+	second = GLC
+	start_date = 1340.1.1
+	end_date = 1387.1.1
+}
+vassal = {
+	first = POL
+	second = MOL
+	start_date = 1387.1.1
+	end_date = 1444.1.1
+}
+#Lithuania vassal
+vassal = {
+	first = LIT
+	second = PLT
+	start_date = 1307.1.1
+	end_date = 1392.1.1
+}
+vassal = {
+	first = LIT
+	second = TUO
+	start_date = 1316.1.1
+	end_date = 1341.1.1
+}
+vassal = {
+	first = LIT
+	second = SMO
+	start_date = 1356.1.1
+	end_date = 1395.1.1
+}
+vassal = {
+	first = LIT
+	second = CHR
+	start_date = 1356.1.1
+	end_date = 1401.1.1
+}
+vassal = {
+	first = LIT
+	second = NOS
+	start_date = 1356.1.1
+	end_date = 1405.1.1
+}
+vassal = {
+	first = LIT
+	second = BRY
+	start_date = 1356.1.1
+	end_date = 1430.1.1
+}
+vassal = {
+	first = LIT
+	second = KIE
+	start_date = 1362.1.1
+	end_date = 1398.1.1
+}

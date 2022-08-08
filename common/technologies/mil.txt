@@ -1,7 +1,7 @@
 ### RU006 - Added
 monarch_power = MIL
 
-#Технологии относительно ванильной версии: +18 начиная с 4-ого теха (32 в ванили, 50 в моде).
+#Технологии относительно ванильной версии: +10 начиная с 4-ого теха (32 в ванили, 42 в моде).
 
 # applied when a country is ahead of time in this technology
 # no bonus for MIL currently
@@ -11,23 +11,26 @@ monarch_power = MIL
 # Pre-era techs
 technology = {
 	# Tech 0
-	year = 1000
+	year = 1190
 	
 	sprite_level = 1
 
-	infantry_fire		= 	0.1
+	infantry_fire		= 	0.15
 	infantry_shock 		= 	0.1	
-	cavalry_shock  		= 	0.1
+	cavalry_shock  		= 	0.4
 	land_morale 		= 	1.0
 }
 
 technology = {
 	# Tech 1
-	year = 1040
+	year = 1210
 	expects_institution = {
 		feudalism = 0.25
 	}
 	
+	
+	infantry_fire		= 	0.1
+	infantry_shock 		= 	0.1
 	
 	fort_15th = yes
 	
@@ -74,96 +77,17 @@ technology = {
 
 technology = {
 	# Tech 2
-	year = 1070
-	expects_institution = {
-		feudalism = 0.5
-	}
-	
-	combat_width = 5
-}
-
-# The 30 big techs from here on
-
-technology = { #Усовершенствованное седло
-	# Tech 3
-	year = 1090
-	expects_institution = {
-		feudalism = 0.5
-	}
-	
-	cavalry_shock		= 	0.1
-}
-
-technology = { #Требушет с противовесом
-	# Tech 4
-	year = 1110
-	expects_institution = {
-		feudalism = 0.5
-	}
-	
-	military_tactics 	= 	0.10
-}
-
-technology = { #Фортификация
-	# Tech 5
-	year = 1130
-	expects_institution = {
-		feudalism = 0.5
-	}
-	
-}
-
-technology = { #Арбалест
-	# Tech 6
-	year = 1150
-	expects_institution = {
-		feudalism = 0.5
-	}
-	
-	infantry_fire		= 	0.05
-}
-
-technology = { #Ранняя средневековая тактика
-	# Tech 7
-	year = 1170
-	expects_institution = {
-		feudalism = 0.5
-	}
-	
-	land_morale 		= 	0.5
-	cavalry_shock  		= 	0.2
-}
-
-technology = { #Кольчужная броня
-	# Tech 8
-	year = 1190
-	expects_institution = {
-		feudalism = 0.5
-	}
-	
-}
-
-technology = { #Патерелла
-	# Tech 9
-	year = 1210
-	expects_institution = {
-		feudalism = 0.5
-	}
-	
-	infantry_fire		= 	0.05
-}
-
-technology = { #Укрепленные замки
-	# Tech 10
 	year = 1230
 	expects_institution = {
 		feudalism = 0.5
 	}
 	
+	cavalry_shock  		= 	0.2
+	combat_width = 5
 }
 
 technology = { #Осадная башня
-	# Tech 11
+	# Tech 3
 	year = 1250
 	expects_institution = {
 		feudalism = 0.5
@@ -173,16 +97,17 @@ technology = { #Осадная башня
 }
 
 technology = { #Порох
-	# Tech 12
+	# Tech 4
 	year = 1270
 	expects_institution = {
 		feudalism = 0.5
 	}
 	
+	land_morale = 	0.5
 }
 
 technology = { #Латные пластины
-	# Tech 13
+	# Tech 5
 	year = 1290
 	expects_institution = {
 		feudalism = 0.5
@@ -193,7 +118,7 @@ technology = { #Латные пластины
 }
 
 technology = { #Тактика позднего средневековья
-	# Tech 14
+	# Tech 6
 	year = 1310
 	expects_institution = {
 		feudalism = 0.5
@@ -203,7 +128,7 @@ technology = { #Тактика позднего средневековья
 }
 
 technology = { #Замки позднего средневековья
-	# Tech 15
+	# Tech 7
 	year = 1330
 	expects_institution = {
 		feudalism = 0.5
@@ -212,17 +137,17 @@ technology = { #Замки позднего средневековья
 }
 
 technology = { #Ручница
-	# Tech 16
+	# Tech 8
 	year = 1350
 	expects_institution = {
 		feudalism = 0.5
 	}
 	
-	infantry_fire		= 	0.05
+	infantry_fire		= 	0.1
 }
 
 technology = { #Комбинированная тактика 
-	# Tech 17
+	# Tech 9
 	year = 1370
 	expects_institution = {
 		feudalism = 0.5
@@ -233,17 +158,17 @@ technology = { #Комбинированная тактика
 }
 
 technology = { #Полный латный доспех
-	# Tech 18
+	# Tech 10
 	year = 1390
 	expects_institution = {
 		feudalism = 0.5
 	}
 	
-	
+	land_morale = 	0.5
 }
 
 technology = { #Готические мечи
-	# Tech 19
+	# Tech 11
 	year = 1410
 	expects_institution = {
 		feudalism = 0.5
@@ -253,7 +178,7 @@ technology = { #Готические мечи
 }
 
 technology = { #Замки новой эпохи
-	# Tech 20
+	# Tech 12
 	year = 1425
 	expects_institution = {
 		feudalism = 0.5
@@ -262,7 +187,7 @@ technology = { #Замки новой эпохи
 }
 
 technology = { #Ранние аркебузы
-	# Tech 21
+	# Tech 13
 	year = 1440
 	expects_institution = {
 		feudalism = 0.5
@@ -273,7 +198,7 @@ technology = { #Ранние аркебузы
 }
 
 technology = {
-	# Tech 22
+	# Tech 14
 	year = 1453
 	expects_institution = {
 		feudalism = 0.5
@@ -287,7 +212,7 @@ technology = {
 }
 
 technology = {
-	# Tech 23
+	# Tech 15
 	year = 1466
 	expects_institution = {
 		feudalism = 0.5
@@ -332,7 +257,7 @@ technology = {
 }
 
 technology = {
-	# Tech 24
+	# Tech 16
 	year = 1479
 	expects_institution = {
 		feudalism = 0.5
@@ -367,7 +292,7 @@ technology = {
 }
 
 technology = {
-	# Tech 25
+	# Tech 17
 	year = 1492
 	expects_institution = {
 		feudalism = 0.5
@@ -383,7 +308,7 @@ technology = {
 }
 
 technology = {
-	# Tech 26
+	# Tech 18
 	year = 1505
 	expects_institution = {
 		feudalism = 0.5
@@ -400,7 +325,7 @@ technology = {
 }
 
 technology = {
-	# Tech 27
+	# Tech 19
 	
 	year = 1518
 	expects_institution = {
@@ -427,7 +352,7 @@ technology = {
 }
 
 technology = {
-	# Tech 28
+	# Tech 20
 	year = 1531
 	expects_institution = {
 		feudalism = 0.5
@@ -466,7 +391,7 @@ technology = {
 }
 
 technology = {
-	# Tech 29
+	# Tech 21
 	year = 1544
 	expects_institution = {
 		feudalism = 0.5
@@ -485,7 +410,7 @@ technology = {
 }
 	
 technology = {
-	# Tech 30
+	# Tech 22
 	year = 1557
 	expects_institution = {
 		feudalism = 0.5
@@ -517,7 +442,7 @@ technology = {
 }
 
 technology = {
-	# Tech 31
+	# Tech 23
 	year = 1570
 	expects_institution = {
 		feudalism = 0.5
@@ -535,7 +460,7 @@ technology = {
 }
 
 technology = {
-	# Tech 32
+	# Tech 24
 	year = 1583
 	expects_institution = {
 		feudalism = 0.5
@@ -577,7 +502,7 @@ technology = {
 }
 
 technology = {
-	# Tech 33
+	# Tech 25
 	year = 1596
 	expects_institution = {
 		feudalism = 0.5
@@ -606,7 +531,7 @@ technology = {
 }
 
 technology = {
-	# Tech 34
+	# Tech 26
 	year = 1609
 	expects_institution = {
 		feudalism = 0.5
@@ -628,7 +553,7 @@ technology = {
 }
 
 technology = {
-	# Tech 35
+	# Tech 27
 	year = 1622
 	expects_institution = {
 		feudalism = 0.5
@@ -647,7 +572,7 @@ technology = {
 }
 
 technology = {
-	# Tech 36
+	# Tech 28
 	year = 1635
 	expects_institution = {
 		feudalism = 0.5
@@ -677,7 +602,7 @@ technology = {
 }
 
 technology = {
-	# Tech 37
+	# Tech 29
 	year = 1648
 	expects_institution = {
 		feudalism = 0.5
@@ -715,7 +640,7 @@ technology = {
 }
 
 technology = {
-	# Tech 38
+	# Tech 30
 	year = 1661
 	expects_institution = {
 		feudalism = 0.5
@@ -735,7 +660,7 @@ technology = {
 }
 
 technology = {
-	# Tech 39
+	# Tech 31
 	year = 1674
 	expects_institution = {
 		feudalism = 0.5
@@ -754,7 +679,7 @@ technology = {
 }
 
 technology = {
-	# Tech 40
+	# Tech 32
 	year = 1687
 	expects_institution = {
 		feudalism = 0.5
@@ -782,7 +707,7 @@ technology = {
 }
 
 technology = {
-	# Tech 41
+	# Tech 33
 	year = 1700
 	expects_institution = {
 		feudalism = 0.5
@@ -829,7 +754,7 @@ technology = {
 }
 
 technology = {
-	# Tech 42
+	# Tech 34
 	year = 1715
 	expects_institution = {
 		feudalism = 0.5
@@ -849,7 +774,7 @@ technology = {
 }
 
 technology = {
-	# Tech 43
+	# Tech 35
 	year = 1730
 	expects_institution = {
 		feudalism = 0.5
@@ -869,7 +794,7 @@ technology = {
 }
 
 technology = {
-	# Tech 44
+	# Tech 36
 	year = 1745
 	expects_institution = {
 		feudalism = 0.5
@@ -920,7 +845,7 @@ technology = {
 }
 
 technology = {
-	# Tech 45
+	# Tech 37
 	year = 1760
 	expects_institution = {
 		feudalism = 0.5
@@ -938,7 +863,7 @@ technology = {
 }
 
 technology = {
-	# Tech 46
+	# Tech 38
 	year = 1775
 	expects_institution = {
 		feudalism = 0.5
@@ -975,7 +900,7 @@ technology = {
 }
 
 technology = {
-	# Tech 47
+	# Tech 39
 	year = 1790
 	expects_institution = {
 		feudalism = 0.5
@@ -994,7 +919,7 @@ technology = {
 }
 
 technology = {
-	# Tech 48
+	# Tech 40
 	year = 1805
 	expects_institution = {
 		feudalism = 0.5
@@ -1031,7 +956,7 @@ technology = {
 }
 
 technology = {
-	# Tech 49
+	# Tech 41
 	year = 1820
 	expects_institution = {
 		feudalism = 0.5
@@ -1051,7 +976,7 @@ technology = {
 }
 
 technology = {
-	# Tech 50
+	# Tech 42
 	year = 1835
 	expects_institution = {
 		feudalism = 0.5

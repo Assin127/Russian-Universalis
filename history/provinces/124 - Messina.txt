@@ -13,7 +13,6 @@ fort_15th = yes #Numerous forts, Castello Maniace and Castello di Milazzo being 
 capital = "Messina"
 is_city = yes 
 add_core = SIC
-add_core = NAP
 
 
 
@@ -22,12 +21,16 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
-1409.7.25 = {
+1282.1.1 = {
 	owner = ARA
 	controller = ARA
 	add_core = ARA
-} # Martin I inherits Sicily from his son
+	add_core = NAP
+}
+
+
+
+
 1516.1.23 = {
 	owner = SPA
 	controller = SPA

@@ -20,6 +20,19 @@ discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
 
+1130.1.1 = {
+	owner = SIC
+	controller = SIC
+	add_core = SIC
+}
+1282.1.1 = {
+	owner = NAP
+	controller = NAP
+	add_core = NAP
+}
+
+
+
 1494.1.1 = { add_core = FRA } # Angevine claims
 1495.2.22 = { controller = FRA } # Charles VIII takes Napoli
 1495.7.7 = { controller = NAP } # Charles VIII leaves Italy
