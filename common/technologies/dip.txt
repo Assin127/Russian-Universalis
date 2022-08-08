@@ -1,7 +1,7 @@
 ### RU006 - Added
 monarch_power = DIP
 
-#Технологии относительно ванильной версии: +18 начиная с 4-ого теха (32 в ванили, 50 в моде).
+#Технологии относительно ванильной версии: +10 начиная с 4-ого теха (32 в ванили, 42 в моде).
 
 # applied when a country is ahead of time in this technology
 ahead_of_time = {
@@ -9,22 +9,25 @@ ahead_of_time = {
 	yearly_corruption = -0.05
 }
 
-# Pre-era techs
-technology = { #Early Ships
+technology = {  #Early Ships
 	# Tech 0
-	year = 1000
+	year = 1190
+	expects_institution = {
+		feudalism = 0.5
+	}
 	
-	naval_morale			=	1.0
-	range					=	20
+	naval_morale			=	2.0
+	range					=	30
 	may_fabricate_claims = yes
-
+	
+	enable = war_canoe
 }
 
 technology = { #Merchants & Trade
 	# Tech 1
-	year = 1040
+	year = 1210
 	expects_institution = {
-		feudalism = 0.25
+		feudalism = 0.5
 	}
 	
 	merchants = yes
@@ -34,7 +37,7 @@ technology = { #Merchants & Trade
 
 technology = { #The Barque
 	# Tech 2
-	year = 1070
+	year = 1230
 	expects_institution = {
 		feudalism = 0.5
 	}
@@ -43,106 +46,12 @@ technology = { #The Barque
 	trade_range				=	50
 	enable = cog
 	enable = galley
+	
 	naval_engagement_width = 20
-
-}
-
-# The 30 big techs from here on
-
-technology = { #Хомут
-	# Tech 3
-	year = 1090
-	expects_institution = {
-		feudalism = 0.5
-	}
-	
-	trade_range = 10
-}
-
-technology = { #Средневековая торговля
-	# Tech 4
-	year = 1110
-	expects_institution = {
-		feudalism = 0.5
-	}
-		
-	
-	
-	
-}
-
-technology = { #Астролябия
-	# Tech 5
-	year = 1130
-	expects_institution = {
-		feudalism = 0.5
-	}
-		
-	trade_range	= 10
-	
-	
-}
-
-technology = { #Ранние нефы
-	# Tech 6
-	year = 1150
-	expects_institution = {
-		feudalism = 0.5
-	}
-		
-	naval_maintenance		= 	0.05
-	
-	
-}
-
-technology = { #Компас
-	# Tech 7
-	year = 1170
-	expects_institution = {
-		feudalism = 0.5
-	}
-		
-	range	= 20
-	global_colonial_growth	= 	5
-}
-
-technology = { #Верфи
-	# Tech 8
-	year = 1190
-	expects_institution = {
-		feudalism = 0.5
-	}
-		
-
-	
-	
-}
-
-technology = { #Торговые державы
-	# Tech 9
-	year = 1210
-	expects_institution = {
-		feudalism = 0.5
-	}
-		
-	trade_range	= 20
-	
-	
-}
-
-technology = { #Портовый кран
-	# Tech 10
-	year = 1230
-	expects_institution = {
-		feudalism = 0.5
-	}
-	
-	trade_efficiency 		= 	0.02
-	
 }
 
 technology = { #Гильдии
-	# Tech 11
+	# Tech 3
 	year = 1250
 	expects_institution = {
 		feudalism = 0.5
@@ -154,7 +63,7 @@ technology = { #Гильдии
 }
 
 technology = { #Рецепция римского права
-	# Tech 12
+	# Tech 4
 	year = 1270
 	expects_institution = {
 		feudalism = 0.5
@@ -166,7 +75,7 @@ technology = { #Рецепция римского права
 }
 
 technology = { #Хольки и Галеры
-	# Tech 13
+	# Tech 5
 	year = 1290
 	expects_institution = {
 		feudalism = 0.5
@@ -178,7 +87,7 @@ technology = { #Хольки и Галеры
 }
 
 technology = { #Посох Якова
-	# Tech 14
+	# Tech 6
 	year = 1310
 	expects_institution = {
 		feudalism = 0.5
@@ -190,19 +99,19 @@ technology = { #Посох Якова
 }
 
 technology = { #Песочные часы
-	# Tech 15
+	# Tech 7
 	year = 1330
 	expects_institution = {
 		feudalism = 0.5
 	}
 		
-	range = 20
+	range = 30
 	
 	
 }
 
 technology = { #Плавучий кран
-	# Tech 16
+	# Tech 8
 	year = 1350
 	expects_institution = {
 		feudalism = 0.5
@@ -214,7 +123,7 @@ technology = { #Плавучий кран
 }
 
 technology = { #Средневековые доки
-	# Tech 17
+	# Tech 9
 	year = 1370
 	expects_institution = {
 		feudalism = 0.5
@@ -226,7 +135,7 @@ technology = { #Средневековые доки
 }
 
 technology = { #The Early Carrack
-	# Tech 18
+	# Tech 10
 	year = 1390
 	expects_institution = {
 		feudalism = 0.5
@@ -241,7 +150,7 @@ technology = { #The Early Carrack
 }
 
 technology = { #Венецианская торговля
-	# Tech 19
+	# Tech 11
 	year = 1410
 	expects_institution = {
 		feudalism = 0.5
@@ -253,7 +162,7 @@ technology = { #Венецианская торговля
 }
 
 technology = { #Морское страхование
-	# Tech 20
+	# Tech 12
 	year = 1425
 	expects_institution = {
 		feudalism = 0.5
@@ -265,7 +174,7 @@ technology = { #Морское страхование
 }
 
 technology = { #Нефы
-	# Tech 21
+	# Tech 13
 	year = 1440
 	expects_institution = {
 		feudalism = 0.5
@@ -279,7 +188,7 @@ technology = { #Нефы
 }
 
 technology = { #Marketplace
-	# Tech 22
+	# Tech 14
 	year = 1453
 	expects_institution = {
 		feudalism = 0.5
@@ -292,7 +201,7 @@ technology = { #Marketplace
 }
 
 technology = { #Basic Financial Instruments
-	# Tech 23
+	# Tech 15
 	year = 1466
 	expects_institution = {
 		feudalism = 0.5
@@ -307,7 +216,7 @@ technology = { #Basic Financial Instruments
 }
 
 technology = { #Shipyards
-	# Tech 24
+	# Tech 16
 	year = 1479
 	expects_institution = {
 		feudalism = 0.5
@@ -320,7 +229,7 @@ technology = { #Shipyards
 }
 
 technology = { #Naval Ambitions
-	# Tech 25
+	# Tech 17
 	year = 1492
 	expects_institution = {
 		feudalism = 0.5
@@ -334,7 +243,7 @@ technology = { #Naval Ambitions
 }
 
 technology  = { #Docks
-	# Tech 26
+	# Tech 18
 	year = 1505
 	expects_institution = {
 		feudalism = 0.5
@@ -351,7 +260,7 @@ technology  = { #Docks
 }
 
 technology = { #Carracks & Caravel
-	# Tech 27
+	# Tech 19
 	year = 1518
 	expects_institution = {
 		feudalism = 0.5
@@ -369,7 +278,7 @@ technology = { #Carracks & Caravel
 }
 
 technology = { #The Flute
-	# Tech 28
+	# Tech 20
 	year = 1531
 	expects_institution = {
 		feudalism = 0.5
@@ -385,7 +294,7 @@ technology = { #The Flute
 }
 
 technology = { #Wharf
-	# Tech 29
+	# Tech 21
 	year = 1544
 	expects_institution = {
 		feudalism = 0.5
@@ -400,7 +309,7 @@ technology = { #Wharf
 }
 
 technology = { #Man of War
-	# Tech 30
+	# Tech 22
 	year = 1557
 	expects_institution = {
 		feudalism = 0.5
@@ -417,7 +326,7 @@ technology = { #Man of War
 }
 
 technology = { #Chartered Companies
-	# Tech 31
+	# Tech 23
 	year = 1570
 	expects_institution = {
 		feudalism = 0.5
@@ -432,7 +341,7 @@ technology = { #Chartered Companies
 }
 
 technology = { #The Galleass
-	# Tech 32
+	# Tech 24
 	year = 1583
 	expects_institution = {
 		feudalism = 0.5
@@ -449,7 +358,7 @@ technology = { #The Galleass
 }
  
 technology = { #The Galleon
-	# Tech 33
+	# Tech 25
 	year = 1596
 	expects_institution = {
 		feudalism = 0.5
@@ -469,7 +378,7 @@ technology = { #The Galleon
 }
 
 technology = { #Development of Maritime Law
-	# Tech 34
+	# Tech 26
 	year = 1609
 	expects_institution = {
 		feudalism = 0.5
@@ -484,7 +393,7 @@ technology = { #Development of Maritime Law
 }
 
 technology = { #Merchantman
-	# Tech 35
+	# Tech 27
 	year = 1622
 	expects_institution = {
 		feudalism = 0.5
@@ -505,7 +414,7 @@ technology = { #Merchantman
 }
 
 technology = { #Line of Battle
-	# Tech 36
+	# Tech 28
 	year = 1635
 	expects_institution = {
 		feudalism = 0.5
@@ -525,7 +434,7 @@ technology = { #Line of Battle
 }
 
 technology = { #The War Galleon
-	# Tech 37
+	# Tech 29
 	year = 1648
 	expects_institution = {
 		feudalism = 0.5
@@ -546,7 +455,7 @@ technology = { #The War Galleon
 }
 
 technology = { #Naval Professionalization
-	# Tech 38
+	# Tech 30
 	year = 1661
 	expects_institution = {
 		feudalism = 0.5
@@ -563,7 +472,7 @@ technology = { #Naval Professionalization
 }
 
 technology = { #The Chebeck
-	# Tech 39
+	# Tech 31
 	year = 1674
 	expects_institution = {
 		feudalism = 0.5
@@ -580,7 +489,7 @@ technology = { #The Chebeck
 }
 
 technology = { #Limes
-	# Tech 40
+	# Tech 32
 	year = 1687
 	expects_institution = {
 		feudalism = 0.5
@@ -604,7 +513,7 @@ technology = { #Limes
 }
 
 technology = { #Heavy Frigates
-	# Tech 41
+	# Tech 33
 	year = 1700
 	expects_institution = {
 		feudalism = 0.5
@@ -624,7 +533,7 @@ technology = { #Heavy Frigates
 }
 
 technology = { #The Archipelago Frigate
-	# Tech 42
+	# Tech 34
 	year = 1715
 	expects_institution = {
 		feudalism = 0.5
@@ -648,7 +557,7 @@ technology = { #The Archipelago Frigate
 }
 
 technology = { #The Threedeckers
-	# Tech 43
+	# Tech 35
 	year = 1730
 	expects_institution = {
 		feudalism = 0.5
@@ -667,7 +576,7 @@ technology = { #The Threedeckers
 }
 
 technology = { #The Eastindiaman
-	# Tech 44
+	# Tech 36
 	year = 1745
 	expects_institution = {
 		feudalism = 0.5
@@ -688,7 +597,7 @@ technology = { #The Eastindiaman
 }
 
 technology = { #Public Punishments
-	# Tech 45
+	# Tech 37
 	year = 1760
 	expects_institution = {
 		feudalism = 0.5
@@ -707,7 +616,7 @@ technology = { #Public Punishments
 }
 
 technology = { #Joint Stock Companies
-	# Tech 46
+	# Tech 38
 	year = 1775
 	expects_institution = {
 		feudalism = 0.5
@@ -725,7 +634,7 @@ technology = { #Joint Stock Companies
 }
 
 technology = { #Midshipmen Cadets
-	# Tech 47
+	# Tech 39
 	year = 1790
 	expects_institution = {
 		feudalism = 0.5
@@ -743,7 +652,7 @@ technology = { #Midshipmen Cadets
 }
 
 technology = { #Insurance Companies
-	# Tech 48
+	# Tech 40
 	year = 1805
 	expects_institution = {
 		feudalism = 0.5
@@ -762,7 +671,7 @@ technology = { #Insurance Companies
 }
 
 technology = { #Superior Ship Design
-	# Tech 49
+	# Tech 41
 	year = 1820
 	expects_institution = {
 		feudalism = 0.5
@@ -781,7 +690,7 @@ technology = { #Superior Ship Design
 }
 
 technology = { #The Gold Standard
-	# Tech 50
+	# Tech 42
 	year = 1835
 	expects_institution = {
 		feudalism = 0.5
