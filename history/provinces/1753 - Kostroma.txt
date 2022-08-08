@@ -1,8 +1,8 @@
 #1753 - Kostroma
 
-owner = PRS
-controller = PRS  
-add_core = PRS
+owner = VLD
+controller = VLD  
+add_core = VLD
 culture = russian 
 religion = orthodox
 hre = no

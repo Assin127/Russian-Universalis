@@ -176,6 +176,7 @@ BRY = "countries/Bryansk.txt"
 BUS = "countries/Burtas.txt"
 CUM = "countries/Cumans.txt"
 GLC = "countries/Galich.txt"
+GLD = "countries/Galich-Mersky.txt"  ## RU010
 KIR = "countries/KievanRus.txt"
 KRS = "countries/Kursk.txt"
 NOS = "countries/Novgorod-Seversk.txt"
@@ -191,6 +192,7 @@ VBL = "countries/Volga_Bulgaria.txt"
 VLD = "countries/Vladimir.txt" ## RU010
 YEL = "countries/Yelets.txt" ## RU007
 KHN = "countries/Kashin.txt" ## RU010
+MOZ = "countries/Mozhaisk.txt" ## RU010
 
 #Скандинавия
 JAM = "countries/Jamtland.txt"
