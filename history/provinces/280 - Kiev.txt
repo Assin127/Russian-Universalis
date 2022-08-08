@@ -1,7 +1,7 @@
 #280 - Kiev
 
-owner = LIT
-controller = LIT  
+owner = KIE
+controller = KIE 
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -12,7 +12,7 @@ base_manpower = 2
 capital = "Kiev"
 is_city = yes
 add_core = KIE
-add_core = LIT
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -21,6 +21,11 @@ discovered_by = nomad_group
 extra_cost = 16
 center_of_trade = 2
 
+1392.1.1 = {
+	owner = LIT
+	controller = LIT
+	add_core = LIT
+}
 1550.1.1 = { fort_15th = yes }
 1569.7.1 = {
 	owner = PLC
