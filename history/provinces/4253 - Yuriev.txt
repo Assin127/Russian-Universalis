@@ -1,7 +1,7 @@
 #4253 - Pereyaslavl-Zalesskiy & Yuriev-Polskiy
 
-owner = MOS
-controller = MOS  
+owner = VLD
+controller = VLD  
 culture = russian
 religion = orthodox
 hre = no
@@ -11,7 +11,8 @@ trade_goods = salt
 base_manpower = 2
 capital = "Yuriev"
 is_city = yes
-add_core = MOS
+add_core = VLD
+add_core = PRZ
 discovered_by = GOL
 discovered_by = KAZ
 discovered_by = eastern
@@ -20,6 +21,16 @@ discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
 
+1175.6.15 = {
+	owner = PRZ
+	controller = PRZ
+	add_core = PRZ
+}
+1302.1.1 = {	
+	owner = MOS
+	controller = MOS
+	add_core = MOS
+}
 
 1450.1.1 = { discovered_by = SIB }
 1503.4.1 = {
