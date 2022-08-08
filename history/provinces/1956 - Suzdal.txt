@@ -1,7 +1,7 @@
 #1956 - Suzdal
 
-owner = MOS
-controller = MOS
+owner = VLD
+controller = VLD
 culture = russian
 religion = orthodox
 hre = no
@@ -11,13 +11,24 @@ trade_goods = grain
 base_manpower = 3
 capital = "Suzdal"
 is_city = yes
-add_core = NZH
-add_core = MOS
+add_core = VLD
+
 discovered_by = GOL
 discovered_by = KAZ
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
+
+1341.1.1 = {
+	owner = NZH
+	controller = NZH
+	add_core = NZH  
+}
+1392.1.1 = {
+	owner = MOS
+	controller = MOS
+	add_core = MOS  
+}
 
 1450.1.1 = { discovered_by = SIB }
 
