@@ -30,12 +30,6 @@ center_of_trade = 1
 	add_core = DMA
 }
 
-
-1269.1.1 = {
-	owner = MOR
-	controller = MOR
-	add_core = MOR
-}
 1444.1.1 = {
 	owner = SOS
 	controller = SOS
