@@ -1,7 +1,7 @@
 # - Bezhetsk
 
-owner = MOS
-controller = MOS
+owner = NOV
+controller = NOV
 culture = novgorodian
 religion = orthodox
 hre = no
@@ -11,10 +11,15 @@ trade_goods = naval_supplies
 base_manpower = 1
 capital = "Bezhetsk"
 is_city = yes
-add_core = MOS
+add_core = NOV
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
+1370.1.1 = {
+	owner = MOS
+	controller = MOS
+	add_core = MOS
+}
 
 1450.1.1 = { discovered_by = SIB }
 1503.4.1 = {

@@ -24,8 +24,6 @@ discovered_by = ottoman
 1156.1.1 = {
 	owner = HAB
 	controller = HAB
-	add_core = HAB
-	add_core = TIR
 }
 1452.1.1 = {
 	owner = STY
@@ -35,6 +33,7 @@ discovered_by = ottoman
 1457.11.24 = {
 	owner = HAB
 	controller = HAB
+	add_core = HAB
 	remove_core = STY
 }
 1635.5.1 = { controller = FRA } # To France

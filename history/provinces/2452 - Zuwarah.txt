@@ -20,9 +20,17 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-
-1558.1.1 = {
+1160.1.1 = {
+	owner = ALD
+	controller = ALD
+	add_core = ALD
+}
+1229.1.1 = {
+	owner = DHF
+	controller = DHF
+	add_core = DHF
+}
+1551.1.1 = {
 	owner = TRP
 	controller = TRP
 } #Turgut Reis conquers Gharayan

@@ -35,6 +35,48 @@ defined_text = {
 			tag = YEL
 		}
     }
+    text = { ## RU010
+        localisation_key = ADJ_RZE
+        trigger = {
+			tag = RZE
+		}
+    }
+   text = { ## RU010
+        localisation_key = ADJ_PRZ
+        trigger = {
+			tag = PRZ
+		}
+    }
+   text = { ## RU010
+        localisation_key = ADJ_MOZ
+        trigger = {
+			tag = MOZ
+		}
+    }
+   text = { ## RU010
+        localisation_key = ADJ_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = ADJ_TRG
+        trigger = {
+			tag = TRG
+		}
+    }
+    text = { ## RU010
+        localisation_key = ADJ_VLD
+        trigger = {
+			tag = VLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = ADJ_KHN
+        trigger = {
+			tag = KHN
+		}
+    }
     text = { ## RU002
         localisation_key = ADJ_THS
         trigger = {

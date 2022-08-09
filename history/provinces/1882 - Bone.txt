@@ -1,7 +1,7 @@
 #340 - Constantine
 
-owner = TUN
-controller = TUN 
+owner = HMM
+controller = HMM
 culture = berber
 religion = sunni
 capital = "Annaba"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = TUN
+add_core = HMM
 
 
 
@@ -19,8 +19,16 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-
+1152.1.1 = {
+	owner = ALD
+	controller = ALD
+	add_core = ALD
+}
+1229.1.1 = {
+	owner = DHF
+	controller = DHF
+	add_core = DHF
+}
 1522.1.1 = {
 	owner = ALG
 	controller = ALG

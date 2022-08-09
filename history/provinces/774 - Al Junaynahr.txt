@@ -1,8 +1,8 @@
 # - Al-Junaynah
 
-owner = WAD
-controller = WAD
-add_core = WAD
+owner = KNM
+controller = KNM
+add_core = KNM
 culture = tunjur 
 religion = shamanism #Fetishism
 capital = "Al-Junaynahr"
@@ -16,6 +16,13 @@ base_production = 1
 base_manpower = 1
 
 discovered_by = sub_saharan
+
+
+1380.1.1 = {
+	owner = KBO
+	controller = KBO
+	add_core = KBO
+}
 
 1596.1.1 = {
 	owner = DAR

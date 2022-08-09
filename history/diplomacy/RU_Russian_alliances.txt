@@ -3,7 +3,7 @@ union = {
 	first = KIE
 	second = TUO
 	start_date = 1054.2.20
-	end_date = 1444.1.1
+	end_date = 1199.1.1
 }
 
 union = {
@@ -11,6 +11,20 @@ union = {
 	second = TMU
 	start_date = 1094.6.1
 	end_date = 1115.8.1
+}
+
+vassal = { ## RU010
+	first = SMO
+	second = MOZ
+	start_date = 1250.1.1
+	end_date = 1303.1.1
+}
+
+vassal = { ## RU010
+	first = MOS
+	second = GLD
+	start_date = 1325.1.1
+	end_date = 1450.1.1
 }
 
 union = {
@@ -40,21 +54,26 @@ alliance = {
 	start_date = 1093.4.24
 	end_date = 1113.4.16
 }
-
 #Halicz-Volyn union
 union = {
 	first = GLC
 	second = VOL
 	start_date = 1199.1.1
-	end_date = 1205.19.6
+	end_date = 1205.1.1
 }
 union = {
 	first = GLC
 	second = VOL
 	start_date = 1245.17.8
-	end_date = 1340.19.6
+	end_date = 1340.1.1
 }
-
+#Novgorod union
+union = {
+	first = NOV
+	second = KIE
+	start_date = 1249.1.1
+	end_date = 1263.11.14
+} ## RU012
 #Bryansk union
 union = {
 	first = BRY
