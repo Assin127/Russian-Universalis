@@ -16,7 +16,16 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
-
+1160.1.1 = {
+	owner = ALD
+	controller = ALD
+	add_core = ALD
+}
+1229.1.1 = {
+	owner = DHF
+	controller = DHF
+	add_core = DHF
+}
 1534.8.16 = {
 	owner = ALG
 	controller = ALG

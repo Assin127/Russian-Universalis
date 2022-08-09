@@ -19,7 +19,16 @@ discovered_by = ottoman
 discovered_by = eastern
 extra_cost = 16
 center_of_trade = 2
-
+1160.1.1 = {
+	owner = ALD
+	controller = ALD
+	add_core = ALD
+}
+1229.1.1 = {
+	owner = DHF
+	controller = DHF
+	add_core = DHF
+}
 1510.1.1 = { owner = CAS controller = CAS add_core = CAS }
 1516.1.23 = {	owner = SPA	
 	controller = SPA
