@@ -57,9 +57,21 @@ defined_text = {
 		}
     }
     text = { ## RU010
+        localisation_key = TAG_RD_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
+    text = { ## RU010
         localisation_key = TAG_RD_VLD
         trigger = {
 			tag = VLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_RD_MOZ
+        trigger = {
+			tag = MOZ
 		}
     }
     text = { ## RU010
@@ -1093,9 +1105,21 @@ defined_text = {
 		}
     }
     text = { ## RU010
+        localisation_key = TAG_VN_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
+    text = { ## RU010
         localisation_key = TAG_VN_VLD
         trigger = {
 			tag = VLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_VN_MOZ
+        trigger = {
+			tag = MOZ
 		}
     }
     text = { ## RU010
@@ -2129,9 +2153,21 @@ defined_text = {
 		}
     }
     text = { ## RU010
+        localisation_key = TAG_TV_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
+    text = { ## RU010
         localisation_key = TAG_TV_VLD
         trigger = {
 			tag = VLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_TV_MOZ
+        trigger = {
+			tag = MOZ
 		}
     }
     text = { ## RU010
@@ -3166,9 +3202,21 @@ defined_text = {
 		}
     }
     text = { ## RU010
+        localisation_key = TAG_PR_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
+    text = { ## RU010
         localisation_key = TAG_PR_VLD
         trigger = {
 			tag = VLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_PR_MOZ
+        trigger = {
+			tag = MOZ
 		}
     }
     text = { ## RU010
@@ -4203,9 +4251,21 @@ defined_text = {
 		}
     }
     text = { ## RU010
+        localisation_key = TAG_DT_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
+    text = { ## RU010
         localisation_key = TAG_DT_VLD
         trigger = {
 			tag = VLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_DT_MOZ
+        trigger = {
+			tag = MOZ
 		}
     }
     text = { ## RU010
