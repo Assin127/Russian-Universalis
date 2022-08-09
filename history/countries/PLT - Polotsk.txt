@@ -2,7 +2,7 @@
 government = monarchy
 add_government_reform = principality
 government_rank = 1
-primary_culture = old_russian
+primary_culture = byelorussian
 religion = orthodox
 technology_group = eastern
 capital = 275	# Polotsk
@@ -37,7 +37,12 @@ fixed_capital = 275 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_heir_personality = intricate_web_weaver_personality
 }
-
-1370.1.1 = {
-	primary_culture = byelorussian
+1232.1.1 = {
+	monarch = {
+		name = "Bryachislav"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 2
+		mil = 2
+	} ## RU012
 }
