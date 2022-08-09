@@ -13,6 +13,20 @@ union = {
 	end_date = 1115.8.1
 }
 
+vassal = { ## RU010
+	first = SMO
+	second = MOZ
+	start_date = 1250.1.1
+	end_date = 1303.1.1
+}
+
+vassal = { ## RU010
+	first = MOS
+	second = GLD
+	start_date = 1325.1.1
+	end_date = 1450.1.1
+}
+
 union = {
 	first = PRS
 	second = KRS
