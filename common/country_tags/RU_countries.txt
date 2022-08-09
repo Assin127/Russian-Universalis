@@ -193,6 +193,7 @@ VLD = "countries/Vladimir.txt" ## RU010
 YEL = "countries/Yelets.txt" ## RU007
 KHN = "countries/Kashin.txt" ## RU010
 MOZ = "countries/Mozhaisk.txt" ## RU010
+OWR = "countries/Owrucz.txt" ## RU013 История есть
 
 #VOL ## История есть
 #KIE ## История есть

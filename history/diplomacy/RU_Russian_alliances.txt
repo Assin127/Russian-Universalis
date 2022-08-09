@@ -81,7 +81,13 @@ union = {
 	start_date = 1246.1.1
 	end_date = 1356.1.1
 }
-
+#Kiev vassal
+vassal = {
+	first = KIE
+	second = OWR
+	start_date = 1095.1.1
+	end_date = 1362.1.1
+} ## RU013
 #Chernigov vassal
 vassal = {
 	first = CHR
