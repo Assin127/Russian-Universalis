@@ -17,16 +17,16 @@ fixed_capital = 261 # Cannot move capital away from this province & no power cos
 		dip = 5
 		mil = 4
 		leader = { name = "Daniyl Galitsky" type = general fire = 4 shock = 4 manuever = 4 siege = 0 }
-	}
+	} #Legendary ruler ## RU012
 	add_ruler_personality = charismatic_negotiator_personality
 	add_ruler_personality = well_advised_personality
 	add_ruler_personality = tactical_genius_personality
-} #Legendary ruler ## RU012
-1238.1.1 = {
+
 	hier = {
 		name = "Lev"
 		dynasty = "Rurikovich"
 		birth_date = 1228.1.1
+		claim = 95
 		adm = 2
 		dip = 2
 		mil = 3
