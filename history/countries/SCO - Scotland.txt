@@ -1,5 +1,4 @@
 ### RU009 - Added
-
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = scottish
@@ -43,7 +42,7 @@ capital = 248 # Edinburgh
 
 877.1.1 = {
 	monarch = {
-		name = "Áed"
+		name = "?ed"
 		dynasty = "MacAlpin"
 		birth_date = 840.1.1
 		adm = 2
@@ -55,7 +54,7 @@ capital = 248 # Edinburgh
 878.1.1 = {
 	monarch = {
 		name = "Giric"
-		dynasty = "MacDúngail"
+		dynasty = "MacD?ngail"
 		adm = 5
 		dip = 4
 		mil = 5
@@ -118,7 +117,7 @@ capital = 248 # Edinburgh
 
 967.7.10 = {
 	monarch = {
-		name = "Cuilén"
+		name = "Cuil?n"
 		dynasty = "MacAlpin"
 		adm = 0
 		dip = 1
@@ -1312,7 +1311,7 @@ capital = 248 # Edinburgh
 	}
 	queen = {
 		country_of_origin = FRA
-		name = "François II"
+		name = "Fran?ois II"
 		dynasty = "de Valois"
 		birth_date = 1494.9.12
 		death_date = 1560.12.5
