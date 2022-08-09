@@ -15,6 +15,18 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+1159.1.1 = {
+	owner = ALD
+	controller = ALD
+	add_core = ALD
+}
+1229.1.1 = {
+	owner = DHF
+	controller = DHF
+	add_core = DHF
+}
+
 1489.1.1 = {
     unrest = 4
 } # Abu Zikriya Yahya overthrown by Abul Mumin

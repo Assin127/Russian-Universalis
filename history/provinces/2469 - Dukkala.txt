@@ -1,7 +1,8 @@
 # - Abda
 
-owner = MOR
-controller = MOR
+owner = ALM
+controller = ALM
+add_core = ALM
 culture = moroccan
 religion = sunni
 capital = "Mazzagan"
@@ -11,7 +12,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = MOR
 
 
 
@@ -20,6 +20,16 @@ discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
 
+1147.1.1 = {
+	owner = ALD
+	controller = ALD
+	add_core = ALD
+}
+1244.1.1 = {
+	owner = DMA
+	controller = DMA
+	add_core = DMA
+}
 1465.1.1 = { unrest = 5 } #Marinid Sultan killed by mob. Mohammed ibn Ali Amrani-Joutey (Idrisid) proclaims himself Sultan. Unrest in the entire country. 
 1472.1.1 = {
 	owner = FEZ

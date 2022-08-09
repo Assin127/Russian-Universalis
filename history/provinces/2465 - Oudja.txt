@@ -1,7 +1,8 @@
 # - Oujda
 
-owner = TLC
-controller = TLC
+owner = ALM
+controller = ALM
+add_core = ALM
 culture = berber
 religion = sunni
 capital = "Oujda"
@@ -11,7 +12,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = TLC
 
 
 
@@ -19,7 +19,16 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
-
+1146.1.1 = {
+	owner = ALD
+	controller = ALD
+	add_core = ALD
+}
+1236.1.1 = {
+	owner = DAB
+	controller = DAB
+	add_core = DAB
+}
 
 1549.1.1 = {
 	owner = MOR
