@@ -29,10 +29,6 @@ center_of_trade = 2
 	controller = DAB
 	add_core = DAB
 }
-
-
-
-
 1549.1.1 = {
 	owner = MOR
 	controller = MOR

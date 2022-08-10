@@ -25,9 +25,9 @@ discovered_by = eastern
 	add_core = ALD
 }
 1244.1.1 = {
-	owner = DMA
-	controller = DMA
-	add_core = DMA
+	owner = MOR
+	controller = MOR
+	add_core = MOR
 }
 1472.1.1 = {
 	owner = FEZ
