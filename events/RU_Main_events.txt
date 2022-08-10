@@ -1,0 +1,31 @@
+### RU013 - Added
+namespace = RU_main_events
+
+normal_or_historical_nations = yes
+############################
+### Основные ивенты мода ###
+############################
+
+#Создание случайного Рюриковича на старте игры
+country_event = {
+	id = RU_main_events.1
+	title = RU_main_events.1.title
+	desc = RU_main_events.1.desc
+	picture = BIG_BOOK_eventPicture
+	
+	is_triggered_only = yes
+	hidden = yes
+	
+	trigger = {
+		has_country_flag = random_rurikovich
+	}
+		
+	option = {
+		name = RU_main_events.1.a
+		define_ruler = {
+			dynasty = "Rurikovich"
+		}
+		add_stability = 1
+		clr_country_flag = random_rurikovich
+	}
+}

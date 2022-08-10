@@ -1,0 +1,6 @@
+### RU013 - Added
+on_startup = {
+	events = {
+		RU_main_events.1
+	}
+}
