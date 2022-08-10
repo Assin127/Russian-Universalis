@@ -1,7 +1,7 @@
 # - Hodna
 
-owner = TUN
-controller = TUN
+owner = HMM
+controller = HMM
 culture = algerian
 religion = sunni
 capital = "Msila"
@@ -11,8 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = TUN
-add_core = KBA
+add_core = HMM
 
 
 
@@ -20,7 +19,16 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
 
-
+1152.1.1 = {
+	owner = ALD
+	controller = ALD
+	add_core = ALD
+}
+1229.1.1 = {
+	owner = DHF
+	controller = DHF
+	add_core = DHF
+}
 1521.1.1 = {
 	owner = ALG
 	controller = ALG

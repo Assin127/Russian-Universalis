@@ -1,7 +1,7 @@
 #339 - Bejaia
 
-owner = TUN
-controller = TUN
+owner = HMM
+controller = HMM
 culture = berber
 religion = sunni
 capital = "Bejaia"
@@ -11,8 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = TUN
-add_core = KBA
+add_core = HMM
 
 
 
@@ -20,8 +19,16 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-
+1152.1.1 = {
+	owner = ALD
+	controller = ALD
+	add_core = ALD
+}
+1229.1.1 = {
+	owner = DHF
+	controller = DHF
+	add_core = DHF
+}
 1510.1.1 = {
 	owner = KBA
 	controller = KBA
