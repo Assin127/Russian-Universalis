@@ -8,12 +8,4 @@ primary_culture = ruthenian
 capital = 4247	# Owrucz
 fixed_capital = 4247 # Cannot move capital away from this province & no power cost to move to it
 
-1259.1.1 = {
-	monarch = {
-		name = "Yaroslav"
-		dynasty = "Rurikovich"
-		adm = 1
-		dip = 1
-		mil = 1
-	} # Добавить рандом правителя при старте игры (по истории здесь баскаки)
-}
+	set_country_flag = random_rurikovich
