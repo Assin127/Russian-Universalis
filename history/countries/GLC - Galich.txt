@@ -22,7 +22,7 @@ fixed_capital = 261 # Cannot move capital away from this province & no power cos
 	add_ruler_personality = well_advised_personality
 	add_ruler_personality = tactical_genius_personality
 
-	hier = {
+	heir = {
 		name = "Lev"
 		dynasty = "Rurikovich"
 		birth_date = 1228.1.1
