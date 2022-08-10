@@ -438,7 +438,7 @@ national_focus = ADM
 }
 
 # Archduke 1359  Privilegium Maius
-1359.1.1 = {add_government_reform = aostrian_archduchy_reform}
+1359.1.1 = {add_government_reform = austrian_archduchy_reform}
 
 1365.7.27 = {
 	monarch = {
