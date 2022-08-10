@@ -1,21 +1,21 @@
 #40 - Memel
 
-owner = TEU
-controller = TEU
 culture = lithuanian
-religion = catholic
+religion = romuva
 capital = "Memel"
-trade_goods = livestock
+trade_goods = unknown
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
-is_city = yes
-add_core = TEU
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+native_size = 30
+native_ferocity = 4
+native_hostileness = 6
 
 extra_cost = 10
 
@@ -23,6 +23,22 @@ add_permanent_province_modifier = {
 	name = neman_estuary_modifier
 	duration = -1
 }
+
+
+
+1277.7.1 = {
+	owner = TEU
+	controller = TEU
+	add_core = TEU
+    remove_core = PRU
+    is_city = yes
+	trade_goods = livestock
+	religion = catholic
+}
+
+1278.1.1 = { revolt = { type = nationalist_rebels size = 1 } controller = REB }
+1283.2.2 = { revolt = {} controller = TEU }
+
 
 1454.2.10 = { add_core = POL revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Thirteen years' war
 1466.10.19 = {	revolt = {}
@@ -51,4 +67,5 @@ add_permanent_province_modifier = {
 1750.1.1 = { base_tax = 5 base_production = 5 }
 1757.9.1 = { controller = RUS } # captured by Russia after Gross-Jägersdorf
 1762.1.5 = { controller = PRU } # Russians withdraw
+
 
