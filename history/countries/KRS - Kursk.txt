@@ -9,12 +9,4 @@ religion = orthodox
 capital = 298 # Kursk
 fixed_capital = 298 # Cannot move capital away from this province & no power cost to move to it
 
-1259.1.1 = {
-	monarch = {
-		name = "Vasiliy"
-		dynasty = "Rurikovich"
-		adm = 1
-		dip = 1
-		mil = 2
-	} #известно только имя
-} ## RU012
+set_country_flag = random_rurikovich ## RU014
