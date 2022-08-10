@@ -20,8 +20,8 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1189.1.1 = {add_core = ALD}
-1640.1.1 = { unrest = 8 } # Revolt headed by John of Braganï¿½a
+
+1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragança
 1640.12.1 = { unrest = 0 }
 1807.11.30 = { controller = FRA } # Occupied by troops led by Manuel Godoy
-1808.6.18 = { controller = POR } # Revolt in Olhï¿½o
+1808.6.18 = { controller = POR } # Revolt in Olhão
