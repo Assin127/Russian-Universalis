@@ -63,3 +63,9 @@ union = {
 	start_date = 1081.1.1
 	end_date = 1123.1.1
 }
+union = {
+	first = BOH
+	second = HAB
+	start_date = 1246.6.15
+	end_date = 1278.1.1
+}
