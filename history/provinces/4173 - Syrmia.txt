@@ -41,6 +41,7 @@ discovered_by = ottoman
 	owner = HUN
 	controller = HUN
 	culture = hungarian
+	religion = catholic
 }
 
 

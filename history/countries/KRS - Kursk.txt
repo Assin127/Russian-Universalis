@@ -4,7 +4,17 @@ government = monarchy
 add_government_reform = principality
 government_rank = 1
 technology_group = eastern
-primary_culture = old_russian
+primary_culture = ryazanian
 religion = orthodox
 capital = 298 # Kursk
 fixed_capital = 298 # Cannot move capital away from this province & no power cost to move to it
+
+1259.1.1 = {
+	monarch = {
+		name = "Vasiliy"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	} #известно только имя
+} ## RU012

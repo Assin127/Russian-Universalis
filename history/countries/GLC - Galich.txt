@@ -2,9 +2,33 @@
 # Galich
 government = monarchy
 add_government_reform = principality
-government_rank = 1
+government_rank = 2
 technology_group = eastern
 primary_culture = ruthenian
 religion = orthodox
 capital = 261 # Halicz
 fixed_capital = 261 # Cannot move capital away from this province & no power cost to move to it
+1238.1.1 = {
+	monarch = {
+		name = "Daniyl Galitsky"
+		dynasty = "Rurikovich"
+		birth_date = 1201.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+		leader = { name = "Daniyl Galitsky" type = general fire = 4 shock = 4 manuever = 4 siege = 0 }
+	} #Legendary ruler ## RU012
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_advised_personality
+	add_ruler_personality = tactical_genius_personality
+
+	hier = {
+		name = "Lev"
+		dynasty = "Rurikovich"
+		birth_date = 1228.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	} ## RU012
+}

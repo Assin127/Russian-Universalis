@@ -1,0 +1,8 @@
+### RU004 - Added
+
+government = republic
+government_rank = 1
+primary_culture = dalmatian
+religion = catholic
+technology_group = eastern
+capital = 4754 # Kotor
