@@ -77,6 +77,12 @@ defined_text = {
 			tag = KHN
 		}
     }
+	text = { ## RU013
+        localisation_key = ADJ_OWR
+        trigger = {
+			tag = OWR
+		}
+    }
     text = { ## RU002
         localisation_key = ADJ_THS
         trigger = {
