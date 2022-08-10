@@ -20,7 +20,7 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1242.1.1 = {add_core = ALD}
+
 1516.1.23 = {	controller = SPA
 	owner = SPA
 	add_core = SPA

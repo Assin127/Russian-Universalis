@@ -6,11 +6,11 @@ add_core = CAS
 culture = andalucian
 religion = catholic 
 hre = no
-base_tax = 2
-base_production = 2
+base_tax = 4
+base_production = 3 
 trade_goods = grain 
-base_manpower = 2
-capital = "Albacete" 
+base_manpower = 3
+capital = "Cartagena" 
 is_city = yes
 
 
@@ -20,7 +20,7 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1242.1.1 = {add_core = ALD}
+
 1516.1.23 = {	controller = SPA
 	owner = SPA
 	add_core = SPA
