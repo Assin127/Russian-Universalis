@@ -4,9 +4,9 @@ culture = baltic_prussian
 religion = romuva
 trade_goods = unknown
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
+base_tax = 4
+base_production = 4
+base_manpower = 3
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -16,28 +16,26 @@ native_ferocity = 4
 native_hostileness = 6
 
 1234.7.1 = {
-	base_tax = 4
-	base_production = 4
-	base_manpower = 3
 	owner = TEU
 	controller = TEU
 	add_core = TEU
-is_city = yes
+	is_city = yes
 	trade_goods = naval_supplies
-	culture = baltic_prussian  
 	religion = catholic
 }
-1242.7.1 = { revolt { type = nationalist_rebels size = 1 }}
-1260.9.1 = { revolt { type = nationalist_rebels size = 1 }}
+1242.7.1 = { revolt = { type = nationalist_rebels size = 1 } controller = REB }
+1249.2.2 = { revolt = {} controller = TEU }
+1260.9.1 = { revolt = { type = nationalist_rebels size = 1 } controller = REB }
+1274.1.1 = { revolt = {} controller = TEU }
 1270.1.1 = {
     capital = "Marienburg"
-    }  
+}  
 1280.1.1 = {
- fort_15th = yes
+	fort_15th = yes
 }
 1301.1.1 = {
-    culture = prussian
-    }
+	culture = prussian
+}
 1454.3.6 = { add_core = POL } # Beginning of the "Thirteen Years War"
 1466.10.19 = {
 	owner = POL

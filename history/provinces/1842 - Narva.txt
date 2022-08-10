@@ -3,10 +3,10 @@
 culture = estonian
 religion = romuva 
 hre = no
-base_tax = 1
-base_production = 1
-trade_goods = unknown
+base_tax = 2 
+base_production = 2
 base_manpower = 1
+trade_goods = unknown
 capital = "Narva"
 
 discovered_by = KAZ
@@ -16,11 +16,11 @@ discovered_by = AST
 discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
+native_size = 30
+native_ferocity = 4
+native_hostileness = 6
 
 1219.1.1 = {
-   	base_tax = 2 
-	base_production = 2
-    base_manpower = 1
 	owner = DAN
 	controller = DAN
 	add_core DAN
@@ -33,23 +33,16 @@ discovered_by = eastern
    	owner = LIV
 	controller = LIV
 	add_core = LIV
-	add_core DAN
-	add_core = EST
 }
 1236.1.1 = {
     owner = DAN
 	controller = DAN
-	add_core DAN
-	add_core = LIV
-	add_core = EST
 }
 1343.4.23 = { revolt { type = nationalist_rebels size = 1 } controller = REB} 
 1343.5.5 = { revolt {} controller = DAN }
 1346.1.1 = {
    	owner = LIV
 	controller = LIV
-	add_core = LIV
-	add_core = EST
 }
 1542.1.1 = { religion = protestant} # Unknown date
 1558.5.11 = {

@@ -1,9 +1,5 @@
 #Ösel and Dagö, incl. Sonnenburg and Arensburg.
 
-
-
-
-
 culture = estonian
 religion = romuva 
 hre = no
@@ -12,6 +8,9 @@ base_production = 1
 trade_goods = unknown
 base_manpower = 1
 capital = "Arensburg"
+native_size = 30
+native_ferocity = 4
+native_hostileness = 6
 
 
 discovered_by = western
@@ -19,7 +18,7 @@ discovered_by = eastern
 
 
 1227.1.1  = {
-	owner = 
+	owner = RIG
 	controller = RIG
 	add_core = RIG
 	add_core = EST
@@ -27,8 +26,13 @@ discovered_by = eastern
 	trade_goods = grain
 	religion = catholic 
 }
-1344.7.24 = { revolt { type = nationalist_rebels size = 2 } controller = REB} 
-1345.2.14 = { revolt {} controller = RIG }
+1241.1.1  = {
+	owner = LIV
+	controller = LIV
+	add_core = LIV
+}
+1344.7.24 = { revolt { type = nationalist_rebels size = 2 } controller = REB } 
+1345.2.14 = { revolt {} controller = LIV }
 1542.1.1 = { religion = protestant} # Unknown date
 1559.1.1 = {
 	owner = DAN

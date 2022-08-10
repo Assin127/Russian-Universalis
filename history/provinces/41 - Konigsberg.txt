@@ -1,13 +1,13 @@
 #41 - Königsberg
 
-capital = "K?nigsberg"
+capital = "Königsberg"
 culture = baltic_prussian
 religion = romuva
 trade_goods = unknown
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
+base_tax = 5
+base_production = 5
+base_manpower = 3
 
 discovered_by = eastern
 discovered_by = western
@@ -20,27 +20,22 @@ native_ferocity = 4
 native_hostileness = 6
 
 1255.9.1 = {
-    base_tax = 5
-	base_production = 5
-	base_manpower = 3
 	owner = TEU
 	controller = TEU
 	add_core = TEU
-    add_core = PRU
-    remove_core = PRU
     is_city = yes
 	trade_goods = gems #Amber
 	fort_15th = yes
 	religion = catholic
 }
 
-1260.9.1 = { revolt { type = nationalist_rebels size = 1 }}
-
-1275.6.1 = { revolt { type = nationalist_rebels size = 1 }}
-
+1260.9.1 = { revolt { type = nationalist_rebels size = 1 } controller = REB }
+1274.1.1 = { revolt = {} controller = TEU }
+1275.6.1 = { revolt { type = nationalist_rebels size = 1 } controller = REB }
+1283.2.2 = { revolt = {} controller = TEU }
 1324.1.1 = {
 	culture = prussian
-	}
+}
 1454.3.6 = { add_core = POL revolt = { type = revolutionary_rebels size = 2 } controller = REB } # Beginning of the "thirteen years war"
 1466.10.19 = { revolt = {} controller = TEU add_core = PRU } # "Peace of Torun", became a Polish fief
 1525.2.10 = {
