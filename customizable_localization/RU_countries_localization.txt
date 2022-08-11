@@ -80,6 +80,12 @@ defined_text = {
 			tag = KHN
 		}
     }
+	    text = { ## RU013
+        localisation_key = TAG_RD_OWR
+        trigger = {
+			tag = OWR
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_RD_THS
         trigger = {
@@ -1128,6 +1134,12 @@ defined_text = {
 			tag = KHN
 		}
     }
+	text = { ## RU013
+        localisation_key = TAG_VN_OWR
+        trigger = {
+			tag = OWR
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_VN_THS
         trigger = {
@@ -2174,6 +2186,12 @@ defined_text = {
         localisation_key = TAG_TV_KHN
         trigger = {
 			tag = KHN
+		}
+    }
+	text = { ## RU013
+        localisation_key = TAG_TV_OWR
+        trigger = {
+			tag = OWR
 		}
     }
     text = { ## RU002
@@ -3225,6 +3243,12 @@ defined_text = {
 			tag = KHN
 		}
     }
+	text = { ## RU013
+        localisation_key = TAG_PR_OWR
+        trigger = {
+			tag = OWR
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_PR_THS
         trigger = {
@@ -4272,6 +4296,12 @@ defined_text = {
         localisation_key = TAG_DT_KHN
         trigger = {
 			tag = KHN
+		}
+    }
+	text = { ## RU013
+        localisation_key = TAG_DT_OWR
+        trigger = {
+			tag = OWR
 		}
     }
     text = { ## RU002

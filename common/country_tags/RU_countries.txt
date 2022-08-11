@@ -180,12 +180,12 @@ GLD = "countries/Galich-Mersky.txt"  ## RU010
 KIR = "countries/KievanRus.txt"
 KRS = "countries/Kursk.txt" ## История есть
 NOS = "countries/Novgorod-Seversk.txt" ## История есть
-PMS = "countries/Peremyshl.txt"
+PMS = "countries/Peremyshl.txt" ## RU014 История есть
 PRS = "countries/Pereyaslav.txt" ## История есть
 PRZ = "countries/Pereyaslavl-Zalesskiy.txt" ## RU010
 RZE = "countries/Rzev.txt" ## RU010
 TMU = "countries/Tmutarakan.txt"
-TRB = "countries/Terebovlia.txt"
+TRB = "countries/Terebovlia.txt" ## RU014 История есть
 TRG = "countries/Toropets.txt" ## RU010
 TUO = "countries/Turov.txt" ## История есть
 VBL = "countries/Volga_Bulgaria.txt"
@@ -193,6 +193,7 @@ VLD = "countries/Vladimir.txt" ## RU010
 YEL = "countries/Yelets.txt" ## RU007
 KHN = "countries/Kashin.txt" ## RU010
 MOZ = "countries/Mozhaisk.txt" ## RU010
+OWR = "countries/Owrucz.txt" ## RU013 История есть
 
 #VOL ## История есть
 #KIE ## История есть

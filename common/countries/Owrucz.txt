@@ -1,21 +1,18 @@
-### RU001 - Added
-#Country Name: Please see filename.
-
+### RU013 - Added
 graphical_culture = easterngfx
 
-color = { 10 135 135 }
+color = { 11 87 240 }
+revolutionary_colors = { 5 18 5 }
 
 historical_idea_groups = {
-#	early_diplomatic_ideas ## RU001
-#	early_administrative_ideas ## RU001
 	defensive_ideas
-	expansion_ideas
+	spy_ideas
 	religious_ideas
+	quality_ideas
+	expansion_ideas
 	offensive_ideas
 	naval_ideas
-	spy_ideas
 	economic_ideas
-	quality_ideas
 }
 
 historical_units = {
