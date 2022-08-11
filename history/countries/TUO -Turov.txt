@@ -4,7 +4,7 @@ government = monarchy
 add_government_reform = principality
 government_rank = 1
 technology_group = eastern
-primary_culture = old_russian
+primary_culture = byelorussian
 religion = orthodox
 capital = 1941 #Turov
 fixed_capital = 1941 # Cannot move capital away from this province & no power cost to move to it
@@ -18,4 +18,13 @@ fixed_capital = 1941 # Cannot move capital away from this province & no power co
 		dip = 1
 		mil = 3
 	}
+}
+1259.1.1 = {
+	monarch = {
+		name = "Fedor"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	} #Мало данных, известно имя ## RU012
 }

@@ -1047,9 +1047,9 @@ capital = 248 # Edinburgh
 
 1513.9.10 = {
 	monarch = {
-		name = "Mary"
-		dynasty = "de Guise"
-		birth_date = 1515.11.22
+		name = "Margaret"
+		dynasty = "Tudor"
+		birth_date = 1489.11.28
 		adm = 2
 		dip = 2
 		mil = 1
@@ -1094,9 +1094,9 @@ capital = 248 # Edinburgh
 
 1524.7.1 = {
 	monarch = {
-		name = "Mary"
-		dynasty = "de Guise"
-		birth_date = 1515.11.22
+		name = "Margaret"
+		dynasty = "Tudor"
+		birth_date = 1489.11.28
 		adm = 2
 		dip = 2
 		mil = 1
@@ -1385,7 +1385,7 @@ capital = 248 # Edinburgh
 		regent = yes
 	}
 	heir = {
-		name = James VI"
+		name = "James VI"
 		monarch_name = "James VI"
 		dynasty = "Stuart"
 		birth_date = 1566.6.19
@@ -1411,7 +1411,7 @@ add_government_reform = autocracy_reform	religion = reformed }
 		regent = yes
 	}
 	heir = {
-		name = James VI"
+		name = "James VI"
 		monarch_name = "James VI"
 		dynasty = "Stuart"
 		birth_date = 1566.6.19
@@ -1434,7 +1434,7 @@ add_government_reform = autocracy_reform	religion = reformed }
 		regent = yes
 	}
 	heir = {
-		name = James VI"
+		name = "James VI"
 		monarch_name = "James VI"
 		dynasty = "Stuart"
 		birth_date = 1566.6.19
@@ -1457,7 +1457,7 @@ add_government_reform = autocracy_reform	religion = reformed }
 		regent = yes
 	}
 	heir = {
-		name = James VI"
+		name = "James VI"
 		monarch_name = "James VI"
 		dynasty = "Stuart"
 		birth_date = 1566.6.19

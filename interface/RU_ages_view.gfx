@@ -1,0 +1,41 @@
+### RU011 - Added
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_age_indicator_5"
+		texturefile = "gfx/interface/ages/age_indicator_5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_age_indicator_6"
+		texturefile = "gfx/interface/ages/age_indicator_6.dds"
+	}
+	spriteType = {
+		name = "GFX_age_indicator_7"
+		texturefile = "gfx/interface/ages/age_indicator_5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_age_indicator_8"
+		texturefile = "gfx/interface/ages/age_indicator_6.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_age_of_feudalism"
+		texturefile = "gfx/interface/ages/icon_age_of_feudalism_g.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_age_of_renaissance"
+		texturefile = "gfx/interface/ages/icon_age_of_renaissance_g.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_age_of_feudalism"
+		texturefile = "gfx/interface/ages/age_of_feudalism.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_age_of_renaissance"
+		texturefile = "gfx/interface/ages/age_of_renaissance.dds"
+	}
+}

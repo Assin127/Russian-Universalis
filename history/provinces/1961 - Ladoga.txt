@@ -2,7 +2,7 @@
 
 owner = NOV
 controller = NOV
-culture = novgorodian
+culture = karelian
 religion = orthodox
 hre = no
 base_tax = 4

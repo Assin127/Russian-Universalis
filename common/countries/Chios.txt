@@ -1,0 +1,65 @@
+### RU004 - Added
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 255  56  56 }
+
+historical_idea_groups = {
+	trade_ideas
+	plutocracy_ideas
+	administrative_ideas
+	maritime_ideas
+	innovativeness_ideas
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Benedetto #5" = 80
+	"Paleologo #2" = 60
+	"Martino #3" = 60
+	"Franchesko #0" = 20
+	"Dzhovanni #0" = 20
+	"Pagano #0" = 20
+	"Dzhordzho #0" = 15
+	"Luidzhi #0" = 15
+	"Antonio Mariya #0" = 10
+}
+
+leader_names = {
+	"Adorno" "Arborio Mella" "Bal’bi" "Brachelli" "Brin’ole" "Buonaparte" "di Buska"
+	"Kampi" "di Kampofregozo" "del’ Karreto" "Kattaneo" "Cheba" "Chenturione" "Klavaretstsa" "Kibo"
+	"Doriya di Mel’fi" "Doriya-Landi" "Duratstso" "de Ferrari" "di Fornari" "de Franki"
+	"Garbarino" "Gattiluzio" "Dzhentile" "Dzhustiniani" "Grimal’di di Buska" "di Grimal’di"
+	"Imperiale" "Invreya" "Lerkari" "Lomelli" "Longo" "de Mari" "Negrone" "da Novi" "Odoni"
+	"Paleolog Monferrat" "Pallavichini" "Piko" "Pin’olo" "Promontorio" "della Rovere"
+	"Sale" "Senarega" "Serra" "Spinola" "della Torre" "Venerozo" "Vival’di"
+}
+
+ship_names = {
+	"Bekin’yana" "Monadzhina" "Markeze Doriya" "Perla" "Piramide" "Temperantsa"
+	"Vittoriya" "San-Vittorio" "Negrona" "Monarka" "Uraniya" "Ira" "Bakkana"
+}
+
+army_names = {
+	"????? ????. $PROVINCE$"
+}

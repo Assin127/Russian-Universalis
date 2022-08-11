@@ -13,8 +13,6 @@ base_manpower = 1
 capital = "Bergen auf Rügen"
 is_city = yes
 
-unrest = 8 #pirate independence of thought
-
 
 discovered_by = eastern
 discovered_by = western
@@ -30,6 +28,7 @@ discovered_by = ottoman
 	controller = WOL
 	add_core = WOL
 	culture = pommeranian
+	unrest = 8 #pirate independence of thought
 }
 1648.10.24 = {
 	owner = SWE

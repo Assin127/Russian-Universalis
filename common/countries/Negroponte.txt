@@ -1,0 +1,233 @@
+### RU004 - Added
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 250  166  12 }
+
+historical_idea_groups = {
+	maritime_ideas
+	plutocracy_ideas
+	humanist_ideas
+	trade_ideas	
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Antonio #0" = 20
+	"Mikele #0" = 20
+	"Tomasso #0" = 20
+	"Moze #0" = 40
+	"Nikkolo #0" = 40
+	"Domeniko #0" = 20
+	"Franchesko #0" = 20
+	"Dzhovanni #0" = 20
+	"Marko #0" = 20
+	"Vittore #0" = 20
+	"Agostino #0" = 0
+	"Al’fredo #0" = 0
+	"Al’vize #0" = 0
+	"Andrea #0" = 0
+	"Ansel’mo #0" = 0
+	"Bertuchchi #0" = 0
+	"Bruno #0" = 0
+	"Karlo #0" = 0
+	"Konstantso #0" = 0
+	"Kristoforo #0" = 0
+	"Èntso #0" = 0
+	"Fabritsio #0" = 0
+	"Dzhanpyero #0" = 0
+	"Dzhirolamo #0" = 0
+	"Dzhuzeppe #0" = 0
+	"Dzhakopo #0" = 0
+	"Leonardo #0" = 0
+	"Lorentso #0" = 0
+	"Ludoviko #0" = 0
+	"Luidzhi #0" = 0
+	"Marko Antonio #0" = 0
+	"Marino #0" = 0
+	"Mario #0" = 0
+	"Ottavio #0" = 0
+	"Paskuale #0" = 0
+	"Pyetro #0" = 0
+	"Sebast’yano #0" = 0
+	"Sil’vestro #0" = 0
+	"Simone #0" = 0
+	"Teodoro #0" = 0
+	"Urbano #0" = 0
+	"Vitale #0" = 0
+
+	"Pirina #0" = -1
+	"Santutsa #0" = -1
+	"Evlaliya #0" = -1
+}
+
+leader_names = {
+	"d’Al’viano"
+	"Al’vize"
+	"Barbarigo"
+	"Bembo"
+	"Barilla"
+	"Bassano"
+	"Bardolino"
+	"Kornaro"
+	"Kontarini"
+	"Kassandro"
+	"Kazanova"
+	"Kommak’o"
+	"K’ogga"
+	"Donato"
+	"Dol’fin"
+	"de Blatsio"
+	"Èmo"
+	"Èritstso"
+	"Èrmelli"
+	"Foskolo"
+	"Flandzhini"
+	"Foskarini"
+	"Grimani"
+	"Dzhustiniani"
+	"Gritti"
+	"Garda"
+	"Loredan"
+	"Labiya"
+	"Lomellini"
+	"Lando"
+	"Mochenigo"
+	"Marchello"
+	"Morozini"
+	"Molin"
+	"Moro"
+	"Memmo"
+	"Man’o"
+	"Mestre"
+	"Modil’yano"
+	"Kuirini"
+	"Polani"
+	"Priuli"
+	"Pizani"
+	"Pezaro"
+	"Petstsini"
+	"Pordenone"
+	"Riva"
+	"Rutstsini"
+	"Rovigo"
+	"Rovereto"
+	"San-Paulo"
+	"Skio"
+	"Sugayna"
+	"Trevizano"
+	"Toskani"
+	"Veniero"
+	"Valieri"
+	"Vittorio"
+	"Dzeno"
+	"Dzustiniani"
+}
+
+ship_names = {
+	"Amatstsone Guèrriera"
+	"Amburdzhense"
+	"Anna Bonaventura"
+	"Apollo"
+	"Akvila Koronato"
+	"Akvila d’Oro"
+	"Akvila Valiera"
+	"Arma di Kolon’ya"
+	"Arma di Model’borgo"
+	"Kapitana d’Al’zheri"
+	"Karita"
+	"Kaza di Nassau"
+	"Konkordiya"
+	"Konte Sdrin"
+	"Kroche Dorata"
+	"Drago Volante"
+	"Èrkole Vittoriozo"
+	"Èsperientsa"
+	"Fama Volante"
+	"Fede Guèrriera"
+	"Feniche"
+	"Francheze"
+	"Fregata Kontarini"
+	"Gallo d’Oro"
+	"Dzhenoveze Grande"
+	"Dzhove"
+	"Dzhove Ful’minante"
+	"Dzhuditsio di Salomon"
+	"Iride"
+	"Leon Koronato"
+	"Madonna della Salute"
+	"Madonna della Vin’ya"
+	"Margarita"
+	"Merkante Diletto"
+	"Nettuno"
+	"Orka Negro"
+	"Orsola Bonaventura"
+	"Pache ed Abbondantsa"
+	"Paramore"
+	"Pikkola Fortuna"
+	"Pinko Tremartino"
+	"Pomerlan"
+	"Princhipe di Venetsiya"
+	"Princhipessa"
+	"Princhipessa Reale"
+	"Princhipessa Grande"
+	"Princhipessa Pikkola"
+	"Profeta Èliya"
+	"Profeta Samuèl’"
+	"Redentore del’ Mundo"
+	"Ritstso d’Oro"
+	"Roza"
+	"Roza Mocheniga"
+	"Otta Fortuna"
+	"Sakra Lega"
+	"Sakrificho d’Abram"
+	"San-Andrea"
+	"San-Antonio di Padova"
+	"Sant-Bartolamio"
+	"San-Domeniko"
+	"San-Felippe"
+	"San-Dzhovanni"
+	"San-Dzhovanni Battista Grande"
+	"San-Dzhovanni Battista Pikkolo"
+	"San-Dzhordzho Grande"
+	"San-Lorentso Dzhustinian"
+	"San-Mikel’"
+	"San-Nikolo"
+	"San-Sebast’yano"
+	"San-Vittorio"
+	"San-Dzortsi Dzhikkolo"
+	"Sole d’Oro"
+	"Spirito Santo"
+	"Stella Maris"
+	"Tamburlano"
+	"Tigre"
+	"Tre Re"
+	"Valor Koronato"
+	"Venere Armata"
+	"Vittoriya"
+	"Dzardin d’Olanda"
+}
+
+army_names = {
+	"????? ????. $PROVINCE$"
+}
