@@ -50,16 +50,6 @@ discovered_by = nomad_group
 	owner = TUR
 	controller = TUR
 	add_core = TUR
-}
-1370.1.1 = {
-	base_tax = 4 
-	base_production = 4
-	base_manpower = 3
-}
-1371.1.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
 	culture = turkish
 	religion = sunni
 }

@@ -39,17 +39,8 @@ discovered_by = nomad_group
 	owner = TUR
 	controller = TUR
 	add_core = TUR
-}
-1370.1.1 = {
-	base_tax = 3
-	base_production = 3
-	base_manpower = 3
-	owner = TUR
-	controller = TUR
-	add_core = TUR
 	culture = turkish
 	religion = sunni
-	fort_15th = yes
 }
 1402.1.1 = { revolt = { type = pretender_rebels size = 1 name = "Isa's Faction" leader = "Isa Osmanoglu" } controller = REB } # Interregnum
 1404.1.1 = { revolt = {} controller = TUR }

@@ -7,10 +7,11 @@ religion = orthodox
 capital = "Ankara"
 trade_goods = cloth
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
+base_tax = 3
+base_production = 3
+base_manpower = 3
 is_city = yes
+fort_15th = yes
 add_core = BYZ
 discovered_by = western
 discovered_by = eastern
@@ -43,17 +44,12 @@ discovered_by = nomad_group
 	add_core = AHI
 }
 1354.1.1 = {
-	base_tax = 3
-	base_production = 3
-	base_manpower = 3
 	owner = TUR
 	controller = TUR
-
 	add_core = TUR
 	add_core = GRM
 	culture = turkish
 	religion = sunni
-	fort_15th = yes
 }
 1402.1.1 = {
 	controller = TIM

@@ -7,9 +7,9 @@ religion = coptic
 capital = "Adana"
 trade_goods = cotton
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
+base_tax = 3
+base_production = 3
+base_manpower = 4
 is_city = yes
 add_core = RUM
 discovered_by = western
@@ -39,16 +39,8 @@ center_of_trade = 1
 	owner = RAM
 	controller = RAM
 	add_core = RAM
-}
-1370.1.1 = {
-	base_tax = 3
-	base_production = 3
-	base_manpower = 4
-	owner = RAM
-	controller = RAM
 	culture = turkish
 	religion = sunni
-	add_core = RAM
 }
 1608.1.1 = { owner = TUR controller = TUR add_core = TUR }
 1623.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # The empire fell into anarchy, Janissaries stormed the palace

@@ -47,17 +47,8 @@ center_of_trade = 2
 	owner = CND
 	controller = CND
 	add_core = CND
-}
-1370.1.1 = {
-	base_tax = 3 
-	base_production = 3
-	base_manpower = 2
-	owner = CND
-	controller = CND
-	add_core = CND
 	culture = turkish
 	religion = sunni
-	fort_15th = yes
 }
 1458.1.1 = {
 	owner = TUR

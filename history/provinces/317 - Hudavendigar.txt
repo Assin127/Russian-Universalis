@@ -4,7 +4,7 @@ owner = BYZ
 controller = BYZ
 culture = greek
 religion = orthodox
-capital = "Bursa"
+capital = "Nicaea"
 trade_goods = silk
 hre = no
 base_tax = 5
@@ -44,14 +44,9 @@ center_of_trade = 2
 	owner = TUR
 	controller = TUR
 	add_core = TUR
-capital = "Bursa"
+	capital = "Bursa"
 	culture = turkish
 	religion = sunni
-}
-1370.1.1 = {
-	base_tax = 5
-	base_production = 5
-	base_manpower = 2
 }
 1402.1.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Interregnum
 1404.1.1 = { revolt = {} controller = TUR }
