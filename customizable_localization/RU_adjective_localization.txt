@@ -16,13 +16,6 @@
 ####################################################################################################
 
 defined_text = {
-    name = GetAdjsmall
-    text = {
-		localisation_key = ADJ_TRU
-		trigger = {
-			tag = TRU
-		}
-	}
     text = { ## RU002
         localisation_key = ADJ_MRN
         trigger = {

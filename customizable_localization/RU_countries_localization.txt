@@ -19,13 +19,6 @@
 ####################################################################################################
 
 defined_text = {
-    name = GetTagRD
-	text = {
-		localisation_key = TAG_RD_TRU
-		trigger = {
-			tag = TRU
-		}
-	}
     text = { ## RU002
         localisation_key = TAG_RD_MRN
         trigger = {
