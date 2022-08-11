@@ -1,8 +1,8 @@
 #332 - Marash
 
-owner = EDE
-controller = EDE
-add_core = EDE
+owner = KES
+controller = KES
+add_core = KES
 culture = armenian
 religion = coptic
 capital = "Maras"
@@ -12,7 +12,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = EDE
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

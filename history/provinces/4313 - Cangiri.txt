@@ -1,7 +1,7 @@
 #4313 - Kangiri
 
-owner = DNS 
-controller = DNS 
+owner = RUM 
+controller = RUM 
 culture = greek
 religion = orthodox
 capital = "Kangiri"
@@ -12,7 +12,7 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 
-add_core = DNS 
+add_core = RUM 
 add_core = BYZ 
 discovered_by = western
 discovered_by = eastern
@@ -24,7 +24,7 @@ discovered_by = nomad_group
 	controller = BYZ
 }
 1135.1.1 = {
-	controller = DNS
+	controller = RUM
 }
 1175.1.1 = {
 	owner = RUM
