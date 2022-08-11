@@ -1,5 +1,7 @@
 #1113 - Cayor
-
+owner = ---
+controller = ---
+add_core = ---
 culture = senegambian
 base_manpower = 2
 religion = shamanism #Fetishism

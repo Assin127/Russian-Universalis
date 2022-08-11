@@ -1,34 +1,35 @@
-#1116 - Wolof
-
+# 1116 - Wolof
 culture = senegambian
 base_manpower = 2
-religion = shamanism #Fetishism
+religion = shamanism # Fetishism
 capital = "Jowol"
 trade_goods = unknown
 hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
 native_size = 50
 native_ferocity = 4
 native_hostileness = 9
-
-
-
 discovered_by = sub_saharan
-
-
-1200.1.1 = {
-	owner = JOL
-	controller = JOL
-	add_core = JOL
-	is_city = yes
-	trade_goods = slaves
-	is_city = yes
+1200.1.1 = { 
+    owner = JOL
+    controller = JOL
+    add_core = JOL
+    is_city = yes
+    trade_goods = slaves
+    is_city = yes
 }
+
 1493.1.1 = { unrest = 4 } # Fulani incursions begin
-1549.1.1 = { owner = FUL controller = FUL add_core = FUL } #Fulani kingdom conquers the region under Koli Tengella
-1590.1.1 = { revolt = {} } #Samba Lamu ends instability in Futa Toro, begins period of expansion
-1620.1.1 = { discovered_by = western } #by this point European traders on coast aware of political situation along Upper Senegal River
-1673.1.1 = { unrest = 10 }#The Tubenan, supporters of Nasir al-Din's Marabout movement, invade Futa Toro
-1677.1.1 = { owner = JOL controller = JOL add_core = JOL remove_core = FUL } #Fulani damaged by Marabout uprising, Jolof kigndom regain some ascendancy.
-1784.1.1 = { religion = sunni unrest = 2 } #beginning of intense conversion to Islam in region, religion of province changes to Sunni
+1549.1.1 = { owner = FUL controller = FUL add_core = FUL } # Fulani kingdom conquers the region under Koli Tengella
+1590.1.1 = { revolt = { } } # Samba Lamu ends instability in Futa Toro, begins period of expansion
+1620.1.1 = { discovered_by = western } # by this point European traders on coast aware of political situation along Upper Senegal River
+1673.1.1 = { unrest = 10 } # The Tubenan, supporters of Nasir al-Din's Marabout movement, invade Futa Toro
+1677.1.1 = { 
+    owner = JOL
+    controller = JOL
+    add_core = JOL
+    remove_core = FUL
+} # Fulani damaged by Marabout uprising, Jolof kigndom regain some ascendancy.
+
+1784.1.1 = { religion = sunni unrest = 2 } # beginning of intense conversion to Islam in region, religion of province changes to Sunni

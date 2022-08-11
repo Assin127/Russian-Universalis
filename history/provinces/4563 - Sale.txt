@@ -21,7 +21,7 @@ discovered_by = ottoman
 	controller = ALD
 	add_core = ALD
 }
-1244.1.1 = {
+1241.1.1 = {
 	owner = MOR
 	controller = MOR
 	add_core = MOR

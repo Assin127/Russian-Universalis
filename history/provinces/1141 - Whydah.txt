@@ -1,5 +1,6 @@
 #1141 - Whydah
 
+
 culture = fon
 religion = shamanism #Fetishism
 capital = "Whydah"

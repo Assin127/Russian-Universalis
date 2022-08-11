@@ -24,7 +24,7 @@ center_of_trade = 2
 	controller = ALD
 	add_core = ALD
 }
-1244.1.1 = {
+1242.1.1 = {
 	owner = MOR
 	controller = MOR
 	add_core = MOR
