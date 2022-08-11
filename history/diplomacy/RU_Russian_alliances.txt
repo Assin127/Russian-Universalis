@@ -114,6 +114,12 @@ vassal = {
 	start_date = 1164.1.1
 	end_date = 1246.1.1
 }
+vassal = {
+	first = CHR
+	second = TRK
+	start_date = 1164.1.1
+	end_date = 1246.1.1
+} ## RU015
 #Bryansk vassal
 vassal = {
 	first = BRY
@@ -127,3 +133,9 @@ vassal = {
 	start_date = 1246.1.1
 	end_date = 1301.1.1
 }
+vassal = {
+	first = BRY
+	second = TRK
+	start_date = 1246.1.1
+	end_date = 1356.1.1
+} ## RU015
