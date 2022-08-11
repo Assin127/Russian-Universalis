@@ -1077,14 +1077,6 @@ defined_text = {
     }
 }
 
-defined_text = {
-    name = GetTagVN
-	text = {
-		localisation_key = TAG_VN_TRU
-		trigger = {
-			tag = TRU
-		}
-	}
     text = { ## RU002
         localisation_key = TAG_VN_MRN
         trigger = {
@@ -2142,15 +2134,6 @@ defined_text = {
 		}
     }
 }
-
-defined_text = {
-    name = GetTagTV
-	text = {
-		localisation_key = TAG_TV_TRU
-		trigger = {
-			tag = TRU
-		}
-	}
     text = { ## RU002
         localisation_key = TAG_TV_MRN
         trigger = {
@@ -3209,15 +3192,6 @@ defined_text = {
     }
 }
 
-
-defined_text = {
-    name = GetTagPR
-	text = {
-		localisation_key = TAG_PR_TRU
-		trigger = {
-			tag = TRU
-		}
-	}
     text = { ## RU002
         localisation_key = TAG_PR_MRN
         trigger = {
@@ -4276,15 +4250,6 @@ defined_text = {
     }
 }
 
-
-defined_text = {
-    name = GetTagDT
-	text = {
-		localisation_key = TAG_DT_TRU
-		trigger = {
-			tag = TRU
-		}
-	}
     text = { ## RU002
         localisation_key = TAG_DT_MRN
         trigger = {
