@@ -1,25 +1,57 @@
 #322 - Küthaya
 
-owner = TUR
-controller = TUR
-culture = turkish
-religion = sunni
-capital = "Kütahya"
+owner = BYZ 
+controller = BYZ 
+culture = greek
+religion = orthodox
+capital = "Kutahya"
 trade_goods = cloth
 hre = no
-base_tax = 3
-base_production = 3
-base_manpower = 2
+base_tax = 2
+base_production = 2
+base_manpower = 1
 is_city = yes
-add_core = TUR
-add_core = GRM
+add_core = BYZ 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
-
-
+1370.1.1 = {
+	base_tax = 3
+	base_production = 3
+	base_manpower = 2
+}
+1078.1.1 = {
+	owner = RUM
+	controller = RUM
+	add_core = RUM
+}
+1097.1.1 = {
+	owner = BYZ
+	controller = BYZ
+}
+1182.1.1 = {
+	owner = RUM
+	controller = RUM
+	add_core = RUM
+	remove_core = BYZ
+}
+1250.1.1 = {
+	add_core = GRM
+}
+1300.1.1 = {
+	owner = GRM
+	controller = GRM
+}
+1428.1.1 = {
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+	add_core = GRM
+	culture = turkish
+	religion = sunni
+}
 1481.6.1 = { revolt = { type = pretender_rebels size = 0 leader = "Jem Osmanoglu" } controller = REB } # Civil war, Bayezid & Jem
 1482.7.26 = { revolt = {} controller = TUR } # Jem escapes to Rhodes
 1509.1.1 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # Civil war
