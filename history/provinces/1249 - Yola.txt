@@ -12,8 +12,6 @@ native_size = 90
 native_ferocity = 4
 native_hostileness = 9
 
-
-
 discovered_by = KBO
 
 1804.1.1 = { discovered_by = SOK }

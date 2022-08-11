@@ -16,7 +16,7 @@ native_hostileness = 9
 
 discovered_by = sub_saharan
 
-1300.1.1 = {
+1250.1.1 = {
 	owner = KNG
 	controller = KNG
 	add_core = KNG

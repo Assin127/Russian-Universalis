@@ -17,12 +17,12 @@ discovered_by = ottoman
 discovered_by = sub_saharan
 extra_cost = 8
 center_of_trade = 1
-1121.1.1 = {
+1130.1.1 = {
 	owner = ALD
 	controller = ALD
 	add_core = ALD
 }
-1244.1.1 = {
+1218.1.1 = {
 	owner = MOR
 	controller = MOR
 	add_core = MOR

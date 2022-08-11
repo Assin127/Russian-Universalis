@@ -16,7 +16,6 @@ native_ferocity = 4
 native_hostileness = 9
 discovered_by = sub_saharan
 
-
 1685.1.1 = { unrest = 3 } #Displaced Jukun fleeing invasion from Borno disturb region
 1690.1.1 = { unrest = 0 }
 1804.1.1 = { discovered_by = SOK }
