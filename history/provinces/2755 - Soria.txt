@@ -22,8 +22,7 @@ discovered_by = ottoman
 
 1104.1.1 = {
 	add_core = LON
-	owner = LON
-	controller = LON
+	
 	}
 	
 1464.5.1 = { unrest = 3 } # Nobiliary uprising against King Enrique, Castilla goes into anarchy

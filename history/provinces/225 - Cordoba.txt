@@ -18,11 +18,9 @@ discovered_by = ottoman
 discovered_by = eastern
 
 1095.1.1 = {
-	owner = ALM
-	controller = ALM
 	add_core = ALM
-	religion = sunni
 	}
+	
 1236.1.1 = {
 add_core = ALD }
 1516.1.23 = {

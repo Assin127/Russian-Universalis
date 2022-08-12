@@ -19,10 +19,7 @@ discovered_by = muslim
 discovered_by = ottoman
 
 1108.1.1 = { #battle of Ucles
-	owner = ALM
-	controller = ALM
 	add_core = ALM
-	religion = sunni
 	}
 
 1231.1.1 = {add_core = ALD} 
