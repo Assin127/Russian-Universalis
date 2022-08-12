@@ -20,6 +20,13 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1108.1.1 = {
+	owner = ALM
+	controller = ALM
+	add_core = ALM
+	religion = sunni
+	}
+
 1177.1.1 = {
 add_core = ALD }
 1516.1.23 = {
