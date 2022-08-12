@@ -23,7 +23,7 @@ add_local_autonomy = 25
 	controller = MOR
 	add_core = MOR
 	discovered_by = MOR
-} #Collapse of Mali after the battle of Jenn�
+} #Collapse of Mali after the battle of Jenni
 1618.1.1 = {
 	owner = JNN 
 	controller = JNN 
