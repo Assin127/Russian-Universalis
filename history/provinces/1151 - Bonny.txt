@@ -1,5 +1,9 @@
 #1151 - Bonny
 
+
+owner = NRI
+controller = NRI
+add_core = NRI
 culture = sawabantu
 religion = shamanism #Fetishism
 capital = "Bonny"

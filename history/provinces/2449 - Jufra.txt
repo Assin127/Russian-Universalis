@@ -1,6 +1,6 @@
 # 2449 - Jufra
-owner = FZA
-controller = FZA
+owner = ZIR
+controller = ZIR
 culture = tunisian
 religion = sunni
 capital = "Hun"
@@ -10,11 +10,13 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = FZA
+add_core = ZIR
 add_local_autonomy = 25
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1200.1.1 = { owner = KNM controller = KNM add_core = KNM } 
+1161.1.1 = { owner = ALD controller = ALD add_core = ALD } 
+1229.1.1 = { owner = DHF controller = DHF add_core = DHF } 
 1380.1.1 = { owner = FZA controller = FZA } 
+1558.1.1 = { owner = TRP controller = TRP add_core = TRP } 

@@ -64,7 +64,7 @@ union = {
 union = {
 	first = GLC
 	second = VOL
-	start_date = 1245.17.8
+	start_date = 1245.8.17
 	end_date = 1340.1.1
 }
 #Novgorod union
@@ -81,7 +81,26 @@ union = {
 	start_date = 1246.1.1
 	end_date = 1356.1.1
 }
-
+#Kiev vassal
+vassal = {
+	first = KIE
+	second = OWR
+	start_date = 1095.1.1
+	end_date = 1362.1.1
+} ## RU013
+#Halicz vassal
+vassal = {
+	first = GLC
+	second = PMS
+	start_date = 1095.1.1
+	end_date = 1340.1.1
+} ## RU014
+vassal = {
+	first = GLC
+	second = TRB
+	start_date = 1140.1.1
+	end_date = 1340.1.1
+} ## RU014
 #Chernigov vassal
 vassal = {
 	first = CHR
@@ -95,6 +114,12 @@ vassal = {
 	start_date = 1164.1.1
 	end_date = 1246.1.1
 }
+vassal = {
+	first = CHR
+	second = TRK
+	start_date = 1164.1.1
+	end_date = 1246.1.1
+} ## RU015
 #Bryansk vassal
 vassal = {
 	first = BRY
@@ -108,3 +133,9 @@ vassal = {
 	start_date = 1246.1.1
 	end_date = 1301.1.1
 }
+vassal = {
+	first = BRY
+	second = TRK
+	start_date = 1246.1.1
+	end_date = 1356.1.1
+} ## RU015
