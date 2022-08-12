@@ -21,10 +21,7 @@ extra_cost = 8
 center_of_trade = 1
 
 1188.1.1 = {
-	owner = LON
-	controller = LON
 	add_core = LON
-	religion = catholic
 	}
 
 1464.5.1 = { unrest = 3 } #Nobiliary uprising against King Enrique, Castilla goes into anarchy
