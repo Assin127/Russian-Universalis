@@ -14,7 +14,13 @@ capital = "Albacete"
 is_city = yes
 
 
-
+1095.1.1 = {
+	owner = ALM
+	controller = ALM
+	add_core = ALM
+	religion = sunni
+	}
+	
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
