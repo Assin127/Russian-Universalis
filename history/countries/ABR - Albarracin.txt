@@ -2,7 +2,7 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = andalucian
-religion = catholic
+religion = sunni
 add_accepted_culture = berber
 technology_group = muslim
 capital = 214
@@ -42,5 +42,19 @@ religious_school = maliki_school
 		adm = 2
 		dip = 2
 		mil = 1
+	}
+}
+1104.1.1 = {
+	add_government_reform = feudalism_reform
+	religion = catholic
+	remove_accepted_culture = berber
+	technology_group = western
+	monarch = {
+		name = "Pedro Ruiz"
+		dynasty = "de Azagre"
+		birth_date = 1076.1.1
+		adm = 3
+		dip = 5
+		mil = 4
 	}
 }

@@ -1,11 +1,10 @@
 #220 - València
 
-owner = ARA	#Alfons V of Aragon
-controller = ARA
-add_core = ARA
-add_core = VAL
+owner = ALM	
+controller = ALM
+add_core = ALM
 culture = catalan
-religion = catholic
+religion = sunni
 hre = no
 base_tax = 6 
 base_production = 5
@@ -21,8 +20,18 @@ discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
 
+1150.1.1 = {
+	owner = ALD		
+	controller = ALD
+	add_core = ALD
+}
 1238.9.29 = {
-add_core = ALD }
+	owner = ARA	
+	controller = ARA
+	add_core = ARA
+	add_core = VAL 
+	religion = catholic
+}
 1516.1.23 = {
 	controller = SPA
 	owner = SPA

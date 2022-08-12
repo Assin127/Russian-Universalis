@@ -1,9 +1,9 @@
 #Minorca
 
-owner = MNR		# Abu Qurashi
-controller = MNR
-add_core = MNR
-culture = moroccan
+owner = MJO		
+controller = MJO
+add_core = MJO
+culture = catalan
 religion = sunni
 hre = no
 base_tax = 1 
@@ -17,6 +17,21 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1115.1.1 = {
+	owner = ALM		
+	controller = ALM
+	add_core = ALM
+}
+1147.1.1 = {
+	owner = ALD		
+	controller = ALD
+	add_core = ALD
+}
+1231.1.1 = {
+	owner = MNR		
+	controller = MNR
+	add_core = MNR
+}
 1287.1.17 = { 
 	owner = ARA		
 	controller = ARA
