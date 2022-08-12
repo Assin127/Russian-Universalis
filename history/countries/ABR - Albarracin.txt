@@ -58,3 +58,12 @@ religious_school = maliki_school
 		mil = 4
 	}
 }
+1134.11.11 = {
+	monarch = {
+		name = "Noble Ruler"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
