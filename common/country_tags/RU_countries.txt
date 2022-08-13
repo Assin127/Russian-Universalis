@@ -172,23 +172,35 @@ PMR = "countries/Pomerelia.txt"
 WRO = "countries/Wroclaw.txt"
 
 #Россия и Рутения
-BRY = "countries/Bryansk.txt"
+BRY = "countries/Bryansk.txt" ## История есть
 BUS = "countries/Burtas.txt"
 CUM = "countries/Cumans.txt"
-GLC = "countries/Galich.txt"
+GLC = "countries/Galich.txt" ## История есть
+GLD = "countries/Galich-Mersky.txt"  ## RU010
 KIR = "countries/KievanRus.txt"
-KRS = "countries/Kursk.txt"
-NOS = "countries/Novgorod-Seversk.txt"
-PMS = "countries/Peremyshl.txt"
-PRS = "countries/Pereyaslav.txt"
-#RZE = "countries/Rzev.txt" ## RU004
+KRS = "countries/Kursk.txt" ## История есть
+NOS = "countries/Novgorod-Seversk.txt" ## История есть
+PMS = "countries/Peremyshl.txt" ## RU014 История есть
+PRS = "countries/Pereyaslav.txt" ## История есть
+PRZ = "countries/Pereyaslavl-Zalesskiy.txt" ## RU010
+RZE = "countries/Rzev.txt" ## RU010
 TMU = "countries/Tmutarakan.txt"
-TRB = "countries/Terebovlia.txt"
-#TRG = "countries/Toropets.txt" ## RU004
-TUO = "countries/Turov.txt"
+TRB = "countries/Terebovlia.txt" ## RU014 История есть
+TRG = "countries/Toropets.txt" ## RU010
+TUO = "countries/Turov.txt" ## История есть
 VBL = "countries/Volga_Bulgaria.txt"
-#VLD = "countries/VladimirSuzdal.txt" ## RU004
+VLD = "countries/Vladimir.txt" ## RU010
 YEL = "countries/Yelets.txt" ## RU007
+KHN = "countries/Kashin.txt" ## RU010
+MOZ = "countries/Mozhaisk.txt" ## RU010
+OWR = "countries/Owrucz.txt" ## RU013 История есть
+TRK = "countries/Trubchevsk.txt" ## RU015 История есть
+
+#VOL ## История есть
+#KIE ## История есть
+#CHR ## История есть
+#SMO ## История есть
+#PLT ## История есть
 
 #Скандинавия
 JAM = "countries/Jamtland.txt"

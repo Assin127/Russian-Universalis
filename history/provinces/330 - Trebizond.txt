@@ -1,7 +1,7 @@
 #330 - Trebizond
 
-owner = TRE
-controller = TRE
+owner = BYZ
+controller = BYZ
 culture = pontic_greek
 religion = orthodox
 capital = "Trapezous"
@@ -12,7 +12,7 @@ base_production = 4
 base_manpower = 4
 is_city = yes
 fort_15th = yes #Trebizond Castle
-add_core = TRE
+add_core = BYZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -21,6 +21,12 @@ discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
 
+1204.1.1 = {
+	owner = TRE
+	controller = TRE
+	add_core = TRE
+	remove_core = BYZ
+}
 1461.1.1 = {
 	owner = TUR
 	controller = TUR

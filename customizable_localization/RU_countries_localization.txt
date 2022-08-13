@@ -19,7 +19,6 @@
 ####################################################################################################
 
 defined_text = {
-    name = GetTagRD
     text = { ## RU002
         localisation_key = TAG_RD_MRN
         trigger = {
@@ -36,6 +35,60 @@ defined_text = {
         localisation_key = TAG_RD_YEL
         trigger = {
 			tag = YEL
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_RD_RZE
+        trigger = {
+			tag = RZE
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_RD_TRG
+        trigger = {
+			tag = TRG
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_RD_PRZ
+        trigger = {
+			tag = PRZ
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_RD_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_RD_VLD
+        trigger = {
+			tag = VLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_RD_MOZ
+        trigger = {
+			tag = MOZ
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_RD_KHN
+        trigger = {
+			tag = KHN
+		}
+    }
+    text = { ## RU013
+        localisation_key = TAG_RD_OWR
+        trigger = {
+			tag = OWR
+		}
+    }
+    text = { ## RU015
+        localisation_key = TAG_RD_TRK
+        trigger = {
+			tag = TRK
 		}
     }
     text = { ## RU002
@@ -338,7 +391,7 @@ defined_text = {
 			tag = DNS
 		}
     }
-	    text = { RU004
+	    text = { ## RU004
         localisation_key = TAG_RD_DOB
         trigger = {
 			tag = DOB
@@ -1024,8 +1077,6 @@ defined_text = {
     }
 }
 
-defined_text = {
-    name = GetTagVN
     text = { ## RU002
         localisation_key = TAG_VN_MRN
         trigger = {
@@ -1042,6 +1093,60 @@ defined_text = {
         localisation_key = TAG_VN_YEL
         trigger = {
 			tag = YEL
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_VN_RZE
+        trigger = {
+			tag = RZE
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_VN_TRG
+        trigger = {
+			tag = TRG
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_VN_PRZ
+        trigger = {
+			tag = PRZ
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_VN_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_VN_VLD
+        trigger = {
+			tag = VLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_VN_MOZ
+        trigger = {
+			tag = MOZ
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_VN_KHN
+        trigger = {
+			tag = KHN
+		}
+    }
+    text = { ## RU013
+        localisation_key = TAG_VN_OWR
+        trigger = {
+			tag = OWR
+		}
+    }
+    text = { ## RU015
+        localisation_key = TAG_VN_TRK
+        trigger = {
+			tag = TRK
 		}
     }
     text = { ## RU002
@@ -1344,7 +1449,7 @@ defined_text = {
 			tag = DNS
 		}
     }
-	    text = { RU004
+	    text = { ## RU004
         localisation_key = TAG_VN_DOB
         trigger = {
 			tag = DOB
@@ -2029,9 +2134,6 @@ defined_text = {
 		}
     }
 }
-
-defined_text = {
-    name = GetTagTV
     text = { ## RU002
         localisation_key = TAG_TV_MRN
         trigger = {
@@ -2048,6 +2150,60 @@ defined_text = {
         localisation_key = TAG_TV_YEL
         trigger = {
 			tag = YEL
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_TV_RZE
+        trigger = {
+			tag = RZE
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_TV_TRG
+        trigger = {
+			tag = TRG
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_TV_PRZ
+        trigger = {
+			tag = PRZ
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_TV_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_TV_VLD
+        trigger = {
+			tag = VLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_TV_MOZ
+        trigger = {
+			tag = MOZ
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_TV_KHN
+        trigger = {
+			tag = KHN
+		}
+    }
+    text = { ## RU013
+        localisation_key = TAG_TV_OWR
+        trigger = {
+			tag = OWR
+		}
+    }
+    text = { ## RU015
+        localisation_key = TAG_TV_TRK
+        trigger = {
+			tag = TRK
 		}
     }
     text = { ## RU002
@@ -2350,7 +2506,7 @@ defined_text = {
 			tag = DNS
 		}
     }
-	    text = { RU004
+	    text = { ## RU004
         localisation_key = TAG_TV_DOB
         trigger = {
 			tag = DOB
@@ -3036,9 +3192,6 @@ defined_text = {
     }
 }
 
-
-defined_text = {
-    name = GetTagPR
     text = { ## RU002
         localisation_key = TAG_PR_MRN
         trigger = {
@@ -3055,6 +3208,60 @@ defined_text = {
         localisation_key = TAG_PR_YEL
         trigger = {
 			tag = YEL
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_PR_RZE
+        trigger = {
+			tag = RZE
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_PR_TRG
+        trigger = {
+			tag = TRG
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_PR_PRZ
+        trigger = {
+			tag = PRZ
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_PR_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_PR_VLD
+        trigger = {
+			tag = VLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_PR_MOZ
+        trigger = {
+			tag = MOZ
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_PR_KHN
+        trigger = {
+			tag = KHN
+		}
+    }
+    text = { ## RU013
+        localisation_key = TAG_PR_OWR
+        trigger = {
+			tag = OWR
+		}
+    }
+    text = { ## RU015
+        localisation_key = TAG_PR_TRK
+        trigger = {
+			tag = TRK
 		}
     }
     text = { ## RU002
@@ -3357,7 +3564,7 @@ defined_text = {
 			tag = DNS
 		}
     }
-	    text = { RU004
+	    text = { ## RU004
         localisation_key = TAG_PR_DOB
         trigger = {
 			tag = DOB
@@ -4043,9 +4250,6 @@ defined_text = {
     }
 }
 
-
-defined_text = {
-    name = GetTagDT
     text = { ## RU002
         localisation_key = TAG_DT_MRN
         trigger = {
@@ -4062,6 +4266,60 @@ defined_text = {
         localisation_key = TAG_DT_YEL
         trigger = {
 			tag = YEL
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_DT_RZE
+        trigger = {
+			tag = RZE
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_DT_TRG
+        trigger = {
+			tag = TRG
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_DT_PRZ
+        trigger = {
+			tag = PRZ
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_DT_GLD
+        trigger = {
+			tag = GLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_DT_VLD
+        trigger = {
+			tag = VLD
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_DT_MOZ
+        trigger = {
+			tag = MOZ
+		}
+    }
+    text = { ## RU010
+        localisation_key = TAG_DT_KHN
+        trigger = {
+			tag = KHN
+		}
+    }
+    text = { ## RU013
+        localisation_key = TAG_DT_OWR
+        trigger = {
+			tag = OWR
+		}
+    }
+    text = { ## RU015
+        localisation_key = TAG_DT_TRK
+        trigger = {
+			tag = TRK
 		}
     }
     text = { ## RU002
@@ -4364,7 +4622,7 @@ defined_text = {
 			tag = DNS
 		}
     }
-	    text = { RU004
+	    text = { ## RU004
         localisation_key = TAG_DTD_DOB
         trigger = {
 			tag = DOB

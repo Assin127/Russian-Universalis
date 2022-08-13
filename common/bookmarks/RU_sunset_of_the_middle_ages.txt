@@ -1,0 +1,16 @@
+### RU001 - Added
+bookmark =
+{
+	name = "SUNSET_OF_THE_MIDDLE_AGES_NAME"
+	desc = "SUNSET_OF_THE_MIDDLE_AGES_DESC"
+	date = 1309.3.9
+	
+	center = 295
+	
+	country = MOS
+	easy_country = MOS
+	country = BYZ
+	country = YUA
+	country = GLH
+	country = HUN
+}

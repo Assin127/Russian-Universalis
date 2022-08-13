@@ -1,22 +1,40 @@
 #273 - Livland
 
-owner = LIV
-controller = LIV
 culture = latvian
-religion = catholic
+religion = romuva 
+capital = latvian
+religion = romuva 
 capital = "Fellin"
-trade_goods = livestock
+trade_goods = unknown
 hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = LIV
-add_core = LVA
 discovered_by = western
 discovered_by = eastern
+native_size = 30
+native_ferocity = 6
+native_hostileness = 4
 
-
+1212.1.1 = {
+    owner = NOV
+    controller = NOV
+    culture = novgorodian
+    religion = orthodox
+    capital = "Beverina"
+    trade_goods = livestock
+    is_city = yes
+    add_core = NOV
+    add_core = LVA
+}
+1223.1.1 = {
+    owner = LIV
+    controller = LIV
+    culture = latvian
+    religion = catholic
+    capital = "Fellin"
+    add_core = LIV
+}
 1542.1.1 = { religion = protestant} # Unknown date
 1561.1.1 = {
 	owner = LIT

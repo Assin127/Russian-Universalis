@@ -4,7 +4,18 @@ government = monarchy
 add_government_reform = principality
 government_rank = 1
 technology_group = eastern
-primary_culture = old_russian
+primary_culture = ryazanian
 religion = orthodox
 capital = 1945 #Novgorod-Seversky
 fixed_capital = 1945 # Cannot move capital away from this province & no power cost to move to it
+
+1246.1.1 = {
+	monarch = {
+		name = "Michael"
+		dynasty = "Rurikovich"
+		birth_date = 1230.1.1 
+		adm = 2
+		dip = 2
+		mil = 2
+	} #Сын-наместник Романа Старого
+} ## RU012

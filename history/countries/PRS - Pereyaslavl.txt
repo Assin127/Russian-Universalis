@@ -4,7 +4,7 @@ government = monarchy
 add_government_reform = principality
 government_rank = 1
 technology_group = eastern
-primary_culture = old_russian
+primary_culture = russian
 religion = orthodox
 capital = 2407 # Pereyaslav
 fixed_capital = 2407 # Cannot move capital away from this province & no power cost to move to it
@@ -24,3 +24,14 @@ fixed_capital = 2407 # Cannot move capital away from this province & no power co
 	clear_scripted_personalities = yes
 	add_ruler_personality = charismatic_negotiator_personality
 }
+
+1259.1.1 = {
+	monarch = {
+		name = "Gleb"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 2
+		mil = 2
+	} #добавить рандом правителя при старте игры
+
+} ## RU012

@@ -1,28 +1,20 @@
 # - Ghadames
-
-owner = GHD
-controller = GHD 
+owner = ZIR
+controller = ZIR
+add_core = ZIR
 culture = tunisian
 religion = sunni
 capital = "Ghadames"
-trade_goods = spices #Dates
+trade_goods = spices # Dates
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = GHD
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-
-1830.1.1 = {
-	owner = TUN
-	controller = TUN
-	add_core = TUN
-}
+1161.1.1 = { owner = ALD controller = ALD add_core = ALD } 
+1229.1.1 = { owner = DHF controller = DHF add_core = DHF } 
+1830.1.1 = { owner = TUN controller = TUN add_core = TUN } 

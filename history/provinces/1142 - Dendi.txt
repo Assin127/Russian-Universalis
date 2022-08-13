@@ -1,8 +1,7 @@
-#1142 - Dendi
-
-owner = SON
-controller = SON
-add_core = SON
+# 1142 - Dendi
+owner = ---
+controller = ---
+add_core = ---
 culture = songhai
 is_city = yes
 base_manpower = 1
@@ -10,6 +9,7 @@ religion = sunni
 capital = "Lulama"
 trade_goods = grain
 hre = no
-base_tax = 3 
+base_tax = 3
 base_production = 3
 discovered_by = sub_saharan
+1390.1.1 = { owner = SON controller = SON add_core = SON } 

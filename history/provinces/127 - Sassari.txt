@@ -1,7 +1,7 @@
 #127 - Sardinia
 
-owner = SAR
-controller = SAR
+owner = SAS
+controller = SAS
 culture = sardinian 
 religion = catholic 
 hre = no 
@@ -11,7 +11,7 @@ trade_goods = fish
 base_manpower = 2
 capital = "Sassari" 
 is_city = yes 
-add_core = SAR
+add_core = SAS
 
 
 
@@ -20,6 +20,28 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1275.1.1 = {
+	owner = PIS
+	controller = PIS
+	add_core = PIS
+}
+1284.1.1 = {
+	owner = SAS
+	controller = SAS
+	add_core = SAS
+}
+1296.1.1 = {
+	add_core = ARA
+}
+1323.1.1 = {
+	owner = ARA
+	controller = ARA
+}
+1391.1.1 = {
+	owner = IAA
+	controller = IAA
+	add_core = IAA
+}
 
 1420.1.1 = { owner = ARA add_core = ARA controller = ARA } # Conquered by Aragon
 1516.1.23 = {

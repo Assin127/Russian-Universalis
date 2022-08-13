@@ -1,28 +1,21 @@
 # - Zuwarah
-
-owner = TUN
-controller = TUN 
+owner = ZIR
+controller = ZIR
 culture = tunisian
 religion = ibadi
 capital = "Zuwarah"
 trade_goods = fish
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = TUN
+add_core = ZIR
 add_core = TRP
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-
-1558.1.1 = {
-	owner = TRP
-	controller = TRP
-} #Turgut Reis conquers Gharayan
+1160.1.1 = { owner = ALD controller = ALD add_core = ALD } 
+1229.1.1 = { owner = DHF controller = DHF add_core = DHF } 
+1551.1.1 = { owner = TRP controller = TRP } # Turgut Reis conquers Gharayan
