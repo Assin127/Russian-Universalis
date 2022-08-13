@@ -1,7 +1,7 @@
 # 1156 - Damagaram
-owner = AIR
-controller = AIR
-add_core = AIR
+owner = KNM
+controller = KNM
+add_core = KNM
 culture = tuareg
 religion = sunni
 capital = "Mashina"

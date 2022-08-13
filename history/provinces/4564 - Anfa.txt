@@ -16,12 +16,12 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1147.1.1 = {
+1133.1.1 = {
 	owner = ALD
 	controller = ALD
 	add_core = ALD
 }
-1244.1.1 = {
+1237.1.1 = {
 	owner = MOR
 	controller = MOR
 	add_core = MOR

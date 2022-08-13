@@ -1,38 +1,22 @@
-#355 - Sirt
-
-owner = TUN
-controller = TUN
+# 355 - Sirt
+owner = FAT
+controller = FAT
+add_core = FAT
 culture = tunisian
 religion = sunni
 capital = "Ben Jawad"
 trade_goods = fish
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = TUN
+add_core = ZIR
 add_local_autonomy = 25
-
-
-
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-1160.1.1 = {
-	owner = ALD
-	controller = ALD
-	add_core = ALD
-}
-1229.1.1 = {
-	owner = DHF
-	controller = DHF
-	add_core = DHF
-}
-
-
-1558.1.1 = {
-	owner = TRP
-	controller = TRP
-} #Turgut Reis conquers Sirte
+1160.1.1 = { owner = ALD controller = ALD add_core = ALD } 
+1229.1.1 = { owner = DHF controller = DHF add_core = DHF } 
+1558.1.1 = { owner = TRP controller = TRP } # Turgut Reis conquers Sirte

@@ -29,11 +29,7 @@ native_hostileness = 10
 	controller = MAL
 	add_core = MAL
 }
-1400.1.1 = {
-	owner = TMB
-	controller = TMB
-	fort_15th = yes
-}
+
 1469.1.1 = { owner = SON controller = SON add_core = SON culture = songhai } # Conquered by Sunni Ali Ber of Songhai
 1471.1.1 = { unrest = 7 } # Muslim leaders in city launch revolt to end Songhai rule
 1472.1.1 = { unrest = 0 } # Sunni Ali represses Muslim leadership of Timbuktu

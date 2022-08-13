@@ -31,7 +31,6 @@ discovered_by = ottoman
 	owner = HUN
 	controller = HUN
 	add_core = HUN
-	remove_core = RSH
 }
 1282.1.1 = {
 	owner = SER

@@ -1,6 +1,4 @@
 # 2448 - Fezzan
-owner = FZA
-controller = FZA
 culture = tunisian
 religion = sunni
 capital = "Murzuk"
@@ -10,10 +8,10 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = FZA
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 1200.1.1 = { owner = KNM controller = KNM add_core = KNM } 
 1380.1.1 = { owner = FZA controller = FZA } 
+1558.1.1 = { owner = TRP controller = TRP add_core = TRP } 

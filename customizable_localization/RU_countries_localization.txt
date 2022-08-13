@@ -391,7 +391,7 @@ defined_text = {
 			tag = DNS
 		}
     }
-	    text = { RU004
+	    text = { ## RU004
         localisation_key = TAG_RD_DOB
         trigger = {
 			tag = DOB
@@ -1449,7 +1449,7 @@ defined_text = {
 			tag = DNS
 		}
     }
-	    text = { RU004
+	    text = { ## RU004
         localisation_key = TAG_VN_DOB
         trigger = {
 			tag = DOB
@@ -2506,7 +2506,7 @@ defined_text = {
 			tag = DNS
 		}
     }
-	    text = { RU004
+	    text = { ## RU004
         localisation_key = TAG_TV_DOB
         trigger = {
 			tag = DOB
@@ -3564,7 +3564,7 @@ defined_text = {
 			tag = DNS
 		}
     }
-	    text = { RU004
+	    text = { ## RU004
         localisation_key = TAG_PR_DOB
         trigger = {
 			tag = DOB
@@ -4622,7 +4622,7 @@ defined_text = {
 			tag = DNS
 		}
     }
-	    text = { RU004
+	    text = { ## RU004
         localisation_key = TAG_DTD_DOB
         trigger = {
 			tag = DOB

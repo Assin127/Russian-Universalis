@@ -533,6 +533,9 @@ national_focus = ADM
 		mil = 3
 		leader = {name = "Albert V the Magnanimous"	type = general	fire = 2	shock = 2	manuever = 1	siege = 1}
 	}
+}
+
+1415.9.21 = {
 	heir = {
 		name = "Friedrich"
 		monarch_name = "Friedrich III"
