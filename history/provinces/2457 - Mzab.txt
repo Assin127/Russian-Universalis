@@ -1,18 +1,19 @@
 # - Mzab
-
-owner = MZB
-controller = MZB
+owner = HMM
+controller = HMM
+add_core = HMM
 culture = berber
 religion = ibadi
 capital = "Ghardaia"
 trade_goods = livestock
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = MZB
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
-
+1154.1.1 = { owner = ALD controller = ALD add_core = ALD } 
+1229.1.1 = { owner = DHF controller = DHF add_core = DHF } 
+1414.1.1 = { owner = TGT controller = TGT add_core = TGT } 

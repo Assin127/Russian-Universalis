@@ -2,7 +2,7 @@
 government = monarchy
 add_government_reform = principality
 government_rank = 1
-primary_culture = old_russian
+primary_culture = novgorodian
 religion = orthodox
 technology_group = eastern
 capital = 310	# Novgorod
@@ -33,9 +33,19 @@ fixed_capital = 310 # Cannot move capital away from this province & no power cos
 	add_ruler_personality = righteous_personality
 }
 
-1370.1.1 = {
-	primary_culture = novgorodian
-}
+1249.1.1 = {
+	monarch = {
+		name = "Alexander Nevsky"
+		dynasty = "Rurikovich"
+		birth_date = 1221.5.13
+		adm = 3
+		dip = 4
+		mil = 5
+		leader = { name = "Alexander Nevsky" type = general fire = 3 shock = 5 manuever = 4 siege = 0 }
+	}
+	add_ruler_personality = well_advised_personality
+	add_ruler_personality = inspiring_leader_personality
+} #Legendary ruler ## RU012
 
 1429.1.1 = {
 	monarch = {

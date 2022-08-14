@@ -3,7 +3,7 @@ government = monarchy
 add_government_reform = principality
 government_rank = 1
 technology_group = eastern
-primary_culture = old_russian
+primary_culture = ruthenian
 religion = orthodox
 capital = 279 # Volhynia
 fixed_capital = 279 # Cannot move capital away from this province & no power cost to move to it
@@ -21,5 +21,4 @@ fixed_capital = 279 # Cannot move capital away from this province & no power cos
 }
 1370.1.1 = {
 	religion = catholic
-	primary_culture = ruthenian
 }

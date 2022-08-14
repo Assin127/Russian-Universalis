@@ -1,6 +1,6 @@
 ### RU001 - Added
-government = monarchy
-add_government_reform = austrian_archduchy_reform
+government = monarchy #margravion, depend of Bavaria
+add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = austrian
 religion = catholic
@@ -8,15 +8,475 @@ technology_group = western
 capital = 134 # Wien
 national_focus = ADM
 
-
+1075.6.10 = {
+	monarch = {
+		name = "Leopold II the Fair"
+		dynasty = "Babenberger"
+		birth_date = 1050.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	queen = {
+		female = yes
+		country_of_origin = BAV
+		name = "Ida"
+		dynasty = "Formbach-Ratelnberg"
+		birth_date = 1055.1.1
+		death_date = 1101.9.1
+		adm = 1
+		dip = 1
+		mil = 5
+		leader = {name = "Ida of Formbach-Ratelnberg"	type = general	fire = 3	shock = 3	manuever = 2	siege = 1}
+	}
+	heir = {
+		name = "Leopold"
+		monarch_name = "Leopold III the Good"
+		dynasty = "Babenberger"
+		birth_date = 1073.1.1
+		death_date = 1136.11.15
+		adm = 4
+		dip = 6
+		mil = 2
+		claim = 95
+	}
+}
 1095.10.12 = {
 	monarch = {
-		name = "Leopold III"
-		dynasty = "Babenberg"
+		name = "Leopold III the Good"
+		dynasty = "Babenberger"
 		birth_date = 1073.1.1
 		adm = 4
 		dip = 6
 		mil = 2
+		leader = {name = "Leopold III the Good"	type = general	fire = 2	shock = 2	manuever = 1	siege = 0}
+	}
+}
+
+1107.1.1 = {
+	heir = {
+		name = "Adalbert"
+		monarch_name = "Adalbert II the Devout"
+		dynasty = "Babenberger"
+		claim = 95
+		birth_date = 1107.1.1
+		death_date = 1137.11.9
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+	queen = {
+		female = yes
+		country_of_origin = BAV
+		name = "Agnes of Waiblingen"
+		dynasty = "Salian"
+		birth_date = 1073.1.1
+		death_date = 1143.8.24
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1136.11.15 = {
+	monarch = {
+		name = "Adalbert II the Devout"
+		dynasty = "Babenberger"
+		birth_date = 1107.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	heir = {
+		name = "Leopold"
+		monarch_name = "Leopold IV the Generous"
+		dynasty = "Babenberger"
+		claim = 95
+		birth_date = 1108.1.1
+		death_date = 1141.10.18
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1137.11.9 = {
+	monarch = {
+		name = "Leopold IV the Generous"
+		dynasty = "Babenberger"
+		birth_date = 1108.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry II Jasomirgott"
+		dynasty = "Babenberger"
+		claim = 95
+		birth_date = 1107.1.1
+		death_date = 1177.1.13
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1141.10.18 = {
+	monarch = {
+		name = "Henry II Jasomirgott"
+		dynasty = "Babenberger"
+		birth_date = 1107.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+		leader = {name = "Henry II Jasomirgott"	type = general	fire = 2	shock = 1	manuever = 3	siege = 1}
+	}
+}
+
+1148.1.1 = {
+	queen = {
+		female = yes
+		country_of_origin = BYZ
+		name = "Theodora Komnene"
+		dynasty = "Komnenos"
+		birth_date = 1030.1.1
+		death_date = 1184.1.2
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+#In 1156, the Privilegium Minus elevated the march to a duchy, independent of the Duchy of Bavaria.
+
+1157.1.1 = {
+	heir = {
+		name = "Leopold"
+		monarch_name = "Leopold V the Virtuous"
+		dynasty = "Babenberger"
+		claim = 95
+		birth_date = 1157.1.1
+		death_date = 1194.12.31
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+}
+
+1177.1.13 = {
+	monarch = {
+		name = "Leopold V the Virtuous"
+		dynasty = "Babenberger"
+		birth_date = 1157.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+		leader = {name = "Leopold V the Virtuous"	type = general	fire = 3	shock = 1	manuever = 0	siege = 3}
+	}
+	queen = {
+		female = yes
+		country_of_origin = HUN
+		name = "Helena"
+		dynasty = "Árpád"
+		birth_date = 1155.1.1
+		death_date = 1199.12.25
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Frederick"
+		monarch_name = "Frederick I the Catholic"
+		dynasty = "Babenberger"
+		claim = 95
+		birth_date = 1175.1.1
+		death_date = 1198.4.16
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1194.12.31 = {
+	monarch = {
+		name = "Frederick I the Catholic"
+		dynasty = "Babenberger"
+		birth_date = 1175.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	heir = {
+		name = "Leopold"
+		monarch_name = "Leopold VI the Glorious"
+		dynasty = "Babenberger"
+		claim = 95
+		birth_date = 1176.1.1
+		death_date = 1230.7.28
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+1198.4.16 = {
+	monarch = {
+		name = "Leopold VI the Glorious"
+		dynasty = "Babenberger"
+		birth_date = 1176.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+		leader = {name = "Leopold VI the Glorious"	type = general	fire = 2	shock = 3	manuever = 2	siege = 1}
+	}
+}
+
+1203.1.1 = {
+	queen = {
+		female = yes
+		country_of_origin = BYZ
+		name = "Theodora Angelina"
+		dynasty = "Angelos"
+		birth_date = 1190.1.1
+		death_date = 1246.6.23
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1211.4.25 = {
+	heir = {
+		name = "Frederick"
+		monarch_name = "Frederick II the Quarrelsome"
+		dynasty = "Babenberger"
+		claim = 95
+		birth_date = 1211.4.25
+		death_date = 1246.6.15
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1230.7.28 = {
+	monarch = {
+		name = "Frederick II the Quarrelsome"
+		dynasty = "Babenberger"
+		birth_date = 1211.4.25
+		adm = 3
+		dip = 2
+		mil = 5
+		leader = {name = "Frederick II the Quarrelsome"	type = general	fire = 2	shock = 4	manuever = 1	siege = 0}
+	}
+}
+
+1246.6.15 = {
+	monarch = {
+		name = "(Interregnum)"
+		adm = 1
+		mil = 1
+		dip = 1
+		regent = yes
+	}
+}
+
+1278.1.1 = {
+	monarch = {
+		country_of_origin = SWA
+		name = "Rudolf I"
+		dynasty = "von Habsburg"
+		birth_date = 1218.5.1
+		adm = 4
+		dip = 4
+		mil = 4
+		leader = {name = "Rudolf I"	type = general	fire = 3	shock = 2	manuever = 2	siege = 2}
+	}
+	queen = {
+		female = yes
+		country_of_origin = SWA
+		name = "Gertrude"
+		dynasty = "von Hohenberg"
+		birth_date = 1225.1.1
+		death_date = 1281.2.16
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+	heir = {
+		name = "Albert"
+		monarch_name = "Albert I"
+		dynasty = "von Habsburg"
+		claim = 95
+		birth_date = 1255.7.1
+		death_date = 1308.5.1
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1282.1.1 = {
+	monarch = {
+		name = "Albert I"
+		dynasty = "von Habsburg"
+		birth_date = 1255.7.1
+		adm = 5
+		dip = 4
+		mil = 2
+		leader = {name = "Albert I"	type = general	fire = 2	shock = 1	manuever = 2	siege = 1}
+	}
+	queen = {
+		female = yes
+		country_of_origin = CAR
+		name = "Elisabeth"
+		dynasty = "die Meinhardiner"
+		birth_date = 1262.1.1
+		death_date = 1312.10.28
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1289.1.1 = {
+	heir = {
+		name = "Frederick"
+		monarch_name = "Frederick the Fair"
+		dynasty = "von Habsburg"
+		claim = 90
+		birth_date = 1289.1.1
+		death_date = 1330.1.13
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1308.5.1 = {
+	monarch = {
+		name = "Frederick the Fair"
+		dynasty = "von Habsburg"
+		birth_date = 1289.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+		leader = {name = "Frederick the Fair"	type = general	fire = 2	shock = 1	manuever = 1	siege = 0}
+	}
+	heir = {
+		name = "Albert"
+		monarch_name = "Albert II the Wise"
+		dynasty = "von Habsburg"
+		claim = 90
+		birth_date = 1298.12.12
+		death_date = 1358.8.16
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1330.1.13 = {
+	monarch = {
+		name = "Albert II the Wise"
+		dynasty = "von Habsburg"
+		birth_date = 1298.12.12
+		adm = 3
+		dip = 5
+		mil = 3
+		leader = {name = "Albert II the Wise"	type = general	fire = 1	shock = 2	manuever = 2	siege = 0}
+	}
+	queen = {
+		female = yes
+		country_of_origin = SWI
+		name = "Joanna of Pfirt"
+		dynasty = "Scarponnois"
+		birth_date = 1300.1.1
+		death_date = 1351.11.15
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1339.11.1 = {
+	heir = {
+		name = "Rudolf"
+		monarch_name = "Rudolf IV the Founder"
+		dynasty = "von Habsburg"
+		claim = 95
+		birth_date = 1339.11.1
+		death_date = 1365.7.27
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+}
+
+1358.8.16 = {
+	monarch = {
+		name = "Rudolf IV the Founder"
+		dynasty = "von Habsburg"
+		birth_date = 1339.11.1
+		adm = 6
+		dip = 6
+		mil = 3
+		leader = {name = "Rudolf IV the Founder"	type = general	fire = 2	shock = 2	manuever = 1	siege = 1}
+	}
+	heir = {
+		name = "Albert"
+		monarch_name = "Albert III the Pigtail"
+		dynasty = "von Habsburg"
+		claim = 80
+		birth_date = 1349.9.9
+		death_date = 1395.8.29
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+# Archduke 1359  Privilegium Maius
+1359.1.1 = {add_government_reform = austrian_archduchy_reform}
+
+1365.7.27 = {
+	monarch = {
+		name = "Albert III the Pigtail"
+		dynasty = "von Habsburg"
+		birth_date = 1349.9.9
+		adm = 3
+		dip = 3
+		mil = 4
+		leader = {name = "Albert III the Pigtail"	type = general	fire = 3	shock = 3	manuever = 3	siege = 2}
+	}
+}
+
+1375.3.4 = {
+	queen = {
+		female = yes
+		country_of_origin = NUM
+		name = "Beatrice"
+		dynasty = "von Hohenzollern"
+		birth_date = 1362.1.1
+		death_date = 1414.6.10
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1377.9.19 = {
+	heir = {
+		name = "Albert"
+		monarch_name = "Albert IV the Patient"
+		dynasty = "von Habsburg"
+		claim = 95
+		birth_date = 1377.9.19
+		death_date = 1404.9.14
+		adm = 1
+		dip = 1
+		mil = 3
 	}
 }
 
@@ -29,20 +489,32 @@ national_focus = ADM
 
 1395.8.29 = {
 	monarch = {
-		name = "Albrecht IV"
+		name = "Albrecht IV the Patient"
 		dynasty = "von Habsburg"
+		birth_date = 1377.9.19
 		adm = 1
 		dip = 1
 		mil = 3
 	}
+	queen = {
+		female = yes
+		country_of_origin = BAV
+		name = "Joanna Sophia"
+		dynasty = "von Wittelsbach"
+		birth_date = 1373.1.1
+		death_date = 1410.11.15
+		adm = 2
+		dip = 3
+		mil = 1
+	}
 }
 
-1397.8.10 = {
+1397.8.16 = {
 	heir = {
 		name = "Albrecht"
-		monarch_name = "Albrecht V"
+		monarch_name = "Albert V the Magnanimous"
 		dynasty = "von Habsburg"
-		birth_date = 1397.8.10
+		birth_date = 1397.8.16
 		death_date = 1439.10.27
 		claim = 95
 		adm = 1
@@ -53,12 +525,27 @@ national_focus = ADM
 
 1404.9.14 = {
 	monarch = {
-		name = "Albrecht V"
+		name = "Albert V the Magnanimous"
 		dynasty = "von Habsburg"
 		birth_date = 1397.8.10
 		adm = 1
 		dip = 1
 		mil = 3
+		leader = {name = "Albert V the Magnanimous"	type = general	fire = 2	shock = 2	manuever = 1	siege = 1}
+	}
+}
+
+1415.9.21 = {
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich III"
+		dynasty = "von Habsburg"
+		birth_date = 1415.9.21
+		death_date = 1493.8.19
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 1
 	}
 }
 

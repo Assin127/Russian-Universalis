@@ -2,7 +2,7 @@
 government = monarchy
 add_government_reform = principality
 government_rank = 1
-primary_culture = old_russian
+primary_culture = ryazanian
 religion = orthodox
 technology_group = eastern
 capital = 293	# Smolensk
@@ -31,10 +31,15 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_ruler_personality = drunkard_personality
 }
-
-1370.1.1 = {
-	primary_culture = ryazanian
-}
+1240.1.1 = {
+	monarch = {
+		name = "Gleb"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+} ## RU012
 1386.1.1 = {
 	monarch = {
 		name = "Yury I"

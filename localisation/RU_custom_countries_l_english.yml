@@ -111,6 +111,7 @@ l_english:
  ADJ_NRI: "°ªþ¬"
  ADJ_NVA: "°¢¬"
  ADJ_OLO: "®¯³µ¬"
+ ADJ_OWR: "¢³¶¬" ## RU013
  ADJ_OSR: "þ¥þ¬"
  ADJ_PAG: "±¥°¬"
  ADJ_PLA: "±®¿¬"
@@ -152,6 +153,7 @@ l_english:
  ADJ_TRB: "²¡¢®¿¬"
  ADJ_TRG: "²±µ¬" ## RU010
  ADJ_TRN: "²°²¬"
+ ADJ_TRK: "²³¡¶¢¬" ## RU015
  ADJ_TRV: "²¢³°ªþ¬"
  ADJ_TUO: "²³¢¬"
  ADJ_URG: "³®¿¬"
@@ -286,6 +288,7 @@ l_english:
  TAG_DT_NRI: "ª"
  TAG_DT_NVA: "¢"
  TAG_DT_OLO: "®¯³µ³"
+ TAG_DT_OWR: "¢³¶³" ## RU013
  TAG_DT_OSR: "þ¥"
  TAG_DT_PAG: "‰¥°³"
  TAG_DT_PLA: "‰®"
@@ -327,6 +330,7 @@ l_english:
  TAG_DT_TRB: "Ù¡¢®"
  TAG_DT_TRG: "Ù±µ³" ## RU010
  TAG_DT_TRN: "Ù°²"
+ TAG_DT_TRK: "Ù³¡¶¢¬³" ## RU015
  TAG_DT_TRV: "Ù¢³°ªª"
  TAG_DT_TUO: "Ù³¢³"
  TAG_DT_URG: "‹®"
@@ -461,6 +465,7 @@ l_english:
  TAG_PR_NRI: "ª"
  TAG_PR_NVA: "¢"
  TAG_PR_OLO: "®¯³µ"
+ TAG_PR_OWR: "¢³¶" ## RU013
  TAG_PR_OSR: "þ¥"
  TAG_PR_PAG: "‰¥°"
  TAG_PR_PLA: "‰®"
@@ -502,6 +507,7 @@ l_english:
  TAG_PR_TRB: "Ù¡¢®"
  TAG_PR_TRG: "Ù±µ" ## RU010
  TAG_PR_TRN: "Ù°²"
+ TAG_PR_TRK: "Ù³¡¶¢¬" ## RU015
  TAG_PR_TRV: "Ù¢³°ªª"
  TAG_PR_TUO: "Ù³¢"
  TAG_PR_URG: "‹®"
@@ -636,6 +642,7 @@ l_english:
  TAG_RD_NRI: "ª"
  TAG_RD_NVA: "¢º"
  TAG_RD_OLO: "®¯³µ"
+ TAG_RD_OWR: "¢³¶" ## RU013
  TAG_RD_OSR: "þ¥"
  TAG_RD_PAG: "‰¥°"
  TAG_RD_PLA: "‰®º"
@@ -677,6 +684,7 @@ l_english:
  TAG_RD_TRB: "Ù¡¢®ª"
  TAG_RD_TRG: "Ù±µ" ## RU010
  TAG_RD_TRN: "Ù°²"
+ TAG_RD_TRK: "Ù³¡¶¢¬" ## RU015
  TAG_RD_TRV: "Ù¢³°ªª"
  TAG_RD_TUO: "Ù³¢"
  TAG_RD_URG: "‹®¾"
@@ -811,6 +819,7 @@ l_english:
  TAG_TV_NRI: "ª"
  TAG_TV_NVA: "¢þ"
  TAG_TV_OLO: "®¯³µ¯"
+ TAG_TV_OWR: "¢³¶¯" ## RU013
  TAG_TV_OSR: "þ¥"
  TAG_TV_PAG: "‰¥°¯"
  TAG_TV_PLA: "‰®þ"
@@ -852,6 +861,7 @@ l_english:
  TAG_TV_TRB: "Ù¡¢®þ"
  TAG_TV_TRG: "Ù±µ¯" ## RU010
  TAG_TV_TRN: "Ù°²"
+ TAG_TV_TRK: "Ù³¡¶¢¬¯" ## RU015
  TAG_TV_TRV: "Ù¢³°ªþ"
  TAG_TV_TUO: "Ù³¢¯"
  TAG_TV_URG: "‹®ž¯"
@@ -986,6 +996,7 @@ l_english:
  TAG_VN_NRI: "ª"
  TAG_VN_NVA: "¢³"
  TAG_VN_OLO: "®¯³µ"
+ TAG_VN_OWR: "¢³¶" ## RU013
  TAG_VN_OSR: "þ¥"
  TAG_VN_PAG: "‰¥°"
  TAG_VN_PLA: "‰®³"
@@ -1027,6 +1038,7 @@ l_english:
  TAG_VN_TRB: "Ù¡¢®½"
  TAG_VN_TRG: "Ù±µ" ## RU010
  TAG_VN_TRN: "Ù°²"
+ TAG_VN_TRK: "Ù³¡¶¢¬" ## RU015
  TAG_VN_TRV: "Ù¢³°ª½"
  TAG_VN_TUO: "Ù³¢"
  TAG_VN_URG: "‹®¿"

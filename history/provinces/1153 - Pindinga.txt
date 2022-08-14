@@ -1,24 +1,22 @@
-#1153 - Pindinga
-
-owner = NUP
-controller = NUP
-add_core = NUP
+# 1153 - Pindinga
+owner = ---
+controller = ---
+add_core = ---
 is_city = yes
-culture = nupe  
-religion = shamanism #Fetishism
+culture = nupe
+religion = shamanism # Fetishism
 capital = "Lafia"
 native_size = 40
 base_manpower = 1
 trade_goods = livestock
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 discovered_by = sub_saharan
-
-1804.1.1 = { discovered_by = SOK }
-
-1807.1.1 = {
-	owner = SOK
-	controller = SOK
-	add_core = SOK
-} # The Fulani Empire
+1444.1.1 = {
+owner = NUP
+controller = NUP
+add_core = NUP
+}
+1804.1.1 = { discovered_by = SOK } 
+1807.1.1 = { owner = SOK controller = SOK add_core = SOK } # The Fulani Empire

@@ -1,7 +1,7 @@
 #338 - Al-Djazair
 
-owner = TUN
-controller = TUN 
+owner = HMM
+controller = HMM
 culture = algerian
 religion = sunni
 capital = "Al-Djazair"
@@ -11,16 +11,23 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = TUN
-add_core = ALG
+add_core = HMM
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 extra_cost = 8
 center_of_trade = 1
-
-
+1151.1.1 = {
+	owner = ALD
+	controller = ALD
+	add_core = ALD
+}
+1229.1.1 = {
+	owner = DHF
+	controller = DHF
+	add_core = DHF
+}
 1510.1.1 = {
 	owner = ALG
 	controller = ALG

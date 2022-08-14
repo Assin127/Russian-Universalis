@@ -4,7 +4,7 @@ government = monarchy
 add_government_reform = principality
 government_rank = 1
 technology_group = eastern
-primary_culture = old_russian
+primary_culture = ruthenian
 religion = orthodox
 capital = 2424 # Peremyshl
 fixed_capital = 2424 # Cannot move capital away from this province & no power cost to move to it
@@ -20,4 +20,6 @@ fixed_capital = 2424 # Cannot move capital away from this province & no power co
 	clear_scripted_personalities = yes
 	add_ruler_personality = kind_hearted_personality
 }
-
+1259.1.1 = {
+	set_country_flag = random_rurikovich
+} ## RU014

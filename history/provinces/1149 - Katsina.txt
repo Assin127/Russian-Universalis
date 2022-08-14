@@ -1,8 +1,7 @@
-#1149 - Katsina
-
-owner = KTS
-controller = KTS
-add_core = KTS
+# 1149 - Katsina
+owner = ---
+controller = ---
+add_core = ---
 culture = hausa
 is_city = yes
 base_manpower = 3
@@ -10,11 +9,17 @@ religion = sunni
 capital = "Katsina"
 trade_goods = cloth
 hre = no
-base_tax = 6 
+base_tax = 6
 base_production = 6
 discovered_by = sub_saharan
 extra_cost = 16
 center_of_trade = 2
+
+1430.1.1 = {
+owner = KTS
+controller = KTS
+add_core = KTS
+}
 
 1489.1.1 = { unrest = 4 } # Invasion by Kano
 1491.1.1 = { unrest = 0 } # Peace between Kano and Katsina arranged
@@ -30,9 +35,5 @@ center_of_trade = 2
 1677.1.1 = { unrest = 0 } # Jukun Invasion defeated
 1767.1.1 = { unrest = 6 } # Civil War in Katsina
 1790.1.1 = { unrest = 3 } # Islamic revival led by Usman dan Fodio begins to challenge Hausa ruler legitimacy
-1804.1.1 = { discovered_by = SOK }
-1807.1.1 = {
-	owner = SOK
-	controller = SOK
-	add_core = SOK
-} # The Fulani Empire
+1804.1.1 = { discovered_by = SOK } 
+1807.1.1 = { owner = SOK controller = SOK add_core = SOK } # The Fulani Empire

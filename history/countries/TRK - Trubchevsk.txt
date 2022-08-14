@@ -1,0 +1,12 @@
+### RU015 - Added
+# Trubchevsk
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+religion = orthodox
+primary_culture = ryazanian
+capital = 4244
+fixed_capital = 4244 # Cannot move capital away from this province & no power cost to move to it
+
+set_country_flag = random_rurikovich ## RU015
