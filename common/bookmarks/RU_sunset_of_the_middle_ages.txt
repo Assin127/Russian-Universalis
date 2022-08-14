@@ -10,7 +10,6 @@ bookmark =
 	country = MOS
 	easy_country = MOS
 	country = BYZ
-	country = TU0
 	country = YUA
 	country = GLH
 	country = HUN

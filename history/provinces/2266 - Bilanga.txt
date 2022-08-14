@@ -1,15 +1,20 @@
 # No previous file for Bilanga
-
-owner = WGD
-controller = WGD
-add_core = WGD
+owner = MSI
+controller = MSI
+add_core = MSI
 is_city = yes
-culture = mossi 
-religion = shamanism #Fetishism
+culture = mossi
+religion = shamanism # Fetishism
 capital = "Bilanga"
 trade_goods = grain
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
 discovered_by = sub_saharan
+
+1441.1.1 = {
+	owner = WGD
+	controller = WGD
+	remove_core = WGD
+}

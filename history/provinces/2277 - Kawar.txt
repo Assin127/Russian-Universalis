@@ -1,7 +1,7 @@
 # No previous file for Kawar
-owner = AIR
-controller = AIR
-add_core = AIR
+owner = KNM
+controller = KNM
+add_core = KNM
 is_city = yes
 culture = tuareg
 religion = sunni

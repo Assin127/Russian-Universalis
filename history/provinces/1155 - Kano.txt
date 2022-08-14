@@ -1,8 +1,7 @@
-#1155 - Kano
-
-owner = KAN
-controller = KAN
-add_core = KAN
+# 1155 - Kano
+owner = KNM
+controller = KNM
+add_core = KNM
 culture = hausa
 is_city = yes
 base_manpower = 5
@@ -10,13 +9,10 @@ religion = sunni
 capital = "Kano"
 trade_goods = dyes
 hre = no
-base_tax = 5 
+base_tax = 5
 base_production = 5
-
-
 discovered_by = sub_saharan
-
-
+1380.1.1 = { owner = KBO controller = KBO add_core = KBO } 
 1486.1.1 = { unrest = 4 } # Invasion by Katsina
 1488.1.1 = { unrest = 0 } # Katsina forces ejected from area
 1514.1.1 = { unrest = 6 } # Songhai raids Hausa pay tribute to Songhai
@@ -24,7 +20,7 @@ discovered_by = sub_saharan
 1569.1.1 = { unrest = 7 } # Invasion by Katsina
 1571.1.1 = { unrest = 0 } # Katsina forces ejected from area
 1582.1.1 = { unrest = 4 } # Civil war in Kano in wake of defeat at Kankiya
-1583.1.1 = { unrest = 7 } # Jukun raids 
+1583.1.1 = { unrest = 7 } # Jukun raids
 1620.1.1 = { unrest = 4 } # Invasion by Katsina
 1621.1.1 = { unrest = 0 } # Katsina forces defeated at Karaye
 1649.1.1 = { unrest = 7 } # Civil war in Kano in wake of defeat at Rumarawa
@@ -37,9 +33,5 @@ discovered_by = sub_saharan
 1754.1.1 = { unrest = 6 } # Gobir invades Kano
 1769.1.1 = { unrest = 3 } # Unrest between Sarki Babba Zaki and the notables of Kano
 1790.1.1 = { unrest = 3 } # Islamic revival led by Usman dan Fodio begins to challenge Hausa ruler legitimacy
-1804.1.1 = { discovered_by = SOK }
-1806.1.1 = {	
-	owner = SOK
-	controller = SOK
-	add_core = SOK
-} # The Fulani Empire
+1804.1.1 = { discovered_by = SOK } 
+1806.1.1 = { owner = SOK controller = SOK add_core = SOK } # The Fulani Empire

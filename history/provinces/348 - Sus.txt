@@ -13,15 +13,15 @@ is_city = yes
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1121.1.1 = {
+1126.1.1 = {
 	owner = ALD
 	controller = ALD
 	add_core = ALD
 }
-1244.1.1 = {
-	owner = DMA
-	controller = DMA
-	add_core = DMA
+1217.1.1 = {
+	owner = MOR
+	controller = MOR
+	add_core = MOR
 }
 
 1444.1.1 = { owner = SOS controller = SOS add_core = SOS } 

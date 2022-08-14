@@ -13,7 +13,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-1147.1.1 = {
+1121.1.1 = {
 	owner = ---
 	controller = ---
 	remove_core = ALM

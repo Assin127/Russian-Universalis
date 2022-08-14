@@ -1,7 +1,7 @@
 # - Waddai
-owner = KNM
-controller = KNM
-add_core = KNM
+owner = WAD
+controller = WAD
+add_core = WAD
 culture = tunjur
 religion = shamanism # Fetishism
 capital = "Ouara"
