@@ -1,8 +1,8 @@
 #221 - Murcia
 
-owner = CAS		# Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = ALM		# Juan II of Castille
+controller = ALM
+add_core = ALM
 culture = andalucian
 religion = catholic 
 hre = no
@@ -14,9 +14,16 @@ capital = "Albacete"
 is_city = yes
 
 
-1095.1.1 = {
-	add_core = ALM
-	}
+1150.1.1 = {
+	owner = ALD	
+	controller = ALD
+	add_core = ALD}
+
+1220.1.1 ={
+	owner = CAS	
+	controller = CAS
+	add_core = CAS
+	religion = catholic}
 	
 	
 discovered_by = western
