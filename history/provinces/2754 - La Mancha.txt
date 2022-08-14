@@ -1,10 +1,10 @@
 #2754 - La Mancha
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = ALM		#Juan II of Castille
+controller = ALM
+add_core = ALM
 culture = castillian
-religion = catholic
+religion = sunni
 hre = no
 base_tax = 3 
 base_production = 3
@@ -22,7 +22,17 @@ discovered_by = ottoman
 	add_core = ALM
 	}
 
-1231.1.1 = {add_core = ALD} 
+1195.1.1 = {
+	owner = ALD	
+	controller = ALD
+	add_core = ALD}
+
+1237.1.1 ={
+	owner = CAS	
+	controller = CAS
+	add_core = CAS
+	religion = catholic}
+	
 1464.5.1 = { unrest = 3 } # Nobiliary uprising against King Enrique, Castilla goes into anarchy
 1468.9.18 = { unrest = 0 } # Pactos de los Toros de Guisando. Isabel of Castille becomes heir to the throne and a temporary peace is achieved
 1470.1.1 = { unrest = 3 } # Isabel marries with Fernando of Aragon, breaking the Pacts of Guisando. King Enrique choses his daughter Juana ("La Beltraneja") as new heiress and a succession War erupts.
