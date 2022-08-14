@@ -1,9 +1,9 @@
-#1750 - Xativa
+#4549 - Xativa
 
 owner = ALM	
 controller = ALM
 add_core = ALM
-culture = catalan
+culture = andalucian
 religion = sunni
 hre = no
 base_tax = 4
@@ -26,12 +26,13 @@ discovered_by = ottoman
 	add_core = ALD
 }
 1246.1.1 = {
-owner = ARA		#Martí I of Aragon
-controller = ARA
-add_core = ARA
-add_core = VAL
-culture = catalan
-religion = catholic }
+	owner = ARA		#Martí I of Aragon
+	controller = ARA
+	add_core = ARA
+	add_core = VAL
+	culture = catalan
+	religion = catholic
+	culture = catalan }
 1516.1.23 = {
 	controller = SPA
 	owner = SPA

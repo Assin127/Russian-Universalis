@@ -3,7 +3,7 @@
 owner = ALM	
 controller = ALM
 add_core = ALM
-culture = catalan
+culture = andalucian
 religion = sunni
 hre = no
 base_tax = 6 
@@ -31,6 +31,7 @@ center_of_trade = 2
 	add_core = ARA
 	add_core = VAL 
 	religion = catholic
+	culture = catalan
 }
 1516.1.23 = {
 	controller = SPA

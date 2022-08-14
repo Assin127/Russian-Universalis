@@ -23,7 +23,8 @@ is_city = yes
 	owner = CAS	
 	controller = CAS
 	add_core = CAS
-	religion = catholic}
+	religion = catholic
+	}
 	
 	
 discovered_by = western

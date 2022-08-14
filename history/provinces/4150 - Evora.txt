@@ -2,7 +2,7 @@
 owner = ALM		
 controller = ALM
 add_core = ALM
-culture = portugese
+culture = andalucian
 religion = sunni
 capital = "Évora"
 trade_goods = wine
@@ -27,6 +27,7 @@ discovered_by = eastern
 	controller = POR
 	add_core = POR
 	religion = catholic 
+	culture = portugese
 }
 1540.1.1 = { fort_16th = yes } 
 1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragança

@@ -2,7 +2,7 @@
 owner = ALM		
 controller = ALM
 add_core = ALM
-culture = portugese
+culture = andalucian
 religion = sunni
 capital = "Beja"
 trade_goods = livestock
@@ -11,6 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
@@ -21,11 +22,12 @@ discovered_by = eastern
 	controller = ALD
 	add_core = ALD
 }
-1175.1.1 = {
+1234.1.1 = {
 	owner = POR		
 	controller = POR
 	add_core = POR
 	religion = catholic 
+	culture = portugese
 }
 1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragania
 1640.12.1 = { unrest = 0 }

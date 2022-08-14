@@ -17,11 +17,11 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1147.1.1 = {
+1150.1.1 = {
 	add_core = ALD 
 	owner = ALD
 	controller = ALD
-	religion = sunni}
+	}
 	
 1230.1.1 ={
 	owner = CAS	

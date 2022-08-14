@@ -3,7 +3,7 @@
 owner = ALM		
 controller = ALM
 add_core = ALM
-culture = catalan
+culture = andalucian
 religion = sunni
 hre = no
 base_tax = 3
@@ -26,11 +26,12 @@ discovered_by = ottoman
 	add_core = ALD
 }
 1238.1.1 = {
-owner = ARA		#Martí I of Aragon
-controller = ARA
-add_core = ARA
-add_core = VAL
-religion = catholic 
+	owner = ARA		#Martí I of Aragon
+	controller = ARA
+	add_core = ARA
+	add_core = VAL
+	religion = catholic 
+	culture = catalan
 }
 1516.1.23 = {
 	controller = SPA

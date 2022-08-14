@@ -2,7 +2,7 @@
 owner = ALM		
 controller = ALM
 add_core = ALM
-culture = portugese
+culture = andalucian
 religion = sunni
 capital = "Faro"
 trade_goods = fish
@@ -24,11 +24,12 @@ discovered_by = eastern
 	controller = ALD
 	add_core = ALD
 }
-1189.1.1 = {
+1249.1.1 = {
 	owner = POR		
 	controller = POR
 	add_core = POR
 	religion = catholic 
+	culture = portugese
 }
 1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragania
 1640.12.1 = { unrest = 0 }
