@@ -37,17 +37,20 @@ discovered_by = ottoman
 	controller = ARA
 	add_core = ARA
 	culture = catalan
-	religion = catholic } # Alfonso III
+	religion = catholic 
+} # Alfonso III
 1290.1.1 = {
 	owner = MJC		
 	controller = MJC
 	add_core = MJC
-	remove_core = ARA} #Was given to Kingdom of Majorca
+	remove_core = ARA
+} #Was given to Kingdom of Majorca
 1343.1.1 = { 
 	owner = ARA		
 	controller = ARA
 	add_core = ARA
-	remove_core = MJC} #Fall of Majorca's Kingdom
+	remove_core = MJC
+} #Fall of Majorca's Kingdom
 1437.1.17 = { remove_core = MNR }
 1462.1.1 = { unrest = 2 } # Remença peasant revolt, in parallel with the Catalan civil war.
 1472.1.1 = { unrest = 0 } # End of the First Remença revolt

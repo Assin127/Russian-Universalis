@@ -21,13 +21,14 @@ discovered_by = ottoman
 	add_core = ALD 
 	owner = ALD
 	controller = ALD
-	}
+}
 	
 1230.1.1 ={
 	owner = CAS	
 	controller = CAS
 	add_core = CAS
-	religion = catholic}
+	religion = catholic
+}
 
 1464.5.1 = { unrest = 3 } # Nobiliary uprising against King Enrique, Castilla goes into anarchy
 1468.9.18 = { unrest = 0 } # Pactos de los Toros de Guisando. Isabel of Castille becomes heir to the throne and a temporary peace is achieved

@@ -29,7 +29,7 @@ discovered_by = eastern
 	religion = catholic 
 	culture = portugese
 }
-1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragania
+1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragança
 1640.12.1 = { unrest = 0 }
 1704.1.1 = { controller = SPA } # War of the Spanish succession
 1713.4.11 = { controller = POR } # Treaty of Utrecht

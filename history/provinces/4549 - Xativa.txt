@@ -32,7 +32,8 @@ discovered_by = ottoman
 	add_core = VAL
 	culture = catalan
 	religion = catholic
-	culture = catalan }
+	culture = catalan 
+}
 1516.1.23 = {
 	controller = SPA
 	owner = SPA

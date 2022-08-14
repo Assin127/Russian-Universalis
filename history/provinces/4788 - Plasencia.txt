@@ -21,7 +21,7 @@ discovered_by = ottoman
 	add_core = ALD
 	owner = ALD
 	controller = ALD
-	}
+}
 	
 1180.1.1 = {
 	owner = CAS
@@ -30,7 +30,7 @@ discovered_by = ottoman
 	add_core = LON
 	religion = catholic
 	culture = leonese
-	}
+}
 	
 
 1464.5.1 = { unrest = 3 } #Nobiliary uprising against King Enrique, Castilla goes into anarchy

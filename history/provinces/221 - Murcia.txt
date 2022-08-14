@@ -24,18 +24,20 @@ discovered_by = ottoman
 	add_core = ALD
 	owner = ALD
 	controller = ALD
-	}
+}
 	
 1232.1.1 = {
 	owner = MRC		
 	controller = MRC
-	add_core = MRC}
+	add_core = MRC
+}
 	
 1266.1.1 = {
 	owner = CAS
 	controller = CAS
 	add_core = CAS
-	religion = catholic}
+	religion = catholic
+}
 	
 1516.1.23 = {	controller = SPA
 	owner = SPA

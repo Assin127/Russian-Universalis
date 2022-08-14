@@ -28,7 +28,6 @@ discovered_by = ottoman
 	add_core = ARA
 	culture = aragonese
 	religion = catholic
-	culture = aragonese
 }
 1516.1.23 = {
 	controller = SPA
