@@ -9,14 +9,14 @@ capital = 161 # Tîrgoviste
 
 1230.1.1 = {
 	monarch = {
-		name = "Bezerenbam and Mi?elav"
+		name = "Bezerenbam and Miselav"
 		birth_date = 1190.1.1
 		adm = 2
 		dip = 2
 		mil = 5
 		leader = {name = "Bezerenbam" type = general fire = 3 shock = 2 manuever = 1 siege = 2}
 	}
-	leader = {name = "Mi?elav" type = general fire = 1 shock = 3 manuever = 3 siege = 0}
+	leader = {name = "Miselav" type = general fire = 1 shock = 3 manuever = 3 siege = 0}
 }
 
 1240.1.1 = {
