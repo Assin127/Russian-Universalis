@@ -16,6 +16,7 @@ native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
 add_local_autonomy = 25
+
 1250.1.1 = {
 	owner = KNG
 	controller = KNG
