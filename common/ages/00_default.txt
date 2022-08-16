@@ -3,7 +3,7 @@ age_of_discovery = {
 	start = 1440 ## RU011
 	
 	can_start = {
-		always = yes ## RU011
+		#always = yes ## RU011
 	}
 	
 	religious_conflicts = yes
