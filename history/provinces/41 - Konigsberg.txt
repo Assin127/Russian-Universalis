@@ -19,13 +19,14 @@ native_size = 30
 native_ferocity = 4
 native_hostileness = 6
 
-1255.9.1 = {
+1238.1.1 = {
 	owner = TEU
 	controller = TEU
 	add_core = TEU
-    is_city = yes
+    	is_city = yes
 	trade_goods = gems #Amber
 	fort_15th = yes
+	culture = prussian
 	religion = catholic
 }
 
