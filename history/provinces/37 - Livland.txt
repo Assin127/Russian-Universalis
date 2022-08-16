@@ -2,8 +2,6 @@
 
 culture = latvian
 religion = romuva 
-capital = latvian
-religion = romuva 
 capital = "Fellin"
 trade_goods = unknown
 hre = no
@@ -16,24 +14,23 @@ native_size = 30
 native_ferocity = 6
 native_hostileness = 4
 
-1212.1.1 = {
-    owner = NOV
-    controller = NOV
-    culture = novgorodian
-    religion = orthodox
-    capital = "Beverina"
-    trade_goods = livestock
-    is_city = yes
-    add_core = NOV
-    add_core = LVA
+1211.3.1 = {
+	owner = LIV
+	controller = LIV
+	add_core = LIV
+	add_core = LVA
+	trade_goods = livestock
+	religion = catholic
+	is_city = yes
 }
-1223.1.1 = {
-    owner = LIV
-    controller = LIV
-    culture = latvian
-    religion = catholic
-    capital = "Fellin"
-    add_core = LIV
+1221.1.1 = {
+	owner = NOV
+	controller = NOV
+	add_core = NOV
+}
+1223.8.15 = {
+	owner = LIV
+	controller = LIV
 }
 1542.1.1 = { religion = protestant} # Unknown date
 1561.1.1 = {
