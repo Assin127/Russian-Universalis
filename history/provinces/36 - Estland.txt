@@ -5,8 +5,8 @@ religion = romuva
 hre = no
 base_tax = 4
 base_production = 4
-trade_goods = unknown
 base_manpower = 2
+trade_goods = unknown
 capital = "Reval"
 
 
@@ -32,15 +32,16 @@ native_hostileness = 4
 	controller = LIV
 	add_core = LIV
 }
-1236.1.1 = {
-    owner = DAN
+1238.6.7 = {
+	owner = DAN
 	controller = DAN
 }
 1343.4.23 = { revolt { type = nationalist_rebels size = 1 } controller = REB } 
 1343.5.5 = { revolt {} controller = DAN }
 1346.1.1 = {
-    owner = LIV
+	owner = LIV
 	controller = LIV
+	remove_core = DAN
 }
 1542.1.1 = { religion = protestant} # Unknown date
 1561.1.1 = {

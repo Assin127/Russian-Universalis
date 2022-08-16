@@ -1,5 +1,4 @@
 ### RU003 - Added
-### Примечание: идеи для целой группы стран (например, по культурному признаку), должны располагаться в конце файла!
 
 NIE_ideas = {
 	start = {
@@ -160,47 +159,5 @@ POY_ideas = {
 	}
 	POY_guerilla_tactics  = {
 	    hostile_attrition = 1
-	}
-}
-
-###### Блок для групповых идей
-
-RUS_knyaz_ideas = {
-	start = {
-		diplomatic_upkeep = 1
-		relation_with_same_culture_group = 10
-	}
-	
-	bonus = {
-		religious_unity = 0.25
-	}
-	
-	trigger = {
-        culture_group = east_slavic
-    }
-	free = yes        #will be added at load.
-	
-	knyaz_diplomatiya = {
-		accept_vassalization_reasons = 10
-		diplomatic_annexation_cost = -0.1
-	}
-	knyaz_udeli = {
-		production_efficiency = 0.10
-	}
-	knyaz_tolerance = {
-		tolerance_heretic = 2
-	}
-	knyaz_nalogi = {
-		global_tax_modifier = 0.10
-	}
-	knyaz_zov = {
-		land_morale = 0.15
-	}
-	knyaz_torgovlya = {
-		global_own_trade_power = 0.15
-	}
-	knyaz_edinenie  = {
-	    province_warscore_cost = -0.1
-		core_creation = -0.1
 	}
 }

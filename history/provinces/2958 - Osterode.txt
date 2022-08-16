@@ -17,14 +17,14 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1270.1.1 = {
+1236.1.1 = {
 	owner = TEU
 	controller = TEU
 	add_core = TEU
 	fort_15th = yes
 	is_city = yes
 	trade_goods = naval_supplies
-	culture = baltic_prussian
+	culture = prussian
 	religion = catholic
 }
 1340.1.1 = {

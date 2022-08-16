@@ -20,14 +20,13 @@ discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 
-1224.1.1 = {
+1224.9.1 = {
 	owner = LIV
 	controller = LIV
 	religion = catholic
 	add_core = LVA
 	add_core = EST
 	add_core = LIV
-	remove_core = NOV
 }
 1542.1.1 = { religion = protestant} # Unknown date
 1558.7.18 = { controller = RUS } # Russian conquest

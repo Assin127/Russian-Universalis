@@ -38,4 +38,49 @@ spriteTypes = {
 		name = "GFX_age_of_renaissance"
 		texturefile = "gfx/interface/ages/age_of_renaissance.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_obj_many_subjects"
+		texturefile = "gfx/interface/ages/obj_many_subjects.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_obj_big_subject"
+		texturefile = "gfx/interface/ages/obj_big_subject.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_obj_average_development"
+		texturefile = "gfx/interface/ages/obj_average_development.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_obj_many_dynasty"
+		texturefile = "gfx/interface/ages/obj_many_dynasty.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_obj_high_traditions"
+		texturefile = "gfx/interface/ages/obj_high_traditions.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_obj_religious_conflict"
+		texturefile = "gfx/interface/ages/obj_religious_conflict.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_obj_crown_lands"
+		texturefile = "gfx/interface/ages/obj_crown_lands.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_obj_fortifications"
+		texturefile = "gfx/interface/ages/obj_fortifications.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_obj_great_ruler"
+		texturefile = "gfx/interface/ages/obj_great_ruler.dds"
+	}
 }

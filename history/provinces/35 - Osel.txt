@@ -16,15 +16,19 @@ native_hostileness = 6
 discovered_by = western
 discovered_by = eastern
 
-
-1227.1.1  = {
-	owner = RIG
-	controller = RIG
-	add_core = RIG
+1222.6.1  = {
+	owner = DAN
+	controller = DAN
+	add_core = DAN
 	add_core = EST
 	is_city = yes
 	trade_goods = grain
 	religion = catholic 
+}
+1227.1.1  = {
+	owner = RIG
+	controller = RIG
+	add_core = RIG
 }
 1241.1.1  = {
 	owner = LIV
