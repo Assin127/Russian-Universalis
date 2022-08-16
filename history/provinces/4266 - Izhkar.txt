@@ -1,17 +1,18 @@
 #4266 - Izhkar
 
-owner = KAZ
-controller = KAZ
+owner = PRM
+controller = PRM
 capital = "Izhkar"
 culture = uralic
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = shamanism #Sami Shamanism
 trade_goods = iron
 hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = KAZ
+add_core = PRM
+
 discovered_by = SIB
 discovered_by = NOG
 discovered_by = GOL
@@ -19,7 +20,16 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 discovered_by = ottoman
-
+1236.1.1 = {
+	owner = GLH
+	controller = GLH
+	add_core = GLH
+}
+1437.1.1 = {
+	owner = KAZ
+	controller = KAZ
+	add_core = KAZ
+}
 
 1552.10.2 = { owner = RUS controller = RUS add_core = RUS remove_core = KAZ } # Russian conquest of Kazan
 1600.1.1 = { culture = russian religion = orthodox }

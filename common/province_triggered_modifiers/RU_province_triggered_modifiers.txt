@@ -1,0 +1,36 @@
+### RU011 - Added
+###########################################
+# Добропорядочная война
+###########################################
+good_faith_war_modifier = {
+	potential = {
+		current_age = age_of_feudalism
+	}
+
+	trigger = {
+		controller = {
+			has_country_flag = good_faith_war_flag
+		}
+		OR = {
+			nationalism = 1
+			AND = {
+				owned_by = ROOT
+				NOT = {
+					controlled_by = ROOT
+				}
+			}
+		}
+	}
+
+	local_unrest = -3
+	
+	#Province scope
+	on_activation = {
+	
+	}
+	
+	on_deactivation = {
+	
+	}
+	
+}

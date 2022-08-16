@@ -1,3 +1,4 @@
+### RU011 - Added
 age_of_feudalism = {
 	start = 1259
 	
@@ -10,97 +11,84 @@ age_of_feudalism = {
 	
 
 	objectives = {
-		obj_discover_america = {
-			allow = {
-				capital_scope = {
-					OR = {
-						continent = europe
-						continent = asia
-						continent = africa
-					}
-				}
-			}
-			custom_trigger_tooltip = {
-				tooltip = obj_discover_america_tooltip
-					OR = {
-						north_america = { has_discovered = ROOT }
-						south_america = { has_discovered = ROOT }
-						new_world = { has_discovered = ROOT }
-					}
-				}
-		}
-		obj_100_development = {
-			allow = {
-				capital_scope = {
-					NOT = {
-						continent = europe
-						continent = asia
-						continent = africa
-					}
-				}
-			}
-			total_development = 100
-
-		}
-		
-		
-		
-	
-		obj_5_centers_of_trade = {
+		obj_many_subjects = {
 			calc_true_if = {
-				all_owned_province = {
-					OR = {
-						province_has_center_of_trade_of_level = 2
-						province_has_center_of_trade_of_level = 3
-					}
-					controlled_by = owner
-					is_core = ROOT
+				any_known_country = {
+					is_subject_of = ROOT
 				}
 				amount = 5
 			}
 		}
-		obj_30_development_city = {
+		
+		obj_average_development = {
+			variable_arithmetic_trigger = {
+				custom_tooltip = average_development_more_than_tooltip
+				export_to_variable = {
+					which = our_total_development_of_num_of_cities
+					value = trigger_value:total_development
+				}
+				export_to_variable = {
+					which = num_of_cities
+					value = trigger_value:num_of_cities
+				}
+				divide_variable = { which = total_development which = num_of_cities }
+				check_variable = { which = total_development value = 12 }
+			}
+		}
+		
+		obj_many_dynasty = {
+			allow = {
+				government = monarchy
+			}
 			custom_trigger_tooltip = {
-				tooltip = obj_30_development_city_tooltip
-				any_owned_province = {
-					exclude_from_progress = {
-						is_core = ROOT
-						controlled_by = owner
+				tooltip = obj_many_dynasty_tooltip
+				calc_true_if = {
+					all_country = {
+						dynasty = ROOT
+						NOT = {
+							junior_union_with = ROOT
+						}
 					}
-					development_discounting_tribal = 30
+					amount = 3
 				}
 			}
 		}
-		obj_renaissance = {
-	 		has_institution = renaissance
-	 		all_state_province = {
-	 			renaissance = 100
-	 		}
+
+		obj_high_traditions = {
+			allow = {
+				NOT = { government = monarchy }
+			}
+			legitimacy_equivalent = 100
 		}
 		
-		obj_two_unions = {
-			allow = {
-				religion_group = christian
-			}
-			personal_union  = 2
-		}
-		
-		obj_many_vassals = {
-			allow = {
-				NOT = { religion_group = christian }
-			}
-			vassal = 5
-		}		
-	
-		obj_two_continents = {
-			num_of_continents = 2
-		}
-	
-		obj_humiliate_rival = {
+		obj_religious_conflict = {
 			custom_trigger_tooltip = {
-				tooltip = obj_humiliate_rival_tooltip
-				has_country_flag = humiliated_rival
+				tooltip = obj_religious_conflict_tooltip
+				has_country_flag = participant_in_religious_conflict
 			}
+		}
+		
+		obj_crown_lands = {
+			crown_land_share = 80
+		}
+		
+		obj_fortifications = {
+			calc_true_if = {
+				all_owned_province = {
+					OR = {
+						has_building = fort_13th
+						has_building = fort_14th
+						has_building = fort_15th
+					}
+				}
+				amount = 5
+			}
+		}
+		
+		obj_great_ruler = {
+			adm = 5
+			dip = 5
+			mil = 5
 		}
 	}		
 	
@@ -109,40 +97,56 @@ age_of_feudalism = {
 	
 	
 	abilities = {
-		ab_allow_feudal_de_jure_law = {
-			effect = {
-				custom_tooltip = feudal_de_jure_law
-				set_country_flag = feudal_de_jure_law
+		ab_international_ties = {
+			modifier = {
+				diplomatic_upkeep = 2
 			}
 			ai_will_do = {
 				factor = 10
+				modifier = {
+					factor = 2
+					NOT = {
+						num_of_free_diplomatic_relations = 1
+					}
+				}
+				modifier = {
+					factor = 2
+					personality = ai_diplomat
+				}
 			}
 		}
 		
-		ab_justified_wars = {
-			modifier = {
-				ae_impact = -0.1
+		ab_good_faith_war = {
+			effect = {
+				custom_tooltip = ab_good_faith_war_tooltip
+				set_coutry_flag = good_faith_war_flag
 			}
 			ai_will_do = {
 				factor = 10
+				modifier = {
+					factor = 2
+					personality = ai_militarist
+				}
 			}			
 		}
 		
 
-		ab_transfer_vassal_wargoal = 
-		{
-			rule = {
-				can_transfer_vassal_wargoal = yes
-				can_chain_claim = yes
+		ab_caravan_trade = {
+			modifier = {
+				caravan_power = 0.25
 			}
 			ai_will_do = {
 				factor = 10
+				modifier = {
+					factor = 2
+					personality = ai_capitalist
+				}
 			}
 		}
 		
-		ab_free_war_taxes = {
+		ab_inquisition = {
 			modifier = {
-				war_taxes_cost_modifier = -1.0
+				global_heretic_missionary_strength = 0.03
 			}
 			ai_will_do = {
 				factor = 10
@@ -159,7 +163,7 @@ age_of_feudalism = {
 			}
 		}
 		ab_colony_boost_development = {
-			rule = {
+			modifier = {
 				can_colony_boost_development = yes
 			}
 			ai_will_do = {
@@ -172,7 +176,7 @@ age_of_feudalism = {
 		}
 		
 		ab_attack_bonus_in_capital_terrain = {
-			rule = {
+			modifier = {
 				attack_bonus_in_capital_terrain = yes
 			}
 			ai_will_do = {
@@ -252,96 +256,16 @@ age_of_renaissance = {
 
 
 	objectives = {
-		obj_discover_america = {
-			allow = {
-				capital_scope = {
-					OR = {
-						continent = europe
-						continent = asia
-						continent = africa
-					}
-				}
-			}
+		obj_grown_development = {
+			grown_by_development = 100
+		}
+		
+		obj_prosperous = {
 			custom_trigger_tooltip = {
-				tooltip = obj_discover_america_tooltip
-					OR = {
-						north_america = { has_discovered = ROOT }
-						south_america = { has_discovered = ROOT }
-						new_world = { has_discovered = ROOT }
-					}
-				}
-		}
-		obj_100_development = {
-			allow = {
-				capital_scope = {
-					NOT = {
-						continent = europe
-						continent = asia
-						continent = africa
-					}
-				}
-			}
-			total_development = 100
-
-		}
-		
-		
-		
-	
-		obj_5_centers_of_trade = {
-			calc_true_if = {
+				tooltip = obj_prosperous_tooltip
 				all_owned_province = {
-					OR = {
-						province_has_center_of_trade_of_level = 2
-						province_has_center_of_trade_of_level = 3
-					}
-					controlled_by = owner
-					is_core = ROOT
+					is_prosperous = yes
 				}
-				amount = 5
-			}
-		}
-		obj_30_development_city = {
-			custom_trigger_tooltip = {
-				tooltip = obj_30_development_city_tooltip
-				any_owned_province = {
-					exclude_from_progress = {
-						is_core = ROOT
-						controlled_by = owner
-					}
-					development_discounting_tribal = 30
-				}
-			}
-		}
-		obj_renaissance = {
-	 		has_institution = renaissance
-	 		all_state_province = {
-	 			renaissance = 100
-	 		}
-		}
-		
-		obj_two_unions = {
-			allow = {
-				religion_group = christian
-			}
-			personal_union  = 2
-		}
-		
-		obj_many_vassals = {
-			allow = {
-				NOT = { religion_group = christian }
-			}
-			vassal = 5
-		}		
-	
-		obj_two_continents = {
-			num_of_continents = 2
-		}
-	
-		obj_humiliate_rival = {
-			custom_trigger_tooltip = {
-				tooltip = obj_humiliate_rival_tooltip
-				has_country_flag = humiliated_rival
 			}
 		}
 	}		
@@ -351,132 +275,6 @@ age_of_renaissance = {
 	
 	
 	abilities = {
-		ab_allow_feudal_de_jure_law = {
-			effect = {
-				custom_tooltip = feudal_de_jure_law
-				set_country_flag = feudal_de_jure_law
-			}
-			ai_will_do = {
-				factor = 10
-			}
-		}
 		
-		ab_justified_wars = {
-			modifier = {
-				ae_impact = -0.1
-			}
-			ai_will_do = {
-				factor = 10
-			}			
-		}
-		
-
-		ab_transfer_vassal_wargoal = 
-		{
-			rule = {
-				can_transfer_vassal_wargoal = yes
-				can_chain_claim = yes
-			}
-			ai_will_do = {
-				factor = 10
-			}
-		}
-		
-		ab_free_war_taxes = {
-			modifier = {
-				war_taxes_cost_modifier = -1.0
-			}
-			ai_will_do = {
-				factor = 10
-			}	
-		}
-		
-
-		ab_cavalry_armies = {
-			modifier = {
-				cav_to_inf_ratio = 0.2
-			}
-			ai_will_do = {
-				factor = 10
-			}
-		}
-		ab_colony_boost_development = {
-			rule = {
-				can_colony_boost_development = yes
-			}
-			ai_will_do = {
-				factor = 10
-				modifier = {
-					factor = 0
-					NOT = { num_of_colonists = 1 }
-				}
-			}
-		}
-		
-		ab_attack_bonus_in_capital_terrain = {
-			rule = {
-				attack_bonus_in_capital_terrain = yes
-			}
-			ai_will_do = {
-				factor = 10
-			}
-		}
-		
-		ab_ottoman_siege_ability = {
-			allow = {
-				tag = TUR
-			}
-			modifier = {
-				siege_ability = 0.33
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		
-		ab_portugal_colonial_growth = {
-		
-			allow = {
-				tag = POR
-			}
-			modifier = {
-				global_colonial_growth = 50
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
-		ab_denmark_reduced_lib_desire = {
-		
-			allow = {
-				tag = DAN
-			}
-			modifier = {
-				reduced_liberty_desire = 30
-			}
-			ai_will_do = {
-				factor = 100
-				modifier = {
-					factor = 0
-					NOT = {
-						any_subject_country = {
-							liberty_desire = 20
-						}
-					}
-				}
-			}
-		}
-		ab_venice_ship_trade = {
-		
-			allow = {
-				tag = VEN
-			}
-			modifier = {
-				global_ship_trade_power = 0.5
-			}
-			ai_will_do = {
-				factor = 100
-			}
-		}
 	}
 }

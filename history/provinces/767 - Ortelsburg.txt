@@ -19,12 +19,13 @@ native_size = 30
 native_ferocity = 4
 native_hostileness = 6
 
-1252.7.1 = { 
+1241.1.1 = { 
 	owner = TEU
 	controller = TEU
 	add_core = TEU
-    is_city = yes
+	is_city = yes
 	trade_goods = naval_supplies
+	culture = prussian
 	religion = catholic
 }
 

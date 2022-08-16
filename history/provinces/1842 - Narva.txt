@@ -20,29 +20,36 @@ native_size = 30
 native_ferocity = 4
 native_hostileness = 6
 
+1210.1.1 = {
+	owner = NOV
+	controller = NOV
+	add_core = NOV
+	is_city = yes
+	trade_goods = grain
+	religion = orthodox
+}
 1219.1.1 = {
 	owner = DAN
 	controller = DAN
-	add_core DAN
+	add_core = DAN
 	add_core = EST
-	is_city = yes
-	trade_goods = grain
-	religion = catholic 
+	religion = catholic
 }
-1226.1.1 = {
+1227.1.1 = {
    	owner = LIV
 	controller = LIV
 	add_core = LIV
 }
-1236.1.1 = {
-    owner = DAN
+1238.6.7 = {
+	owner = DAN
 	controller = DAN
 }
-1343.4.23 = { revolt { type = nationalist_rebels size = 1 } controller = REB} 
-1343.5.5 = { revolt {} controller = DAN }
+1343.4.23 = { revolt = { type = nationalist_rebels size = 1 } controller = REB} 
+1343.5.5 = { revolt = {} controller = DAN }
 1346.1.1 = {
    	owner = LIV
 	controller = LIV
+	remove_core = DAN
 }
 1542.1.1 = { religion = protestant} # Unknown date
 1558.5.11 = {

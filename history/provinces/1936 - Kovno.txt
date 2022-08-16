@@ -1,18 +1,13 @@
 #Kovno
 
-owner = LIT
-controller = LIT
 culture = lithuanian
-religion = catholic
+religion = romuva
 capital = "Kovno"
-trade_goods = livestock
+trade_goods = unknown
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = yes
-fort_15th = yes
-add_core = LIT
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -22,8 +17,22 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+native_size = 30
+native_ferocity = 6
+native_hostileness = 4
 
 
+1236.1.1 = {
+	owner = LIT
+	controller = LIT
+	add_core = LIT
+	trade_goods = livestock
+	is_city = yes
+	fort_15th = yes
+}
+1385.1.1 = {
+	religion = catholic
+}
 1550.1.1 = { religion = reformed }
 1569.7.1 = {
 	owner = PLC

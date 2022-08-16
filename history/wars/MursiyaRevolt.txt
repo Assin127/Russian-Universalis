@@ -1,0 +1,14 @@
+name = "Murcia"
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_independence_war
+	tag = MRC
+}
+1264.1.1 = {
+	add_attacker = CAS
+	add_defender = MRC
+}
+1266.1.1 = {
+	rem_attacker = CAS
+	rem_defender = MRC
+}

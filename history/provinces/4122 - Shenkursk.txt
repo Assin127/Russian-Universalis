@@ -1,18 +1,18 @@
 #4122 - Shenkursk
 
-owner = NOV 
-controller = NOV 
-culture = novgorodian
-religion = orthodox
+culture = uralic
+religion = shamanism
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = fur 
 base_manpower = 1
 capital = "Shenkursk"
-add_local_autonomy = 50
-is_city = yes
-add_core = NOV
+
+native_hostileness = 4
+native_size = 20
+native_ferocity = 1
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -20,6 +20,18 @@ discovered_by = AST
 discovered_by = QAS
 discovered_by = eastern
 discovered_by = western
+1137.1.1 = {
+	owner = NOV
+	controller = NOV
+	add_core = NOV
+	is_city = yes
+	trade_goods = fur
+	add_local_autonomy = 50 
+}
+1238.1.1 = {
+	culture = novgorodian
+	religion = orthodox
+}
 
 1478.1.15 = {
 	owner = MOS
