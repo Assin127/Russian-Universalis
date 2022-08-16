@@ -1,11 +1,10 @@
 #Minorca
 
-owner = ARA		# Alfons V of Aragon
-controller = ARA
-add_core = ARA
+owner = MJO		
+controller = MJO
 add_core = MJO
 culture = catalan
-religion = catholic
+religion = sunni
 hre = no
 base_tax = 1 
 base_production = 1
@@ -18,7 +17,41 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1115.1.1 = {
+	owner = ALM		
+	controller = ALM
+	add_core = ALM
+}
+1147.1.1 = {
+	owner = ALD		
+	controller = ALD
+	add_core = ALD
+}
+1231.1.1 = {
+	owner = MNR		
+	controller = MNR
+	add_core = MNR
+}
+1287.1.17 = { 
+	owner = ARA		
+	controller = ARA
+	add_core = ARA
+	culture = catalan
+	religion = catholic 
+} # Alfonso III
+1290.1.1 = {
+	owner = MJC		
+	controller = MJC
+	add_core = MJC
+	remove_core = ARA
+} #Was given to Kingdom of Majorca
+1343.1.1 = { 
+	owner = ARA		
+	controller = ARA
+	add_core = ARA
+	remove_core = MJC
+} #Fall of Majorca's Kingdom
+1437.1.17 = { remove_core = MNR }
 1462.1.1 = { unrest = 2 } # Remença peasant revolt, in parallel with the Catalan civil war.
 1472.1.1 = { unrest = 0 } # End of the First Remença revolt
 1516.1.23 = {
