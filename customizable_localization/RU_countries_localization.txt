@@ -91,6 +91,12 @@ defined_text = {
 			tag = TRK
 		}
     }
+    text = { ## RU017
+        localisation_key = TAG_RD_BEL
+        trigger = {
+			tag = BEL
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_RD_THS
         trigger = {
@@ -1149,6 +1155,12 @@ defined_text = {
 			tag = TRK
 		}
     }
+    text = { ## RU017
+        localisation_key = TAG_VN_BEL
+        trigger = {
+			tag = BEL
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_VN_THS
         trigger = {
@@ -2204,6 +2216,12 @@ defined_text = {
         localisation_key = TAG_TV_TRK
         trigger = {
 			tag = TRK
+		}
+    }
+    text = { ## RU017
+        localisation_key = TAG_TV_BEL
+        trigger = {
+			tag = BEL
 		}
     }
     text = { ## RU002
@@ -3264,6 +3282,12 @@ defined_text = {
 			tag = TRK
 		}
     }
+    text = { ## RU017
+        localisation_key = TAG_PR_BEL
+        trigger = {
+			tag = BEL
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_PR_THS
         trigger = {
@@ -4320,6 +4344,12 @@ defined_text = {
         localisation_key = TAG_DT_TRK
         trigger = {
 			tag = TRK
+		}
+    }
+    text = { ## RU017
+        localisation_key = TAG_DT_BEL
+        trigger = {
+			tag = BEL
 		}
     }
     text = { ## RU002
