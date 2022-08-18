@@ -43,7 +43,9 @@ l_english:
  BLK: "€®¬ª¾"
  BLK_ADJ: "€®¬¬"
  BLN: "€³®°¿"
- BLN_ADJ: "€³®°¿¬"
+ BLN_ADJ: "€³®°¿¬" 
+ BLZ: "€®©" ## RU017
+ BLZ_ADJ: "€®©°¬" ## RU017
  BOI: "€®³"
  BOI_ADJ: "€®³¬"
  BRC: "€®°"
@@ -356,5 +358,3 @@ l_english:
  ZNS_ADJ: "…°¬¬"
  ZYR: "…³ª¦º"
  ZYR_ADJ: "…³ª¦¬"
- KYO: "ž"
- KYO_ADJ: "ž¬"

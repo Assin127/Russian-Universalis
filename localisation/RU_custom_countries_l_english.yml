@@ -22,6 +22,7 @@ l_english:
  ADJ_BEL: "¡²þ¬" #RU017
  ADJ_BLK: "¡®¬¬"
  ADJ_BLN: "¡³®°¿¬"
+ ADJ_BLZ: "¡®©°¬" #RU017
  ADJ_BOI: "¡®³¬"
  ADJ_BRC: "¡®°¬"
  ADJ_BRN: "¡°°¬"
@@ -200,6 +201,7 @@ l_english:
  TAG_DT_BEL: "€²¿" ## RU017
  TAG_DT_BLK: "€®¬ªª"
  TAG_DT_BLN: "€³®°ª"
+ TAG_DT_BLZ: "€®©³" ## RU017
  TAG_DT_BOI: "€®³"
  TAG_DT_BRC: "€®°"
  TAG_DT_BRN: "€°"
@@ -378,6 +380,7 @@ l_english:
  TAG_PR_BEL: "€²¿" ## RU017
  TAG_PR_BLK: "€®¬ªª"
  TAG_PR_BLN: "€³®°ª"
+ TAG_PR_BLZ: "€®©" ## RU017
  TAG_PR_BOI: "€®³"
  TAG_PR_BRC: "€®°"
  TAG_PR_BRN: "€°"
@@ -553,9 +556,10 @@ l_english:
  TAG_RD_AVE: "¢º"
  TAG_RD_BAY: "€¾²"
  TAG_RD_BEA: "€°"
- TAG_RD_BEL: "€²¿¾" ## RU017
+ TAG_RD_BEL: "€²¿" ## RU017
  TAG_RD_BLK: "€®¬ªª"
  TAG_RD_BLN: "€³®°ª"
+ TAG_RD_BLZ: "€®©" ## RU017
  TAG_RD_BOI: "€®³"
  TAG_RD_BRC: "€®°º"
  TAG_RD_BRN: "€°"
@@ -731,9 +735,10 @@ l_english:
  TAG_TV_AVE: "¢þ"
  TAG_TV_BAY: "€¾²¯ª"
  TAG_TV_BEA: "€°¯"
- TAG_TV_BEL: "€²¿¯" ## RU017
+ TAG_TV_BEL: "€²¿" ## RU017
  TAG_TV_BLK: "€®¬ªþ"
  TAG_TV_BLN: "€³®°¿½"
+ TAG_TV_BLZ: "€®©¯" ## RU017
  TAG_TV_BOI: "€®³"
  TAG_TV_BRC: "€®°þ"
  TAG_TV_BRN: "€°"
@@ -912,6 +917,7 @@ l_english:
  TAG_VN_BEL: "€²¿" ## RU017
  TAG_VN_BLK: "€®¬ª½"
  TAG_VN_BLN: "€³®°¿"
+ TAG_VN_BLZ: "€®©" ## RU017
  TAG_VN_BOI: "€®³"
  TAG_VN_BRC: "€®°³"
  TAG_VN_BRN: "€°"
