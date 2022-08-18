@@ -232,6 +232,9 @@ VIV = "countries/Vivarais.txt"
 VLA = "countries/Valais.txt"
 VRD = "countries/Vermandois.txt"
 
+#Восточная Азия
+KYO = "countries/Goryeo.txt" ### RU019 История есть
+
 #BYZ ## История есть
 #WAL ## История есть
 #HAB ## История есть

@@ -1,20 +1,23 @@
 #1013 - Cheongju
 
-owner = KOR
-controller = KOR
+owner = KYO
+controller = KYO
+add_core = KYO
 culture = korean
-religion = confucianism
-capital = "Cheongju"
+religion = mahayana
+capital = "Gongju"
 trade_goods = grain
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = KOR
+
 discovered_by = chinese
 discovered_by = nomad_group
 
+1365.1.1 = { religion = confucianism }
+1392.1.1 = { owner = KOR add_core = KOR controller = KOR remove_core = KYO }
 1519.1.1 = { discovered_by = POR } # Tome Pires
 1592.6.6 = { controller = ODA unrest = 5 } # Japanese invasion - Battle of Cheongju
 1593.6.10 = { controller = KOR unrest = 0 } # With Chinese help the Japanese are driven back
@@ -24,3 +27,4 @@ discovered_by = nomad_group
 1644.1.1 = { add_core = MCH remove_core = MNG } # Part of the Manchu empire
 1645.7.1 = { add_core = QNG remove_core = MCH }
 1653.1.1 = { discovered_by = NED } # Hendrick Hamel
+1910.8.29 = { owner = JAP add_core = JAP controller = JAP }
