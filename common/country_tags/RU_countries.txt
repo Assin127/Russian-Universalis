@@ -173,8 +173,7 @@ WRO = "countries/Wroclaw.txt"
 
 #Россия и Рутения
 BRY = "countries/Bryansk.txt" ## История есть
-BEL = "countries/Berestia.txt" ## RU017 История есть
-BLZ = "countries/Belz.txt" ## RU017 История есть
+BEL = "countries/Berestia.txt" ## RU017 История есть 
 BUS = "countries/Burtas.txt"
 CUM = "countries/Cumans.txt"
 GLC = "countries/Galich.txt" ## История есть
