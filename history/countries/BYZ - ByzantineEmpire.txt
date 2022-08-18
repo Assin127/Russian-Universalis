@@ -536,3 +536,5 @@ fixed_capital = 151 # Cannot move capital away from this province & no power cos
 }
 
 1452.1.1 = { leader = {	name = "Giovanni Giustiniani"	type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1453.5.29 } }
+
+## RU018 - End 
