@@ -196,12 +196,6 @@ MOZ = "countries/Mozhaisk.txt" ## RU010
 OWR = "countries/Owrucz.txt" ## RU013 История есть
 TRK = "countries/Trubchevsk.txt" ## RU015 История есть
 
-#VOL ## История есть
-#KIE ## История есть
-#CHR ## История есть
-#SMO ## История есть
-#PLT ## История есть
-
 #Скандинавия
 JAM = "countries/Jamtland.txt"
 
@@ -237,4 +231,14 @@ ROU = "countries/Roussillon.txt"
 VIV = "countries/Vivarais.txt"
 VLA = "countries/Valais.txt"
 VRD = "countries/Vermandois.txt"
+
+#WAL ## История есть
+#HAB ## История есть
+#HUN ## История есть
+#SCO ## История есть
+#VOL ## История есть
+#KIE ## История есть
+#CHR ## История есть
+#SMO ## История есть
+#PLT ## История есть
 ## RU0001 - End

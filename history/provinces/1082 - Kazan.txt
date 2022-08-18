@@ -3,7 +3,7 @@
 owner = VBL
 controller = VBL
 capital = "Kazan"
-culture = kazani
+culture = bulgar
 religion = sunni
 trade_goods = grain
 hre = no
@@ -11,8 +11,8 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
-fort_15th = yes
 add_core = VBL
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
@@ -26,11 +26,16 @@ center_of_trade = 2
 	controller = GLH
 	add_core = GLH
 }
+1320.1.1 = {
+	culture = kazani
+	remove_core = VBL
+}
 1437.1.1 = {
 	owner = KAZ
 	controller = KAZ
 	add_core = KAZ
-	culture = kazani
+	remove_core = GLH
+	fort_15th = yes
 }
 1552.10.2 = { owner = RUS controller = RUS add_core = RUS remove_core = KAZ } # Russian conquest of Kazan
 1553.1.1 = { culture = russian religion = orthodox } # Most Tatars were christianized or killed
