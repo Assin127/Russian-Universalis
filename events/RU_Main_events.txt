@@ -9,8 +9,8 @@ normal_or_historical_nations = yes
 #Создание случайного Рюриковича на старте игры
 country_event = {
 	id = RU_main_events.1
-	title = RU_main_events.1.title
-	desc = RU_main_events.1.desc
+	title = RU_main_events.1.title # Название отсутствует, т.к. ивент скрытый
+	desc = RU_main_events.1.desc # Описание отсутствует, т.к. ивент скрытый
 	picture = BIG_BOOK_eventPicture
 	
 	is_triggered_only = yes
@@ -21,7 +21,7 @@ country_event = {
 	}
 		
 	option = {
-		name = RU_main_events.1.a
+		name = RU_main_events.1.a # Вариант отсутствует, т.к. ивент скрытый
 		define_ruler = {
 			dynasty = "Rurikovich"
 		}
