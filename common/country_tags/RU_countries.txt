@@ -232,6 +232,7 @@ VIV = "countries/Vivarais.txt"
 VLA = "countries/Valais.txt"
 VRD = "countries/Vermandois.txt"
 
+#BYZ ## История есть
 #WAL ## История есть
 #HAB ## История есть
 #HUN ## История есть
