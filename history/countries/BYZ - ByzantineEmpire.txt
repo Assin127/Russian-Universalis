@@ -11,6 +11,8 @@ historical_rival = RUM
 capital = 151 # Constantinople
 fixed_capital = 151 # Cannot move capital away from this province & no power cost to move to it
 
+## RU017 - Start
+
 1081.4.1 = {
 	monarch = {
 		name = "Alexios I"
@@ -532,3 +534,5 @@ fixed_capital = 151 # Cannot move capital away from this province & no power cos
 }
 
 1452.1.1 = { leader = {	name = "Giovanni Giustiniani"	type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1453.5.29 } }
+
+## RU017 - End 
