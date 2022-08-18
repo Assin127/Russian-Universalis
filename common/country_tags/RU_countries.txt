@@ -233,8 +233,9 @@ VLA = "countries/Valais.txt"
 VRD = "countries/Vermandois.txt"
 
 #Восточная Азия
-KYO = "countries/Goryeo.txt" ### RU017 - Added; История есть
+KYO = "countries/Goryeo.txt" ### RU019 История есть
 
+#BYZ ## История есть
 #WAL ## История есть
 #HAB ## История есть
 #HUN ## История есть

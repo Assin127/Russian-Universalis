@@ -241,6 +241,7 @@ change_estate_land_share = {
 1141.2.13 = {
 	monarch = {
 		country_of_origin = RSH
+		culture = serbian
 		name = "Helena"
 		dynasty = "Vukanovic"
 		birth_date = 1109.1.1
