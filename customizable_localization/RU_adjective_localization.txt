@@ -87,6 +87,21 @@ defined_text = {
         trigger = {
 			tag = TRK
 		}
+
+    }
+    text = { ## RU017
+        localisation_key = ADJ_BEL
+        trigger = {
+			tag = BEL
+		}
+
+    }
+    text = { ## RU017
+        localisation_key = ADJ_BLZ
+        trigger = {
+			tag = BLZ
+		}
+
     }
     text = { ## RU002
         localisation_key = ADJ_THS

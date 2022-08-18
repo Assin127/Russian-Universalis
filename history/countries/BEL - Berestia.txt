@@ -1,0 +1,12 @@
+### RU017 - Added
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = ruthenian
+add_accepted_culture = byelorussian
+religion = orthodox
+capital = 277 # Brest-Litovsk
+fixed_capital = 277 # Cannot move capital away from this province & no power cost to move to it
+
+set_country_flag = random_rurikovich ## RU017
