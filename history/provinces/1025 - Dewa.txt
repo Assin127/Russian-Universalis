@@ -28,7 +28,7 @@ discovered_by = ANU
 1189.1.1 = {
 	owner = MNO 
 	controller = MNO 
-	add_core MNO }	
+	add_core = MNO }	
 	
 1209.1.1 = {
 	owner = SBA

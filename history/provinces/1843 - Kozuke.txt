@@ -1,7 +1,7 @@
 #1843 - Kozuke
 
-owner = UES
-controller = UES
+owner = JAP
+controller = JAP
 culture = togoku
 religion = shinto
 capital = "Mayabashi"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = UES
+add_core = JAP
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -19,6 +19,16 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
+1118.1.1 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO}
+	
+1333.1.1 = {
+	owner = UES
+	controller = UES
+	add_core = UES}
+	
 1542.1.1 = { discovered_by = POR }
 1546.5.19 = { add_core = HJO }
 1560.1.1 = { add_core = TKD }
