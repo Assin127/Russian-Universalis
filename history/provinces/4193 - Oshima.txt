@@ -66,14 +66,18 @@ discovered_by = NHX
 	culture = togoku
 	religion = shinto}
 	
+1514.1.1 = { capital = "Matsumae" }
+1590.8.10 = { remove_core = AKT add_core = ODA owner = ODA controller = ODA }
+1603.3.24 = { remove_core = ODA add_core = TKG owner = TKG controller = TKG }
+1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
+
 1669.1.1 = {revolt = {
     type = nationalist_rebels
     size = 1
     leader = "Syagusyain"
 	controller = REB
 }}
-1514.1.1 = { capital = "Matsumae" }
-1590.8.10 = { remove_core = AKT add_core = ODA owner = ODA controller = ODA }
-1603.3.24 = { remove_core = ODA add_core = TKG owner = TKG controller = TKG }
-1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
+
+1672.1.1 = {revolt = {} controller = AKT}
+
 1787.1.1 = { discovered_by = FRA }
