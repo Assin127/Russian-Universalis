@@ -1,5 +1,4 @@
 # - Titteri
-
 owner = HMM
 controller = HMM
 culture = algerian
@@ -7,30 +6,14 @@ religion = sunni
 capital = "Medea"
 trade_goods = grain
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = HMM
-
-
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
-1151.1.1 = {
-	owner = ALD
-	controller = ALD
-	add_core = ALD
-}
-1229.1.1 = {
-	owner = DHF
-	controller = DHF
-	add_core = DHF
-}
-
-1517.1.1 = {
-	owner = ALG
-	controller = ALG
-	remove_core = TLC
-}
+1151.1.1 = { owner = ALD controller = ALD add_core = ALD } 
+1229.1.1 = { owner = TUN controller = TUN add_core = TUN } 
+1517.1.1 = { owner = ALG controller = ALG remove_core = TLC } 

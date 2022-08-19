@@ -1,10 +1,9 @@
-#Bunyoro
-
+# Bunyoro
 owner = BNY
 controller = BNY
 add_core = BNY
 culture = ganda
-religion = shamanism #Fetishism
+religion = shamanism # Fetishism
 capital = "Mugenyi"
 trade_goods = salt
 hre = no
@@ -13,3 +12,4 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 discovered_by = central_african
+1403.1.1 = { owner = KIT controller = KIT add_core = KIT } 
