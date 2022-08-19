@@ -1,10 +1,9 @@
-#Bafuriru
-
+# Bafuriru
 owner = RWA
 controller = RWA
 add_core = RWA
 culture = rwandan
-religion = shamanism #Fetishism
+religion = shamanism # Fetishism
 capital = "Bafuriru"
 trade_goods = grain
 hre = no
@@ -13,3 +12,4 @@ base_production = 2
 base_manpower = 3
 is_city = yes
 discovered_by = central_african
+1406.1.1 = { owner = KIT controller = KIT add_core = KIT } 

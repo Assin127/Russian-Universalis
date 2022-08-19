@@ -1,5 +1,4 @@
 # - Bizerte
-
 owner = HMM
 controller = HMM
 culture = tunisian
@@ -7,46 +6,18 @@ religion = sunni
 capital = "Bizerte"
 trade_goods = grain
 hre = no
-base_tax = 4 
+base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
 add_core = HMM
-
-
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
-
-1152.1.1 = {
-	owner = ALD
-	controller = ALD
-	add_core = ALD
-}
-1229.1.1 = {
-	owner = DHF
-	controller = DHF
-	add_core = DHF
-}
-1534.8.16 = {
-	owner = ALG
-	controller = ALG
-	add_core = ALG
-} #Conquered by Barbarossa
-1535.6.11 = {
-	owner = TUN
-	controller = TUN
-	remove_core = ALG
-} #Spain reinstate Hafsids
-1574.1.1 = {
-	owner = ALG
-	controller = ALG
-	add_core = ALG
-} #End of the Hafsids, and of Spanish influence
-1593.1.1 = {
-	owner = TUN
-	controller = TUN
-	remove_core = ALG
-}#Tunisian Pashalik created
+1152.1.1 = { owner = ALD controller = ALD add_core = ALD } 
+1229.1.1 = { owner = TUN controller = TUN add_core = TUN } 
+1534.8.16 = { owner = ALG controller = ALG add_core = ALG } # Conquered by Barbarossa
+1535.6.11 = { owner = TUN controller = TUN remove_core = ALG } # Spain reinstate Hafsids
+1574.1.1 = { owner = ALG controller = ALG add_core = ALG } # End of the Hafsids, and of Spanish influence
+1593.1.1 = { owner = TUN controller = TUN remove_core = ALG } # Tunisian Pashalik created
