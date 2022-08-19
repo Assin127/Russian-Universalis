@@ -1,0 +1,135 @@
+### RU017 - Added
+namespace = RU_flavorGLC
+
+normal_or_historical_nations = yes
+#####################
+### Ивенты Галича ###
+#####################
+
+# Правление Льва Даниловича Галицкого. Скопировано с flavor_brapru.22
+country_event = {
+	id = RU_flavorGLC.1
+	title = RU_flavorGLC.1.title # Название отсутствует, т.к. ивент скрытый
+	desc = RU_flavorGLC.1.desc # Описание отсутствует, т.к. ивент скрытый
+	picture = CITY_VIEW_eventPicture
+	
+	fire_only_once = yes
+	is_triggered_only = yes
+	hidden = yes
+	
+	trigger = {
+		tag = GLC
+		has_ruler = "Lev"
+		has_country_flag = lev_rurikovich_flag ## 1245—1269 владение Льва Даниловича Галицкого. Он же наследник великого княжества Галицко-волынского.
+		BLZ = {
+			exists = yes
+			has_ruler = "Lev"
+		}
+	}
+	
+	immediate = {
+		clr_country_flag = lev_rurikovich_flag
+		hidden_effect = {
+			BLZ = {
+				country_event = { id = RU_flavorGLC.2 }
+			}
+		}
+	}
+	
+	option = {
+		name = RU_flavorGLC.1.a # Вариант отсутствует, т.к. ивент скрытый
+	}
+}
+
+# Выбор у Белза
+country_event = {
+	id = RU_flavorGLC.2
+	title = RU_flavorGLC.2.title
+	desc = RU_flavorGLC.2.desc
+	picture = GOOD_WITH_MONARCH_eventPicture
+	
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = RU_flavorGLC.2.a
+		ai_chance = { factor = 100 }
+		tooltip = {
+			GLC = { create_union = BLZ }
+		}
+		custom_tooltip = RU_flavorGLC.2.a.tt
+		GLC = {
+			country_event = { id = RU_flavorGLC.3 }
+		}
+	}
+	option = {
+		name = RU_flavorGLC.2.b
+		ai_chance = { factor = 0 }
+		tooltip = {
+			BLZ = { create_union = GLC }
+			BLZ = { create_union = VOL }
+		}
+		custom_tooltip = RU_flavorGLC.2.b.tt
+		GLC = {
+			country_event = { id = RU_flavorGLC.4 }
+		}
+		VOL = {
+			country_event = { id = RU_flavorGLC.5 }
+		}
+	}
+	option = {
+		name = RU_flavorGLC.2.c
+		ai_chance = { factor = 0 }
+		define_ruler = {
+			dynasty = "Rurikovich"
+		}
+	}
+}
+
+# Принятие Белза в унию Галича
+country_event = {
+	id = RU_flavorGLC.3
+	title = RU_flavorGLC.3.title
+	desc = RU_flavorGLC.3.desc
+	picture = GOOD_WITH_MONARCH_eventPicture
+	
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = RU_flavorGLC.3.a
+		create_union = BLZ
+	}
+}
+
+# Принятие Галича в унию Белза
+country_event = {
+	id = RU_flavorGLC.4
+	title = RU_flavorGLC.4.title
+	desc = RU_flavorGLC.4.desc
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = RU_flavorGLC.4.a
+		BLZ = { create_union = GLC }
+	}
+}
+
+# Принятие Волыни в унию Белза
+country_event = {
+	id = RU_flavorGLC.5
+	title = RU_flavorGLC.5.title
+	desc = RU_flavorGLC.5.desc
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = RU_flavorGLC.5.a
+		BLZ = { create_union = VOL }
+	}
+}
