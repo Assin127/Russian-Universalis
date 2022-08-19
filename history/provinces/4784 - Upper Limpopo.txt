@@ -1,7 +1,9 @@
-#9003 - Upper Limpopo
-
+# 9003 - Upper Limpopo
+owner = KMW
+controller = KMW
+add_core = KMW
 culture = nguni
-religion = shamanism #Fetishism
+religion = shamanism # Fetishism
 capital = "Polokwane"
 trade_goods = unknown
 hre = no
@@ -12,3 +14,5 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 1
 discovered_by = east_african
+1220.1.1 = { owner = GZI controller = GZI add_core = GZI } 
+1450.1.1 = { owner = ZIM controller = ZIM add_core = ZIM } 

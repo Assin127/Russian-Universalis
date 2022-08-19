@@ -1,8 +1,8 @@
 #1186 - Sofala
 
-owner = SFA
-controller = SFA
-add_core = SFA
+owner = ---
+controller = ---
+add_core = ---
 culture = nguni
 religion = sunni
 capital = "Sofala"
@@ -18,7 +18,7 @@ discovered_by = ottoman
 discovered_by = central_african
 extra_cost = 8
 center_of_trade = 1
-
+1440.1.1 = { owner = ZIM controller = ZIM add_core = ZIM } 
 
 1498.1.25 = { discovered_by = POR } #Vasco Da Gama
 1505.1.1 = { 

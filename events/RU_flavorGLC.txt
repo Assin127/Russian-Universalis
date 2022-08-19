@@ -114,6 +114,7 @@ country_event = {
 	
 	option = {
 		name = RU_flavorGLC.4.a
+		free_vassal = BLZ
 		BLZ = { create_union = GLC }
 	}
 }
@@ -130,6 +131,7 @@ country_event = {
 	
 	option = {
 		name = RU_flavorGLC.5.a
+		break_union = GLC
 		BLZ = { create_union = VOL }
 	}
 }

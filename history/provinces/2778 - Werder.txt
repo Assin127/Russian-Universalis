@@ -1,9 +1,8 @@
 #2778 - Werder
 
-owner = MRE
-controller = MRE
-add_core = MRE
-add_core = OGD
+owner = ---
+controller = ---
+add_core = ---
 culture = somali
 religion = sunni
 capital = "Wardheer"
