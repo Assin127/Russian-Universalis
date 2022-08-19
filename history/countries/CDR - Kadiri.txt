@@ -19,8 +19,8 @@ capital = 2689
 
 1080.7.25 = {
 	heir = {
-		name = "Çri Jayawarşa"
-		monarch_name = "Çri Jayawarşa"
+		name = "�ri Jayawarsa"
+		monarch_name = "�ri Jayawarsa"
 		dynasty = "Kadiri"
 		birth_date = 1080.1.1
 		death_date = 1115.1.1
