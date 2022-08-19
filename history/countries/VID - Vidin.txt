@@ -2,7 +2,7 @@
 
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 2
+government_rank = 1
 technology_group = eastern
 primary_culture = bulgarian
 religion = orthodox
@@ -118,7 +118,7 @@ capital = 2746	#Видин
 }
 
 1356.1.1 = {
-government_rank = 3
+government_rank = 2
 }
 
 1369.1.1 = {
@@ -137,7 +137,7 @@ government_rank = 3
 
 1396.1.1 = {
 	monarch = {
-		name = "Konstantin II Asen"
+		name = "Konstantin I Asen"
 		dynasty = "Shishman"
 		birth_date = 1369.1.1
 		adm = 3
