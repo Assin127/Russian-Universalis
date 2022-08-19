@@ -66,6 +66,8 @@ l_english:
  CDR_ADJ: "¦ª¬"
  CER: "Ì"
  CER_ADJ: "Ì¬"
+ CIO: "Ûª" ## RU004
+ CIO_ADJ: "Ûª¬" ## RU004
  CHB: "Û¡"
  CHBN_ADJ: "Û¡¬"
  CHN: "Ì°¦®"
