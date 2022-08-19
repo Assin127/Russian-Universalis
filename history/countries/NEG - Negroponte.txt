@@ -1,6 +1,7 @@
 ### RU004 - Added
 
 government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = lombard
 add_accepted_culture = venetian
@@ -17,6 +18,19 @@ historical_friend = VEN
 		adm = 3
 		dip = 4
 		mil = 4
+	}
+}
+1296.1.1 = {
+	heir = {
+		name = "Dzhovanni"
+		monarch_name = "Dzhovanni"
+		dynasty = "dalle Karcheri"
+       	birth_date = 1280.1.1
+		death_date = 1330.7.31
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
 	}
 }
 1340.1.1 = {
