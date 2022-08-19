@@ -1,5 +1,8 @@
 #1180 - Transkei
 
+owner = XHO
+controller = XHO
+add_core = XHO
 culture = nguni
 religion = shamanism #Fetishism
 capital = "Thembu"

@@ -1,5 +1,4 @@
-#338 - Al-Djazair
-
+# 338 - Al-Djazair
 owner = HMM
 controller = HMM
 culture = algerian
@@ -7,7 +6,7 @@ religion = sunni
 capital = "Al-Djazair"
 trade_goods = grain
 hre = no
-base_tax = 5 
+base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
@@ -18,21 +17,10 @@ discovered_by = ottoman
 discovered_by = eastern
 extra_cost = 8
 center_of_trade = 1
-1151.1.1 = {
-	owner = ALD
-	controller = ALD
-	add_core = ALD
-}
-1229.1.1 = {
-	owner = DHF
-	controller = DHF
-	add_core = DHF
-}
-1510.1.1 = {
-	owner = ALG
-	controller = ALG
-} # Captured by Spain
-1524.1.1 = { controller = KBA } #War with the Kabyles
-1525.1.1 = { controller = ALG } #Retaken by Barbarossa
+1151.1.1 = { owner = ALD controller = ALD add_core = ALD } 
+1229.1.1 = { owner = TUN controller = TUN add_core = TUN } 
+1510.1.1 = { owner = ALG controller = ALG } # Captured by Spain
+1524.1.1 = { controller = KBA } # War with the Kabyles
+1525.1.1 = { controller = ALG } # Retaken by Barbarossa
 1530.1.1 = { fort_15th = yes } # Fortified
-1581.1.1 = { fort_15th = no fort_16th = yes }
+1581.1.1 = { fort_15th = no fort_16th = yes } 

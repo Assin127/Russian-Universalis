@@ -1,10 +1,9 @@
-#Karagwe
-
+# Karagwe
 owner = KRW
 controller = KRW
 add_core = KRW
 culture = ganda
-religion = shamanism #Fetishism
+religion = shamanism # Fetishism
 capital = "Karagwe"
 trade_goods = iron
 hre = no
@@ -13,3 +12,4 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 discovered_by = central_african
+1410.1.1 = { owner = KIT controller = KIT add_core = KIT } 

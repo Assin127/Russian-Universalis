@@ -1,7 +1,10 @@
 # - Graaff-Reinet
 
+owner = XHO
+controller = XHO
+add_core = XHO
 culture = nguni
-religion = shamanism #Fetishism
+religion = shamanism
 capital = "Graaff-Reinet"
 trade_goods = unknown
 hre = no
