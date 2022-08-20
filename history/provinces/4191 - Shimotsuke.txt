@@ -19,6 +19,11 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
+941.1.1 = {
+	owner = TAIR
+	controller = TAIR
+	add_core = TAIR}
+
 1002.1.1 = {
 	owner = MNO 
 	controller = MNO 

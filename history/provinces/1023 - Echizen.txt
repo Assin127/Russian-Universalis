@@ -19,13 +19,18 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1192.1.1 = {
+1154.1.1 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO}
+	
+1333.1.1 = {
 	owner = SBA
 	controller = SBA
 	add_core = SBA
-	add_core = ASA
 }
-1471.7.1 = { owner = ASA controller = ASA }
+
+1471.7.1 = { owner = ASA controller = ASA add_core = ASA}
 1471.7.1 = { capital = "Ichijodani" }
 1487.1.1 = { remove_core = SBA }
 1542.1.1 = { discovered_by = POR }

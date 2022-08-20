@@ -20,7 +20,7 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1192.1.1 = {
+1165.1.1 = {
 	owner = MNO
 	controller = MNO
 	add_core = MNO}

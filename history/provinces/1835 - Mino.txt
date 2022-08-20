@@ -1,7 +1,7 @@
 #1835 - Mino
 
-owner = TKI
-controller = TKI
+owner = JAP
+controller = JAP
 culture = togoku
 religion = shinto
 capital = "Inabayama"
@@ -11,7 +11,7 @@ base_tax = 4
 base_manpower = 3
 base_production = 4
 is_city = yes
-add_core = TKI
+add_core = JAP
 fort_15th = yes #Inabayama Castle
 discovered_by = chinese
 discovered_by = MCH
@@ -20,6 +20,25 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
+1045.5.5 {
+	owner = HJO
+	controller = HJO
+	add_core = HJO}
+	
+1124.1.1 {
+	owner = TAIR
+	controller = TAIR
+	add_core = TAIR}
+	
+1153.1.1 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO}
+
+1333.1.1 = {
+	owner = TKI
+	controller = TKI
+	add_core = TKI}
 
 #1440.1.1 = { fort_15th = yes } # Inabayama (later Gifu) Castle, Estimation
 1542.1.1 = { discovered_by = POR }
