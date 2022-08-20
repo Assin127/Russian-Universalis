@@ -19,7 +19,19 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1192.1.1 = {
+
+
+1126.1.1 = {
+	owner = TKD
+	controller = TKD
+	add_core = TKD
+}	
+1166.1.1 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO
+}
+1333.1.1 = {
 	owner = TKD
 	controller = TKD
 	add_core = TKD

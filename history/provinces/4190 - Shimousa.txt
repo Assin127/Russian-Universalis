@@ -1,7 +1,7 @@
 #4190 - Shimousa
 
-owner = CBA
-controller = CBA
+owner = JAP 
+controller = JAP 
 culture = togoku
 religion = shinto
 capital = "Sakura"
@@ -11,7 +11,7 @@ base_tax = 2
 base_manpower = 2
 base_production = 1
 is_city = yes
-add_core = CBA
+add_core = JAP 
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -19,6 +19,21 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
+1032.1.1 = {
+	owner = HJO
+	controller = HJO
+	add_core = HJO
+}
+1160.1.1 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO
+}
+1333.1.1 = {
+	owner = CBA
+	controller = CBA
+	add_core = CBA
+}
 1542.1.1 = { discovered_by = POR }
 1570.1.1 = { add_core = HJO } # The Hojo expands the territory into Shimousa
 1585.1.1 = { owner = HJO controller = HJO add_core = HJO remove_core = CBA } # The Chiba clan became vassal of the Hojo
