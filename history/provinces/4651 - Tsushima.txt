@@ -18,6 +18,15 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
+1190.1.1 = {
+	owner = OTM
+	controller = OTM
+	add_core = OTM}
+1250.1.1 = {
+	owner = SOO
+	controller = SOO
+	add_core = SOO}
+	
 1542.1.1   = { discovered_by = POR }
 1550.1.1   = { add_core = OTM }
 1557.4.3   = { owner = OTM controller = OTM }
