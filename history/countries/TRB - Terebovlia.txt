@@ -18,7 +18,4 @@ fixed_capital = 281 # Cannot move capital away from this province & no power cos
 		mil = 5
 	}
 }
-1259.1.1 = {
-	set_country_flag = random_rurikovich
-} ## RU014
 
