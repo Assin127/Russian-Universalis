@@ -1,9 +1,8 @@
-#2757 - Kaffa
-
-owner = KAF
-controller = KAF
-add_core = KAF
-culture = sidamo 
+# 2757 - Kaffa
+owner = DAM
+controller = DAM
+add_core = DAM
+culture = sidamo
 religion = coptic
 capital = "Anderaccha"
 is_city = yes
@@ -11,9 +10,9 @@ base_manpower = 4
 trade_goods = gold
 hre = no
 base_tax = 4
-base_production = 3 
-
+base_production = 3
 discovered_by = east_african
 discovered_by = muslim
-
-
+1317.1.1 = { owner = KAF
+controller = KAF
+add_core = KAF}

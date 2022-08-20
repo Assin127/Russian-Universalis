@@ -1,7 +1,10 @@
 #1177 - Cape
 
-culture = khoisan
-religion = shamanism #Fetishism
+owner = XHO
+controller = XHO
+add_core = XHO
+culture = nguni
+religion = shamanism
 capital = "Cape"
 trade_goods = unknown
 hre = no
