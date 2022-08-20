@@ -18,7 +18,18 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
+
+1129.1.1 = {
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1192.1.1 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO
+}
+1333.1.1 = {
 	owner = AMA
 	controller = AMA
 	add_core = AMA

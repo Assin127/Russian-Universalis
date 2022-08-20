@@ -17,6 +17,7 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
+
 1192.1.1 = {
 	owner = SMZ
 	controller = SMZ

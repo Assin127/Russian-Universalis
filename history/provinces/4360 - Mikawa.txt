@@ -1,7 +1,7 @@
 #4360 - Mikawa
 
-owner = TKG
-controller = TKG
+owner = JAP
+controller = JAP
 culture = togoku
 religion = shinto
 capital = "Okazaki"
@@ -11,7 +11,7 @@ base_tax = 2
 base_manpower = 3
 base_production = 2
 is_city = yes
-add_core = TKG
+add_core = JAP
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -19,6 +19,26 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
+1045.1.1 = {
+	owner = HJO
+	controller = HJO
+	add_core = HJO
+}
+1122.1.1 = {
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
+1143.1.1 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO
+}
+1333.1.1 = {
+	owner = TKG
+	controller = TKG
+	add_core = TKG
+}
 1549.4.3 = { owner = IMG controller = IMG add_core = IMG }
 1560.6.12 = { owner = TKG controller = TKG remove_core = IMG }
 1590.8.10 = { add_core = IKE owner = IKE controller = IKE remove_core = TKG }
