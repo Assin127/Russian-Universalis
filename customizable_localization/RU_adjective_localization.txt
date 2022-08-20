@@ -103,6 +103,13 @@ defined_text = {
 		}
 
     }
+    text = { ## RU017
+        localisation_key = ADJ_LCK
+        trigger = {
+			tag = LCK
+		}
+
+    }
     text = { ## RU002
         localisation_key = ADJ_THS
         trigger = {
