@@ -110,6 +110,20 @@ defined_text = {
 		}
 
     }
+    text = { ## RU017
+        localisation_key = ADJ_RSK
+        trigger = {
+			tag = RSK
+		}
+
+    }
+    text = { ## RU017
+        localisation_key = ADJ_VYZ
+        trigger = {
+			tag = VYZ
+		}
+
+    }
     text = { ## RU002
         localisation_key = ADJ_THS
         trigger = {
