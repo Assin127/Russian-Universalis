@@ -1,0 +1,20 @@
+### RU017 - Added
+
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+primary_culture = ryazanian
+religion = orthodox
+technology_group = eastern
+capital = 4245  #Vyazma
+fixed_capital = 4245 # Cannot move capital away from this province & no power cost to move to it
+
+1259.1.1 = {
+	monarch = {
+		name = "Andrei"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+} ## RU017
