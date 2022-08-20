@@ -19,6 +19,11 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
+1077.1.1 = {
+	owner = FJW
+	controller = FJW
+	add_core = FJW
+}
 1192.1.1 = {
 	owner = DTE
 	controller = DTE

@@ -44,3 +44,26 @@ religious_school = maliki_school
 		mil = 1
 	}
 }
+1104.1.1 = {
+	add_government_reform = feudalism_reform
+	religion = catholic
+	remove_accepted_culture = berber
+	technology_group = western
+	monarch = {
+		name = "Pedro Ruiz"
+		dynasty = "de Azagre"
+		birth_date = 1076.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+1134.11.11 = {
+	monarch = {
+		name = "Noble Ruler"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

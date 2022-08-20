@@ -97,10 +97,22 @@ vassal = {
 } ## RU014
 vassal = {
 	first = GLC
-	second = TRB
-	start_date = 1140.1.1
+	second = LCK
+	start_date = 1157.1.1
 	end_date = 1340.1.1
-} ## RU014
+} ## RU017
+vassal = {
+	first = GLC
+	second = BLZ
+	start_date = 1170.1.1
+	end_date = 1340.1.1
+} ## RU017
+vassal = {
+	first = VOL
+	second = BEL
+	start_date = 1170.1.1
+	end_date = 1341.1.1
+} ## RU017
 #Chernigov vassal
 vassal = {
 	first = CHR

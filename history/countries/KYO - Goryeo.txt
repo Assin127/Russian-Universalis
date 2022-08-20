@@ -1,0 +1,265 @@
+### RU019 - Added
+
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = korean
+religion = mahayana
+technology_group = chinese
+capital = 735	# Hanseong
+
+1213.1.1 = {
+	monarch = {
+		name = "Gojong"
+		dynasty = "Goryeo"
+		birth_date = 1192.2.3
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1219.4.5 = {
+	heir = {
+		name = "Wonjong"
+		monarch_name = "Wonjong"
+		dynasty = "Goryeo"
+		birth_date = 1219.4.5
+		death_date = 1274.7.23
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1260.1.1 = {
+	monarch = {
+		name = "Wonjong"
+		dynasty = "Goryeo"
+		birth_date = 1219.4.5
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1260.1.2 = {
+	heir = {
+		name = "Chungnyeol"
+		monarch_name = "Chungnyeol"
+		dynasty = "Goryeo"
+		birth_date = 1236.4.3
+		death_date = 1308.7.30
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1274.1.1 = {
+	monarch = {
+		name = "Chungnyeol"
+		dynasty = "Goryeo"
+		birth_date = 1236.4.3
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1275.10.20 = {
+	heir = {
+		name = "Chungseon"
+		monarch_name = "Chungseon"
+		dynasty = "Goryeo"
+		birth_date = 1275.10.20
+		death_date = 1325.6.23
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1308.1.1 = {
+	monarch = {
+		name = "Chungseon"
+		dynasty = "Goryeo"
+		birth_date = 1275.10.20
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1308.1.1 = {
+	heir = {
+		name = "Chungsuk"
+		monarch_name = "Chungsuk"
+		dynasty = "Goryeo"
+		birth_date = 1294.7.30
+		death_date = 1339.5.3
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1313.1.1 = {
+	monarch = {
+		name = "Chungsuk"
+		dynasty = "Goryeo"
+		birth_date = 1294.7.30
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1330.1.1 = {
+	monarch = {
+		name = "Chunghye"
+		dynasty = "Goryeo"
+		birth_date = 1315.2.22
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1332.1.1 = {
+	monarch = {
+		name = "Chungsuk"
+		dynasty = "Goryeo"
+		birth_date = 1294.7.30
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+
+
+1339.1.1 = {
+	monarch = {
+		name = "Chunghye"
+		dynasty = "Goryeo"
+		birth_date = 1315.2.22
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1339.1.1 = {
+	heir = {
+		name = "Chungmok"
+		monarch_name = "Chungmok"
+		dynasty = "Goryeo"
+		birth_date = 1337.5.15
+		death_date = 1348.12.25
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+
+1344.1.1 = {
+	monarch = {
+		name = "Chungmok"
+		dynasty = "Goryeo"
+		birth_date = 1337.5.15
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1348.1.1 = {
+	monarch = {
+		name = "Chungjeong"
+		dynasty = "Goryeo"
+		birth_date = 1337.1.15
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1351.1.1 = {
+	monarch = {
+		name = "Chungjeong"
+		dynasty = "Goryeo"
+		birth_date = 1330.5.23
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+1365.7.25 = {
+	heir = {
+		name = "U"
+		monarch_name = "U"
+		dynasty = "Goryeo"
+		birth_date = 1365.7.25
+		death_date = 1389.12.31
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1374.1.1 = {
+	monarch = {
+		name = "U"
+		dynasty = "Goryeo"
+		birth_date = 1365.7.25
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+1381.9.6 = {
+	heir = {
+		name = "Chang"
+		monarch_name = "Chang"
+		dynasty = "Goryeo"
+		birth_date = 1381.9.6
+		death_date = 1389.12.31
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1388.1.1 = {
+	monarch = {
+		name = "Chang"
+		dynasty = "Goryeo"
+		birth_date = 1365.7.25
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1389.5.5 = {
+	monarch = {
+		name = "Gongyang"
+		dynasty = "Goryeo"
+		birth_date = 1345.3.9
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+
+
+
+

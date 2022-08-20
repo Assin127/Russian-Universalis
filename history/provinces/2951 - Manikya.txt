@@ -1,8 +1,7 @@
 # - Manikya
-
-owner = ZIM
-controller = ZIM
-add_core = ZIM
+owner = ---
+controller = ---
+add_core = ---
 culture = shona
 religion = shamanism
 capital = "Masakesa"
@@ -10,16 +9,11 @@ is_city = yes
 base_manpower = 1
 trade_goods = ivory
 hre = no
-base_tax = 2 
+base_tax = 2
 base_production = 2
-
 discovered_by = east_african
 discovered_by = central_african
-
-
-1513.1.1 = { discovered_by = POR } #Travels of Antonio Fernandes in hinterland of Sofala
-1690.1.1 = {
-	owner = RZI
-	controller = RZI
-	add_core = RZI
-}
+1240.1.1 = { owner = GZI controller = GZI add_core = GZI } 
+1430.1.1 = { owner = ZIM controller = ZIM add_core = ZIM } 
+1513.1.1 = { discovered_by = POR } # Travels of Antonio Fernandes in hinterland of Sofala
+1690.1.1 = { owner = RZI controller = RZI add_core = RZI } 

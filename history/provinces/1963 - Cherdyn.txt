@@ -4,7 +4,7 @@ owner = PRM
 controller = PRM
 capital = "Cherdyn"
 culture = uralic
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = shamanism #Sami Shamanism
 trade_goods = salt
 hre = no
 base_tax = 3 
@@ -16,9 +16,6 @@ discovered_by = eastern
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-
-
-
 1455.1.1 = { religion = orthodox }
 1505.4.1 = {
 	owner = RUS

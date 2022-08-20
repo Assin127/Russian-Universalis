@@ -38,6 +38,7 @@ discovered_by = nomad_group
 1204.1.1 = {
 	owner = NIE
 	controller = NIE
+	add_core = NIE
 }
 1207.1.1 = {
 	owner = RUM
@@ -62,6 +63,8 @@ discovered_by = nomad_group
 	owner = TUR
 	controller = TUR
 	add_core = TUR
+	culture = turkish
+	religion = sunni
 }
 1403.1.1 = {
 	owner = GRM

@@ -1,5 +1,4 @@
-#336 - Tlemcen
-
+# 336 - Tlemcen
 owner = ALM
 controller = ALM
 add_core = ALM
@@ -8,36 +7,20 @@ religion = sunni
 capital = "Tlemcen"
 trade_goods = cloth
 hre = no
-base_tax = 5 
+base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-fort_15th = yes #Tlemcen Fortifications, site of many long sieges - Controls this area.
+fort_15th = yes # Tlemcen Fortifications, site of many long sieges - Controls this area.
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
-1145.1.1 = {
-	owner = ALD
-	controller = ALD
-	add_core = ALD
-}
-1236.1.1 = {
-	owner = DAB
-	controller = DAB
-	add_core = DAB
-}
-1549.1.1 = {
-	owner = MOR
-	controller = MOR
-	add_core = MOR
-} #Conquered by the Saadians
-1554.1.1 = {
-	owner = ALG
-	controller = ALG
-	add_core = ALG
-}
+1145.1.1 = { owner = ALD controller = ALD add_core = ALD } 
+1236.1.1 = { owner = TLC controller = TLC add_core = TLC } 
+1549.1.1 = { owner = MOR controller = MOR add_core = MOR } # Conquered by the Saadians
+1554.1.1 = { owner = ALG controller = ALG add_core = ALG } 
 1659.1.1 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Janissary revolt
-1660.1.1 = { revolt = {} controller = ALG }
+1660.1.1 = { revolt = { } controller = ALG } 

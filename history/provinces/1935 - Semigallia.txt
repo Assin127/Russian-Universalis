@@ -17,13 +17,18 @@ native_size = 30
 native_ferocity = 6
 native_hostileness = 4
 
-1250.1.1 = {
+1230.1.1 = {
+	owner = KUR
+	controller = KUR
+	add_core = KUR
+	is_city = yes
+	trade_goods = naval_supplies
+}
+1290.1.1 = {
 	owner = LIV
 	controller = LIV
 	add_core = LIV
 	add_core = KUR
-	is_city = yes
-	trade_goods = naval_supplies
 	religion = catholic
 }
 

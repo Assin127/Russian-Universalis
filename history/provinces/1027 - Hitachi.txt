@@ -22,9 +22,24 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1192.1.1 = {
+975.1.1 = {
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
+1025.1.1 = {
+	owner = HJO
+	controller = HJO
+	add_core = HJO
+}
+1180.1.1 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO
+}
+1333.1.1 = {
 	owner = STK
-	controller = STK
+	controller = STK 
 	add_core = STK
 }
 1542.1.1 = { discovered_by = POR }

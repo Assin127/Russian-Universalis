@@ -1,11 +1,10 @@
 #220 - València
 
-owner = ARA	#Alfons V of Aragon
-controller = ARA
-add_core = ARA
-add_core = VAL
-culture = catalan
-religion = catholic
+owner = ALM	
+controller = ALM
+add_core = ALM
+culture = andalucian
+religion = sunni
 hre = no
 base_tax = 6 
 base_production = 5
@@ -21,11 +20,24 @@ discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
 
+1150.1.1 = {
+	owner = ALD		
+	controller = ALD
+	add_core = ALD
+}
+1238.9.29 = {
+	owner = ARA	
+	controller = ARA
+	add_core = ARA
+	add_core = VAL 
+	religion = catholic
+	culture = catalan
+}
 1516.1.23 = {
 	controller = SPA
 	owner = SPA
 	add_core = SPA
-	} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 1519.7.1 = { unrest = 2 } # Revolt of the Germanies, which is at first moderate and appeased by the King
 1521.5.1 = { unrest = 0 revolt = { type = revolutionary_rebels size = 2 } controller = REB } # The revolt radicalizes and the Agermanats organize an army 
 1521.9.11 = { revolt = {} controller = SPA } # The Agermanats are soundly defeated in Oriola, València capitulates alongside most revolted towns.
