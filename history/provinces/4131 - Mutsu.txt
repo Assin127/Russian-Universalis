@@ -24,7 +24,6 @@ discovered_by = ANU
 	controller = FJW
 	add_core = FJW
 }
-
 1196.1.1 = {owner = RFR controller = RFR}
 1542.1.1 = { discovered_by = POR }
 1576.1.1 = { capital = "Morioka" }

@@ -22,16 +22,18 @@ discovered_by = ANU
 1020.1.1 = {
 	owner = HJO
 	controller = HJO
-	add_core = HJO}
-
+	add_core = HJO
+}
 1166.1.1 = {
 	owner = MNO
 	controller = MNO
-	add_core = MNO}
+	add_core = MNO
+}
 1333.1.1 = {
 	owner = ASK
 	controller = ASK
-	add_core = ASK}
+	add_core = ASK
+}
 1493.1.1 = {
 	owner = HJO
 	controller = HJO

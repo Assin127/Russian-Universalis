@@ -24,13 +24,13 @@ discovered_by = ANU
 1126.1.1 = {
 	owner = TKD
 	controller = TKD
-	add_core = TKD}
-	
+	add_core = TKD
+}	
 1166.1.1 = {
 	owner = MNO
 	controller = MNO
-	add_core = MNO}
-	
+	add_core = MNO
+}
 1333.1.1 = {
 	owner = TKD
 	controller = TKD

@@ -23,28 +23,28 @@ discovered_by = QNG
 1141.1.1 = {
 	owner = AKM
 	controller = AKM
-	add_core = AKM}
-	
+	add_core = AKM
+}
 1170.1.1 = {
-	owner = TAIR
-	controller = TAIR
-	add_core = TAIR}
-
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1187.5.3 = {
 	owner = MNO
 	controller = MNO
-	add_core = MNO}
-
+	add_core = MNO
+}
 1333.1.1 = {
 	owner = AKM
 	controller = AKM 
-	add_core = AKM}
-	
+	add_core = AKM
+}
 1453.1.1 = {
 	owner = YMN
 	controller = YMN
-	add_core = YMN}
-
+	add_core = YMN
+}
 1468.1.1 = { owner = AKM controller = AKM }
 1488.1.1 = { remove_core = YMN }
 1520.1.1   = { add_core = AMA }

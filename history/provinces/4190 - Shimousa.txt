@@ -22,18 +22,18 @@ discovered_by = ANU
 1032.1.1 = {
 	owner = HJO
 	controller = HJO
-	add_core = HJO}
-
+	add_core = HJO
+}
 1160.1.1 = {
 	owner = MNO
 	controller = MNO
-	add_core = MNO}
-	
+	add_core = MNO
+}
 1333.1.1 = {
 	owner = CBA
 	controller = CBA
-	add_core = CBA}
-
+	add_core = CBA
+}
 1542.1.1 = { discovered_by = POR }
 1570.1.1 = { add_core = HJO } # The Hojo expands the territory into Shimousa
 1585.1.1 = { owner = HJO controller = HJO add_core = HJO remove_core = CBA } # The Chiba clan became vassal of the Hojo

@@ -20,25 +20,25 @@ discovered_by = QNG
 discovered_by = ANU
 
 939.1.1 = {
-	owner = TAIR
-	controller = TAIR
-	add_core = TAIR}
-
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1030.1.1 = {
 	owner = HJO
 	controller = HJO
-	add_core = HJO}
-
+	add_core = HJO
+}
 1118.1.1 = {
 	owner = MNO
 	controller = MNO
-	add_core = MNO}
-	
+	add_core = MNO
+}
 1333.1.1 = {
 	owner = UES
 	controller = UES
-	add_core = UES}
-	
+	add_core = UES
+}
 1542.1.1 = { discovered_by = POR }
 1546.5.19 = { add_core = HJO }
 1560.1.1 = { add_core = TKD }

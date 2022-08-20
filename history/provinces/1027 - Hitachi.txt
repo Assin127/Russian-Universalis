@@ -23,15 +23,15 @@ discovered_by = QNG
 discovered_by = ANU
 
 975.1.1 = {
-	owner = TAIR
-	controller = TAIR
-	add_core = TAIR}
-
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1025.1.1 = {
 	owner = HJO
 	controller = HJO
-	add_core = HJO}
-
+	add_core = HJO
+}
 1180.1.1 = {
 	owner = MNO
 	controller = MNO
@@ -40,8 +40,8 @@ discovered_by = ANU
 1333.1.1 = {
 	owner = STK
 	controller = STK 
-	add_core = STK }
-	
+	add_core = STK
+}
 1542.1.1 = { discovered_by = POR }
 1602.5.17 = { owner = TKG controller = TKG add_core = TKG remove_core = STK } # The Satake clan moved to Akita
 1609.1.1 = { capital = "Mito" } # Mito-Tokugawa han

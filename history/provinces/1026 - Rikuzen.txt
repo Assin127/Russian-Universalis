@@ -24,7 +24,6 @@ discovered_by = ANU
 	controller = FJW
 	add_core = FJW
 }
-
 1192.1.1 = {
 	owner = DTE
 	controller = DTE

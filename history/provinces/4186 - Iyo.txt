@@ -1,7 +1,7 @@
 #4186 - Iyo
 
-owner = KNO
-controller = KNO
+owner = JAP
+controller = JAP
 culture = japanese
 religion = shinto
 capital = "Yuzuki"
@@ -11,7 +11,7 @@ base_tax = 3
 base_manpower = 2
 base_production = 2
 is_city = yes
-add_core = KNO
+add_core =JAP
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -19,20 +19,20 @@ discovered_by = OIR
 discovered_by = QNG
 
 1130.1.1 = {
-	owner = TAIR
-	controller = TAIR
-	add_core = TAIR}
-
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1188.1.1 = {
 	owner = KNO
 	controller = KNO
-	add_core = KNO}
-
+	add_core = KNO
+}
 1344.1.1 = {
 	owner = HSK
 	controller = HSK
-	add_core = HSK}
-
+	add_core = HSK
+}
 1586.1.1 = { add_core = MRI owner = MRI controller = MRI remove_core = KNO } # Fall of the Kono Clan
 1600.10.21 = { owner = TKG controller = TKG add_core = TKG remove_core = MRI }
 1614.12.18 = { add_core = DTE owner = DTE controller = DTE remove_core = TKG } # Date-Uwajima Clan

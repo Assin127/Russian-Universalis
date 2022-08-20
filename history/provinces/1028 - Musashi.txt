@@ -22,15 +22,15 @@ extra_cost = 16
 center_of_trade = 2
 
 963.1.1 = {
-	owner = TAIR
-	controller = TAIR
-	add_core = TAIR}
-
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1022.1.1 = {
 	owner = HJO
 	controller = HJO
-	add_core = HJO}
-
+	add_core = HJO
+}
 1180.1.1 = {
 	owner = MNO 
 	controller = MNO 
@@ -39,13 +39,13 @@ center_of_trade = 2
 1333.1.1 = {
 	owner = ASK
 	controller = ASK
-	add_core = ASK}
-	
+	add_core = ASK
+}
 1352.1.1 = {
 	owner = UES
 	controller = UES
-	add_core = UES}
-	
+	add_core = UES
+}
 1457.1.1 = { fort_15th = yes } # Edo Castle
 1524.1.1 = { add_core = HJO }
 1542.1.1 = { discovered_by = POR }

@@ -19,16 +19,15 @@ discovered_by = OIR
 discovered_by = QNG
 
 1144.1.1 = {
-	owner = TAIR
-	controller = TAIR
-	add_core = TAIR}
-
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1190.1.1 = {
 	owner = SHN
 	controller = SHN
-	add_core = SHN}
-
-
+	add_core = SHN
+}
 1542.1.1   = { discovered_by = POR }
 1584.5.4 = { add_core = SMZ owner = SMZ controller = SMZ }
 #Battle of Okitanawate

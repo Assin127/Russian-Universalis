@@ -20,21 +20,21 @@ discovered_by = QNG
 discovered_by = ANU
 
 
-1156.1.1 {
-	owner = TAIR
-	controller = TAIR
-	add_core = TAIR}
-	
+1156.1.1 = {
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1160.1.1 = {
 	owner = MNO
 	controller = MNO
-	add_core = MNO}
-
+	add_core = MNO
+}
 1333.1.1 = {
 	owner = KTB
 	controller = KTB
-	add_core = KTB}
-	
+	add_core = KTB
+}
 1400.1.1 = {
 	owner = SBA
 	controller = SBA
@@ -43,8 +43,8 @@ discovered_by = ANU
 1443.1.1 = {
 	owner = ODA
 	controller = ODA
-	add_core = ODA}
-	
+	add_core = ODA
+}
 1532.1.1 = { capital = "Nagoya" }
 1532.1.1 = { fort_15th = yes } # Kiyosu Castle, the capital of the Oda clan
 1542.1.1 = { discovered_by = POR }

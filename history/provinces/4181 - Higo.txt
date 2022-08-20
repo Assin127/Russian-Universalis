@@ -19,19 +19,18 @@ discovered_by = OIR
 discovered_by = QNG
 
 1146.1.1 = {
-	owner = TAIR
-	controller = TAIR
-	add_core = TAIR}
-
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1190.1.1 = {
 	owner = KKC
 	controller = KKC
-	add_core = KKC}
-	
+	add_core = KKC
+}
 1356.1.1 = {
 	add_core = SMZ
 }
-
 1542.1.1 = { discovered_by = POR }
 1554.1.1 = { add_core = OTM owner = OTM controller = OTM remove_core = KKC }
 1578.11.12 = { add_core = SMZ }

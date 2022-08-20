@@ -22,14 +22,13 @@ discovered_by = ANU
 1154.1.1 = {
 	owner = MNO
 	controller = MNO
-	add_core = MNO}
-	
+	add_core = MNO
+}
 1333.1.1 = {
 	owner = SBA
 	controller = SBA
 	add_core = SBA
 }
-
 1471.7.1 = { owner = ASA controller = ASA add_core = ASA}
 1471.7.1 = { capital = "Ichijodani" }
 1487.1.1 = { remove_core = SBA }

@@ -17,11 +17,12 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-1144.1.1 = {
-	owner = TAIR
-	controller = TAIR
-	add_core = TAIR}
 
+1144.1.1 = {
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1192.1.1 = {
 	owner = OTM
 	controller = OTM

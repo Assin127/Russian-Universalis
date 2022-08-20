@@ -20,21 +20,23 @@ discovered_by = QNG
 discovered_by = ANU
 
 941.1.1 = {
-	owner = TAIR
-	controller = TAIR
-	add_core = TAIR}
-
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1002.1.1 = {
 	owner = MNO 
 	controller = MNO 
-	add_core = MNO }	
-	
+	add_core = MNO
+}	
 1154.1.1 = {
 	owner = ASK
 	controller = ASK
-	add_core = ASK}
+	add_core = ASK
+}
 1337.1.1 = {
 	owner = UTN
 	controller = UTN
-	add_core = UTN}
+	add_core = UTN
+}
 1597.1.1 = { remove_core = UTN add_core = TKG owner = TKG controller = TKG } # The Utsunomiya clan was banished from Shimotsuke

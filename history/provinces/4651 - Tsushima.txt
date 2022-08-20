@@ -1,7 +1,7 @@
 #4651 - Tsushima
 
-owner = SOO
-controller = SOO
+owner = JAP
+controller = JAP
 culture = kyushuan
 religion = shinto
 capital = "Tsushima"
@@ -11,7 +11,7 @@ base_tax = 2
 base_manpower = 1
 base_production = 1
 is_city = yes
-add_core = SOO
+add_core = JAP
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -21,12 +21,13 @@ discovered_by = QNG
 1190.1.1 = {
 	owner = OTM
 	controller = OTM
-	add_core = OTM}
+	add_core = OTM
+}
 1250.1.1 = {
 	owner = SOO
 	controller = SOO
-	add_core = SOO}
-	
+	add_core = SOO
+}
 1542.1.1   = { discovered_by = POR }
 1550.1.1   = { add_core = OTM }
 1557.4.3   = { owner = OTM controller = OTM }

@@ -20,25 +20,26 @@ discovered_by = OIR
 discovered_by = QNG
 
 1170.1.1 = {
-	owner = TAIR
-	controller = TAIR
-	add_core = TAIR}
-
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
 1188.5.3 = {
 	owner = MNO
 	controller = MNO
-	add_core = MNO}
-	
+	add_core = MNO
+}
 1333.1.1 = {
 	owner = MRI
 	controller = MRI
-	add_core = MRI}
-	
+	add_core = MRI
+}
+
 1459.1.1 = {
 	owner = YMN
 	controller = YMN
-	add_core = YMN}
-
+	add_core = YMN
+}
 1420.1.1 = { add_core = OUC }
 1470.1.1 = { owner = OUC controller = OUC }
 1520.1.1 = { add_core = AMA }
