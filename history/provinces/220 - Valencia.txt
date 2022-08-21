@@ -1,8 +1,8 @@
 #220 - València
 
-owner = ALM	
-controller = ALM
-add_core = ALM
+owner = VAL	
+controller = VAL
+add_core = VAL
 culture = andalucian
 religion = sunni
 hre = no
@@ -20,6 +20,11 @@ discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
 
+1102.1.1 = {
+	owner = ALM		
+	controller = ALM
+	add_core = ALM
+}
 1150.1.1 = {
 	owner = ALD		
 	controller = ALD
