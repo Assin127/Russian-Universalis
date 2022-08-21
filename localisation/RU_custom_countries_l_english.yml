@@ -87,6 +87,7 @@ l_english:
  ADJ_KRS: "¬³¬"
  ADJ_KRT: "¬ª²¬"
  ADJ_LAE: "®²ª°¬" ## RU002
+ ADJ_LCK: "®³µ¬" ## RU017
  ADJ_LEG: "®¥°ªµ¬"
  ADJ_LEM: "®¯¬"
  ADJ_LIA: "®¾¬"
@@ -127,6 +128,7 @@ l_english:
  ADJ_PRS: "±¾®¢¬"
  ADJ_PRZ: "±®¢®¿-©®¬" ## RU010
  ADJ_RAV: "¢°¬"
+ ADJ_RSK: "º®¿¬" ## RU017
  ADJ_RET: "²®¿¬"
  ADJ_ROD: "¦©¬"
  ADJ_ROU: "³ª®¿°¬"
@@ -164,6 +166,7 @@ l_english:
  ADJ_VBL: "¡³®¥¬"
  ADJ_VID: "¢ª¦ª°¬"  ## RU004
  ADJ_VIV: "¢ª¢þ¬"
+ ADJ_VYZ: "¢¾©¯¬" ## RU017
  ADJ_VLA: "¢®þ¬"
  ADJ_VLD: "¢®¦ª¯ª¬" ## RU010
  ADJ_VRD: "¢¯°¦³þ¬"
@@ -266,6 +269,7 @@ l_english:
  TAG_DT_KRS: "³¬³"
  TAG_DT_KRT: "ª²¯"
  TAG_DT_LAE: "ˆ²ª°¬þ ª¯±ªª" ## RU002
+ TAG_DT_LCK: "ˆ³µ¬³" ## RU017
  TAG_DT_LEG: "ˆ¥°ªµ"
  TAG_DT_LEM: "ˆ¯"
  TAG_DT_LIA: "ˆ¾"
@@ -306,6 +310,7 @@ l_english:
  TAG_DT_PRS: "‰¾®¢³"
  TAG_DT_PRZ: "‰®¢®½-…®¬¯³" ## RU010
  TAG_DT_RAV: "Ð¢°"
+ TAG_DT_RSK: "Ðº®¿¬³" ## RU017
  TAG_DT_RET: "Ð²®½"
  TAG_DT_ROD: "Ð¦©³"
  TAG_DT_ROU: "Ð³ª®¿°³"
@@ -343,6 +348,7 @@ l_english:
  TAG_DT_VBL: "Ï®¨¬þ €³®¥ªª"
  TAG_DT_VID: "Ïª¦ª°³" ## RU004
  TAG_DT_VIV: "Ïª¢"
+ TAG_DT_VYZ: "Ï¾©¿¯" ## RU017
  TAG_DT_VLA: "Ï®"
  TAG_DT_VLD: "Ï®¦ª¯ª³" ## RU010
  TAG_DT_VRD: "Ï¯°¦³"
@@ -445,6 +451,7 @@ l_english:
  TAG_PR_KRS: "³¬"
  TAG_PR_KRT: "ª²"
  TAG_PR_LAE: "ˆ²ª°¬þ ª¯±ªª" ## RU002
+ TAG_PR_LCK: "ˆ³µ¬" ## RU017
  TAG_PR_LEG: "ˆ¥°ªµ"
  TAG_PR_LEM: "ˆ¯"
  TAG_PR_LIA: "ˆ¾"
@@ -485,6 +492,7 @@ l_english:
  TAG_PR_PRS: "‰¾®¢"
  TAG_PR_PRZ: "‰®¢®-…®¬¯" ## RU010
  TAG_PR_RAV: "Ð¢°"
+ TAG_PR_RSK: "Ðº®¿¬" ## RU017
  TAG_PR_RET: "Ð²®"
  TAG_PR_ROD: "Ð¦©"
  TAG_PR_ROU: "Ð³ª®¿°"
@@ -522,6 +530,7 @@ l_english:
  TAG_PR_VBL: "Ï®¨¬þ €³®¥ªª"
  TAG_PR_VID: "Ïª¦ª°" ## RU004
  TAG_PR_VIV: "Ïª¢"
+ TAG_PR_VYZ: "Ï¾©¿¯" ## RU017
  TAG_PR_VLA: "Ï®"
  TAG_PR_VLD: "Ï®¦ª¯ª" ## RU010
  TAG_PR_VRD: "Ï¯°¦³"
@@ -624,6 +633,7 @@ l_english:
  TAG_RD_KRS: "³¬"
  TAG_RD_KRT: "ª²¢"
  TAG_RD_LAE: "ˆ²ª°¬þ ª¯±ªª" ## RU002
+ TAG_RD_LCK: "ˆ³µ¬" ## RU017
  TAG_RD_LEG: "ˆ¥°ªµº"
  TAG_RD_LEM: "ˆ¯"
  TAG_RD_LIA: "ˆ¾"
@@ -664,6 +674,7 @@ l_english:
  TAG_RD_PRS: "‰¾®¢"
  TAG_RD_PRZ: "‰®¢®½-…®¬¥" ## RU010
  TAG_RD_RAV: "Ð¢°º"
+ TAG_RD_RSK: "Ðº®¿¬" ## RU017
  TAG_RD_RET: "Ð²®¾"
  TAG_RD_ROD: "Ð¦©"
  TAG_RD_ROU: "Ð³ª®¿°"
@@ -701,6 +712,7 @@ l_english:
  TAG_RD_VBL: "Ï®¨¬þ €³®¥ªª"
  TAG_RD_VID: "Ïª¦ª°" ## RU004
  TAG_RD_VIV: "Ïª¢"
+ TAG_RD_VYZ: "Ï¾©¿¯º" ## RU017
  TAG_RD_VLA: "Ï®"
  TAG_RD_VLD: "Ï®¦ª¯ª" ## RU010
  TAG_RD_VRD: "Ï¯°¦³"
@@ -731,7 +743,7 @@ l_english:
  TAG_TV_APC: "±³®ªþ ª ®¡ªþ"
  TAG_TV_AQT: "¬¢ª²°ªþ"
  TAG_TV_ART: "²³"
- TAG_TV_ATD: "²¬¯ ¦±²²" ## RU004
+ TAG_TV_ATD: "²¬ª¯ ¦±²²¯" ## RU004
  TAG_TV_AVE: "¢þ"
  TAG_TV_BAY: "€¾²¯ª"
  TAG_TV_BEA: "€°¯"
@@ -803,6 +815,7 @@ l_english:
  TAG_TV_KRS: "³¬¯"
  TAG_TV_KRT: "ª²¯ª"
  TAG_TV_LAE: "ˆ²ª°¬þ ª¯±ªþ" ## RU002
+ TAG_TV_LCK: "ˆ³µ¬¯" ## RU017
  TAG_TV_LEG: "ˆ¥°ªµþ"
  TAG_TV_LEM: "ˆ¯"
  TAG_TV_LIA: "ˆ¾"
@@ -843,6 +856,7 @@ l_english:
  TAG_TV_PRS: "‰¾®¢¯"
  TAG_TV_PRZ: "‰®¢®¯-…®¬ª¯" ## RU010
  TAG_TV_RAV: "Ð¢°þ"
+ TAG_TV_RSK: "Ðº®¿¬¯" ## RU017
  TAG_TV_RET: "Ð²®ž¯"
  TAG_TV_ROD: "Ð¦©¯"
  TAG_TV_ROU: "Ð³ª®¿°¯"
@@ -880,6 +894,7 @@ l_english:
  TAG_TV_VBL: "Ï®¨¬þ €³®¥ªþ"
  TAG_TV_VID: "Ïª¦ª°¯" ## RU004
  TAG_TV_VIV: "Ïª¢"
+ TAG_TV_VYZ: "Ï¾©¿¯þ" ## RU017
  TAG_TV_VLA: "Ï®"
  TAG_TV_VLD: "Ï®¦ª¯ª¯" ## RU010
  TAG_TV_VRD: "Ï¯°¦³"
@@ -982,6 +997,7 @@ l_english:
  TAG_VN_KRS: "³¬"
  TAG_VN_KRT: "ª²¢"
  TAG_VN_LAE: "ˆ²ª°¬³½ ª¯±ª½" ## RU002
+ TAG_VN_LCK: "ˆ³µ¬" ## RU017
  TAG_VN_LEG: "ˆ¥°ªµ³"
  TAG_VN_LEM: "ˆ¯"
  TAG_VN_LIA: "ˆ¾"
@@ -1022,6 +1038,7 @@ l_english:
  TAG_VN_PRS: "‰¾®¢"
  TAG_VN_PRZ: "‰®¢®¿-…®¬ªþ" ## RU010
  TAG_VN_RAV: "Ð¢°³"
+ TAG_VN_RSK: "Ðº®¿¬" ## RU017
  TAG_VN_RET: "Ð²®¿"
  TAG_VN_ROD: "Ð¦©"
  TAG_VN_ROU: "Ð³ª®¿°"
@@ -1059,6 +1076,7 @@ l_english:
  TAG_VN_VBL: "Ï®¨¬³½ €³®¥ª½"
  TAG_VN_VID: "Ïª¦ª°" ## RU004
  TAG_VN_VIV: "Ïª¢"
+ TAG_VN_VYZ: "Ï¾©¿¯³" ## RU017
  TAG_VN_VLA: "Ï®"
  TAG_VN_VLD: "Ï®¦ª¯ª" ## RU010
  TAG_VN_VRD: "Ï¯°¦³"

@@ -197,6 +197,9 @@ KHN = "countries/Kashin.txt" ## RU010
 MOZ = "countries/Mozhaisk.txt" ## RU010
 OWR = "countries/Owrucz.txt" ## RU013 История есть
 TRK = "countries/Trubchevsk.txt" ## RU015 История есть
+LCK = "countries/Lutsk.txt" ## RU017 История есть
+RSK = "countries/Rylsk.txt" ## RU017 История есть
+VYZ = "countries/Vyazma.txt" ## RU017 История есть
 
 #Скандинавия
 JAM = "countries/Jamtland.txt"

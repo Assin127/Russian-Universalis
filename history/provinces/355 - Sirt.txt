@@ -18,5 +18,5 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 1160.1.1 = { owner = ALD controller = ALD add_core = ALD } 
-1229.1.1 = { owner = DHF controller = DHF add_core = DHF } 
+1229.1.1 = { owner = TUN controller = TUN add_core = TUN } 
 1558.1.1 = { owner = TRP controller = TRP } # Turgut Reis conquers Sirte

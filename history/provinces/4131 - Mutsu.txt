@@ -1,7 +1,7 @@
 #Northern Mutsu
 
-owner = RFR
-controller = RFR
+owner = JAP 
+controller = JAP 
 culture = togoku
 religion = shinto
 capital = "Sannohe"
@@ -11,7 +11,7 @@ base_tax = 3
 base_manpower = 2
 base_production = 3
 is_city = yes
-add_core = RFR
+add_core = JAP 
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -19,5 +19,11 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
+1077.1.1 = {
+	owner = FJW
+	controller = FJW
+	add_core = FJW
+}
+1196.1.1 = {owner = RFR controller = RFR}
 1542.1.1 = { discovered_by = POR }
 1576.1.1 = { capital = "Morioka" }

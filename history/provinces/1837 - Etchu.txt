@@ -1,7 +1,7 @@
 #1837 - Etchu
 
-owner = HTK
-controller = HTK
+owner = JAP
+controller = JAP
 culture = togoku
 religion = shinto
 capital = "Kanazawa"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = SBA
+add_core = JAP
 fort_15th = yes #Nanao Castle
 discovered_by = chinese
 discovered_by = MCH
@@ -20,7 +20,16 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-
+1165.1.1 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO
+}
+1333.1.1 = {
+	owner = SBA
+	controller = SBA
+	add_core = SBA
+}
 1380.1.1 = { owner = HTK controller = HTK add_core = HTK remove_core = SBA }
 1542.1.1 = { discovered_by = POR }
 1562.7.1 = { add_core = UES }

@@ -1,7 +1,7 @@
 #4180 - Hyuga
 
-owner = ITO
-controller = ITO
+owner = JAP
+controller = JAP
 culture = kyushuan
 religion = shinto
 capital = "Obi"
@@ -11,7 +11,7 @@ base_tax = 3
 base_manpower = 2
 base_production = 2
 is_city = yes
-add_core = ITO
+add_core = JAP
 add_core = SMZ
 discovered_by = chinese
 discovered_by = MCH
@@ -19,6 +19,16 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
+1355.1.1 = {
+	owner = SMZ
+	controller = SMZ
+	add_core = SMZ
+}
+1430.1.1 = {
+	owner = ITO
+	controller = ITO
+	add_core = ITO
+}
 1542.1.1 = { discovered_by = POR }
 1577.12.8 = { owner = SMZ controller = SMZ }
 1588.1.1 = { owner = ITO controller = ITO }

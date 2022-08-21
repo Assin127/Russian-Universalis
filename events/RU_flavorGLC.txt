@@ -65,21 +65,6 @@ country_event = {
 	option = {
 		name = RU_flavorGLC.2.b
 		ai_chance = { factor = 0 }
-		tooltip = {
-			BLZ = { create_union = GLC }
-			BLZ = { create_union = VOL }
-		}
-		custom_tooltip = RU_flavorGLC.2.b.tt
-		GLC = {
-			country_event = { id = RU_flavorGLC.4 }
-		}
-		VOL = {
-			country_event = { id = RU_flavorGLC.5 }
-		}
-	}
-	option = {
-		name = RU_flavorGLC.2.c
-		ai_chance = { factor = 0 }
 		define_ruler = {
 			dynasty = "Rurikovich"
 		}
@@ -99,37 +84,5 @@ country_event = {
 	option = {
 		name = RU_flavorGLC.3.a
 		create_union = BLZ
-	}
-}
-
-# Принятие Галича в унию Белза
-country_event = {
-	id = RU_flavorGLC.4
-	title = RU_flavorGLC.4.title
-	desc = RU_flavorGLC.4.desc
-	picture = BAD_WITH_MONARCH_eventPicture
-	
-	fire_only_once = yes
-	is_triggered_only = yes
-	
-	option = {
-		name = RU_flavorGLC.4.a
-		BLZ = { create_union = GLC }
-	}
-}
-
-# Принятие Волыни в унию Белза
-country_event = {
-	id = RU_flavorGLC.5
-	title = RU_flavorGLC.5.title
-	desc = RU_flavorGLC.5.desc
-	picture = BAD_WITH_MONARCH_eventPicture
-	
-	fire_only_once = yes
-	is_triggered_only = yes
-	
-	option = {
-		name = RU_flavorGLC.5.a
-		BLZ = { create_union = VOL }
 	}
 }
