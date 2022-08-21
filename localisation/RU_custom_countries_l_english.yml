@@ -24,6 +24,7 @@ l_english:
  ADJ_BLN: "¡³®°¿¬"
  ADJ_BLZ: "¡®©°¬" #RU017
  ADJ_BOI: "¡®³¬"
+ ADJ_BOR: "¡ª¢¬" #RU017
  ADJ_BRC: "¡®°¬"
  ADJ_BRN: "¡°°¬"
  ADJ_BRY: "¡¾°¬"
@@ -97,6 +98,7 @@ l_english:
  ADJ_LUV: "®³¢°¬"
  ADJ_LYN: "®ª°°¬"
  ADJ_MEL: "¯®ª²°¬"
+ ADJ_MSK: "¯ª°¬" ## RU017
  ADJ_MNE: "¯¼°¬"
  ADJ_MNJ: "¯°¥¦¨³¬¬"
  ADJ_MOZ: "¯¨þ¬" ## RU010
@@ -164,6 +166,7 @@ l_english:
  ADJ_UYU: "³½°ª¦¬"
  ADJ_VAL: "¢®°ªþ¬"
  ADJ_VBL: "¡³®¥¬"
+ ADJ_VBK: "¢ª²¡¬" ## RU017
  ADJ_VID: "¢ª¦ª°¬"  ## RU004
  ADJ_VIV: "¢ª¢þ¬"
  ADJ_VYZ: "¢¾©¯¬" ## RU017
@@ -206,6 +209,7 @@ l_english:
  TAG_DT_BLN: "€³®°ª"
  TAG_DT_BLZ: "€®©³" ## RU017
  TAG_DT_BOI: "€®³"
+ TAG_DT_BOR: "€ª¢³" ## RU017
  TAG_DT_BRC: "€®°"
  TAG_DT_BRN: "€°"
  TAG_DT_BRY: "€¾°¬³"
@@ -279,6 +283,7 @@ l_english:
  TAG_DT_LUV: "ˆ³¢°³"
  TAG_DT_LYN: "ˆª°°"
  TAG_DT_MEL: "®ª²°"
+ TAG_DT_MSK: "ª°¬³" ## RU017
  TAG_DT_MNE: "¼°³"
  TAG_DT_MNJ: "°¥¦¨³¬¯"
  TAG_DT_MOZ: "¨þ¬³"  ## RU010
@@ -346,6 +351,7 @@ l_english:
  TAG_DT_UYU: "‹½°ª¦¯"
  TAG_DT_VAL: "Ï®°ªª"
  TAG_DT_VBL: "Ï®¨¬þ €³®¥ªª"
+ TAG_DT_VBK: "Ïª²¡¬³" ## RU017
  TAG_DT_VID: "Ïª¦ª°³" ## RU004
  TAG_DT_VIV: "Ïª¢"
  TAG_DT_VYZ: "Ï¾©¿¯" ## RU017
@@ -388,6 +394,7 @@ l_english:
  TAG_PR_BLN: "€³®°ª"
  TAG_PR_BLZ: "€®©" ## RU017
  TAG_PR_BOI: "€®³"
+ TAG_PR_BOR: "€ª¢" ## RU017
  TAG_PR_BRC: "€®°"
  TAG_PR_BRN: "€°"
  TAG_PR_BRY: "€¾°¬"
@@ -461,6 +468,7 @@ l_english:
  TAG_PR_LUV: "ˆ³¢°"
  TAG_PR_LYN: "ˆª°°"
  TAG_PR_MEL: "®ª²°"
+ TAG_PR_MSK: "ª°¬" ## RU017
  TAG_PR_MNE: "¼°"
  TAG_PR_MNJ: "°¥¦¨³¬"
  TAG_PR_MOZ: "¨þ¬"  ## RU010
@@ -528,6 +536,7 @@ l_english:
  TAG_PR_UYU: "‹½°ª¦"
  TAG_PR_VAL: "Ï®°ªª"
  TAG_PR_VBL: "Ï®¨¬þ €³®¥ªª"
+ TAG_PR_VBK: "Ïª²¡¬" ## RU017
  TAG_PR_VID: "Ïª¦ª°" ## RU004
  TAG_PR_VIV: "Ïª¢"
  TAG_PR_VYZ: "Ï¾©¿¯" ## RU017
@@ -570,6 +579,7 @@ l_english:
  TAG_RD_BLN: "€³®°ª"
  TAG_RD_BLZ: "€®©" ## RU017
  TAG_RD_BOI: "€®³"
+ TAG_RD_BOR: "€ª¢" ## RU017
  TAG_RD_BRC: "€®°º"
  TAG_RD_BRN: "€°"
  TAG_RD_BRY: "€¾°¬"
@@ -643,6 +653,7 @@ l_english:
  TAG_RD_LUV: "ˆ³¢°"
  TAG_RD_LYN: "ˆª°°"
  TAG_RD_MEL: "®ª²°º"
+ TAG_RD_MSK: "ª°¬" ## RU017
  TAG_RD_MNE: "¼°"
  TAG_RD_MNJ: "°¥¦¨³¬¢"
  TAG_RD_MOZ: "¨þ¬"  ## RU010
@@ -710,6 +721,7 @@ l_english:
  TAG_RD_UYU: "‹½°ª¦¢"
  TAG_RD_VAL: "Ï®°ªª"
  TAG_RD_VBL: "Ï®¨¬þ €³®¥ªª"
+ TAG_RD_VBK: "Ïª²¡¬¯" ## RU017
  TAG_RD_VID: "Ïª¦ª°" ## RU004
  TAG_RD_VIV: "Ïª¢"
  TAG_RD_VYZ: "Ï¾©¿¯º" ## RU017
@@ -752,6 +764,7 @@ l_english:
  TAG_TV_BLN: "€³®°¿½"
  TAG_TV_BLZ: "€®©¯" ## RU017
  TAG_TV_BOI: "€®³"
+ TAG_TV_BOR: "€ª¢º¯" ## RU017
  TAG_TV_BRC: "€®°þ"
  TAG_TV_BRN: "€°"
  TAG_TV_BRY: "€¾°¬¯"
@@ -825,6 +838,7 @@ l_english:
  TAG_TV_LUV: "ˆ³¢°¯"
  TAG_TV_LYN: "ˆª°°"
  TAG_TV_MEL: "®ª²°þ"
+ TAG_TV_MSK: "ª°¬¯" ## RU017
  TAG_TV_MNE: "¼°¯"
  TAG_TV_MNJ: "°¥¦¨³¬¯ª"
  TAG_TV_MOZ: "¨þ¬¯"  ## RU010
@@ -892,6 +906,7 @@ l_english:
  TAG_TV_UYU: "‹½°ª¦¯ª"
  TAG_TV_VAL: "Ï®°ªþ"
  TAG_TV_VBL: "Ï®¨¬þ €³®¥ªþ"
+ TAG_TV_VBK: "Ïª²¡¬¯" ## RU017
  TAG_TV_VID: "Ïª¦ª°¯" ## RU004
  TAG_TV_VIV: "Ïª¢"
  TAG_TV_VYZ: "Ï¾©¿¯þ" ## RU017
@@ -934,6 +949,7 @@ l_english:
  TAG_VN_BLN: "€³®°¿"
  TAG_VN_BLZ: "€®©" ## RU017
  TAG_VN_BOI: "€®³"
+ TAG_VN_BOR: "€ª¢" ## RU017
  TAG_VN_BRC: "€®°³"
  TAG_VN_BRN: "€°"
  TAG_VN_BRY: "€¾°¬"
@@ -1007,6 +1023,7 @@ l_english:
  TAG_VN_LUV: "ˆ³¢°"
  TAG_VN_LYN: "ˆª°°"
  TAG_VN_MEL: "®ª²°³"
+ TAG_VN_MSK: "ª°¬" ## RU017
  TAG_VN_MNE: "¼°"
  TAG_VN_MNJ: "°¥¦¨³¬¢"
  TAG_VN_MOZ: "¨þ¬"  ## RU010
@@ -1074,6 +1091,7 @@ l_english:
  TAG_VN_UYU: "‹½°ª¦¢"
  TAG_VN_VAL: "Ï®°ª½"
  TAG_VN_VBL: "Ï®¨¬³½ €³®¥ª½"
+ TAG_VN_VBK: "Ïª²¡¬" ## RU017
  TAG_VN_VID: "Ïª¦ª°" ## RU004
  TAG_VN_VIV: "Ïª¢"
  TAG_VN_VYZ: "Ï¾©¿¯³" ## RU017

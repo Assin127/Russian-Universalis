@@ -9,24 +9,27 @@ base_tax = 2
 base_production = 2
 trade_goods = iron
 base_manpower = 1
-capital = "Ula"
+capital = "Borisov"
 is_city = yes 
 add_core = PLT
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 
-#1102.1.1 = { owner = BRS controller = BRS add_core = BRS } #Borisov udel
+1102.1.1 = { owner = BOR controller = BOR add_core = BOR } #Borisov udel
 
 1307.1.1 = {
 	owner = PLT
 	controller = PLT
 }
+
 1392.1.1 = {
 	owner = LIT
 	controller = LIT
 	add_core = LIT
+	remove_core = BOR
 	add_local_autonomy = 50
+	capital = "Ula"
 }
 
 1563.2.15 = { controller = RUS } # Captured by Ivan the Terrible, during the Livonian war

@@ -124,6 +124,27 @@ defined_text = {
 		}
 
     }
+    text = { ## RU017
+        localisation_key = ADJ_VBK
+        trigger = {
+			tag = VBK
+		}
+
+    }
+    text = { ## RU017
+        localisation_key = ADJ_MSK
+        trigger = {
+			tag = MSK
+		}
+
+    }
+    text = { ## RU017
+        localisation_key = ADJ_BOR
+        trigger = {
+			tag = BOR
+		}
+
+    }
     text = { ## RU002
         localisation_key = ADJ_THS
         trigger = {
