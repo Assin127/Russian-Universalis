@@ -12,9 +12,9 @@ add_army_professionalism = 0.05
 national_focus = DIP
 
 
-1093.1.1 = {
+1096.4.1 = {
 	monarch = {
-		name = "Enrike I"
+		name = "Henrique I"
 		dynasty = "de Bourgogne"
 		birth_date = 1066.3.1
 		adm = 2
@@ -36,8 +36,8 @@ national_focus = DIP
 
 1109.7.25 = {
 	heir = {
-		name = "Afonsu I"
-		monarch_name = "Enrike I"
+		name = "Afonso"
+		monarch_name = "Afonso I"
 		dynasty = "de Bourgogne"
 		birth_date = 1109.7.25
 		death_date = 1185.12.6
@@ -50,7 +50,7 @@ national_focus = DIP
 
 1112.1.1 = {
 	monarch = {
-		name = "Afonsu I"
+		name = "Afonso I"
 		dynasty = "de Bourgogne"
 		birth_date = 1109.7.25
 		adm = 4
@@ -58,7 +58,217 @@ national_focus = DIP
 		mil = 5
 	}
 }
+1139.6.25 = {
+	government_rank = 2
+}
+1154.11.11 = {
+	heir = {
+		name = "Sancho"
+		monarch_name = "Sancho I"
+		dynasty = "de Bourgogne"
+		birth_date = 1154.11.11
+		death_date = 1211.3.26
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
 
+1185.12.6 = {
+	monarch = {
+		name = "Sancho I"
+		dynasty = "de Bourgogne"
+		birth_date = 1154.11.11
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = scholar_personality
+}
+1185.12.6 = {
+	heir = {
+		name = "Afonso"
+		monarch_name = "Afonso II"
+		dynasty = "de Bourgogne"
+		birth_date = 1185.4.23
+		death_date = 1223.3.25
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+1211.3.26 = {
+	monarch = {
+		name = "Afonso II"
+		dynasty = "de Bourgogne"
+		birth_date = 1185.4.23
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+1211.3.26 = {
+	heir = {
+		name = "Sancho"
+		monarch_name = "Sancho II"
+		dynasty = "de Bourgogne"
+		birth_date = 1209.9.8
+		death_date = 1248.1.4
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1223.3.25 = {
+	monarch = {
+		name = "Sancho II"
+		dynasty = "de Bourgogne"
+		birth_date = 1209.9.8
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+1223.3.25 = {
+	heir = {
+		name = "Afonso"
+		monarch_name = "Afonso III"
+		dynasty = "de Bourgogne"
+		birth_date = 1210.5.5
+		death_date = 1279.2.16
+		claim = 95
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+}
+
+1248.1.4 = {
+	monarch = {
+		name = "Afonso III"
+		dynasty = "de Bourgogne"
+		birth_date = 1210.5.5
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+}
+1261.10.9 = {
+	heir = {
+		name = "Denis"
+		monarch_name = "Denis I"
+		dynasty = "de Bourgogne"
+		birth_date = 1261.10.9
+		death_date = 1325.1.7
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+1279.2.16 = {
+	monarch = {
+		name = "Denis"
+		dynasty = "de Bourgogne"
+		birth_date = 1261.10.9
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = industrious_personality
+}
+1291.2.8 = {
+	heir = {
+		name = "Afonso"
+		monarch_name = "Afonso IV"
+		dynasty = "de Bourgogne"
+		birth_date = 1291.2.8
+		death_date = 1357.5.28
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1325.1.7 = {
+	monarch = {
+		name = "Afonso IV"
+		dynasty = "de Bourgogne"
+		birth_date = 1291.2.8
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+1325.1.7 = {
+	heir = {
+		name = "Pedro"
+		monarch_name = "Pedro I"
+		dynasty = "de Bourgogne"
+		birth_date = 1320.8.4
+		death_date = 1367.1.18
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+1357.5.28 = {
+	monarch = {
+		name = "Pedro I"
+		dynasty = "de Bourgogne"
+		birth_date = 1320.8.4
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+1357.5.28 = {
+	heir = {
+		name = "Fernando"
+		monarch_name = "Fernando I"
+		dynasty = "de Bourgogne"
+		birth_date = 1345.10.31
+		death_date = 1383.10.22
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1367.1.18 = {
+	monarch = {
+		name = "Fernando I"
+		dynasty = "de Bourgogne"
+		birth_date = 1345.10.31
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+1383.10.22 = {
+	monarch = {
+		name = "Beatriz I"
+		dynasty = "de Bourgogne"
+		birth_date = 1373.2.7
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
 
 1385.1.1 = {
 	monarch = {

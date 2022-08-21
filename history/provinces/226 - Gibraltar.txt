@@ -38,7 +38,7 @@ discovered_by = eastern
 	owner = SPA
 	add_core = SPA
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
-1610.1.12 = { culture = castillian } # Decree for the expulsion of the morisques in Andalucía, which is speedily and uneventfully performed
+1610.1.12 = { culture = castillian } # Decree for the expulsion of the morisques in Andalucia, which is speedily and uneventfully performed
 1704.8.3 = { controller = ENG } # England occupies Gibraltar
 1707.5.12 = { controller = GBR }
 1713.4.11 = {
