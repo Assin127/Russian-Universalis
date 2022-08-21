@@ -1,0 +1,13 @@
+### RU020 - Added
+bookmark =
+{
+	name = "HUNDRED_YEARS_WAR_NAME"
+	desc = "HUNDRED_YEARS_WAR_DESC"
+	date = 1337.05.24
+	
+	center = 183
+	
+	country = FRA
+	country = ENG
+	country = SCO
+}

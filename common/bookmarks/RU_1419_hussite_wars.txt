@@ -1,0 +1,11 @@
+### RU001 - Added
+bookmark =
+{
+	name = "HUSSITE_WARS_NAME"
+	desc = "HUSSITE_WARS_DESC"
+	date = 1419.07.30
+	
+	center = 266
+	
+	country = BOH
+}
