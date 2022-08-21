@@ -1,4 +1,4 @@
-### RU001 - Added
+### RU020 - Added
 bookmark =
 {
 	name = "HUSSITE_WARS_NAME"
