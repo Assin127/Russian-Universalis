@@ -25,14 +25,17 @@ discovered_by = ottoman
 	add_core = POL
 	culture = pommeranian
 }
-1210.1.1 = {
+#RU022 - start
+1138.1.1 = {
 	owner = DAN
 	controller = DAN
 	add_core = DAN
+	remove_core = POL	
 }
 1221.1.1 = {
-	owner = POL
-	controller = POL
+	owner = GNI
+	controller = GNI
+	add_core = GNI
 	remove_core = DAN
 }
 1227.1.1 = {
@@ -40,9 +43,10 @@ discovered_by = ottoman
 	controller = PMR
 }
 1294.1.1 = {
-	owner = POL
-	controller = POL
+	owner = GNI
+	controller = GNI
 }
+#RU022 - end
 1308.1.1 = {
 	owner = TEU
 	controller = TEU

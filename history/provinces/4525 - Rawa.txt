@@ -1,7 +1,7 @@
 # Rawa
-
-owner = MAZ
-controller = MAZ
+#RU022 - start
+owner = POL
+controller = POL
 capital = "Rawa"
 culture = polish
 religion = catholic
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = MAZ
+add_core = POL
 
 
 discovered_by = KAZ
@@ -24,6 +24,14 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1138.1.1 = {
+	owner = MAZ
+	controller = MAZ
+	add_core = MAZ
+	remove_core = POL	
+}
+
+#RU022 - end
 1462.1.1 = { 
 	owner = POL 
 	controller = POL

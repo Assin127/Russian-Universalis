@@ -1,7 +1,7 @@
 #256 - Plock
-
-owner = MAZ
-controller = MAZ
+#RU022 - start
+owner = POL
+controller = POL
 capital = "Plock"
 is_city = yes
 culture = polish
@@ -12,7 +12,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 fort_15th = yes
-add_core = MAZ
+add_core = POL
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -23,7 +23,14 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1138.1.1 = {
+	owner = MAZ
+	controller = MAZ
+	add_core = MAZ
+	remove_core = POL	
+}
 
+#RU022 - end
 1495.2.16 = { owner = POL 
 	controller = POL
 	add_core = POL

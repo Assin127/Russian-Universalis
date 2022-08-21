@@ -1,5 +1,5 @@
 # 4525 - Dobryzn
-
+#RU022 - start
 owner = POL
 controller = POL
 capital = "Dobrzyn"
@@ -21,6 +21,26 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+1138.1.1 = {
+	owner = MAZ
+	controller = MAZ
+	add_core = MAZ
+	remove_core = POL	
+}
+1233.1.1 = {
+	owner = KUY
+	controller = KUY
+	add_core = KUY
+}
+1320.1.20 = {
+	owner = POL
+	controller = POL
+	add_core = POL
+	remove_core = GNI
+}
+
+#RU022 - end
 
 1569.7.1 = {
 	owner = PLC

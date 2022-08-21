@@ -27,11 +27,14 @@ discovered_by = ottoman
 	culture = pommeranian
 	religion = catholic
 }
-1187.1.1 = {
+#RU022 - start
+1138.1.1 = {
 	owner = DAN
 	controller = DAN
 	add_core = DAN
+	remove_core = POL	
 }
+#RU022 - end
 1227.1.1 = {
 	owner = STE
 	controller = STE
