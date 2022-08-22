@@ -160,6 +160,12 @@ vassal = {
 #Smolensk vassal
 vassal = {
 	first = SMO
+	second = MSL
+	start_date = 1180.1.1
+	end_date = 1356.1.1
+}
+vassal = {
+	first = SMO
 	second = VYZ
 	start_date = 1239.1.1
 	end_date = 1356.1.1
@@ -189,4 +195,17 @@ vassal = {
 	second = BOR
 	start_date = 1102.1.1
 	end_date = 1300.1.1
+}
+#Turov vassal
+vassal = {
+	first = TUO
+	second = PIN
+	start_date = 1174.1.1
+	end_date = 1320.1.1
+}
+vassal = {
+	first = TUO
+	second = SLC
+	start_date = 1160.1.1
+	end_date = 1320.1.1
 }

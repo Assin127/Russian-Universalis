@@ -17,12 +17,20 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 
-#1180.1.1 = { owner = MSL controller = MSL add_core = MSL } #Mstisl udel
+1180.1.1 = { owner = MSL controller = MSL add_core = MSL } #Mstislav udel
+
+1356.1.1 = {
+	owner = PLT
+	controller = PLT
+	add_core = PLT
+}
+
 1386.1.1 = {
 	owner = LIT
 	controller = LIT
 	add_core = LIT
 	add_local_autonomy = 25 #save udel in litva
+	remove_core = SMO
 }
 1569.7.1 = {
 	owner = PLC
