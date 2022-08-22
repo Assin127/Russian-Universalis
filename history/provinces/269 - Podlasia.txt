@@ -22,14 +22,16 @@ native_size = 30
 native_ferocity = 6
 native_hostileness = 4
 
+1170.1.1 = { owner = BEL controller = BEL add_core = BEL } #Berestia udel
+
 1230.1.1 = {
 	owner = MAZ
 	controller = MAZ
 	add_core = MAZ
 }
 1238.1.1 = {
-	owner = VOL
-	controller = VOL
+	owner = BEL
+	controller = BEL
 }
 1350.1.1 = {
 	owner = LIT
