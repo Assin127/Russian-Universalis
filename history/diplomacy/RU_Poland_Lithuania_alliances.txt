@@ -21,6 +21,18 @@ vassal = {
 #Lithuania vassal
 vassal = {
 	first = LIT
+	second = MSK
+	start_date = 1259.1.1
+	end_date = 1326.1.1
+}
+vassal = {
+	first = LIT
+	second = BOR
+	start_date = 1300.1.1
+	end_date = 1307.1.1
+}
+vassal = {
+	first = LIT
 	second = PLT
 	start_date = 1307.1.1
 	end_date = 1392.1.1

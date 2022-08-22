@@ -170,3 +170,23 @@ vassal = { ## RU010
 	start_date = 1250.1.1
 	end_date = 1303.1.1
 }
+
+#Polotsk vassal
+vassal = {
+	first = PLT
+	second = VBK
+	start_date = 1095.1.1
+	end_date = 1307.1.1
+}
+vassal = {
+	first = PLT
+	second = MSK
+	start_date = 1101.1.1
+	end_date = 1259.1.1
+}
+vassal = {
+	first = PLT
+	second = BOR
+	start_date = 1102.1.1
+	end_date = 1300.1.1
+}
