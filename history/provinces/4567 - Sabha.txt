@@ -17,6 +17,6 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 1161.1.1 = { owner = ALD controller = ALD add_core = ALD } 
-1229.1.1 = { owner = DHF controller = DHF add_core = DHF } 
+1229.1.1 = { owner = TUN controller = TUN add_core = TUN } 
 1380.1.1 = { owner = FZA controller = FZA } 
 1558.1.1 = { owner = TRP controller = TRP add_core = TRP } 

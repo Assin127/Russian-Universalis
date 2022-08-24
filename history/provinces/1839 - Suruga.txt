@@ -1,7 +1,7 @@
 #1839 - Suruga
 
-owner = IMG
-controller = IMG
+owner = JAP
+controller = JAP
 culture = togoku
 religion = shinto
 capital = "Sunpu"
@@ -11,13 +11,28 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = IMG
+add_core = JAP
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
+1044.1.1 = {
+	owner = HJO
+	controller = HJO
+	add_core = HJO
+}
+1168.1.1 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO
+}
+1333.1.1 = {
+	owner = IMG
+	controller = IMG
+	add_core = IMG
+}
 1501.1.1 = { add_core = TKG }
 1542.1.1 = { discovered_by = POR }
 1568.12.1 = { add_core = TKD owner = TKD controller = TKD remove_core = IMG }

@@ -24,11 +24,16 @@ fixed_capital = 261 # Cannot move capital away from this province & no power cos
 
 	heir = {
 		name = "Lev"
+		monarch_name = "Lev I"
 		dynasty = "Rurikovich"
 		birth_date = 1228.1.1
+		death_date = 1301.1.1
 		claim = 95
 		adm = 2
 		dip = 2
 		mil = 3
 	} ## RU012
+	set_country_flag = lev_rurikovich_flag
 }
+
+1301.1.1 = { clr_country_flag = lev_rurikovich_flag }

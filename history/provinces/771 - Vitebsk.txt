@@ -17,9 +17,9 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 
-#1095.1.1 = { owner = VBK controller = VBK add_core = VBK } #Vitebsk udel
+1095.1.1 = { owner = VBK controller = VBK add_core = VBK } #Vitebsk udel
 
-1320.1.1 = {
+1307.1.1 = {
 	owner = PLT
 	controller = PLT
 }
@@ -27,6 +27,7 @@ discovered_by = nomad_group
 	owner = LIT
 	controller = LIT
 	add_core = LIT
+	remove_core = VBK
 	add_local_autonomy = 50
 }
 

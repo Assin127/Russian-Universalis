@@ -22,11 +22,15 @@ discovered_by = ottoman
 	controller = GLH
 	add_core = GLH
 }
+1320.1.1 = {
+	culture = kazani
+	remove_core = VBL
+}
 1437.1.1 = {
 	owner = KAZ
 	controller = KAZ
 	add_core = KAZ
-	culture = kazani
+	remove_core = GLH
 }
 1552.10.2 = {
 	owner = RUS

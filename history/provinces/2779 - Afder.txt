@@ -1,7 +1,7 @@
 #2779 - Afder
-owner = OGD
-controller = OGD
-add_core = OGD
+owner = ---
+controller = ---
+add_core = ---
 culture = somali
 religion = sunni
 capital = "Afder"

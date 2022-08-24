@@ -1,17 +1,14 @@
 #4258 - Onega
 
-owner = NOV 
-controller = NOV 
-culture = novgorodian
-religion = orthodox
+culture = karelian
+religion = shamanism
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = fur 
 base_manpower = 1
+trade_goods = unknown
 capital = "Onega"
-is_city = yes
-add_core = NOV
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -20,6 +17,21 @@ discovered_by = QAS
 discovered_by = eastern
 discovered_by = western
 
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+
+1137.1.1 = {
+	owner = NOV
+	controller = NOV
+	add_core = NOV
+	is_city = yes
+	trade_goods = fur 
+}
+1238.1.1 = {
+	culture = novgorodian
+	religion = orthodox
+}
 1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = NOV } # Passed to Muscovy with the rest of Novgorod republic
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }
 1598.1.7 = { unrest = 5 } # "Time of troubles"

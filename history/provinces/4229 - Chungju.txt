@@ -1,9 +1,10 @@
 #4229 - Chungju
 
-owner = KOR
-controller = KOR
+owner = KYO
+controller = KYO
+add_core = KYO
 culture = korean
-religion = confucianism
+religion = mahayana
 capital = "Chungju"
 trade_goods = cotton
 hre = no
@@ -11,10 +12,11 @@ base_tax = 3
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = KOR
-add_local_autonomy = 35
 discovered_by = chinese
 discovered_by = nomad_group
+
+1365.1.1 = { religion = confucianism }
+1392.1.1 = { owner = KOR add_core = KOR controller = KOR remove_core = KYO }
 
 1519.1.1 = { discovered_by = POR } # Tome Pires
 1592.6.6 = { controller = ODA unrest = 5 } # Japanese invasion - Battle of Cheongju

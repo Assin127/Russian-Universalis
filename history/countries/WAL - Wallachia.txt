@@ -1,35 +1,248 @@
 ### RU001 - Added
-government = tribal
-add_government_reform = tribal_kingdom
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = romanian
 religion = orthodox
 technology_group = eastern
 capital = 161 # Tîrgoviste
 
-1272.1.1 = {
-    government = monarchy
+1230.1.1 = {
+	monarch = {
+		name = "Bezerenbam and Miselav"
+		birth_date = 1190.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+		leader = {name = "Bezerenbam" type = general fire = 3 shock = 2 manuever = 1 siege = 2}
+	}
+	leader = {name = "Miselav" type = general fire = 1 shock = 3 manuever = 3 siege = 0}
+}
 
-	add_government_reform = feudalism_reform
+1240.1.1 = {
 	monarch = {
 		name = "Litovoi"
+		birth_date = 1210.1.1
 		adm = 4
+		dip = 4
+		mil = 3
+		leader = {name = "Litovoi" type = general fire = 3 shock = 1 manuever = 1 siege = 1}
+	}
+}
+
+1277.1.1 = {
+	monarch = {
+		name = "Barbat"
+		birth_date = 1220.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+		leader = {name = "Barbat" type = general fire = 1 shock = 1 manuever = 1 siege = 0}
+	}
+}
+
+1290.1.1 = {
+		monarch = {
+		name = "Tihomir"
+		birth_date = 1250.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+		leader = {name = "Negru Voda" type = general fire = 2 shock = 1 manuever = 1 siege = 0}
+	}
+	heir = {
+		name = "Basarab"
+		monarch_name = "Basarab I the Founder"
+		birth_date = 1270.1.1
+		death_date = 1352.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+		claim = 95
+	}
+}
+
+1310.1.1 = {
+	monarch = {
+		name = "Basarab I the Founder"
+		birth_date = 1270.1.1
+		adm = 4
+		dip = 4
+		mil = 6
+		leader = {name = "Basarab I the Founder" type = general fire = 4 shock = 2 manuever = 2 siege = 2}
+	}
+	queen = {
+		name = "Margaret"
+		birth_date = 1290.1.1
+		death_date = 1350.1.1
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	heir = {
+		name = "Nicolae"
+		monarch_name = "Nicolae Alexandru"
+		dynasty = "Basarab"
+		birth_date = 1303.1.1
+		death_date = 1364.11.16
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1352.1.1 = {
+	monarch = {
+		name = "Nicolae Alexandru"
+		dynasty = "Basarab"
+		birth_date = 1303.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+		leader = {name = "Basarab I the Founder" type = general fire = 3 shock = 2 manuever = 1 siege = 0}
+	}
+	queen = {
+		name = "Clara"
+		dynasty = "Dobokai"
+		country_of_origin = HUN
+		culture = hungarian
+		birth_date = 1330.1.1
+		death_date = 1370.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+	heir = {
+		name = "Vladislav"
+		monarch_name = "Vladislav I"
+		dynasty = "Basarab"
+		birth_date = 1330.1.1
+		death_date = 1377.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1364.1.1 = {
+	monarch = {
+		name = "Vladislav I"
+		dynasty = "Basarab"
+		birth_date = 1330.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+		leader = {name = "Vlaicu-Voda" type = general fire = 4 shock = 2 manuever = 2 siege = 2}
+	}
+	heir = {
+		name = "Radu"
+		monarch_name = "Radu I"
+		dynasty = "Basarab"
+		birth_date = 1335.1.1
+		death_date = 1383.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1377.1.1 = {
+	monarch = {
+		name = "Radu I"
+		dynasty = "Basarab"
+		birth_date = 1335.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+		leader = {name = "Radu I" type = general fire = 3 shock = 1 manuever = 2 siege = 1}
+	}
+	queen = {
+		name = "Ana"
+		dynasty = "Doamna"
+		birth_date = 1337.1.1
+		death_date = 1386.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Dan"
+		monarch_name = "Dan I"
+		dynasty = "Basarab"
+		birth_date = 1354.1.1
+		death_date = 1386.9.23
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1383.1.1 = {
+	monarch = {
+		name = "Dan I"
+		dynasty = "Basarab"
+		birth_date = 1354.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	queen = {
+		name = "Maria"
+		dynasty = "Kotromanic"
+		country_of_origin = SER
+		culture = serbian
+		birth_date = 1356.1.1
+		death_date = 1389.1.1
+		female = yes
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Mircea"
+		monarch_name = "Mircea I the Elder"
+		dynasty = "Basarab"
+		birth_date = 1355.1.1
+		death_date = 1418.1.31
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1386.9.23 = {
+	monarch = {
+		name = "Mircea I the Elder"
+		dynasty = "Basarab"
+		birth_date = 1355.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+		leader = {name = "Mircea I the Elder" type = general fire = 3 shock = 3 manuever = 3 siege = 1}
+	}
+	queen = {
+		name = "Maria"
+		dynasty = "Tolmay"
+		country_of_origin = HUN
+		culture = hungarian
+		birth_date = 1358.1.1
+		death_date = 1427.1.1
+		female = yes
+		adm = 2
 		dip = 4
 		mil = 3
 	}
 }
 
-1386.1.1 = {
-	monarch = {
-		name = "Mircea I"
-		dynasty = "Basarab"
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-}
-
-1397.1.1 = {
+1390.1.1 = {
 	heir = {
 		name = "Mihail"
 		monarch_name = "Mihail I"
@@ -43,7 +256,7 @@ capital = 161 # Tîrgoviste
 	}
 }
 
-1408.1.1 = {
+1418.1.1 = {
 	monarch = {
 		name = "Mihail I"
 		dynasty = "Basarab"
@@ -52,30 +265,28 @@ capital = 161 # Tîrgoviste
 		dip = 0
 		mil = 1
 	}
-}
-
-1408.1.1 = {
 	heir = {
 		name = "Radu"
-		monarch_name = "Radu II Chelul"
+		monarch_name = "Radu II the Bald"
 		dynasty = "Basarab"
-		birth_date = 1400.1.1
-		death_date = 1427.1.1
+		birth_date = 1395.1.1
+		death_date = 1431.1.1
 		claim = 95
-		adm = 0
+		adm = 2
 		dip = 3
-		mil = 0
+		mil = 1
 	}
 }
 
-1420.1.1 = {
+1420.8.1 = {
 	monarch = {
-		name = "Radu II Chelul"
+		name = "Radu II the Bald"
 		dynasty = "Basarab"
-		birth_date = 1400.1.1
-		adm = 0
+		birth_date = 1395.1.1
+		adm = 2
 		dip = 3
-		mil = 0
+		mil = 1
+		leader = {name = "Radu II the Bald" type = general fire = 3 shock = 1 manuever = 3 siege = 1}
 	}
 }
 
@@ -83,9 +294,35 @@ capital = 161 # Tîrgoviste
 	monarch = {
 		name = "Dan II"
 		dynasty = "Danesti"
+		birth_date = 1401.1.1
 		adm = 2
 		dip = 1
 		mil = 1
+		leader = {name = "Dan II" type = general fire = 3 shock = 2 manuever = 2 siege = 1}	
+	}
+}
+
+1426.1.1 = {
+	monarch = {
+		name = "Radu II the Bald"
+		dynasty = "Basarab"
+		birth_date = 1395.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+		leader = {name = "Radu II the Bald" type = general fire = 3 shock = 1 manuever = 3 siege = 1}
+	}
+}
+
+1427.1.1 = {
+	monarch = {
+		name = "Dan II"
+		dynasty = "Danesti"
+		birth_date = 1401.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+		leader = {name = "Dan II" type = general fire = 3 shock = 2 manuever = 2 siege = 1}	
 	}
 }
 
@@ -176,10 +413,10 @@ capital = 161 # Tîrgoviste
 		name = "Vlad III Tepes"
 		dynasty = "Draculesti"
 		birth_date = 1431.11.1
-		adm = 1
-		dip = 0
-		mil = 5
-		leader = { name = "Vlad III Tepes"	type = general	fire = 3	shock = 4	manuever = 4	siege = 0}
+		adm = 3
+		dip = 3
+		mil = 6
+		leader = { name = "Vlad III Tepes"	type = general	fire = 4	shock = 5	manuever = 5	siege = 3}
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = cruel_personality

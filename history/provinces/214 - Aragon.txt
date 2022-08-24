@@ -1,16 +1,16 @@
 #214 - Aragón
 
-owner = ARA		# Alfons V of Aragon
-controller = ARA
-add_core = ARA
+owner = ABR		# Pedro Ruis De Asagra
+controller = ABR
+add_core = ABR
 culture = aragonese
-religion = catholic
+religion = sunni
 hre = no
 base_tax = 5
 base_production = 5
 trade_goods = iron
 base_manpower = 3
-capital = "Zaragoza" 
+capital = "Albarracin" 
 is_city = yes
 discovered_by = western
 discovered_by = eastern
@@ -19,7 +19,18 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-1516.1.23 = {	controller = SPA
+1104.1.1 = {
+	religion = catholic 
+}
+1284.9.1 = { 
+	controller = ARA
+	owner = ARA
+	add_core = ARA
+	capital = "Zaragoza"
+}# City conquered by Pedro III
+1434.9.1 = { remove_core = ABR } 
+1516.1.23 = {	
+	controller = SPA
 	owner = SPA
 	add_core = SPA
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille

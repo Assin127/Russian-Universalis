@@ -14,13 +14,6 @@ union = {
 }
 
 vassal = { ## RU010
-	first = SMO
-	second = MOZ
-	start_date = 1250.1.1
-	end_date = 1303.1.1
-}
-
-vassal = { ## RU010
 	first = MOS
 	second = GLD
 	start_date = 1325.1.1
@@ -97,19 +90,37 @@ vassal = {
 } ## RU014
 vassal = {
 	first = GLC
-	second = TRB
-	start_date = 1140.1.1
+	second = LCK
+	start_date = 1157.1.1
 	end_date = 1340.1.1
-} ## RU014
-#Chernigov vassal
+} ## RU017
 vassal = {
+	first = GLC
+	second = BLZ
+	start_date = 1170.1.1
+	end_date = 1340.1.1
+} ## RU017
+vassal = {
+	first = VOL
+	second = BEL
+	start_date = 1170.1.1
+	end_date = 1341.1.1
+} ## RU017
+#Chernigov vassal
+alliance = {
 	first = CHR
 	second = NOS
 	start_date = 1097.1.1
 	end_date = 1246.1.1
 }
 vassal = {
-	first = CHR
+	first = NOS
+	second = RSK
+	start_date = 1160.1.1
+	end_date = 1246.1.1
+} ## RU017
+vassal = {
+	first = NOS
 	second = KRS
 	start_date = 1164.1.1
 	end_date = 1246.1.1
@@ -135,7 +146,66 @@ vassal = {
 }
 vassal = {
 	first = BRY
+	second = RSK
+	start_date = 1246.1.1
+	end_date = 1301.1.1
+} ## RU017
+vassal = {
+	first = BRY
 	second = TRK
 	start_date = 1246.1.1
 	end_date = 1356.1.1
 } ## RU015
+
+#Smolensk vassal
+vassal = {
+	first = SMO
+	second = MSL
+	start_date = 1180.1.1
+	end_date = 1356.1.1
+}
+vassal = {
+	first = SMO
+	second = VYZ
+	start_date = 1239.1.1
+	end_date = 1356.1.1
+}
+vassal = { ## RU010
+	first = SMO
+	second = MOZ
+	start_date = 1250.1.1
+	end_date = 1303.1.1
+}
+
+#Polotsk vassal
+vassal = {
+	first = PLT
+	second = VBK
+	start_date = 1095.1.1
+	end_date = 1307.1.1
+}
+vassal = {
+	first = PLT
+	second = MSK
+	start_date = 1101.1.1
+	end_date = 1259.1.1
+}
+vassal = {
+	first = PLT
+	second = BOR
+	start_date = 1102.1.1
+	end_date = 1300.1.1
+}
+#Turov vassal
+vassal = {
+	first = TUO
+	second = PIN
+	start_date = 1174.1.1
+	end_date = 1320.1.1
+}
+vassal = {
+	first = TUO
+	second = SLC
+	start_date = 1160.1.1
+	end_date = 1320.1.1
+}

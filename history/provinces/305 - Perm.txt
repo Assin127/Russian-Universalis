@@ -1,9 +1,9 @@
 #305 - Perm
 
-owner = KAZ
-controller = KAZ
+owner = PRM
+controller = PRM
 culture = uralic
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = shamanism #Sami Shamanism
 hre = no
 base_tax = 4
 base_production = 4
@@ -11,15 +11,21 @@ trade_goods = copper
 base_manpower = 3
 capital = "Yagoshiha"
 is_city = yes
-add_core = KAZ
 add_core = PRM
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
+1236.1.1 = {
+	owner = GLH
+	controller = GLH
+	add_core = GLH
+}
+1437.1.1 = {
+	owner = KAZ
+	controller = KAZ
+	add_core = KAZ
+}
 
 1552.10.2 = { owner = RUS controller = RUS add_core = RUS remove_core = KAZ } # Russian conquest of Kazan
 1553.1.1 = { culture = russian religion = orthodox } # Most Tatars were christianized or killed

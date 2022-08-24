@@ -4,3 +4,31 @@ on_startup = {
 		RU_main_events.1
 	}
 }
+
+on_monarch_death = {
+	if = { ## RU017
+		limit = {
+			tag = BLZ
+			GLC = {
+				has_country_flag = lev_rurikovich_flag
+			}
+		}
+		GLC = {
+			clr_country_flag = lev_rurikovich_flag
+			kill_heir = {} # Смерть Льва Даниловича Галицкого
+		}
+	}
+}
+
+on_heir_death = {
+	if = { ## RU017
+		limit = { has_country_flag = lev_rurikovich_flag }
+		clr_country_flag = lev_rurikovich_flag # Смерть Льва Даниловича Галицкого
+	}
+}
+
+on_new_monarch = {
+	events = {
+		RU_flavorGLC.1 ## RU017 Правление Даниловича Галицкого
+	}
+}

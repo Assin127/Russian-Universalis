@@ -20,7 +20,17 @@ discovered_by = QNG
 extra_cost = 8
 center_of_trade = 1
 
+1167.1.1 = {
+	owner = TAA
+	controller = TAA 
+	add_core = TAA
+}
 1192.1.1 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO
+}
+1333.1.1 = {
 	owner = HSK
 	controller = HSK
 	add_core = HSK

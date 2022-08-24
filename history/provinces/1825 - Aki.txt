@@ -1,7 +1,7 @@
 #1825 - Aki
 
-owner = HSK
-controller = HSK
+owner = JAP
+controller = JAP
 culture = japanese
 religion = shinto
 capital = "Tomo"
@@ -11,7 +11,7 @@ base_tax = 4
 base_manpower = 3
 base_production = 4
 is_city = yes
-add_core = HSK
+add_core = JAP
 add_core = MRI
 discovered_by = chinese
 discovered_by = MCH
@@ -19,6 +19,27 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
+1170.1.1 = {
+	owner = TAA
+	controller = TAA
+	add_core = TAA
+}
+1188.5.3 = {
+	owner = MNO
+	controller = MNO
+	add_core = MNO
+}
+1333.1.1 = {
+	owner = MRI
+	controller = MRI
+	add_core = MRI
+}
+
+1459.1.1 = {
+	owner = YMN
+	controller = YMN
+	add_core = YMN
+}
 1420.1.1 = { add_core = OUC }
 1470.1.1 = { owner = OUC controller = OUC }
 1520.1.1 = { add_core = AMA }

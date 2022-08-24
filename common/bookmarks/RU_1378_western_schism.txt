@@ -1,0 +1,12 @@
+### RU020 - Added
+bookmark =
+{
+	name = "WESTERN_SCHISM_NAME"
+	desc = "WESTERN_SCHISM_DESC"
+	date = 1378.03.28
+	
+	center = 118
+	
+	country = PAP
+	country = AVI
+}

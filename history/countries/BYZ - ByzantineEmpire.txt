@@ -11,14 +11,446 @@ historical_rival = RUM
 capital = 151 # Constantinople
 fixed_capital = 151 # Cannot move capital away from this province & no power cost to move to it
 
-1081.4.4 = {
+## RU018 - Start
+
+1081.4.1 = {
 	monarch = {
 		name = "Alexios I"
 		dynasty = "Komnenos"
 		birth_date = 1056.6.27		
 		adm = 4
-		dip = 5
+		dip = 4
+		mil = 4
+		leader = {name = "Alexios I" type = general	fire = 3 shock = 3 manuever = 2 siege = 2}
+	}
+	queen = {
+		female = yes
+		name = "Irene"
+		dynasty = "Doukas"
+		birth_date = 1066.1.1
+		death_date = 1138.2.19
+		adm = 4
+		dip = 0
 		mil = 3
+	}
+	leader = {name = "Tatikiy" birth_date = 1056.1.1 death_date = 1110.1.1 type = general	fire = 3 shock = 2 manuever = 3 siege = 1}
+}
+
+1087.9.13 = {
+	heir = {
+		name = "John"
+		monarch_name = "John II the Good"
+		dynasty = "Komnenos"
+		birth_date = 1087.9.13
+		death_date = 1143.4.8
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+1118.8.15 = {
+	monarch = {
+		name = "John II the Good"
+		dynasty = "Komnenos"
+		birth_date = 1087.9.13
+		adm = 6
+		dip = 5
+		mil = 6
+		leader = {name = "John II the Good" type = general	fire = 4 shock = 3 manuever = 4 siege = 3}
+	}
+	queen = {
+		country_of_origin = HUN
+		culture = hungarian
+		female = yes
+		name = "Irene"
+		dynasty = "Árpád"
+		birth_date = 1088.1.1
+		death_date = 1134.8.13
+		adm = 5
+		dip = 2
+		mil = 0
+	}
+	heir = {
+		name = "Manuel"
+		monarch_name = "Manuel I"
+		dynasty = "Komnenos"
+		birth_date = 1118.8.15
+		death_date = 1180.9.24
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1143.4.8 = {
+	monarch = {
+		name = "Manuel I"
+		dynasty = "Komnenos"
+		birth_date = 1118.8.15
+		adm = 3
+		dip = 4
+		mil = 5
+		leader = {name = "Manuel I" type = general	fire = 3 shock = 2 manuever = 2 siege = 1}
+	}
+}
+
+1161.12.24 = {
+	queen = {
+		female = yes
+		name = "Maria"
+		dynasty = "Poitiers"
+		birth_date = 1045.1.1
+		death_date = 1182.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1169.9.14 = {
+	heir = {
+		name = "Alexios"
+		monarch_name = "Alexios II"
+		dynasty = "Komnenos"
+		birth_date = 1169.9.14
+		death_date = 1183.9.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1180.9.24 = {
+	monarch = {
+		regent = yes
+		female = yes
+		name = "Maria"
+		dynasty = "Poitiers"
+		birth_date = 1045.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1183.9.1 = {
+	monarch = {
+		name = "Andronikos I"
+		dynasty = "Komnenos"
+		birth_date = 1118.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+		leader = {name = "Andronikos I" type = general	fire = 2 shock = 1 manuever = 2 siege = 1}
+	}
+}
+
+1185.9.12 = {
+	monarch = {
+		name = "Isaac II"
+		dynasty = "Angelos"
+		birth_date = 1156.9.1
+		adm = 3
+		dip = 3
+		mil = 4
+		leader = {name = "Isaac II" type = general	fire = 2 shock = 1 manuever = 3 siege = 1}
+	}
+	queen = {
+		country_of_origin = HUN
+		culture = hungarian
+		female = yes
+		name = "Margaret"
+		dynasty = "Árpád"
+		birth_date = 1175.1.1
+		death_date = 1223.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1195.4.8 = {
+	monarch = {
+		name = "Alexios III"
+		dynasty = "Angelos"
+		birth_date = 1153.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+		leader = {name = "Alexios III" type = general	fire = 2 shock = 1 manuever = 0 siege = 0}
+	}
+	queen = {
+		female = yes
+		name = "Euphrosyne Kamatera"
+		dynasty = "Doukas"
+		birth_date = 1155.1.1
+		death_date = 1211.1.1
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1203.7.18 = {
+	monarch = {
+		name = "Alexios IV"
+		dynasty = "Angelos"
+		birth_date = 1182.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1204.1.27 = {
+	monarch = {
+		name = "Alexios V"
+		dynasty = "Angelos"
+		birth_date = 1140.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+# 1204.4.13 - 1261.8.15 Latin Empire
+
+1261.8.15 = {
+	monarch = {
+		name = "Michael VIII"
+		dynasty = "Palaiologos"
+		birth_date = 1223.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+		leader = {name = "Michael VIII" type = general	fire = 3 shock = 3 manuever = 2 siege = 3}
+	}
+	queen = {
+		female = yes
+		name = "Theodora"
+		dynasty = "Vatatzes"
+		birth_date = 1240.1.1
+		death_date = 1303.3.4
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Andronikos"
+		monarch_name = "Andronikos II"
+		dynasty = "Palaiologos"
+		birth_date = 1259.3.25
+		death_date = 1332.2.13
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+	leader = {name = "Alexios Strategopoulos" birth_date = 1225.1.1 death_date = 1271.1.1 type = general fire = 3 shock = 1 manuever = 2 siege = 1}
+}
+
+1282.12.11 = {
+	monarch = {
+		name = "Andronikos II"
+		dynasty = "Palaiologos"
+		birth_date = 1259.3.25
+		adm = 4
+		dip = 4
+		mil = 1
+		leader = {name = "Andronikos II" type = general	fire = 1 shock = 0 manuever = 1 siege = 0}
+	}
+	heir = {
+		name = "Michael"
+		monarch_name = "Michael IX"
+		dynasty = "Palaiologos"
+		birth_date = 1277.4.17
+		death_date = 1320.10.12
+		claim = 90
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1284.1.1 = {
+	queen = {
+		country_of_origin = MFA
+		culture = piedmontese
+		religion = catholic
+		female = yes
+		name = "Yolande"
+		dynasty = "Aleramici"
+		birth_date = 1274.1.1
+		death_date = 1317.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1320.10.12 = {
+	heir = {
+		name = "Andronikos"
+		monarch_name = "Andronikos III"
+		dynasty = "Palaiologos"
+		birth_date = 1297.3.25
+		death_date = 1341.6.15
+		claim = 90
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1328.5.24 = {
+	monarch = {
+		name = "Andronikos III"
+		dynasty = "Palaiologos"
+		birth_date = 1297.3.25
+		adm = 4
+		dip = 3
+		mil = 4
+		leader = {name = "Andronikos III" type = general fire = 3 shock = 2 manuever = 2 siege = 1}
+	}
+	queen = {
+		country_of_origin = SAV
+		culture = occitain
+		religion = catholic
+		female = yes
+		name = "Anna"
+		dynasty = "Savoy"
+		birth_date = 1306.1.1
+		death_date = 1365.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1332.6.18 = {
+	heir = {
+		name = "John"
+		monarch_name = "John V"
+		dynasty = "Palaiologos"
+		birth_date = 1332.6.18
+		death_date = 1391.2.16
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1341.6.15 = {
+	monarch = {
+		regent = yes
+		country_of_origin = SAV
+		culture = occitain
+		religion = catholic
+		female = yes
+		name = "Anna"
+		dynasty = "Savoy"
+		birth_date = 1306.1.1
+		death_date = 1365.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	leader = {name = "Alexios Apocavk" birth_date = 1310.1.1  death_date = 1345.6.1 type = general	fire = 3 shock = 2 manuever = 3 siege = 1}
+}
+
+1347.5.21 = {
+	monarch = {
+		name = "John VI"
+		dynasty = "Kantakouzenos"
+		birth_date = 1292.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+		leader = {name = "John VI" type = general fire = 3 shock = 1 manuever = 3 siege = 2}
+	}
+}
+
+1354.12.10 = {
+	monarch = {
+		name = "John V"
+		dynasty = "Palaiologos"
+		birth_date = 1332.6.18
+		adm = 4
+		dip = 2
+		mil = 2
+		leader = {name = "John V" type = general fire = 2 shock = 1 manuever = 1 siege = 1}
+	}
+	queen = {
+		female = yes
+		name = "Helena"
+		dynasty = "Kantakouzene"
+		birth_date = 1333.1.1
+		death_date = 1396.12.10
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+	heir = {
+		name = "Andronikos"
+		monarch_name = "Andronikos IV"
+		dynasty = "Palaiologos"
+		birth_date = 1348.4.2
+		death_date = 1385.6.28
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1376.8.12 = {
+	monarch = {
+		name = "Andronikos IV"
+		dynasty = "Palaiologos"
+		birth_date = 1348.4.2
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1379.7.1 = {
+	monarch = {
+		name = "John V"
+		dynasty = "Palaiologos"
+		birth_date = 1332.6.18
+		adm = 4
+		dip = 2
+		mil = 2
+		leader = {name = "John V" type = general fire = 2 shock = 1 manuever = 1 siege = 1}
+	}
+}
+
+1390.4.14 = {
+	monarch = {
+		name = "John VII"
+		dynasty = "Palaiologos"
+		birth_date = 1370.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1390.9.17 = {
+	monarch = {
+		name = "John V"
+		dynasty = "Palaiologos"
+		birth_date = 1332.6.18
+		adm = 4
+		dip = 2
+		mil = 2
+		leader = {name = "John V" type = general fire = 2 shock = 1 manuever = 1 siege = 1}
 	}
 }
 
@@ -32,6 +464,19 @@ fixed_capital = 151 # Cannot move capital away from this province & no power cos
 		birth_date = 1350.6.27		
 		adm = 1
 		dip = 2
+		mil = 1
+		leader = {name = "Manuel II" type = general fire = 2 shock = 1 manuever = 0 siege = 0}
+	}
+	queen = {
+		country_of_origin = SER
+		culture = serbian
+		female = yes
+		name = "Helena Dragaš"
+		dynasty = "Dejanovic"
+		birth_date = 1372.1.1
+		death_date = 1450.3.23
+		adm = 2
+		dip = 3
 		mil = 1
 	}
 }
@@ -58,8 +503,10 @@ fixed_capital = 151 # Cannot move capital away from this province & no power cos
 		adm = 2
 		dip = 2
 		mil = 2
+		leader = {name = "Ioannes VIII" type = general fire = 2 shock = 2 manuever = 1 siege = 1}
 	}
 }
+## RU018 - End 
 
 1425.7.21 = {
 	heir = {

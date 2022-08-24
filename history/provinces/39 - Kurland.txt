@@ -23,12 +23,12 @@ native_hostileness = 4
 	add_core = KUR
 	is_city = yes
 	trade_goods = naval_supplies
-	religion = catholic
 }
-1237.1.1 = {
-    owner = LIV
+1267.1.1 = {
+   	owner = LIV
 	controller = LIV
 	add_core = LIV
+	religion = catholic
 }
 	
 #1561.11.28

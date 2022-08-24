@@ -1,12 +1,10 @@
 #Dorpat
 
-owner = LIV
-controller = LIV
-add_core = LIV
-add_core = LVA
-add_core = EST
+owner = NOV
+controller = NOV
+add_core = NOV
 culture = estonian
-religion = catholic
+religion = shamanism
 hre = no
 base_tax = 3 
 base_production = 3
@@ -22,7 +20,14 @@ discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 
-
+1224.9.1 = {
+	owner = LIV
+	controller = LIV
+	religion = catholic
+	add_core = LVA
+	add_core = EST
+	add_core = LIV
+}
 1542.1.1 = { religion = protestant} # Unknown date
 1558.7.18 = { controller = RUS } # Russian conquest
 1561.1.1 = {

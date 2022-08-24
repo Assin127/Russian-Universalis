@@ -1,17 +1,18 @@
 #4257 - Mezen
 
-owner = NOV 
-controller = NOV 
-culture = novgorodian
-religion = orthodox
+culture = uralic
+religion = shamanism
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = fish 
+trade_goods = unknown 
 base_manpower = 1
 capital = "Okladnikova Sloboda"
-is_city = yes
-add_core = NOV
+
+native_hostileness = 1
+native_size = 1
+native_ferocity = 1
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -19,12 +20,23 @@ discovered_by = AST
 discovered_by = QAS
 discovered_by = eastern
 discovered_by = western
+1444.1.1 = {
+	owner = NOV
+	controller = NOV
+	add_core = NOV
+	is_city = yes
+	trade_goods = fish
+	add_local_autonomy = 50 
+	culture = novgorodian
+	religion = orthodox
+}
 
 1478.1.15 = {
 	owner = MOS
 	controller = MOS
 	add_core = MOS
 	remove_core = NOV 
+	add_local_autonomy = -50 
 } # Passed to Muscovy with the rest of Novgorod republic
 1503.4.1 = {
 	owner = RUS
