@@ -74,19 +74,38 @@ union = {
 	start_date = 1246.1.1
 	end_date = 1356.1.1
 }
+#Kiev union
+union = {
+	first = KIE
+	second = PRS
+	start_date = 1301.1.1
+	end_date = 1362.1.1
+} ## RU017
+union = {
+	first = KIE
+	second = RSK
+	start_date = 1301.1.1
+	end_date = 1362.1.1
+} ## RU017
+union = {
+	first = KIE
+	second = KRS
+	start_date = 1301.1.1
+	end_date = 1362.1.1
+} ## RU017
 #Kiev vassal
 vassal = {
 	first = KIE
 	second = OWR
 	start_date = 1095.1.1
-	end_date = 1362.1.1
-} ## RU013
+	end_date = 1324.1.1
+} ## RU017
 #Halicz vassal
 vassal = {
 	first = GLC
 	second = PMS
 	start_date = 1095.1.1
-	end_date = 1340.1.1
+	end_date = 1344.1.1
 } ## RU014
 vassal = {
 	first = GLC
@@ -98,13 +117,13 @@ vassal = {
 	first = GLC
 	second = BLZ
 	start_date = 1170.1.1
-	end_date = 1340.1.1
+	end_date = 1341.1.1
 } ## RU017
 vassal = {
 	first = VOL
 	second = BEL
 	start_date = 1170.1.1
-	end_date = 1341.1.1
+	end_date = 1315.1.1
 } ## RU017
 #Chernigov vassal
 alliance = {
@@ -138,17 +157,23 @@ vassal = {
 	start_date = 1246.1.1
 	end_date = 1356.1.1
 }
-vassal = {
+alliance = {
 	first = BRY
 	second = KRS
 	start_date = 1246.1.1
 	end_date = 1301.1.1
 }
-vassal = {
+alliance = {
 	first = BRY
 	second = RSK
 	start_date = 1246.1.1
 	end_date = 1301.1.1
+} ## RU017
+alliance = {
+	first = BRY
+	second = OKA
+	start_date = 1246.1.1
+	end_date = 1356.1.1
 } ## RU017
 vassal = {
 	first = BRY
@@ -162,13 +187,13 @@ vassal = {
 	first = SMO
 	second = MSL
 	start_date = 1180.1.1
-	end_date = 1356.1.1
+	end_date = 1359.1.1
 }
 vassal = {
 	first = SMO
 	second = VYZ
 	start_date = 1239.1.1
-	end_date = 1356.1.1
+	end_date = 1395.1.1
 }
 vassal = { ## RU010
 	first = SMO
@@ -188,7 +213,7 @@ vassal = {
 	first = PLT
 	second = MSK
 	start_date = 1101.1.1
-	end_date = 1259.1.1
+	end_date = 1300.1.1
 }
 vassal = {
 	first = PLT
@@ -201,7 +226,7 @@ vassal = {
 	first = TUO
 	second = PIN
 	start_date = 1174.1.1
-	end_date = 1320.1.1
+	end_date = 1326.1.1
 }
 vassal = {
 	first = TUO

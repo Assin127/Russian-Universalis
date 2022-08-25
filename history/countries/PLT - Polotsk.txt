@@ -46,3 +46,14 @@ fixed_capital = 275 # Cannot move capital away from this province & no power cos
 		mil = 2
 	} ## RU012
 }
+1252.1.1 = {
+	monarch = {
+		name = "Tovtivil"
+		dynasty = "Gediminai"
+		culture = lithuanian
+		religion = catholic
+		adm = 2
+		dip = 3
+		mil = 3
+	} ## RU017
+}

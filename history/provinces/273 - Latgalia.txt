@@ -27,7 +27,8 @@ discovered_by = eastern
 	add_core = LIV
 	add_core = LVA
 	fort_15th = yes
-	religion = catholic 
+	religion = catholic
+	remove_core = PLT
 }
 1561.1.1 = {
 	owner = LIT
