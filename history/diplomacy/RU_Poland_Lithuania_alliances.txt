@@ -1,16 +1,15 @@
-#Lithuania union
-union = {
-	first = LIT
-	second = VOL
-	start_date = 1340.1.1
-	end_date = 1392.1.1
-}
 #Poland vassal
 vassal = {
 	first = POL
 	second = GLC
-	start_date = 1340.1.1
-	end_date = 1387.1.1
+	start_date = 1350.1.1
+	end_date = 1370.1.1
+}
+vassal = {
+	first = POL
+	second = VOL
+	start_date = 1366.1.1
+	end_date = 1370.1.1
 }
 vassal = {
 	first = POL
@@ -19,10 +18,16 @@ vassal = {
 	end_date = 1444.1.1
 }
 #Lithuania vassal
+alliance = {
+	first = LIT
+	second = PLT
+	start_date = 1258.1.1
+	end_date = 1263.1.1
+}
 vassal = {
 	first = LIT
 	second = MSK
-	start_date = 1259.1.1
+	start_date = 1300.1.1
 	end_date = 1326.1.1
 }
 vassal = {
@@ -39,15 +44,51 @@ vassal = {
 }
 vassal = {
 	first = LIT
-	second = TUO
-	start_date = 1316.1.1
-	end_date = 1341.1.1
+	second = BEL
+	start_date = 1315.1.1
+	end_date = 1350.1.1
 }
 vassal = {
 	first = LIT
-	second = SMO
+	second = SLC
+	start_date = 1320.1.1
+	end_date = 1340.1.1
+}
+vassal = {
+	first = LIT
+	second = KIE
+	start_date = 1324.1.1
+	end_date = 1362.1.1
+}
+vassal = {
+	first = LIT
+	second = PIN
+	start_date = 1326.1.1
+	end_date = 1340.1.1
+}
+vassal = {
+	first = LIT
+	second = TUO
+	start_date = 1336.1.1
+	end_date = 1340.1.1
+}
+vassal = {
+	first = LIT
+	second = VOL
+	start_date = 1340.1.1
+	end_date = 1366.1.1
+}
+vassal = {
+	first = LIT
+	second = GLC
+	start_date = 1349.1.1
+	end_date = 1350.1.1
+}
+vassal = {
+	first = LIT
+	second = TRK
 	start_date = 1356.1.1
-	end_date = 1395.1.1
+	end_date = 1401.1.1
 }
 vassal = {
 	first = LIT
@@ -57,19 +98,55 @@ vassal = {
 }
 vassal = {
 	first = LIT
-	second = NOS
-	start_date = 1356.1.1
-	end_date = 1405.1.1
-}
-vassal = {
-	first = LIT
 	second = BRY
 	start_date = 1356.1.1
-	end_date = 1430.1.1
+	end_date = 1401.1.1
 }
 vassal = {
 	first = LIT
-	second = KIE
+	second = MSL
+	start_date = 1359.1.1
+	end_date = 1392.1.1
+}
+vassal = {
+	first = LIT
+	second = NOS
 	start_date = 1362.1.1
-	end_date = 1398.1.1
+	end_date = 1401.1.1
+}
+vassal = {
+	first = LIT
+	second = RSK
+	start_date = 1362.1.1
+	end_date = 1401.1.1
+}
+vassal = {
+	first = LIT
+	second = KRS
+	start_date = 1362.1.1
+	end_date = 1401.1.1
+}
+vassal = {
+	first = LIT
+	second = LCK
+	start_date = 1366.1.1
+	end_date = 1370.1.1
+}
+vassal = {
+	first = LIT
+	second = GLC
+	start_date = 1370.1.1
+	end_date = 1377.1.1
+}
+vassal = {
+	first = LIT
+	second = VOL
+	start_date = 1370.1.1
+	end_date = 1392.1.1
+}
+vassal = {
+	first = LIT
+	second = SMO
+	start_date = 1395.1.1
+	end_date = 1401.1.1
 }

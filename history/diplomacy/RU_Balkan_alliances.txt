@@ -31,3 +31,9 @@ vassal = {
 	start_date = 1346.1.1
 	end_date = 1359.1.1
 }
+vassal = {
+	first = HUN
+	second = GLC
+	start_date = 1377.1.1
+	end_date = 1387.1.1
+}
