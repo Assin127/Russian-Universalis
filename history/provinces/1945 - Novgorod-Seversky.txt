@@ -23,15 +23,19 @@ discovered_by = nomad_group
 	owner = NOS
 	controller = NOS
 	add_core = NOS
+	remove_core = CHR
 }
 
-1405.1.1 = {
+1401.1.1 = {
 	owner = LIT
 	controller = LIT
 	add_core = LIT
 }
 
+1454.1.1 = { add_core = NOS add_local_autonomy = 35 }
+
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = LIT } # Treaty of the Annunciation
+1523.1.1 = { remove_core = NOS add_local_autonomy = -35 }
 1598.1.1 = { unrest = 5 } # "Time of troubles"
 1611.1.1 = { controller = PLC } # Polish occupation
 1613.1.1 = { unrest = 0 } # Order returned, Romanov dynasty
