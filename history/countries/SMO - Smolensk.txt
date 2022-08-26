@@ -31,19 +31,221 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_ruler_personality = drunkard_personality
 }
-1240.1.1 = {
+1127.1.1 = { ## RU022
+	monarch = {
+		name = "Rostislav"
+		dynasty = "Rurikovich"
+		birth_date = 1108.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+1159.1.1 = { ## RU022
+	monarch = {
+		name = "Roman"
+		dynasty = "Rurikovich"
+		birth_date = 1108.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1171.1.1 = { ## RU022
+	monarch = {
+		name = "Yaropolk"
+		dynasty = "Rurikovich"
+		birth_date = 1149.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1172.1.1 = { ## RU022
+	monarch = {
+		name = "Roman"
+		dynasty = "Rurikovich"
+		birth_date = 1130.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1174.1.1 = { ## RU022
+	monarch = {
+		name = "Mstislav Hrabryj"
+		dynasty = "Rurikovich"
+		birth_date = 1150.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+1176.1.1 = { ## RU022
+	monarch = {
+		name = "Roman"
+		dynasty = "Rurikovich"
+		birth_date = 1130.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1180.1.1 = { ## RU022
+	monarch = {
+		name = "David"
+		dynasty = "Rurikovich"
+		birth_date = 1140.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1197.1.1 = { ## RU022
+	monarch = {
+		name = "Mstislav Staryj"
+		dynasty = "Rurikovich"
+		birth_date = 1155.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+1212.1.1 = { ## RU022
+	monarch = {
+		name = "Vladimir"
+		dynasty = "Rurikovich"
+		birth_date = 1187.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1212.1.1 = { ## RU022
+	monarch = {
+		name = "Mstislav"
+		dynasty = "Rurikovich"
+		birth_date = 1193.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1230.1.1 = { ## RU022
+	monarch = {
+		name = "Rostislav"
+		dynasty = "Rurikovich"
+		birth_date = 1200.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1232.1.1 = { ## RU022
+	monarch = {
+		name = "Svyatoslav"
+		dynasty = "Rurikovich"
+		birth_date = 1201.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1232.1.1 = { ## RU022
+	monarch = {
+		name = "Vsevolod"
+		dynasty = "Rurikovich"
+		birth_date = 1204.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+1249.1.1 = { ## RU022
 	monarch = {
 		name = "Gleb"
 		dynasty = "Rurikovich"
+		birth_date = 1220.1.1
 		adm = 2
 		dip = 1
 		mil = 2
 	}
-} ## RU012
+}
+1278.1.1 = { ## RU022
+	monarch = {
+		name = "Michael"
+		dynasty = "Rurikovich"
+		birth_date = 1222.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1279.1.1 = { ## RU022
+	monarch = {
+		name = "Fyodor  Chyornyj"
+		dynasty = "Rurikovich"
+		birth_date = 1233.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1279.1.1 = { ## RU022
+	monarch = {
+		name = "Alexander"
+		dynasty = "Rurikovich"
+		birth_date = 1250.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+1297.1.1 = { ## RU022
+	monarch = {
+		name = "Ivan"
+		dynasty = "Rurikovich"
+		birth_date = 1285.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1359.1.1 = { ## RU022
+	monarch = {
+		name = "Svyatoslav"
+		dynasty = "Rurikovich"
+		birth_date = 1320.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
 1386.1.1 = {
 	monarch = {
 		name = "Yury I"
-		dynasty = "Rostaslavichi"
+		dynasty = "Rurikovich"
+		birth_date = 1360.1.1 ## RU022
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}
+1395.1.1 = { ## RU022
+	monarch = {
+		name = "Roman Molodoj"
+		dynasty = "Rurikovich"
+		birth_date = 1375.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1401.1.1 = {
+	monarch = { ## RU022
+		name = "Yury I"
+		dynasty = "Rurikovich"
+		birth_date = 1360.1.1 ## RU022
 		adm = 0
 		dip = 0
 		mil = 3
