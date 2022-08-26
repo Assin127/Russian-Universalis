@@ -1,7 +1,7 @@
 #4541 - Drohobycz
 
-owner = GLC
-controller = GLC
+owner = VOL
+controller = VOL
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -11,7 +11,7 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Drohobycz"
 is_city = yes
-add_core = GLC
+add_core = VOL
 
 discovered_by = KAZ
 discovered_by = CRI
@@ -22,6 +22,13 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = ottoman
 discovered_by = muslim
+
+1141.1.1 = {
+	owner = GLC
+	controller = GLC
+	add_core = GLC
+	remove_core = VOL
+}
 
 1387.1.1 = {
 	owner = POL
