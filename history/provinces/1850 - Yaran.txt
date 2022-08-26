@@ -24,6 +24,21 @@ discovered_by = nomad_group
 	owner = NHX
 	controller = NHX
 	add_core = NHX}
+	
+1225.1.1 = {
+	owner = MGE
+	controller = MGE
+	add_core = MGE}
+	
+1271.1.1 = {
+	owner = YUA
+	controller = YUA
+	add_core = YUA}
+	
+1368.1.1 = {
+	owner = NHX
+	controller = NHX
+	add_core = NHX}
 
 1412.1.1 = {
 	owner = MNG

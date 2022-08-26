@@ -28,6 +28,21 @@ discovered_by = nomad_group
 	add_core = NVK
 	culture = nivkh}
 	
+	1226.1.1 = {
+	owner = MGE
+	controller = MGE
+	add_core = MGE}
+	
+1271.1.1 = {
+	owner = YUA
+	controller = YUA
+	add_core = YUA}
+	
+1368.1.1 = {
+	owner = NVK
+	controller = NVK
+	add_core = NVK}
+	
 1412.1.1 = {
 	owner = MNG
 	controller = MNG

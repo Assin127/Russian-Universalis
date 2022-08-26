@@ -31,7 +31,7 @@ fort_15th = yes
 	controller = YUA
 	add_core = YUA}
 
-1369.1.1 = {
+1368.1.1 = {
 	owner = KHA
 	controller = KHA
 	add_core = KHA}

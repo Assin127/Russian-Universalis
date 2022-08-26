@@ -29,6 +29,21 @@ discovered_by = nomad_group
 	controller = EJZ
 	add_core = EJZ}
 
+1225.1.1 = {
+	owner = MGE
+	controller = MGE
+	add_core = MGE}
+	
+1271.1.1 = {
+	owner = YUA
+	controller = YUA
+	add_core = YUA}
+	
+1368.1.1 = {
+	owner = EJZ
+	controller = EJZ
+	add_core = EJZ}
+	
 1412.1.1 = {
 	owner = MNG
 	controller = MNG
