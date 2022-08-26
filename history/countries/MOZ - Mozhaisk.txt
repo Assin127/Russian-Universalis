@@ -8,3 +8,136 @@ religion = orthodox
 technology_group = eastern
 capital = 4251	# Mozhaisk
 fixed_capital = 4251 # Cannot move capital away from this province & no power cost to move to it
+
+set_country_flag = random_rurikovich
+
+1277.1.1 = { ## RU022
+	monarch = {
+		name = "Fyodor  Chyornyj"
+		dynasty = "Rurikovich"
+		birth_date = 1233.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1299.1.1 = { ## RU022
+	monarch = {
+		name = "Svyatoslav"
+		dynasty = "Rurikovich"
+		birth_date = 1270.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+1303.1.1 = { ## RU022
+	monarch = {
+		name = "Afanasy"
+		dynasty = "Rurikovich"
+		birth_date = 1270.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1322.1.1 = { ## RU022
+	monarch = {
+		name = "Yuri"
+		dynasty = "Rurikovich"
+		birth_date = 1270.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1325.1.1 = { ## RU022
+	monarch = {
+		name = "Simeon Gordyj"
+		dynasty = "Rurikovich"
+		birth_date = 1317.9.7
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1353.1.1 = { ## RU022
+	monarch = {
+		name = "Ivan II"
+		dynasty = "Rurikovich"
+		birth_date = 1326.3.30
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+1359.1.1 = { ## RU022
+	monarch = {
+		name = "Dmitry Donskoy"
+		dynasty = "Rurikovich"
+		birth_date = 1350.10.12
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+1389.1.1 = { ## RU022
+	monarch = {
+		name = "Andrey"
+		dynasty = "Rurikovich"
+		birth_date = 1382.8.14
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+1432.1.1 = { ## RU022
+	monarch = {
+		name = "Ivan"
+		dynasty = "Rurikovich"
+		birth_date = 1410.8.14
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1454.1.1 = { ## RU022
+	monarch = {
+		name = "Vasily Temnyj"
+		dynasty = "Rurikovich"
+		birth_date = 1415.3.10
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+1462.1.1 = { ## RU022
+	monarch = {
+		name = "Yuri"
+		dynasty = "Rurikovich"
+		birth_date = 1441.1.22
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+1473.3.28 = {
+	monarch = {
+		name = "Ivan III Veliky"
+		dynasty = Rurikovich
+		birth_date = 1440.1.22
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+1481.3.28 = {
+	monarch = {
+		name = "Andrey Bolshoy"
+		dynasty = Rurikovich
+		birth_date = 1446.8.13
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

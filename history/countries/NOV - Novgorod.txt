@@ -8,6 +8,8 @@ technology_group = eastern
 capital = 310	# Novgorod
 fixed_capital = 310 # Cannot move capital away from this province & no power cost to move to it
 
+set_country_flag = random_rurikovich
+
 1095.1.1 = {
 	monarch = {
 		name = "Mstislav II"
@@ -32,7 +34,12 @@ fixed_capital = 310 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_ruler_personality = righteous_personality
 }
-
+1136.1.1 = { #RU022
+        government = republic
+        add_government_reform = veche_republic
+        mercantilism = 25
+        historical_rival = MOS
+}
 1249.1.1 = {
 	monarch = {
 		name = "Alexander Nevsky"
@@ -54,10 +61,6 @@ fixed_capital = 310 # Cannot move capital away from this province & no power cos
 		dip = 4
 		mil = 2
 	}
-	government = republic
-	add_government_reform = veche_republic
-	mercantilism = 25
-	historical_rival = MOS
 }
 
 1456.2.1 = {
