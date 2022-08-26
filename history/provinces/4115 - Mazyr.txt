@@ -23,16 +23,19 @@ discovered_by = nomad_group
 	owner = CHR
 	controller = CHR
 	add_core = CHR
+	remove_core = KIE
 }
 1161.1.1 = {
 	owner = TUO
 	controller = TUO
 	add_core = TUO
+	remove_core = CHR
 }
-1341.1.1 = {
+1340.1.1 = {
 	owner = LIT
 	controller = LIT
 	add_core = LIT
+	remove_core = TUO
 }
 1569.7.1 = {
 	owner = PLC
