@@ -20,8 +20,8 @@ discovered_by = SOL
 	owner = NVK
 	controller = NVK
 	add_core = NVK
-	culture = nivkh
-}
+	culture = nivkh}
+	
 1226.1.1 = {
 	owner = MGE
 	controller = MGE
