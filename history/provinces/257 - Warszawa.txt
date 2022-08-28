@@ -1,7 +1,7 @@
 #257 - Mazovia
-
-owner = MAZ
-controller = MAZ
+#RU022 - start
+owner = POL
+controller = POL
 capital = "Warszawa"
 culture = polish
 religion = catholic
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = MAZ
+add_core = POL
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -24,7 +24,14 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
+1138.1.1 = {
+	owner = MAZ
+	controller = MAZ
+	add_core = MAZ
+	remove_core = POL	
+}
 
+#RU022 - end
 1526.3.9 = {
 	owner = POL
 	controller = POL

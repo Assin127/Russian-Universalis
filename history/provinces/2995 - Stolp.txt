@@ -1,8 +1,8 @@
 # - Stolp
 
-owner = PMR
-controller = PMR
-add_core = PMR
+owner = POM
+controller = POM
+add_core = POM
 culture = polabian_pommeranian
 religion = catholic
 hre = no
@@ -20,30 +20,14 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1119.1.1 = {
-	owner = POL
-	controller = POL
-	add_core = POL
-	culture = pommeranian
-}
-1210.1.1 = {
-	owner = DAN
-	controller = DAN
-	add_core = DAN
-}
-1221.1.1 = {
-	owner = POL
-	controller = POL
-	remove_core = DAN
-}
+#RU022 - start
+
 1227.1.1 = {
 	owner = PMR
 	controller = PMR
 }
-1294.1.1 = {
-	owner = POL
-	controller = POL
-}
+
+#RU022 - end
 1307.1.1 = {
 	owner = BRA
 	controller = BRA
