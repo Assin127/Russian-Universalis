@@ -1,5 +1,5 @@
 #260 - Lublin
-
+#RU022 - start
 latent_trade_goods = {
 	coal
 }
@@ -28,6 +28,19 @@ discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
 
+1138.1.1 = {
+	owner = SAN
+	controller = SAN
+	add_core = SAN
+	remove_core = POL	
+}
+1320.1.20 = {
+	owner = POL
+	controller = POL
+	add_core = POL
+	remove_core = SAN
+}
+#RU022 - end
 
 1490.1.1 = { unrest = 6 } # Uprising led by Mukha
 1492.1.1 = { unrest = 0 } 

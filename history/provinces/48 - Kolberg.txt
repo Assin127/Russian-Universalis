@@ -20,17 +20,13 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1107.1.1 = {
-	owner = POL
-	controller = POL
-	add_core = POL
-	culture = pommeranian
-}
+#RU022 - start
 1187.1.1 = {
 	owner = DAN
 	controller = DAN
 	add_core = DAN
 }
+#RU022 - end
 1227.1.1 = {
 	owner = STE
 	controller = STE

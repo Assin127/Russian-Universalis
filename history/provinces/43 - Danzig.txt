@@ -31,24 +31,20 @@ center_of_trade = 2
 	add_core = POL
 	culture = pommeranian
 }
-1210.1.1 = {
-	owner = DAN
-	controller = DAN
-	add_core = DAN
+#RU022 - start
+1138.1.1 = {
+	owner = POM
+	controller = POM
+	add_core = POM
+	remove_core = POL	
 }
-1221.1.1 = {
-	owner = POL
-	controller = POL
-	remove_core = DAN
-}
+
 1227.1.1 = {
 	owner = PMR
 	controller = PMR
 }
-1294.1.1 = {
-	owner = POL
-	controller = POL
-}
+
+#RU022 - end
 1308.1.1 = {
 	owner = TEU
 	controller = TEU
