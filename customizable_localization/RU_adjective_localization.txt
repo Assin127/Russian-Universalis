@@ -87,40 +87,91 @@ defined_text = {
         trigger = {
 			tag = TRK
 		}
-
     }
     text = { ## RU017
         localisation_key = ADJ_BEL
         trigger = {
 			tag = BEL
 		}
-
     }
     text = { ## RU017
         localisation_key = ADJ_BLZ
         trigger = {
 			tag = BLZ
 		}
-
     }
     text = { ## RU017
         localisation_key = ADJ_LCK
         trigger = {
 			tag = LCK
 		}
-
     }
     text = { ## RU017
         localisation_key = ADJ_RSK
         trigger = {
 			tag = RSK
 		}
-
     }
     text = { ## RU017
         localisation_key = ADJ_VYZ
         trigger = {
 			tag = VYZ
+		}
+    }
+    text = { ## RU017
+        localisation_key = ADJ_VBK
+        trigger = {
+			tag = VBK
+		}
+    }
+    text = { ## RU017
+        localisation_key = ADJ_MSK
+        trigger = {
+			tag = MSK
+		}
+    }
+    text = { ## RU017
+        localisation_key = ADJ_BOR
+        trigger = {
+			tag = BOR
+		}
+    }
+    text = { ## RU017
+        localisation_key = ADJ_SLC
+        trigger = {
+			tag = SLC
+		}
+    }
+    text = { ## RU017
+        localisation_key = ADJ_PIN
+        trigger = {
+			tag = PIN
+		}
+    }
+    text = { ## RU017
+        localisation_key = ADJ_MSL
+        trigger = {
+			tag = MSL
+		}
+    }
+    text = { ## RU017
+        localisation_key = ADJ_VBK
+        trigger = {
+			tag = VBK
+		}
+
+    }
+    text = { ## RU017
+        localisation_key = ADJ_MSK
+        trigger = {
+			tag = MSK
+		}
+
+    }
+    text = { ## RU017
+        localisation_key = ADJ_BOR
+        trigger = {
+			tag = BOR
 		}
 
     }

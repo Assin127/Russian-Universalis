@@ -1,7 +1,7 @@
 #Belz
 
-owner = GLC
-controller = GLC
+owner = VOL
+controller = VOL
 capital= "Belz"
 culture = ruthenian
 religion = orthodox
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = GLC
+add_core = VOL
 
 discovered_by = KAZ
 discovered_by = CRI
@@ -23,21 +23,65 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1170.1.1 = { owner = BLZ controller = BLZ add_core = BLZ } #Belz udel
+1141.1.1 = {
+	owner = GLC
+	controller = GLC
+	add_core = GLC
+	remove_core = VOL
+}
+
+1170.1.1 = { 
+	owner = BLZ
+	controller = BLZ
+	add_core = BLZ
+	remove_core = GLC
+} #Belz udel
 
 1341.1.1 = {
 	owner = VOL
 	controller = VOL
 	add_core = VOL
+	add_core = GLC
+}
+
+1366.1.1 = {
+	owner = POL
+	controller = POL
+	add_core = POL
 }
 
 1377.1.1 = {
+	owner = GLC
+	controller = GLC
+}
+
+1387.1.1 = {
+	owner = POL
+	controller = POL
+	add_core = POL
+	add_local_autonomy = 35
+}
+
+1388.1.1 = {
 	owner = MAZ
 	controller = MAZ
 	add_core = MAZ
+	remove_core = POL
 }
 
-1462.7.1 = { owner = POL controller = POL add_core = POL remove_core = MAZ } # Belz incorporated into Poland
+1392.1.1 = {
+	remove_core = VOL
+	remove_core = GLC
+}
+
+1462.7.1 = {
+	owner = POL 
+	controller = POL 
+	add_core = POL
+	remove_core = MAZ 
+	remove_core = BLZ 
+	add_local_autonomy = -35 
+} # Belz incorporated into Poland
 1569.7.1 = {
 	owner = PLC
 	controller = PLC

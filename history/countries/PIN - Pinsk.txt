@@ -1,0 +1,12 @@
+### RU017 - Added
+
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+primary_culture = byelorussian
+religion = orthodox
+capital = 278 #Pinsk
+fixed_capital = 278 # Cannot move capital away from this province & no power cost to move to it
+
+set_country_flag = random_rurikovich

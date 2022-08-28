@@ -200,6 +200,12 @@ TRK = "countries/Trubchevsk.txt" ## RU015 История есть
 LCK = "countries/Lutsk.txt" ## RU017 История есть
 RSK = "countries/Rylsk.txt" ## RU017 История есть
 VYZ = "countries/Vyazma.txt" ## RU017 История есть
+VBK = "countries/Vitebsk.txt" ## RU017 История есть
+BOR = "countries/Borisov.txt" ## RU017 История есть
+MSK = "countries/Minsk.txt" ## RU017 История есть
+SLC = "countries/Sluck.txt" ## RU017 История есть
+PIN = "countries/Pinsk.txt" ## RU017 История есть
+MSL = "countries/Mstislav.txt" ## RU017 История есть
 
 #Скандинавия
 JAM = "countries/Jamtland.txt"

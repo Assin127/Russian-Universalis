@@ -1,7 +1,7 @@
 #2424 - Przemysl
 
-owner = GLC
-controller = GLC
+owner = VOL
+controller = VOL
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -11,7 +11,7 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Przemysl"
 is_city = yes
-add_core = GLC
+add_core = VOL
 
 discovered_by = KAZ
 discovered_by = CRI
@@ -23,18 +23,23 @@ discovered_by = western
 discovered_by = ottoman
 discovered_by = muslim
 
-1097.1.1 = { owner = PMS controller = PMS add_core = PMS } #Przemysl udel
+1097.1.1 = {
+	owner = PMS
+	controller = PMS
+	add_core = PMS
+	remove_core = VOL
+} #Peremyshl udel
 
-1340.1.1 = {
-	owner = GLC
-	controller = GLC
-}
-1355.1.1 = {
+1344.1.1 = {
 	owner = POL
 	controller = POL
 	add_core = POL
+	add_core = GLC
 	remove_core = PMS
 }
+
+1392.1.1 = { remove_core = GLC } 
+ 
 1492.1.1 = { unrest = 0 } 
 
 1569.7.1 = {
