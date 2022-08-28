@@ -32,20 +32,12 @@ discovered_by = ottoman
 	add_core = POM
 	remove_core = POL	
 }
-1221.1.1 = {
-	owner = GNI
-	controller = GNI
-	add_core = GNI
-	remove_core = POM
-}
+
 1227.1.1 = {
 	owner = PMR
 	controller = PMR
 }
-1294.1.1 = {
-	owner = GNI
-	controller = GNI
-}
+
 #RU022 - end
 1308.1.1 = {
 	owner = TEU
