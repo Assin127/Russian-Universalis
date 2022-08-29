@@ -13,9 +13,28 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 add_core = CHH
-
 discovered_by = chinese
 discovered_by = nomad_group
+	
+1212.1.1 = {
+	owner = MGE
+	controller = MGE
+	add_core = MGE}
+	
+1271.1.1 = {
+	owner = YUA
+	controller = YUA
+	add_core = YUA}
+
+1368.1.1 = {
+	owner = KHA
+	controller = KHA
+	add_core = KHA}
+	
+1438.1.1 = {
+	owner = OIR
+	controller = OIR
+	add_core = OIR}
 
 1552.1.1 = {
 	owner = KHA
