@@ -17,7 +17,14 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
+#RU022 - start
+1138.1.1 = {
+	owner = POM
+	controller = POM
+	add_core = POM
+	remove_core = POL	
+}
+#RU022 - end
 1252.1.1 = {
 	hre = yes
 	owner = BRA
