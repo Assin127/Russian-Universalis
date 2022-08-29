@@ -3,7 +3,7 @@
 government = monarchy
 add_government_reform = principality
 government_rank = 1
-primary_culture = byelorussian
+primary_culture = krivian
 religion = orthodox
 technology_group = eastern
 capital = 4242	# Ula

@@ -2,7 +2,7 @@
 
 owner = PLT
 controller = PLT
-culture = byelorussian
+culture = krivian
 religion = orthodox
 hre = no
 base_tax = 2
@@ -50,6 +50,7 @@ discovered_by = nomad_group
 	controller = RUS
 	add_core = RUS
 	remove_core = PLC
+	culture = byelorussian
 }
 1812.8.17 = { controller = FRA } # Battle of Smolensk
 1812.11.9 = { controller = RUS }

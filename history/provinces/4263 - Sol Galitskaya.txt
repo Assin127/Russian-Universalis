@@ -1,6 +1,6 @@
 #4263 - Sol Galitskaya
 
-culture = russian 
+culture = zalesky 
 religion = orthodox
 hre = no
 base_tax = 1

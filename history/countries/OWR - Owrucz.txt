@@ -4,7 +4,7 @@ add_government_reform = principality
 government_rank = 1
 technology_group = eastern
 religion = orthodox
-primary_culture = ruthenian
+primary_culture = kievan
 capital = 4247	# Owrucz
 fixed_capital = 4247 # Cannot move capital away from this province & no power cost to move to it
 

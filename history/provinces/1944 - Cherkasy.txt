@@ -2,7 +2,7 @@
 
 owner = KIE
 controller = KIE 
-culture = ruthenian
+culture = kievan
 religion = orthodox
 hre = no
 base_tax = 1
@@ -47,4 +47,5 @@ discovered_by = nomad_group
 	controller = RUS
 	add_core = RUS
 	remove_core = PLC
+	culture = ruthenian
 } # Second Partition

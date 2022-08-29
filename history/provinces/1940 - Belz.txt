@@ -3,11 +3,11 @@
 owner = VOL
 controller = VOL
 capital= "Belz"
-culture = ruthenian
+culture = volynian
 religion = orthodox
 trade_goods = livestock
 hre = no
-base_tax = 4 
+base_tax = 3 
 base_production = 3
 base_manpower = 2
 is_city = yes
@@ -37,11 +37,20 @@ discovered_by = ottoman
 	remove_core = GLC
 } #Belz udel
 
+1240.1.1 = {
+	base_tax = 2
+	base_production = 1
+	base_manpower = 1
+}
+
 1341.1.1 = {
 	owner = VOL
 	controller = VOL
 	add_core = VOL
 	add_core = GLC
+	base_tax = 4
+	base_production = 3
+	base_manpower = 2
 }
 
 1366.1.1 = {

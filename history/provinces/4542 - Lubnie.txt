@@ -2,11 +2,11 @@
 
 owner = PRS
 controller = PRS
-culture = ruthenian
+culture = kievan
 religion = orthodox
 hre = no
-base_tax = 2
-base_production = 2
+base_tax = 1
+base_production = 1
 trade_goods = grain
 base_manpower = 1
 capital = "Lubnie"
@@ -28,6 +28,8 @@ discovered_by = nomad_group
 	remove_core = PRS
 	add_local_autonomy = 15
 	fort_15th = yes 
+	base_tax = 2
+	base_production = 2
 }
 1471.1.1 = { add_local_autonomy = -15 }
 
@@ -42,4 +44,5 @@ discovered_by = nomad_group
 	owner = RUS
 	add_core = RUS
 	remove_core = PLC
+	culture = ruthenian
 } # Part of the Russian empire

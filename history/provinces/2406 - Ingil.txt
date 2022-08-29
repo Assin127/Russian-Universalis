@@ -43,7 +43,7 @@ discovered_by = nomad_group
 	owner = LIT
 	controller = LIT
 	add_core = LIT
-	culture = ruthenian
+	culture = kievan
 	religion = orthodox 
 	add_local_autonomy = 50
 }

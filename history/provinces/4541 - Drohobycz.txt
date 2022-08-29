@@ -2,13 +2,13 @@
 
 owner = VOL
 controller = VOL
-culture = ruthenian
+culture = volynian
 religion = orthodox
 hre = no
-base_tax = 2
-base_production = 2
+base_tax = 1
+base_production = 1
 trade_goods = livestock
-base_manpower = 1
+base_manpower = 2
 capital = "Drohobycz"
 is_city = yes
 add_core = VOL
@@ -30,10 +30,16 @@ discovered_by = muslim
 	remove_core = VOL
 }
 
+1240.1.1 = {
+	base_manpower = 1
+}
+
 1387.1.1 = {
 	owner = POL
 	controller = POL
 	add_core = POL
+	base_tax = 2
+	base_production = 2
 }
 
 1492.1.1 = { unrest = 0 } 

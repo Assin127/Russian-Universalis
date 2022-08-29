@@ -31,7 +31,7 @@ native_hostileness = 4
 }
 
 1400.1.1 = {
-	culture = byelorussian
+	culture = polesian
 	religion = orthodox
 }
 
@@ -48,4 +48,5 @@ native_hostileness = 4
 	owner = RUS
 	controller = RUS
 	add_core = RUS
+	culture = byelorussian
 } # Third partition of Poland

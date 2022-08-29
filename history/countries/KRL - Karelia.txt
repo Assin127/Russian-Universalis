@@ -1,0 +1,9 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = shamanism
+primary_culture = karelian
+capital = 32
+
+1227.1.1 = { religion = orthodox }

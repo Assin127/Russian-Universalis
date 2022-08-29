@@ -1,6 +1,6 @@
 #4258 - Onega
 
-culture = karelian
+culture = uralic
 religion = shamanism
 hre = no
 base_tax = 1
@@ -29,7 +29,7 @@ native_hostileness = 3
 	trade_goods = fur 
 }
 1238.1.1 = {
-	culture = novgorodian
+	culture = pomorian
 	religion = orthodox
 }
 1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = NOV } # Passed to Muscovy with the rest of Novgorod republic

@@ -57,7 +57,7 @@ l_english:
  ADJ_FAT: "´²ª¯ª¦¬"
  ADJ_GAH: "¥¦¢®¿¬"
  ADJ_GHA: "¥°¬"
- ADJ_GLC: "¥®ª¶¬"
+ ADJ_GLC: "¥®ªµ¬"
  ADJ_GLD: "¥®ª¶¬" ## RU010
  ADJ_GLU: "¥®³¬¥²¬"
  ADJ_GNI: "¥°©°°¬"
@@ -245,7 +245,7 @@ l_english:
  TAG_DT_FAT: "Ê²ª¯ª¦¯"
  TAG_DT_GAH: "‚¦¢®ª"
  TAG_DT_GHA: "‚°"
- TAG_DT_GLC: "‚®ª¶³"
+ TAG_DT_GLC: "‚®ªµªª"
  TAG_DT_GLD: "‚®ª¶³" ## RU010
  TAG_DT_GLU: "‚®³³"
  TAG_DT_GNI: "‚°©°³"
@@ -433,7 +433,7 @@ l_english:
  TAG_PR_FAT: "Ê²ª¯ª¦"
  TAG_PR_GAH: "‚¦¢®ª"
  TAG_PR_GHA: "‚°"
- TAG_PR_GLC: "‚®ª¶"
+ TAG_PR_GLC: "‚®ªµªª"
  TAG_PR_GLD: "‚®ª¶" ## RU010
  TAG_PR_GLU: "‚®³"
  TAG_PR_GNI: "‚°©°"
@@ -621,7 +621,7 @@ l_english:
  TAG_RD_FAT: "Ê²ª¯ª¦¢"
  TAG_RD_GAH: "‚¦¢®ª"
  TAG_RD_GHA: "‚°º"
- TAG_RD_GLC: "‚®ª¶"
+ TAG_RD_GLC: "‚®ªµªª"
  TAG_RD_GLD: "‚®ª¶" ## RU010
  TAG_RD_GLU: "‚®³"
  TAG_RD_GNI: "‚°©°"
@@ -809,7 +809,7 @@ l_english:
  TAG_TV_FAT: "Ê²ª¯ª¦¯ª"
  TAG_TV_GAH: "‚¦¢®ª"
  TAG_TV_GHA: "‚°þ"
- TAG_TV_GLC: "‚®ª¶¯"
+ TAG_TV_GLC: "‚®ªµªþ"
  TAG_TV_GLD: "‚®ª¶¯" ## RU010
  TAG_TV_GLU: "‚®³¯"
  TAG_TV_GNI: "‚°©°¯"
@@ -997,7 +997,7 @@ l_english:
  TAG_VN_FAT: "Ê²ª¯ª¦¢"
  TAG_VN_GAH: "‚¦¢®ª"
  TAG_VN_GHA: "‚°³"
- TAG_VN_GLC: "‚®ª¶"
+ TAG_VN_GLC: "‚®ªµª½"
  TAG_VN_GLD: "‚®ª¶" ## RU010
  TAG_VN_GLU: "‚®³"
  TAG_VN_GNI: "‚°©°"
