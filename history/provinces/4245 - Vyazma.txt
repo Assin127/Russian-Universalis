@@ -2,7 +2,7 @@
 
 owner = SMO
 controller = SMO
-culture = ryazanian
+culture = krivian
 religion = orthodox
 hre = no
 base_tax = 2

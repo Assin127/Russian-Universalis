@@ -11,6 +11,14 @@ l_english:
  cuman: "‰®¢µ¬"
  old_russian: "ƒ¢°³¬"
  baltic_prussian: "‰³¬"
+ ruthenian: "‹¬ª°¬" ## RU023
+ zalesky: "…®¬" ## RU023
+ seversky: "Ô¢¬" ## RU023
+ krivian: "ª¢¬" ## RU023
+ polesian: "‰®¬" ## RU023
+ kievan: "ª¢¬" ## RU023
+ volynian: "Ï®º°¬" ## RU023
+ pomorian: "‰¯¬" ## RU023
  abodritian_small: "¡¦ª¶¬"
  alanian_small: "®°¬"
  geatish_small: "¥ž²¬"
@@ -22,3 +30,12 @@ l_english:
  cuman_small: "±®¢µ¬"
  old_russian_small: "¦¢°³¬"
  baltic_prussian_small: "±³¬"
+ ruthenian_small: "³¬ª°¬" ## RU023
+ zalesky_small: "©®¬" ## RU023
+ seversky_small: "¢¬" ## RU023
+ krivian_small: "¬ª¢¬" ## RU023
+ polesian_small: "±®c¬" ## RU023
+ kievan_small: "¬ª¢¬" ## RU023
+ volynian_small: "¢®º°¬" ## RU023
+ pomorian_small: "±¯¬" ## RU023
+ 

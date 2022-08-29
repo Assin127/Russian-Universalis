@@ -37,7 +37,7 @@ discovered_by = ottoman
 	add_local_autonomy = -50
 }
 1370.1.1 = {	
-	culture = ruthenian
+	culture = volynian
 	religion = orthodox
 }
 1444.1.1 = { add_core = TRA }

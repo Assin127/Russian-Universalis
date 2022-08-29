@@ -3,7 +3,7 @@
 owner = VOL
 controller = VOL  
 religion = orthodox
-culture = byelorussian
+culture = polesian
 hre = no
 base_tax = 2
 base_production = 2
@@ -26,11 +26,18 @@ discovered_by = nomad_group
 	remove_core = VOL
 } #Berestia udel
 
+1240.1.1 = {
+	base_production = 1
+	base_manpower = 1
+}
+
 1350.1.1 = {
 	owner = LIT
 	controller = LIT
 	add_core = LIT
 	remove_core = BEL
+	base_production = 2
+	base_manpower = 2
 }
 
 1569.7.1 = {
@@ -48,5 +55,6 @@ discovered_by = nomad_group
 	owner = RUS
 	controller = RUS
 	add_core = RUS
+	culture = byelorussian
 } # Third partition of Poland
 
