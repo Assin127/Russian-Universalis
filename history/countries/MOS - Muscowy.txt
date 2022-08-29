@@ -2,7 +2,7 @@
 government = monarchy
 add_government_reform = principality
 government_rank = 1
-primary_culture = russian
+primary_culture = zalesky
 religion = orthodox
 technology_group = eastern
 capital = 295 # Moskva

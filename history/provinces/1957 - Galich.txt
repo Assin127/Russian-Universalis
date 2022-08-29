@@ -3,7 +3,7 @@
 owner = VLD
 controller = VLD
 capital = "Galich"
-culture = russian
+culture = zalesky
 religion = orthodox
 trade_goods = salt
 hre = no

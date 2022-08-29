@@ -2,7 +2,7 @@
 
 owner = CHR
 controller = CHR
-culture = ryazanian
+culture = seversky
 religion = orthodox
 hre = no
 base_tax = 2

@@ -2,13 +2,13 @@
 
 owner = VOL
 controller = VOL
-culture = ruthenian
+culture = volynian
 religion = orthodox
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = livestock 
-base_manpower = 1
+base_manpower = 2
 capital = "Lutsk"
 is_city = yes
 add_core = VOL
@@ -24,6 +24,15 @@ discovered_by = nomad_group
 	controller = LCK
 	add_core = LCK
 	remove_core = VOL
+	base_tax = 2
+	base_production = 2
+	fort_15th = yes
+}
+
+1240.1.1 = {
+	base_tax = 1
+	base_production = 1
+	base_manpower = 1
 }
 
 1340.1.1 = {
@@ -49,6 +58,8 @@ discovered_by = nomad_group
 	capital = "Rowne"
 	remove_core = LCK
 	remove_core = VOL
+	base_tax = 2
+	base_production = 2
 }
 
 1431.1.1 = { add_core = VOL add_local_autonomy = 25 }
@@ -73,4 +84,4 @@ discovered_by = nomad_group
 1793.1.21 = { add_core = RUS } # Second partition, partially to Russia
 1794.3.24 = { unrest = 5 } # Kosciuszko uprising, minimize the Russian influence
 1794.11.16 = { unrest = 0 }
-1795.10.24 = { owner = RUS controller = RUS } # Third partition of Poland
+1795.10.24 = { owner = RUS controller = RUS culture = ruthenian } # Third partition of Poland

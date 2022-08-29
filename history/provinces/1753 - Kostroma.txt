@@ -3,7 +3,7 @@
 owner = VLD
 controller = VLD  
 add_core = VLD
-culture = russian 
+culture = zalesky 
 religion = orthodox
 hre = no
 base_tax = 3

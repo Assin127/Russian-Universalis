@@ -1,6 +1,6 @@
 #4122 - Shenkursk
 
-culture = uralic
+culture = karelian
 religion = shamanism
 hre = no
 base_tax = 1
@@ -29,7 +29,7 @@ discovered_by = western
 	add_local_autonomy = 50 
 }
 1238.1.1 = {
-	culture = novgorodian
+	culture = pomorian
 	religion = orthodox
 }
 

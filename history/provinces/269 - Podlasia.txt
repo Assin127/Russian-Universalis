@@ -3,12 +3,12 @@
 owner = VOL
 controller = VOL
 religion = orthodox
-culture = byelorussian
+culture = polesian
 hre = no
 trade_goods = livestock
-base_tax = 5
-base_production = 5
-base_manpower = 3
+base_tax = 1
+base_production = 1
+base_manpower = 1
 capital = "Drohiczyn"
 is_city = yes
 add_core = VOL
@@ -42,6 +42,9 @@ discovered_by = nomad_group
 	culture = lithuanian
 	religion = catholic
 	remove_core = BEL
+	base_tax = 5
+	base_production = 5
+	base_manpower = 3
 }
 
 
