@@ -1,6 +1,6 @@
 #4258 - Onega
 
-culture = uralic
+culture = samoyed
 religion = shamanism
 hre = no
 base_tax = 1
@@ -28,10 +28,8 @@ native_hostileness = 3
 	is_city = yes
 	trade_goods = fur 
 }
-1238.1.1 = {
-	culture = pomorian
-	religion = orthodox
-}
+1407.1.15 = { religion = orthodox culture = pomorian }
+
 1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = NOV } # Passed to Muscovy with the rest of Novgorod republic
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }
 1598.1.7 = { unrest = 5 } # "Time of troubles"

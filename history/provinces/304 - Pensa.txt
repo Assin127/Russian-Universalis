@@ -2,7 +2,7 @@
 
 owner = BUS
 controller = BUS
-culture = bulgar
+culture = mordvin
 religion = shamanism
 hre = no
 base_tax = 3 
