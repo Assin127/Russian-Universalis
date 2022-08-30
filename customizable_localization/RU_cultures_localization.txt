@@ -135,6 +135,24 @@ defined_text = {
 			ruler_culture = pomorian
 		}
     }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			ruler_culture = chud
+		}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			ruler_culture = mordvin
+		}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			ruler_culture = mari
+		}
+    }
 }
 #Культура консорта с маленькой буквы
 defined_text = {
@@ -247,6 +265,24 @@ defined_text = {
 			consort_culture = pomorian
         	}
     }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			consort_culture = chud
+		}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			consort_culture = mordvin
+		}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			consort_culture = mari
+		}
+    }
 }
 #Культура наследника с маленькой буквы
 defined_text = {
@@ -357,6 +393,24 @@ defined_text = {
         localisation_key = pomorian_small
         trigger = {
 			heir_culture = pomorian
+		}
+    }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			heir_culture = chud
+		}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			heir_culture = mordvin
+		}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			heir_culture = mari
 		}
     }
 }
@@ -507,6 +561,30 @@ defined_text = {
 			}
         	}
     }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			employed_advisor = { 
+				culture = chud 
+			}
+        	}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			employed_advisor = { 
+				culture = mordvin 
+			}
+        	}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			employed_advisor = { 
+				culture = mari 
+			}
+        	}
+    }
 }
 #Государственная культура с маленькой буквы
 defined_text = {
@@ -617,6 +695,24 @@ defined_text = {
         localisation_key = pomorian_small
         trigger = {
 			primary_culture = pomorian 
+		}
+    }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			primary_culture = chud
+		}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			primary_culture = mordvin
+		}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			primary_culture = mari
 		}
     }
 }
@@ -764,6 +860,30 @@ defined_text = {
         trigger = {
 			owner = { 
 				primary_culture = pomorian 
+			}
+        	}
+    }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			owner = { 
+				primary_culture = chud 
+			}
+        	}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			owner = { 
+				primary_culture = mordvin 
+			}
+        	}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			owner = { 
+				primary_culture = mari 
 			}
         	}
     }
