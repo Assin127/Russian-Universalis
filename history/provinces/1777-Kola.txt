@@ -2,7 +2,7 @@
 
 capital = "Kola"
 culture = sapmi
-religion = norse_pagan_reformed
+religion = shamanism
 hre = no
 base_tax = 1 
 base_production = 1

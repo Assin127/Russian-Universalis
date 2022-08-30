@@ -2,8 +2,8 @@
 
 owner = VBL
 controller = VBL
-culture = bulgar
-religion = sunni
+culture = mari
+religion = shamanism
 capital = "Veda-Suvar"
 trade_goods = grain
 hre = no
@@ -26,7 +26,6 @@ discovered_by = ottoman
 	add_core = GLH
 }
 1320.1.1 = {
-	culture = kazani
 	remove_core = VBL
 }
 1437.1.1 = {
@@ -34,6 +33,8 @@ discovered_by = ottoman
 	controller = KAZ
 	add_core = KAZ
 	remove_core = GLH
+	culture = kazani
+	religion = sunni
 }
 1552.10.2 = {
 	owner = RUS 

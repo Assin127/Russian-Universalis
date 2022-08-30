@@ -1,8 +1,8 @@
 #1079 - Viatka
 
 capital = "Hlynov"
-culture = uralic
-religion = tengri_pagan_reformed
+culture = mari
+religion = shamanism
 trade_goods = unknown
 hre = no
 base_tax = 3 
@@ -24,8 +24,6 @@ native_ferocity = 2
 	owner = NOV
 	controller = NOV
 	add_core = NOV
-	culture = russian
-	religion = orthodox
 	trade_goods = copper
 	is_city = yes
 }
@@ -33,6 +31,8 @@ native_ferocity = 2
 	owner = MOS
 	controller = MOS
 	add_core = MOS
+	culture = zalesky
+	religion = orthodox
 }
 1450.1.1 = { discovered_by = SIB }
 1453.1.1 = { discovered_by = western }
