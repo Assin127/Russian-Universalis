@@ -5,17 +5,18 @@ add_core = MGE
 controller = MGE
 culture = korean
 religion = mahayana
-capital = "Pyongyang"
+capital = "Pyeongyang"
 trade_goods = grain
 hre = no
 base_tax = 3
-base_production = 4
-base_manpower = 4
+base_production = 3
+base_manpower = 3
 is_city = yes
 add_core = KYO
 
 discovered_by = chinese
 discovered_by = nomad_group
+add_local_autonomy = 35
 
 1271.1.1 = { owner = YUA controller = YUA  add_core = YUA remove_core = MGE }
 1356.1.1 = { owner = KYO controller = KYO  add_core = KYO remove_core = YUA }
