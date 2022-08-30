@@ -3,7 +3,7 @@
 owner = MGE
 add_core = MGE
 controller = MGE
-culture = korean
+culture = manchu
 religion = mahayana
 capital = "Gyeongwon"
 trade_goods = naval_supplies
