@@ -4077,6 +4077,7 @@ altaic = {
 			Mandughai Hoelun Tamülün Kokachin Beki Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka 
 			Doquez-khatum Goland Ho'elun Khultulun  Qamish Orqina Sorghaghtani Toregene "Fatima" "Ibtisam" "Jalila" "Janan" Sakina
 		}
+	}
 	## RU000 - Start
 	bulgar = {
 		primary = BLG
