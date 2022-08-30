@@ -1,6 +1,6 @@
 #4122 - Shenkursk
 
-culture = karelian
+culture = samoyed
 religion = shamanism
 hre = no
 base_tax = 1
@@ -28,7 +28,7 @@ discovered_by = western
 	trade_goods = fur
 	add_local_autonomy = 50 
 }
-1238.1.1 = {
+1407.1.1 = {
 	culture = pomorian
 	religion = orthodox
 }

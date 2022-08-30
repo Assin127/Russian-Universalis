@@ -1,6 +1,6 @@
 #4256 - Solvychegodsk
  
-culture = uralic
+culture = samoyed
 religion = shamanism
 hre = no
 base_tax = 1
