@@ -15,6 +15,7 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 add_core = KYO
+add_local_autonomy = 35
 
 1271.1.1 = { owner = YUA controller = YUA  add_core = YUA remove_core = MGE }
 1356.1.1 = { owner = KYO controller = KYO  add_core = KYO remove_core = YUA }
