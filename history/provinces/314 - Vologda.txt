@@ -1,6 +1,6 @@
 #314 - Vologda
 
-culture = uralic
+culture = chud
 religion = shamanism
 
 
@@ -10,8 +10,6 @@ base_production = 1
 trade_goods = unknown 
 base_manpower = 1
 capital = "Vologda"
-
-
 
 discovered_by = eastern
 discovered_by = western
@@ -27,21 +25,24 @@ native_ferocity = 1
 	add_core = NOV
 	is_city = yes
 	trade_goods = iron 
-	culture = russian 
+	add_local_autonomy = 25 
+}
+1259.1.1 = {
+	base_tax = 2
+	base_production = 2
 	religion = orthodox
 }
-1238.1.1 = {
-	base_tax = 3
-	base_production = 3
-	base_manpower = 2
-	culture = russian 
-	religion = orthodox
-}
+1355.1.1 = { culture = zalesky }
+
 1397.1.1 = {
 	owner = MOS
 	controller = MOS
 	add_core = MOS
 	add_core = NOV
+	base_tax = 3
+	base_production = 3
+	base_manpower = 2
+	add_local_autonomy = -25 
 }
 
 

@@ -51,7 +51,7 @@ discovered_by = nomad_group
 	controller = VOL
 }
 
-1392.1.1 = {
+1387.1.1 = {
 	owner = LIT
 	controller = LIT
 	add_core = LIT

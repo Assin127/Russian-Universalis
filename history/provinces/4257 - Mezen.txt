@@ -1,6 +1,6 @@
 #4257 - Mezen
 
-culture = uralic
+culture = samoyed
 religion = shamanism
 hre = no
 base_tax = 1

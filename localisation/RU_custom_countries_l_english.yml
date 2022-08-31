@@ -87,6 +87,7 @@ l_english:
  ADJ_KOT: "¬²¬" ## RU004
  ADJ_KRS: "¬³¬"
  ADJ_KRT: "¬ª²¬"
+ ADJ_KYO: "¬ž¬" ## RU019
  ADJ_LAE: "®²ª°¬" ## RU002
  ADJ_LCK: "®³µ¬" ## RU017
  ADJ_LEG: "®¥°ªµ¬"
@@ -275,6 +276,7 @@ l_english:
  TAG_DT_KOT: "²³" ## RU004
  TAG_DT_KRS: "³¬³"
  TAG_DT_KRT: "ª²¯"
+ TAG_DT_KYO: "ž" ## RU019
  TAG_DT_LAE: "ˆ²ª°¬þ ª¯±ªª" ## RU002
  TAG_DT_LCK: "ˆ³µ¬³" ## RU017
  TAG_DT_LEG: "ˆ¥°ªµ"
@@ -463,6 +465,7 @@ l_english:
  TAG_PR_KOT: "²" ## RU004
  TAG_PR_KRS: "³¬"
  TAG_PR_KRT: "ª²"
+ TAG_PR_KYO: "ž" ## RU019
  TAG_PR_LAE: "ˆ²ª°¬þ ª¯±ªª" ## RU002
  TAG_PR_LCK: "ˆ³µ¬" ## RU017
  TAG_PR_LEG: "ˆ¥°ªµ"
@@ -651,6 +654,7 @@ l_english:
  TAG_RD_KOT: "²" ## RU004
  TAG_RD_KRS: "³¬"
  TAG_RD_KRT: "ª²¢"
+ TAG_RD_KYO: "ž" ## RU019
  TAG_RD_LAE: "ˆ²ª°¬þ ª¯±ªª" ## RU002
  TAG_RD_LCK: "ˆ³µ¬" ## RU017
  TAG_RD_LEG: "ˆ¥°ªµº"
@@ -839,6 +843,7 @@ l_english:
  TAG_TV_KOT: "²¯" ## RU004
  TAG_TV_KRS: "³¬¯"
  TAG_TV_KRT: "ª²¯ª"
+ TAG_TV_KYO: "ž" ## RU019
  TAG_TV_LAE: "ˆ²ª°¬þ ª¯±ªþ" ## RU002
  TAG_TV_LCK: "ˆ³µ¬¯" ## RU017
  TAG_TV_LEG: "ˆ¥°ªµþ"
@@ -1027,6 +1032,7 @@ l_english:
  TAG_VN_KOT: "²" ## RU004
  TAG_VN_KRS: "³¬"
  TAG_VN_KRT: "ª²¢"
+ TAG_VN_KYO: "ž" ## RU019
  TAG_VN_LAE: "ˆ²ª°¬³½ ª¯±ª½" ## RU002
  TAG_VN_LCK: "ˆ³µ¬" ## RU017
  TAG_VN_LEG: "ˆ¥°ªµ³"

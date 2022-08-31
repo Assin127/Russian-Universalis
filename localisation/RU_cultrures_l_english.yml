@@ -19,6 +19,9 @@ l_english:
  kievan: "ª¢¬" ## RU023
  volynian: "Ï®º°¬" ## RU023
  pomorian: "‰¯¬" ## RU023
+ chud: "Ì³¦¬" ## RU024
+ mordvin: "¦¢ª°¬" ## RU024
+ mari: "ªþ¬" ## RU024
  abodritian_small: "¡¦ª¶¬"
  alanian_small: "®°¬"
  geatish_small: "¥ž²¬"
@@ -38,4 +41,7 @@ l_english:
  kievan_small: "¬ª¢¬" ## RU023
  volynian_small: "¢®º°¬" ## RU023
  pomorian_small: "±¯¬" ## RU023
+ chud_small: "¶³¦¬" ## RU024
+ mordvin_small: "¯¦¢ª°¬" ## RU024
+ mari_small: "¯ªþ¬" ## RU024
  

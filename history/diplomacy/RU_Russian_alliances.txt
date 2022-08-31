@@ -71,36 +71,72 @@ union = {
 	start_date = 1199.1.1
 	end_date = 1205.1.1
 }
+alliance = {
+	first = GLC
+	second = VOL
+	start_date = 1238.1.1
+	end_date = 1292.1.1
+}
 union = {
 	first = GLC
 	second = VOL
-	start_date = 1245.8.17
+	start_date = 1292.1.1
 	end_date = 1340.1.1
+}
+vassal = {
+	first = GLC
+	second = BLZ
+	start_date = 1170.1.1
+	end_date = 1264.1.1
+}
+union = {
+	first = GLC
+	second = BLZ
+	start_date = 1264.1.1
+	end_date = 1341.1.1
+}
+vassal = {
+	first = GLC
+	second = LCK
+	start_date = 1157.1.1
+	end_date = 1227.1.1
+}
+union = {
+	first = GLC
+	second = LCK
+	start_date = 1227.1.1
+	end_date = 1323.1.1
+}
+vassal = {
+	first = GLC
+	second = LCK
+	start_date = 1323.1.1
+	end_date = 1340.1.1
+}
+union = {
+	first = VOL
+	second = LCK
+	start_date = 1340.1.1
+	end_date = 1366.1.1
 }
 vassal = {
 	first = GLC
 	second = PMS
 	start_date = 1095.1.1
-	end_date = 1344.1.1
-} ## RU014
-vassal = {
+	end_date = 1235.1.1
+}
+union = {
 	first = GLC
-	second = LCK
-	start_date = 1157.1.1
+	second = PMS
+	start_date = 1235.1.1
 	end_date = 1340.1.1
-} ## RU017
-vassal = {
-	first = GLC
-	second = BLZ
-	start_date = 1170.1.1
-	end_date = 1341.1.1
-} ## RU017
-vassal = {
+}
+union = {
 	first = VOL
 	second = BEL
 	start_date = 1170.1.1
 	end_date = 1315.1.1
-} ## RU017
+}
 
 #Chernigov diplomation
 

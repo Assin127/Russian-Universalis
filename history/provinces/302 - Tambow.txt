@@ -2,8 +2,8 @@
 
 owner = CUM 
 controller = CUM 
-culture = cuman
-religion = tengri_pagan_reformed
+culture = mordvin
+religion = shamanism
 hre = no
 base_tax = 3 
 base_production = 3
