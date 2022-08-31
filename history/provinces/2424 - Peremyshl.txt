@@ -34,7 +34,7 @@ discovered_by = muslim
 	base_production = 1
 }
 
-1344.1.1 = {
+1340.1.1 = {
 	owner = POL
 	controller = POL
 	add_core = POL

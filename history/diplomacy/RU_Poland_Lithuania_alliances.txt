@@ -1,5 +1,5 @@
-#Poland vassal
-vassal = {
+#Poland diplomation
+union = {
 	first = POL
 	second = GLC
 	start_date = 1350.1.1
@@ -17,7 +17,7 @@ vassal = {
 	start_date = 1387.1.1
 	end_date = 1444.1.1
 }
-#Lithuania vassal
+#Lithuania diplomation
 alliance = {
 	first = LIT
 	second = PLT
@@ -42,7 +42,7 @@ vassal = {
 	start_date = 1307.1.1
 	end_date = 1392.1.1
 }
-vassal = {
+union = {
 	first = LIT
 	second = BEL
 	start_date = 1315.1.1
@@ -142,7 +142,7 @@ vassal = {
 	first = LIT
 	second = VOL
 	start_date = 1370.1.1
-	end_date = 1392.1.1
+	end_date = 1390.1.1
 }
 vassal = {
 	first = LIT

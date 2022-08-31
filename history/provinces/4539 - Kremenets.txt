@@ -34,7 +34,6 @@ discovered_by = nomad_group
 	owner = VOL
 	controller = VOL
 	add_core = VOL
-	remove_core = GLC
 	base_manpower = 2
 }
 

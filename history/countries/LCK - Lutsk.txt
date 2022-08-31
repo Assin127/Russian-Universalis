@@ -9,7 +9,37 @@ religion = orthodox
 capital = 2962 # Rowne
 fixed_capital = 2962  # Cannot move capital away from this province & no power cost to move to it
 
-1259.1.1 = {
-	set_country_flag = random_rurikovich
-} ## RU017
+## RU025 - Start
+
+#(1227.1.1-1323.1.1) - union
+
+1323.1.1 = {
+	monarch = {
+		name = "Lubart I"
+		dynasty = "Gediminids"
+		birth_date = 1299.1.1
+		culture = lithuanian
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+#(1340.1.1-1366.1.1) - union
+
+1366.1.1 = {
+	monarch = {
+		name = "Lubart I"
+		dynasty = "Gediminids"
+		birth_date = 1299.1.1
+		culture = lithuanian
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+#1370.1.1 - annex
+
+## RU025 - End
 
