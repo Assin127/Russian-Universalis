@@ -1,0 +1,26 @@
+### RU017 - Added
+
+government = republic
+add_government_reform = veche_republic
+government_rank = 1
+primary_culture = zalesky
+religion = orthodox
+technology_group = eastern
+capital = 1079	# Viatka
+fixed_capital = 1079 # Cannot move capital away from this province & no power cost to move to it
+
+## RU025 - Start
+
+1136.1.1 = {
+	monarch = {
+		name = "Settlers"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+#1403.1.1 - annex
+
+## RU025 - End
