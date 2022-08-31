@@ -2,20 +2,28 @@
 
 government = monarchy
 add_government_reform = principality
-government_rank = 2
+government_rank = 1
 technology_group = eastern
 primary_culture = volynian
 religion = orthodox
 capital = 1940 # Belz
 fixed_capital = 1940 # Cannot move capital away from this province & no power cost to move to it
 
-1238.1.1 = {
+## RU025 - Start
+
+1245.1.1 = {
 	monarch = {
-		name = "Lev"
+		name = "Lev I"
 		dynasty = "Rurikovich"
 		birth_date = 1228.1.1
-		adm = 2
-		dip = 2
-		mil = 3
-	} ## RU017
+		adm = 3
+		dip = 3
+		mil = 4
+	}
 }
+
+#(1264.1.1-1340.1.1) - union
+
+#1340.1.1 - annex
+
+## RU025 - End

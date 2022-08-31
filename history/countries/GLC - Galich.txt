@@ -8,6 +8,9 @@ primary_culture = volynian
 religion = orthodox
 capital = 261 # Halicz
 fixed_capital = 261 # Cannot move capital away from this province & no power cost to move to it
+
+## RU025 - Start
+
 1238.1.1 = {
 	monarch = {
 		name = "Daniyl Galitsky"
@@ -17,7 +20,7 @@ fixed_capital = 261 # Cannot move capital away from this province & no power cos
 		dip = 5
 		mil = 4
 		leader = { name = "Daniyl Galitsky" type = general fire = 4 shock = 4 manuever = 4 siege = 0 }
-	} #Legendary ruler ## RU012
+	} #Legendary ruler
 	add_ruler_personality = charismatic_negotiator_personality
 	add_ruler_personality = well_advised_personality
 	add_ruler_personality = tactical_genius_personality
@@ -29,11 +32,140 @@ fixed_capital = 261 # Cannot move capital away from this province & no power cos
 		birth_date = 1228.1.1
 		death_date = 1301.1.1
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 3
-	} ## RU012
+		adm = 3
+		dip = 3
+		mil = 4
+	}
 	set_country_flag = lev_rurikovich_flag
 }
 
-1301.1.1 = { clr_country_flag = lev_rurikovich_flag }
+1264.1.1 = {
+	monarch = {
+		name = "Lev I"
+		dynasty = "Rurikovich"
+		birth_date = 1228.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	heir = {
+		name = "Yuriy"
+		monarch_name = "Yuriy I"
+		dynasty = "Rurikovich"
+		death_date = 1308.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	clr_country_flag = lev_rurikovich_flag
+}
+1301.1.1 = {
+	monarch = {
+		name = "Yuriy I"
+		dynasty = "Rurikovich"
+		birth_date = 1252.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	heir = {
+		name = "Lev & Andrei"
+		monarch_name = "Lev II & Andrei I"
+		dynasty = "Rurikovich"
+		death_date = 1323.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1308.1.1 = {
+	monarch = {
+		name = "Lev II & Andrei I"
+		dynasty = "Rurikovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	heir = {
+		name = "Vladimir"
+		monarch_name = "Vladimir I"
+		dynasty = "Rurikovich"
+		death_date = 1340.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1323.1.1 = {
+	monarch = {
+		name = "Boyarsky Council"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+1325.1.1 = {
+	monarch = {
+		name = "Yuriy II"
+		dynasty = "Piast"
+		culture = polish
+		religion = catholic
+		birth_date = 1308.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	religion = catholic
+}
+1340.1.1 = {
+	monarch = {
+		name = "Dmitry Detka"
+		religion = orthodox
+		adm = 2
+		dip = 2
+		mil = 3
+		regent = yes
+	}
+	religion = orthodox
+}
+1349.1.1 = {
+	monarch = {
+		name = "Boyarsky Council"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+#(1350.1.1-1370.1.1) - union
+
+1370.1.1 = {
+	monarch = {
+		name = "Boyarsky Council"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+1377.1.1 = {
+	monarch = {
+		name = "Hungarian administration"
+		culture = hungarian
+		religion = catholic
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+	religion = catholic
+}
+
+#1387.1.1 - annex
+
+## RU025 - End

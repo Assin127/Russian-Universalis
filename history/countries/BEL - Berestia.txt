@@ -9,4 +9,6 @@ religion = orthodox
 capital = 277 # Brest-Litovsk
 fixed_capital = 277 # Cannot move capital away from this province & no power cost to move to it
 
-set_country_flag = random_rurikovich ## RU017
+#(1170.1.1-1350.1.1) - union ##RU025
+
+#1350.1.1 - annex ##RU025

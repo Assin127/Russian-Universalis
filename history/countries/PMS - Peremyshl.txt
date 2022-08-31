@@ -8,6 +8,7 @@ primary_culture = volynian
 religion = orthodox
 capital = 2424 # Peremyshl
 fixed_capital = 2424 # Cannot move capital away from this province & no power cost to move to it
+
 1084.1.2 = {
 	monarch = {
 		name = "Volodar"
@@ -20,6 +21,8 @@ fixed_capital = 2424 # Cannot move capital away from this province & no power co
 	clear_scripted_personalities = yes
 	add_ruler_personality = kind_hearted_personality
 }
-1259.1.1 = {
-	set_country_flag = random_rurikovich
-} ## RU014
+#(1235.1.1-1340.1.1) - union ##RU025
+
+#1340.1.1 - annex ##RU025
+
+

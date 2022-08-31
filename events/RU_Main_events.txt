@@ -25,7 +25,6 @@ country_event = {
 		define_ruler = {
 			dynasty = "Rurikovich"
 		}
-		add_stability = 1
 		clr_country_flag = random_rurikovich
 	}
 }
