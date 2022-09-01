@@ -15,25 +15,31 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 
-1217.1.1 = {
+1204.1.1 = {
 	owner = MGE
 	controller = MGE
-	add_core = MGE
-}
+	add_core = MGE}
+	
 1271.1.1 = {
 	owner = YUA
 	controller = YUA
-	add_core = YUA
-}
+	add_core = YUA}
+
 1368.1.1 = {
-	owner = ---
-	controller = ---
-	is_city = no
-	native_size = 10
-	native_ferocity = 1
-	native_hostileness = 3
-	trade_goods = unknown
-}
+	owner = KHA
+	controller = KHA
+	add_core = KHA}
+	
+1438.1.1 = {
+	owner = OIR
+	controller = OIR
+	add_core = OIR}
+	
+1490.1.1 = {
+	owner = KHA
+	controller = KHA
+	add_core = KHA}
+	
 1632.1.1 = { discovered_by = RUS }
 
 1653.1.1 = {

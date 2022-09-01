@@ -12,18 +12,34 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-
-
-
 discovered_by = chinese
 discovered_by = nomad_group
 
+1211.1.1 = {
+	owner = MGE
+	controller = MGE
+	add_core = MGE}
+	
+1271.1.1 = {
+	owner = YUA
+	controller = YUA
+	add_core = YUA}
 
-1552.1.1 = {
+1368.1.1 = {
 	owner = KHA
 	controller = KHA
-	add_core = KHA
-} # The Oirads are defeated & Altan Khan reunites the the area.
+	add_core = KHA}
+	
+1438.1.1 = {
+	owner = OIR
+	controller = OIR
+	add_core = OIR}
+	
+1510.1.1 = {
+	owner = KHA
+	controller = KHA
+	add_core = KHA}
+
 1633.1.1 = { discovered_by = RUS }
 1635.4.1 = {
 	owner = KLK
