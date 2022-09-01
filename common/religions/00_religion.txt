@@ -2432,6 +2432,26 @@ pagan = {
 	}
 	## RU001 - End
 	
+	## RU026 - Start
+	proto_uralic = {
+		icon = 32
+		color = { 150 190 190 }
+		country = {
+			land_attrition = -0.1
+			development_cost = -0.1
+		}
+		country_as_secondary = {
+			hostile_attrition = 1
+			num_accepted_cultures = 1
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { OLD_PROTO_URALIC }	
+	}
+	## RU026 - End
+	
 	crusade_name = CRUSADE
 	harmonized_modifier = harmonized_pagan
 }
