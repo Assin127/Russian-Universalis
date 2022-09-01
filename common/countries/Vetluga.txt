@@ -1,0 +1,68 @@
+### RU017 - Added
+graphical_culture = easterngfx
+
+color = { 187  192  121 }
+revolutionary_colors = { 5 14 10 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+leader_names = {
+	Elyksan Evdyuk Ilip
+	Miklai Laidemyr Mitryai
+	Opanas Mikypyr
+	Shindyay Sokhron
+}
+
+ship_names = {
+	Noroava Olota Ordava Pemka Poshayka
+	Tekay Tetyava Tundya Unzhutka Yalgava
+}
+
+monarch_names = {
+	"Alyok #0" = 20
+	"Aygobek #0" = 20
+	"Chotkar #0" = 20
+	"Deryab #0" = 10
+	"Ilip #0" = 10
+	"Izi #0" = 10
+	"Laidemyr #0" = 5
+	"Lapkas #0" = 5
+	"Miklai #0" = 5
+	"Ozanay #0" = 5
+	"Saksa #0" = 0
+	"Varaka #0" = 0
+	"Uchva #0" = 0
+	
+	"Anava #0" = -1
+	"Salika #0" = -1
+	"Elika #0" = -1
+	"Nyayka #0" = -1
+}
