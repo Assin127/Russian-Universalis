@@ -72,6 +72,12 @@ defined_text = {
 				religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_IM
+        trigger = {
+				religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -122,6 +128,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_IM
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -142,6 +154,12 @@ defined_text = {
         localisation_key = slavic_name_IM
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_IM
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -166,6 +184,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_IM
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -186,6 +210,12 @@ defined_text = {
         localisation_key = slavic_name_IM
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_IM
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -210,6 +240,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_IM
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = BelieversIM
@@ -229,6 +265,12 @@ defined_text = {
         localisation_key = slavic_IM
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_IM
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -281,6 +323,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_IM
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -301,6 +349,12 @@ defined_text = {
         localisation_key = slavic_IM
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_IM
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -325,6 +379,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_IM
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -345,6 +405,12 @@ defined_text = {
         localisation_key = slavic_IM
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_IM
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -369,6 +435,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_IM
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = BelieversPluralIM
@@ -388,6 +460,12 @@ defined_text = {
         localisation_key = slavic_plural_name_IM
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_IM
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -440,6 +518,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_IM
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -460,6 +544,12 @@ defined_text = {
         localisation_key = slavic_plural_name_IM
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_IM
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -484,6 +574,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_IM
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -504,6 +600,12 @@ defined_text = {
         localisation_key = slavic_plural_name_IM
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_IM
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -528,6 +630,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_IM
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = ReligionRD
@@ -547,6 +655,12 @@ defined_text = {
         localisation_key = slavic_name_RD
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_RD
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -599,6 +713,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_RD
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -619,6 +739,12 @@ defined_text = {
         localisation_key = slavic_name_RD
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_RD
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -643,6 +769,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_RD
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -663,6 +795,12 @@ defined_text = {
         localisation_key = slavic_name_RD
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_RD
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -687,6 +825,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_RD
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = BelieversRD
@@ -706,6 +850,12 @@ defined_text = {
         localisation_key = slavic_RD
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_RD
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -758,6 +908,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_RD
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -778,6 +934,12 @@ defined_text = {
         localisation_key = slavic_RD
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_RD
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -802,6 +964,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_RD
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -822,6 +990,12 @@ defined_text = {
         localisation_key = slavic_RD
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_RD
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -846,6 +1020,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_RD
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = BelieversPluralRD
@@ -865,6 +1045,12 @@ defined_text = {
         localisation_key = slavic_plural_name_RD
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_RD
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -917,6 +1103,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_RD
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -937,6 +1129,12 @@ defined_text = {
         localisation_key = slavic_plural_name_RD
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_RD
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -961,6 +1159,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_RD
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -981,6 +1185,12 @@ defined_text = {
         localisation_key = slavic_plural_name_RD
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_RD
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -1005,6 +1215,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_RD
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = ReligionDT
@@ -1024,6 +1240,12 @@ defined_text = {
         localisation_key = slavic_name_DT
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_DT
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -1076,6 +1298,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_DT
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1096,6 +1324,12 @@ defined_text = {
         localisation_key = slavic_name_DT
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_DT
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -1120,6 +1354,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_DT
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1140,6 +1380,12 @@ defined_text = {
         localisation_key = slavic_name_DT
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_DT
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -1164,6 +1410,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_DT
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = BelieversDT
@@ -1183,6 +1435,12 @@ defined_text = {
         localisation_key = slavic_DT
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_DT
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -1235,6 +1493,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_DT
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1255,6 +1519,12 @@ defined_text = {
         localisation_key = slavic_DT
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_DT
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -1279,6 +1549,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_DT
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1299,6 +1575,12 @@ defined_text = {
         localisation_key = slavic_DT
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_DT
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -1323,6 +1605,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_DT
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = BelieversPluralDT
@@ -1342,6 +1630,12 @@ defined_text = {
         localisation_key = slavic_plural_name_DT
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_DT
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -1394,6 +1688,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_DT
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1414,6 +1714,12 @@ defined_text = {
         localisation_key = slavic_plural_name_DT
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_DT
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -1438,6 +1744,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_DT
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1458,6 +1770,12 @@ defined_text = {
         localisation_key = slavic_plural_name_DT
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_DT
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -1482,6 +1800,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_DT
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = ReligionTV
@@ -1501,6 +1825,12 @@ defined_text = {
         localisation_key = slavic_name_TV
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_TV
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -1553,6 +1883,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_TV
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1573,6 +1909,12 @@ defined_text = {
         localisation_key = slavic_name_TV
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_TV
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -1597,6 +1939,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_TV
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1617,6 +1965,12 @@ defined_text = {
         localisation_key = slavic_name_TV
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_TV
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -1641,6 +1995,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_TV
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = BelieversTV
@@ -1660,6 +2020,12 @@ defined_text = {
         localisation_key = slavic_TV
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_TV
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -1712,6 +2078,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_TV
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1732,6 +2104,12 @@ defined_text = {
         localisation_key = slavic_TV
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_TV
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -1756,6 +2134,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_TV
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1776,6 +2160,12 @@ defined_text = {
         localisation_key = slavic_TV
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_TV
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -1800,6 +2190,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_TV
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = BelieversPluralTV
@@ -1819,6 +2215,12 @@ defined_text = {
         localisation_key = slavic_plural_name_TV
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_TV
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -1871,6 +2273,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_TV
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1891,6 +2299,12 @@ defined_text = {
         localisation_key = slavic_plural_name_TV
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_TV
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -1915,6 +2329,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_TV
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -1935,6 +2355,12 @@ defined_text = {
         localisation_key = slavic_plural_name_TV
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_TV
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -1959,6 +2385,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_TV
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = ReligionPR
@@ -1978,6 +2410,12 @@ defined_text = {
         localisation_key = slavic_name_PR
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_PR
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -2030,6 +2468,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_PR
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -2050,6 +2494,12 @@ defined_text = {
         localisation_key = slavic_name_PR
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_PR
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -2074,6 +2524,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_PR
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -2094,6 +2550,12 @@ defined_text = {
         localisation_key = slavic_name_PR
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_PR
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -2118,6 +2580,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_name_PR
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = BelieversPR
@@ -2137,6 +2605,12 @@ defined_text = {
         localisation_key = slavic_PR
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_PR
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -2189,6 +2663,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_PR
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -2209,6 +2689,12 @@ defined_text = {
         localisation_key = slavic_PR
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_PR
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -2233,6 +2719,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_PR
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -2253,6 +2745,12 @@ defined_text = {
         localisation_key = slavic_PR
         trigger = {
 				secondary_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_PR
+        trigger = {
+				secondary_religion = proto_uralic
 		}
 	}
 }
@@ -2277,6 +2775,12 @@ defined_text = {
 				is_harmonizing_with = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_PR
+        trigger = {
+				is_harmonizing_with = proto_uralic
+		}
+	}
 }
 defined_text = {
     name = BelieversPluralPR
@@ -2296,6 +2800,12 @@ defined_text = {
         localisation_key = slavic_plural_name_PR
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_PR
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }
@@ -2348,6 +2858,12 @@ defined_text = {
 				ruler_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_PR
+        trigger = {
+				ruler_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -2368,6 +2884,12 @@ defined_text = {
         localisation_key = slavic_plural_name_PR
         trigger = {
 				consort_religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_PR
+        trigger = {
+				consort_religion = proto_uralic
 		}
 	}
 }
@@ -2392,6 +2914,12 @@ defined_text = {
 				heir_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_PR
+        trigger = {
+				heir_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -2414,6 +2942,12 @@ defined_text = {
 				secondary_religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_PR
+        trigger = {
+				secondary_religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -2434,6 +2968,12 @@ defined_text = {
         localisation_key = slavic_plural_name_PR
         trigger = {
 				is_harmonizing_with = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_plural_name_PR
+        trigger = {
+				is_harmonizing_with = proto_uralic
 		}
 	}
 }
