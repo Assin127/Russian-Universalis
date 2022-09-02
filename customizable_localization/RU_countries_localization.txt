@@ -157,6 +157,18 @@ defined_text = {
 			tag = MSL
 		}
     }
+    text = { ## RU017
+        localisation_key = TAG_RD_VTL
+        trigger = {
+			tag = VTL
+		}
+    }
+    text = { ## RU017
+        localisation_key = TAG_RD_VTK
+        trigger = {
+			tag = VTK
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_RD_THS
         trigger = {
@@ -1281,6 +1293,18 @@ defined_text = {
 			tag = MSL
 		}
     }
+    text = { ## RU017
+        localisation_key = TAG_VN_VTL
+        trigger = {
+			tag = VTL
+		}
+    }
+    text = { ## RU017
+        localisation_key = TAG_VN_VTK
+        trigger = {
+			tag = VTK
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_VN_THS
         trigger = {
@@ -2402,6 +2426,18 @@ defined_text = {
         localisation_key = TAG_TV_MSL
         trigger = {
 			tag = MSL
+		}
+    }
+    text = { ## RU017
+        localisation_key = TAG_TV_VTL
+        trigger = {
+			tag = VTL
+		}
+    }
+    text = { ## RU017
+        localisation_key = TAG_TV_VTK
+        trigger = {
+			tag = VTK
 		}
     }
     text = { ## RU002
@@ -3528,6 +3564,18 @@ defined_text = {
 			tag = MSL
 		}
     }
+    text = { ## RU017
+        localisation_key = TAG_PR_VTL
+        trigger = {
+			tag = VTL
+		}
+    }
+    text = { ## RU017
+        localisation_key = TAG_PR_VTK
+        trigger = {
+			tag = VTK
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_PR_THS
         trigger = {
@@ -4650,6 +4698,18 @@ defined_text = {
         localisation_key = TAG_DT_MSL
         trigger = {
 			tag = MSL
+		}
+    }
+    text = { ## RU017
+        localisation_key = TAG_DT_VTL
+        trigger = {
+			tag = VTL
+		}
+    }
+    text = { ## RU017
+        localisation_key = TAG_DT_VTK
+        trigger = {
+			tag = VTK
 		}
     }
     text = { ## RU002

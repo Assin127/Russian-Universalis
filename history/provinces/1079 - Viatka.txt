@@ -21,9 +21,9 @@ native_size = 5
 native_ferocity = 2
 
 1136.1.1 = {
-	owner = NOV
-	controller = NOV
-	add_core = NOV
+	owner = VTK
+	controller = VTK
+	add_core = VTK
 	trade_goods = copper
 	is_city = yes
 }

@@ -1,25 +1,28 @@
 ﻿### RU001 - Added
 l_english:
  nestorianism: "²ª°²¢"
- nestorianism_religion_desc: "²ª°²¢ - ¦ª´ª©ª²¬ ª²®¥ª¶¬ ³¶°ª, ±ª±ªº¢¯ ±²ª¢°ª¬¯ª ²ª½. ‹¶°ª ¯¥ ²ª¾ ¡º® ³¨¦° ¬¬ ¿ ° ™´¬¯ ¡ ¢ 431 ¥¦³. ¦ª°²¢°°º¯ª ª²ª°¬ª¯ª µ¬¢¯ª, ª±¢¦³½¸ª¯ª ¦°°³½ ª²®¥ª½, ¾¢®¾½²¾ ªªþ¬¾ µ¬¢¿ Ï²¬ ª ƒ¢°¾¾ ªªþ¬¾ µ¬¢¿ Ï²¬, ²¬ª¯ ¡©¯ ±¦²¢®¾¾ ¡þ ¯¡º²°³½ ª²ª°¬³½ ¬°´ª½."
+ nestorianism_religion_desc: "²ª°²¢ — ¦ª´ª©ª²¬ ª²®¥ª¶¬ ³¶°ª, ±ª±ªº¢¯ ±²ª¢°ª¬¯ª ²ª½. ‹¶°ª ¯¥ ²ª¾ ¡º® ³¨¦° ¬¬ ¿ ° ™´¬¯ ¡ ¢ 431 ¥¦³. ¦ª°²¢°°º¯ª ª²ª°¬ª¯ª µ¬¢¯ª, ª±¢¦³½¸ª¯ª ¦°°³½ ª²®¥ª½, ¾¢®¾½²¾ ªªþ¬¾ µ¬¢¿ Ï²¬ ª ƒ¢°¾¾ ªªþ¬¾ µ¬¢¿ Ï²¬, ²¬ª¯ ¡©¯ ±¦²¢®¾¾ ¡þ ¯¡º²°³½ ª²ª°¬³½ ¬°´ª½."
  romuva: "Ð¯³¢"
- romuva_religion_desc: "Ð¯³¢ - ¢¬³±°²¿ ¾©º¶¬ª ¢¢°ªþ, ±²°°°º ° ²ª²ªª ˆª²¢º ° ¯¯°² ±¢þ ±®¢ª°º XIV ¢¬."
+ romuva_religion_desc: "Ð¯³¢ — ¢¬³±°²¿ ¾©º¶¬ª ¢¢°ªþ, ±²°ž°°º ° ²ª²ªª ˆª²¢º ° ¯¯°² ±¢þ ±®¢ª°º XIV ¢¬."
  OLD_ROMUVA: "ƒ¢° ¯³¢"
  slavic: "Ô®¢¾°¬ ¾©º¶²¢"
  slavic_religion_desc: "°¢°º¯ª ¶²¯ª ®¢¾°¬¥ ¾©º¶²¢ ¾¢®¾½²¾ ¢ ¢ ¦³Œ¢®ž°°²¿ ±ª¦º, ¬³®¿² ±¦¬¢ ª ¢¹²²¢°°º ª®º, ¬²º ±²¾°° ±ª³²²¢³½² ª ±ª°ª¯½² ³¶²ª ° ±²¾¨°ªª ¢þ ¨ª©°ª ¬¨¦¥ ¶®¢¬"
  OLD_SLAVIC: "ƒ¢° ®¢¾°¬ ¾©º¶²¢"
+ proto_uralic: "Êª°°-³¥¬ ¾©º¶²¢" ## RU026
+ proto_uralic_religion_desc: "Êª°°-³¥¬ ¾©º¶²¢ — ¡¡¸ž°° °©¢°ª ©®ª¶°º ¯ª´®¥ª¶¬ª ±¦²¢®°ªþ ´ª°°-³¥¬ª °¦¢." ## RU026
+ OLD_PROTO_URALIC: "ƒ¢° ´ª°°-³¥¬ ¾©º¶²¢" ## RU026
  dievas: "ƒª¢"
- dievas_desc: "ƒª¢ - ¡¥ °¡, ¥®¢°ºþ ¦ª ¡¥¢. † ²¾ ° ±¦²¢®¾²¾ ¡¨²¢¯, ¬² ° ¢¯Œª¢²¾ ¢ ¦® ¯²°º, ¥, ²¯ ° ¯°, ±¬²ª¶¬ª ¢½¦³ ±¶ª²½²."
+ dievas_desc: "ƒª¢ — ¡¥ °¡, ¥®¢°ºþ ¦ª ¡¥¢. † ²¾ ° ±¦²¢®¾²¾ ¡¨²¢¯, ¬² ° ¢¯Œª¢²¾ ¢ ¦® ¯²°º, ¥, ²¯ ° ¯°, ±¬²ª¶¬ª ¢½¦³ ±¶ª²½²."
  perkunas: "‰¬³°"
- perkunas_desc: "‰¬³° - ¡¥-¥¯¢¨µ, ¢®²ª²®¿ ¢©¦³ ª ©¸ª²°ª¬ ±¢¦®ª¢²ª, ±¦²½¸ªþ ¢ ¢ª¦ Œª²®¿°¥ ¯³¨¶ª°º  ¬ªþ."
+ perkunas_desc: "‰¬³° — ¡¥-¥¯¢¨µ, ¢®²ª²®¿ ¢©¦³ ª ©¸ª²°ª¬ ±¢¦®ª¢²ª, ±¦²½¸ªþ ¢ ¢ª¦ Œª²®¿°¥ ¯³¨¶ª°º  ¬ªþ."
  zhemina: "„¯ª°"
- zhemina_desc: "„¯ª° - ¡¥ª°¾ ©¯®ª, ¾¢®¾²¾ ¦¶¿½ Ô³®. ‰¬¢ª²®¿²¢³² ±®¦¦ª½, ®¿¬¯³ ©¾þ²¢³ ª ¢¯ ²°ª¾¯ ¢ µ®¯."
+ zhemina_desc: "„¯ª° — ¡¥ª°¾ ©¯®ª, ¾¢®¾²¾ ¦¶¿½ Ô³®. ‰¬¢ª²®¿²¢³² ±®¦¦ª½, ®¿¬¯³ ©¾þ²¢³ ª ¢¯ ²°ª¾¯ ¢ µ®¯."
  saule: "Ô³®"
- saule_desc: "Ô³® - ¡¥ª°¾ Ô®°µ, ª¯½¸¾ ¦°¢¯°° ¡© ¯®¦þ ¦¢³Œ¬ª ª ¨°¸ª°º. ×¢®¾²¾ ±¬¢ª²®¿°ªµþ ¯þ ¨ª©°ª, ±®¦¦ª¾, ²±® ª ©¦¢¿¾."
+ saule_desc: "Ô³® — ¡¥ª°¾ Ô®°µ, ª¯½¸¾ ¦°¢¯°° ¡© ¯®¦þ ¦¢³Œ¬ª ª ¨°¸ª°º. ×¢®¾²¾ ±¬¢ª²®¿°ªµþ ¯þ ¨ª©°ª, ±®¦¦ª¾, ²±® ª ©¦¢¿¾."
  budte: "€³¦²"
- budte_desc: "€³¦² - ¡¥ª°¾ ©°°ªþ, ®ªµ²¢°ª ¯³¦²ª."
+ budte_desc: "€³¦² — ¡¥ª°¾ ©°°ªþ, ®ªµ²¢°ª ¯³¦²ª."
  bangputis: "€°¥±³²ª"
- bangputis_desc: "€°¥±³²ª - ¡¥ ¯¬ª ¡³¿, Œ²¯¢, ¢² ª ¢®°."
+ bangputis_desc: "€°¥±³²ª — ¡¥ ¯¬ª ¡³¿, Œ²¯¢, ¢² ª ¢®°."
  nestorianism_name_IM: "°²ª°²¢"
  nestorianism_name_RD: "°²ª°²¢"
  nestorianism_name_DT: "°²ª°²¢³"
@@ -35,6 +38,11 @@ l_english:
  slavic_name_DT: "®¢¾°¬¯³ ¾©º¶²¢³"
  slavic_name_TV: "®¢¾°¬ª¯ ¾©º¶²¢¯"
  slavic_name_PR: "®¢¾°¬¯ ¾©º¶²¢"
+ proto_uralic_name_IM: "´ª°°-³¥¬ ¾©º¶²¢" ## RU026
+ proto_uralic_name_RD: "´ª°°-³¥¬¥ ¾©º¶²¢" ## RU026
+ proto_uralic_name_DT: "´ª°°-³¥¬¯³ ¾©º¶²¢³" ## RU026
+ proto_uralic_name_TV: "´ª°°-³¥¬ª¯ ¾©º¶²¢¯" ## RU026
+ proto_uralic_name_PR: "´ª°°-³¥¬¯ ¾©º¶²¢" ## RU026
  nestorianism_IM: "°²ª°ª°"
  nestorianism_RD: "°²ª°ª°"
  nestorianism_DT: "°²ª°ª°³"
@@ -50,6 +58,11 @@ l_english:
  slavic_DT: "®¢¾°¬¯³ ¾©º¶°ª¬³"
  slavic_TV: "®¢¾°¬ª¯ ¾©º¶°ª¬¯"
  slavic_PR: "®¢¾°¬¯ ¾©º¶°ª¬"
+ proto_uralic_IM: "´ª°°-³¥¬ªþ ¾©º¶°ª¬" ## RU026
+ proto_uralic_RD: "´ª°°-³¥¬¥ ¾©º¶°ª¬" ## RU026
+ proto_uralic_DT: "´ª°°-³¥¬¯³ ¾©º¶°ª¬³" ## RU026
+ proto_uralic_TV: "´ª°°-³¥¬ª¯ ¾©º¶°ª¬¯" ## RU026
+ proto_uralic_PR: "´ª°°-³¥¬¯ ¾©º¶°ª¬" ## RU026
  nestorianism_plural_name_IM: "°²ª°"
  nestorianism_plural_name_RD: "°²ª°¢"
  nestorianism_plural_name_DT: "°²ª°¯"
@@ -65,51 +78,71 @@ l_english:
  slavic_plural_name_DT: "®¢¾°¬ª¯ ¾©º¶°ª¬¯"
  slavic_plural_name_TV: "®¢¾°¬ª¯ª ¾©º¶°ª¬¯ª"
  slavic_plural_name_PR: "®¢¾°¬ª ¾©º¶°ª¬"
- nestorianism_name_IM: "²ª°²¢"
- nestorianism_name_RD: "²ª°²¢"
- nestorianism_name_DT: "²ª°²¢³"
- nestorianism_name_TV: "²ª°²¢¯"
- nestorianism_name_PR: "²ª°²¢"
- romuva_name_IM: "Ð¯³¢"
- romuva_name_RD: "Ð¯³¢"
- romuva_name_DT: "Ð¯³¢"
- romuva_name_TV: "Ð¯³¢"
- romuva_name_PR: "Ð¯³¢"
- slavic_name_IM: "Ô®¢¾°¬ ¾©º¶²¢"
- slavic_name_RD: "Ô®¢¾°¬¥ ¾©º¶²¢"
- slavic_name_DT: "Ô®¢¾°¬¯³ ¾©º¶²¢³"
- slavic_name_TV: "Ô®¢¾°¬ª¯ ¾©º¶²¢¯"
- slavic_name_PR: "Ô®¢¾°¬¯ ¾©º¶²¢"
- nestorianism_IM: "²ª°ª°"
- nestorianism_RD: "²ª°ª°"
- nestorianism_DT: "²ª°ª°³"
- nestorianism_TV: "²ª°ª°¯"
- nestorianism_PR: "²ª°ª°"
- romuva_IM: "‰®¦¢²®¿ ¯³¢"
- romuva_RD: "‰®¦¢²®¾  ¯³¢"
- romuva_DT: "‰®¦¢²®½  ¯³¢"
- romuva_TV: "‰®¦¢²®¯  ¯³¢"
- romuva_PR: "‰®¦¢²® ¯³¢"
- slavic_IM: "Ô®¢¾°¬ªþ ¾©º¶°ª¬"
- slavic_RD: "Ô®¢¾°¬¥ ¾©º¶°ª¬"
- slavic_DT: "Ô®¢¾°¬¯³ ¾©º¶°ª¬³"
- slavic_TV: "Ô®¢¾°¬ª¯ ¾©º¶°ª¬¯"
- slavic_PR: "Ô®¢¾°¬¯ ¾©º¶°ª¬"
- nestorianism_plural_name_IM: "²ª°"
- nestorianism_plural_name_RD: "²ª°¢"
- nestorianism_plural_name_DT: "²ª°¯"
- nestorianism_plural_name_TV: "²ª°¯ª"
- nestorianism_plural_name_PR: "²ª°"
- romuva_plural_name_IM: "‰®¦¢²®ª ¯³¢"
- romuva_plural_name_RD: "‰®¦¢²®þ ¯³¢"
- romuva_plural_name_DT: "‰®¦¢²®¾¯ ¯³¢"
- romuva_plural_name_TV: "‰®¦¢²®¾¯ª ¯³¢"
- romuva_plural_name_PR: "‰®¦¢²®¾ ¯³¢"
- slavic_plural_name_IM: "Ô®¢¾°¬ª ¾©º¶°ª¬ª"
- slavic_plural_name_RD: "Ô®¢¾°¬ª ¾©º¶°ª¬¢"
- slavic_plural_name_DT: "Ô®¢¾°¬ª¯ ¾©º¶°ª¬¯"
- slavic_plural_name_TV: "Ô®¢¾°¬ª¯ª ¾©º¶°ª¬¯ª"
- slavic_plural_name_PR: "Ô®¢¾°¬ª ¾©º¶°ª¬"
+ proto_uralic_name_IM: "´ª°°-³¥¬ª ¾©º¶°ª¬ª" ## RU026
+ proto_uralic_name_RD: "´ª°°-³¥¬ª ¾©º¶°ª¬¢" ## RU026
+ proto_uralic_name_DT: "´ª°°-³¥¬ª¯ ¾©º¶°ª¬¯" ## RU026
+ proto_uralic_name_TV: "´ª°°-³¥¬ª¯ª ¾©º¶°ª¬¯ª" ## RU026
+ proto_uralic_name_PR: "´ª°°-³¥¬ª ¾©º¶°ª¬" ## RU026
+ nestorianism_name_IM_CAP: "²ª°²¢"
+ nestorianism_name_RD_CAP: "²ª°²¢"
+ nestorianism_name_DT_CAP: "²ª°²¢³"
+ nestorianism_name_TV_CAP: "²ª°²¢¯"
+ nestorianism_name_PR_CAP: "²ª°²¢"
+ romuva_name_IM_CAP: "Ð¯³¢"
+ romuva_name_RD_CAP: "Ð¯³¢"
+ romuva_name_DT_CAP: "Ð¯³¢"
+ romuva_name_TV_CAP: "Ð¯³¢"
+ romuva_name_PR_CAP: "Ð¯³¢"
+ slavic_name_IM_CAP: "Ô®¢¾°¬ ¾©º¶²¢"
+ slavic_name_RD_CAP: "Ô®¢¾°¬¥ ¾©º¶²¢"
+ slavic_name_DT_CAP: "Ô®¢¾°¬¯³ ¾©º¶²¢³"
+ slavic_name_TV_CAP: "Ô®¢¾°¬ª¯ ¾©º¶²¢¯"
+ slavic_name_PR_CAP: "Ô®¢¾°¬¯ ¾©º¶²¢"
+ proto_uralic_name_IM_CAP: "Êª°°-³¥¬ ¾©º¶²¢" ## RU026
+ proto_uralic_name_RD_CAP: "Êª°°-³¥¬¥ ¾©º¶²¢" ## RU026
+ proto_uralic_name_DT_CAP: "Êª°°-³¥¬¯³ ¾©º¶²¢³" ## RU026
+ proto_uralic_name_TV_CAP: "Êª°°-³¥¬ª¯ ¾©º¶²¢¯" ## RU026
+ proto_uralic_name_PR_CAP: "Êª°°-³¥¬¯ ¾©º¶²¢" ## RU026
+ nestorianism_IM_CAP: "²ª°ª°"
+ nestorianism_RD_CAP: "²ª°ª°"
+ nestorianism_DT_CAP: "²ª°ª°³"
+ nestorianism_TV_CAP: "²ª°ª°¯"
+ nestorianism_PR_CAP: "²ª°ª°"
+ romuva_IM_CAP: "‰®¦¢²®¿ ¯³¢"
+ romuva_RD_CAP: "‰®¦¢²®¾  ¯³¢"
+ romuva_DT_CAP: "‰®¦¢²®½  ¯³¢"
+ romuva_TV_CAP: "‰®¦¢²®¯  ¯³¢"
+ romuva_PR_CAP: "‰®¦¢²® ¯³¢"
+ slavic_IM_CAP: "Ô®¢¾°¬ªþ ¾©º¶°ª¬"
+ slavic_RD_CAP: "Ô®¢¾°¬¥ ¾©º¶°ª¬"
+ slavic_DT_CAP: "Ô®¢¾°¬¯³ ¾©º¶°ª¬³"
+ slavic_TV_CAP: "Ô®¢¾°¬ª¯ ¾©º¶°ª¬¯"
+ slavic_PR_CAP: "Ô®¢¾°¬¯ ¾©º¶°ª¬"
+ proto_uralic_IM_CAP: "Êª°°-³¥¬ªþ ¾©º¶°ª¬" ## RU026
+ proto_uralic_RD_CAP: "Êª°°-³¥¬¥ ¾©º¶°ª¬" ## RU026
+ proto_uralic_DT_CAP: "Êª°°-³¥¬¯³ ¾©º¶°ª¬³" ## RU026
+ proto_uralic_TV_CAP: "Êª°°-³¥¬ª¯ ¾©º¶°ª¬¯" ## RU026
+ proto_uralic_PR_CAP: "Êª°°-³¥¬¯ ¾©º¶°ª¬" ## RU026
+ nestorianism_plural_name_IM_CAP: "²ª°"
+ nestorianism_plural_name_RD_CAP: "²ª°¢"
+ nestorianism_plural_name_DT_CAP: "²ª°¯"
+ nestorianism_plural_name_TV_CAP: "²ª°¯ª"
+ nestorianism_plural_name_PR_CAP: "²ª°"
+ romuva_plural_name_IM_CAP: "‰®¦¢²®ª ¯³¢"
+ romuva_plural_name_RD_CAP: "‰®¦¢²®þ ¯³¢"
+ romuva_plural_name_DT_CAP: "‰®¦¢²®¾¯ ¯³¢"
+ romuva_plural_name_TV_CAP: "‰®¦¢²®¾¯ª ¯³¢"
+ romuva_plural_name_PR_CAP: "‰®¦¢²®¾ ¯³¢"
+ slavic_plural_name_IM_CAP: "Ô®¢¾°¬ª ¾©º¶°ª¬ª"
+ slavic_plural_name_RD_CAP: "Ô®¢¾°¬ª ¾©º¶°ª¬¢"
+ slavic_plural_name_DT_CAP: "Ô®¢¾°¬ª¯ ¾©º¶°ª¬¯"
+ slavic_plural_name_TV_CAP: "Ô®¢¾°¬ª¯ª ¾©º¶°ª¬¯ª"
+ slavic_plural_name_PR_CAP: "Ô®¢¾°¬ª ¾©º¶°ª¬"
+ proto_uralic_name_IM: "Êª°°-³¥¬ª ¾©º¶°ª¬ª" ## RU026
+ proto_uralic_name_RD: "Êª°°-³¥¬ª ¾©º¶°ª¬¢" ## RU026
+ proto_uralic_name_DT: "Êª°°-³¥¬ª¯ ¾©º¶°ª¬¯" ## RU026
+ proto_uralic_name_TV: "Êª°°-³¥¬ª¯ª ¾©º¶°ª¬¯ª" ## RU026
+ proto_uralic_name_PR: "Êª°°-³¥¬ª ¾©º¶°ª¬" ## RU026
  nestorianism_ADJ: "°²ª°¬"
  romuva_ADJ: "¯³¢¬"
  slavic_ADJ: "®¢¾°¬"

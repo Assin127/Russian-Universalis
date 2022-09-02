@@ -1,0 +1,26 @@
+### RU017 - Added
+
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = shamanism
+primary_culture = mari
+capital = 1083
+fixed_capital = 1083
+
+## RU025 - Start
+
+1259.1.1 = {
+	monarch = {
+		name = "Native Council"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+#1403.1.1 - annex
+
+## RU025 - End
