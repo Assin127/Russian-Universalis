@@ -194,12 +194,6 @@ union = {
 	start_date = 1164.1.1
 	end_date = 1263.1.1
 }
-alliance = {
-	first = СHR
-	second = OKA
-	start_date = 1246.1.1
-	end_date = 1263.1.1
-} ## RU017
 
 #Bryansk diplomation
 
@@ -239,12 +233,6 @@ alliance = {
 	start_date = 1263.1.1
 	end_date = 1297.1.1
 } ## RU017
-alliance = {
-	first = BRY
-	second = OKA
-	start_date = 1263.1.1
-	end_date = 1297.1.1
-} ## RU017
 union = {
 	first = BRY
 	second = TRK
@@ -258,6 +246,12 @@ vassal = {
 	first = SMO
 	second = MSL
 	start_date = 1180.1.1
+	end_date = 1223.1.1
+}
+union = {
+	first = SMO
+	second = MSL
+	start_date = 1223.1.1
 	end_date = 1359.1.1
 }
 vassal = {
@@ -277,6 +271,7 @@ vassal = {
 	second = BRY
 	start_date = 1297.1.1
 	end_date = 1356.1.1
+}
 union = { ## RU022
 	first = RSO
 	second = SYZ
@@ -397,7 +392,9 @@ vassal = {
 	start_date = 1223.1.1
 	end_date = 1240.1.1
 }
+
 #Murom union
+
 union = { ## RU022
 	first = RYA
 	second = MRM
@@ -409,6 +406,7 @@ union = { ## RU022
 	second = MRM
 	start_date = 1088.1.1
 	end_date = 1127.1.1
+}
 
 #Novgorod diplomation
 

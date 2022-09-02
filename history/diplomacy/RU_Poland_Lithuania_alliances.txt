@@ -17,7 +17,9 @@ vassal = {
 	start_date = 1387.1.1
 	end_date = 1444.1.1
 }
+
 #Lithuania diplomation
+
 alliance = {
 	first = LIT
 	second = PLT
@@ -96,7 +98,7 @@ vassal = {
 	start_date = 1356.1.1
 	end_date = 1401.1.1
 }
-vassal = {
+union = {
 	first = LIT
 	second = MSL
 	start_date = 1359.1.1

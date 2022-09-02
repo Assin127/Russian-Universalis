@@ -8,8 +8,6 @@ technology_group = eastern
 capital = 293	# Smolensk
 fixed_capital = 293 # Cannot move capital away from this province & no power cost to move to it
 
-set_country_flag = random_rurikovich
-
 1095.1.2 = {
 	monarch = {
 		name = "Davyd"
@@ -192,8 +190,9 @@ set_country_flag = random_rurikovich
 		dip = 4
 		mil = 3
 	}
+	government_rank = 2 ## RU025
 }
-1279.1.1 = { ## RU022
+1297.1.1 = { ## RU022
 	monarch = {
 		name = "Alexander"
 		dynasty = "Rurikovich"
@@ -203,7 +202,7 @@ set_country_flag = random_rurikovich
 		mil = 2
 	}
 }
-1297.1.1 = { ## RU022
+1313.1.1 = { ## RU022
 	monarch = {
 		name = "Ivan"
 		dynasty = "Rurikovich"
@@ -233,14 +232,14 @@ set_country_flag = random_rurikovich
 		mil = 3
 	}
 }
-1395.1.1 = { ## RU022
+1395.1.1 = { ## RU025
 	monarch = {
-		name = "Roman Molodoj"
-		dynasty = "Rurikovich"
-		birth_date = 1375.1.1
-		adm = 2
-		dip = 3
-		mil = 2
+		name = "Lithuanian administration"
+		culture = lithuanian
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
 	}
 }
 1401.1.1 = {
