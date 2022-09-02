@@ -1,6 +1,6 @@
 #4256 - Solvychegodsk
  
-culture = uralic
+culture = samoyed
 religion = shamanism
 hre = no
 base_tax = 1
@@ -27,7 +27,7 @@ discovered_by = western
 	is_city = yes
 	trade_goods = fur
 	add_local_autonomy = 50 
-	culture = novgorodian
+	culture = pomorian
 	religion = orthodox
 }
 

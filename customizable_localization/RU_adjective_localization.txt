@@ -193,6 +193,20 @@ defined_text = {
 		}
 
     }
+    text = { ## RU017
+        localisation_key = ADJ_VTL
+        trigger = {
+			tag = VTL
+		}
+
+    }
+    text = { ## RU017
+        localisation_key = ADJ_VTK
+        trigger = {
+			tag = VTK
+		}
+
+    }
     text = { ## RU002
         localisation_key = ADJ_THS
         trigger = {

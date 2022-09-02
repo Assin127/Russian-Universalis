@@ -2,7 +2,7 @@
 government = monarchy
 add_government_reform = principality
 government_rank = 1
-primary_culture = byelorussian
+primary_culture = krivian
 religion = orthodox
 technology_group = eastern
 capital = 275	# Polotsk
@@ -45,4 +45,15 @@ fixed_capital = 275 # Cannot move capital away from this province & no power cos
 		dip = 2
 		mil = 2
 	} ## RU012
+}
+1252.1.1 = {
+	monarch = {
+		name = "Tovtivil"
+		dynasty = "Gediminai"
+		culture = lithuanian
+		religion = catholic
+		adm = 2
+		dip = 3
+		mil = 3
+	} ## RU017
 }

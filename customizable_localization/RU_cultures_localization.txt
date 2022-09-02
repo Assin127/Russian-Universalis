@@ -91,8 +91,68 @@ defined_text = {
         localisation_key = baltic_prussian_small
         trigger = {
 			ruler_culture = baltic_prussian
-        }
-	}
+        	}
+    }
+    text = {
+        localisation_key = zalesky_small
+        trigger = {
+			ruler_culture = zalesky
+        	}
+    }
+    text = {
+        localisation_key = seversky_small
+        trigger = {
+			ruler_culture = seversky
+		}
+    }
+    text = {
+        localisation_key = krivian_small
+        trigger = {
+			ruler_culture = krivian
+		}
+    }
+    text = {
+        localisation_key = polesian_small
+        trigger = {
+			ruler_culture = polesian
+		}
+    }
+    text = {
+        localisation_key = kievan_small
+        trigger = {
+			ruler_culture = kievan
+		}
+    }
+    text = {
+        localisation_key = volynian_small
+        trigger = {
+			ruler_culture = volynianpomorian
+		}
+    }
+    text = {
+        localisation_key = pomorian_small
+        trigger = {
+			ruler_culture = pomorian
+		}
+    }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			ruler_culture = chud
+		}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			ruler_culture = mordvin
+		}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			ruler_culture = mari
+		}
+    }
 }
 #Культура консорта с маленькой буквы
 defined_text = {
@@ -161,8 +221,68 @@ defined_text = {
         localisation_key = baltic_prussian_small
         trigger = {
 			consort_culture = baltic_prussian
-        }
-	}
+		}
+    }
+    text = {
+        localisation_key = zalesky_small
+        trigger = {
+			consort_culture = zalesky
+		}
+    }
+    text = {
+        localisation_key = seversky_small
+        trigger = {
+			consort_culture = seversky
+		}
+    }
+    text = {
+        localisation_key = krivian_small
+        trigger = {
+			consort_culture = krivian
+		}
+    }
+    text = {
+        localisation_key = polesian_small
+        trigger = {
+			consort_culture = polesian
+		}
+    }
+    text = {
+        localisation_key = kievan_small
+        trigger = {
+			consort_culture = kievan
+		}
+    }
+    text = {
+        localisation_key = volynian_small
+        trigger = {
+			consort_culture = volynian
+        	}
+    }
+    text = {
+        localisation_key = pomorian_small
+        trigger = {
+			consort_culture = pomorian
+        	}
+    }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			consort_culture = chud
+		}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			consort_culture = mordvin
+		}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			consort_culture = mari
+		}
+    }
 }
 #Культура наследника с маленькой буквы
 defined_text = {
@@ -231,8 +351,68 @@ defined_text = {
         localisation_key = baltic_prussian_small
         trigger = {
 			heir_culture = baltic_prussian
-        }
-	}
+        	}
+    }
+    text = {
+        localisation_key = zalesky_small
+        trigger = {
+			heir_culture = zalesky
+		}
+    }
+    text = {
+        localisation_key = seversky_small
+        trigger = {
+			heir_culture = seversky
+		}
+    }
+    text = {
+        localisation_key = krivian_small
+        trigger = {
+			heir_culture = krivian
+		}
+    }
+    text = {
+        localisation_key = polesian_small
+        trigger = {
+			heir_culture = polesian
+		}
+    }
+    text = {
+        localisation_key = kievan_small
+        trigger = {
+			heir_culture = kievan
+		}
+    }
+    text = {
+        localisation_key = volynian_small
+        trigger = {
+			heir_culture = volynian
+        	}
+    }
+    text = {
+        localisation_key = pomorian_small
+        trigger = {
+			heir_culture = pomorian
+		}
+    }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			heir_culture = chud
+		}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			heir_culture = mordvin
+		}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			heir_culture = mari
+		}
+    }
 }
 #Культура советника/учителя с маленькой буквы
 defined_text = {
@@ -323,8 +503,88 @@ defined_text = {
 			employed_advisor = {
 				culture = baltic_prussian
 			}
-        }
-	}
+        	}
+    }
+    text = {
+        localisation_key = zalesky_small
+        trigger = {
+			employed_advisor = { 
+				culture = zalesky 
+			}
+        	}
+    }
+    text = {
+        localisation_key = seversky_small
+        trigger = {
+			employed_advisor = { 
+				culture = seversky 
+			}
+        	}
+    }
+    text = {
+        localisation_key = krivian_small
+        trigger = {
+			employed_advisor = { 
+				culture = krivian 
+			}
+        	}
+    }
+    text = {
+        localisation_key = polesian_small
+        trigger = {
+			employed_advisor = { 
+				culture = polesian 
+			}
+        	}
+    }
+    text = {
+        localisation_key = kievan_small
+        trigger = {
+			employed_advisor = { 
+				culture = kievan 
+			}
+		}
+    }
+    text = {
+        localisation_key = volynian_small
+        trigger = {
+			employed_advisor = { 
+				culture = volynian 
+			}
+        	}
+    }
+    text = {
+        localisation_key = pomorian_small
+        trigger = {
+			employed_advisor = { 
+				culture = pomorian 
+			}
+        	}
+    }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			employed_advisor = { 
+				culture = chud 
+			}
+        	}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			employed_advisor = { 
+				culture = mordvin 
+			}
+        	}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			employed_advisor = { 
+				culture = mari 
+			}
+        	}
+    }
 }
 #Государственная культура с маленькой буквы
 defined_text = {
@@ -393,8 +653,68 @@ defined_text = {
         localisation_key = baltic_prussian_small
         trigger = {
 			primary_culture = baltic_prussian
-        }
-	}
+        	}
+    }
+    text = {
+        localisation_key = zalesky_small
+        trigger = {
+			primary_culture = zalesky
+		}
+    }
+    text = {
+        localisation_key = seversky_small
+        trigger = {
+			primary_culture = seversky
+		}
+    }
+    text = {
+        localisation_key = krivian_small
+        trigger = {
+			primary_culture = krivian
+		}
+    }
+    text = {
+        localisation_key = polesian_small
+        trigger = {
+			primary_culture = polesian
+		}
+    }
+    text = {
+        localisation_key = kievan_small
+        trigger = {
+			primary_culture = kievan
+		}
+    }
+    text = {
+        localisation_key = volynian_small
+        trigger = {
+			primary_culture = volynian 
+		}
+    }
+    text = {
+        localisation_key = pomorian_small
+        trigger = {
+			primary_culture = pomorian 
+		}
+    }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			primary_culture = chud
+		}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			primary_culture = mordvin
+		}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			primary_culture = mari
+		}
+    }
 }
 #Культура владельца с маленькой буквы
 defined_text = {
@@ -485,6 +805,86 @@ defined_text = {
 			owner = {
 				primary_culture = baltic_prussian
 			}
-        }
-	}
+		}
+    }
+    text = {
+        localisation_key = zalesky_small
+        trigger = {
+			owner = { 
+				primary_culture = zalesky 
+			}
+        	}
+    }
+    text = {
+        localisation_key = seversky_small
+        trigger = {
+			owner = { 
+				primary_culture = seversky 
+			}
+        	}
+    }
+    text = {
+        localisation_key = krivian_small
+        trigger = {
+			owner = { 
+				primary_culture = krivian 
+			}
+        	}
+    }
+    text = {
+        localisation_key = polesian_small
+        trigger = {
+			owner = { 
+				primary_culture = polesian 
+			}
+        	}
+    }
+    text = {
+        localisation_key = kievan_small
+        trigger = {
+			owner = { 
+				primary_culture = kievan 
+			}
+		}
+    }
+    text = {
+        localisation_key = volynian_small
+        trigger = {
+			owner = { 
+				primary_culture = volynian 
+			}
+        	}
+    }
+    text = {
+        localisation_key = pomorian_small
+        trigger = {
+			owner = { 
+				primary_culture = pomorian 
+			}
+        	}
+    }
+    text = {
+        localisation_key = chud_small
+        trigger = {
+			owner = { 
+				primary_culture = chud 
+			}
+        	}
+    }
+    text = {
+        localisation_key = mordvin_small
+        trigger = {
+			owner = { 
+				primary_culture = mordvin 
+			}
+        	}
+    }
+    text = {
+        localisation_key = mari_small
+        trigger = {
+			owner = { 
+				primary_culture = mari 
+			}
+        	}
+    }
 }

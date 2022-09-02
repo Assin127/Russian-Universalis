@@ -209,6 +209,8 @@ MSK = "countries/Minsk.txt" ## RU017 История есть
 SLC = "countries/Sluck.txt" ## RU017 История есть
 PIN = "countries/Pinsk.txt" ## RU017 История есть
 MSL = "countries/Mstislav.txt" ## RU017 История есть
+VTL = "countries/Vetluga.txt" ## RU017 История есть
+VTK = "countries/Viatka.txt" ## RU017 История есть
 
 #Скандинавия
 JAM = "countries/Jamtland.txt"

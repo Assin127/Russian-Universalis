@@ -90,6 +90,12 @@ defined_text = {
 				religion = slavic
 		}
 	}
+    text = { ## RU026
+        localisation_key = proto_uralic_ADJ
+        trigger = {
+				religion = proto_uralic
+		}
+	}
 }
 
 defined_text = {
@@ -110,6 +116,12 @@ defined_text = {
         localisation_key = slavic_ADJ_CAP
         trigger = {
 				religion = slavic
+		}
+	}
+    text = { ## RU026
+        localisation_key = proto_uralic_ADJ_CAP
+        trigger = {
+				religion = proto_uralic
 		}
 	}
 }

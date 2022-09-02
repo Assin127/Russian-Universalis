@@ -2,13 +2,13 @@
 
 owner = CHR
 controller = CHR 
-culture = ryazanian
+culture = seversky
 religion = orthodox
 hre = no
-base_tax = 3
-base_production = 3
+base_tax = 2
+base_production = 2
 trade_goods = grain 
-base_manpower = 3
+base_manpower = 2
 capital = "Odayev"
 is_city = yes
 add_core = CHR
@@ -19,15 +19,15 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 1246.1.1 = {
-	owner = BRY
-	controller = BRY
-	add_core = BRY
-}
-
-1375.1.1 = {
 	owner = OKA
 	controller = OKA
 	add_core = OKA
+	remove_core = CHR
+}
+1380.1.1 = {
+	base_tax = 3
+	base_production = 3
+	base_manpower = 3
 }
 
 1494.1.1 = { owner = MOS controller = MOS add_core = MOS remove_core = OKA } # Treaty of the Annunciation

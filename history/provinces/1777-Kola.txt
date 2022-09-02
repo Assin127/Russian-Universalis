@@ -2,9 +2,8 @@
 
 capital = "Kola"
 culture = sapmi
-religion = norse_pagan_reformed
+religion = shamanism
 hre = no
-add_core = NOV
 base_tax = 1 
 base_production = 1
 trade_goods = unknown
@@ -19,14 +18,14 @@ discovered_by = western
 discovered_by = eastern
 
 
-1216.1.1 = {
+1326.1.1 = {
 	owner = NOV
 	controller = NOV
 	add_core = NOV
-	religion = orthodox
 	trade_goods = fur
 	is_city = yes
 	add_local_autonomy = 25
 }
 1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = NOV }
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }
+1533.1.1 = { culture = pomorian religion = orthodox }

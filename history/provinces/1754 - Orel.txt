@@ -1,8 +1,8 @@
 #1754 - Murom ( formerly Orel)
 
-owner = MRM
-controller = MRM    
-culture = russian
+owner = CHR
+controller = CHR    
+culture = zalesky
 religion = orthodox 
 hre = no
 base_tax = 4 

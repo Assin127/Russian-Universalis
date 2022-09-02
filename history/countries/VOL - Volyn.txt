@@ -3,7 +3,7 @@ government = monarchy
 add_government_reform = principality
 government_rank = 1
 technology_group = eastern
-primary_culture = ruthenian
+primary_culture = volynian
 religion = orthodox
 capital = 279 # Volhynia
 fixed_capital = 279 # Cannot move capital away from this province & no power cost to move to it
@@ -19,6 +19,125 @@ fixed_capital = 279 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_ruler_personality = pious_personality
 }
-1370.1.1 = {
-	religion = catholic
+
+## RU025 - Start
+
+1238.1.1 = {
+	monarch = {
+		name = "Vasilko I"
+		dynasty = "Rurikovich"
+		birth_date = 1203.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	heir = {
+		name = "Vladimir"
+		monarch_name = "Vladimir I"
+		dynasty = "Rurikovich"
+		birth_date = 1249.1.1
+		death_date = 1288.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
 }
+
+1269.1.1 = {
+	monarch = {
+		name = "Vladimir I"
+		dynasty = "Rurikovich"
+		birth_date = 1228.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	heir = {
+		name = "Mstislav"
+		monarch_name = "Mstislav I"
+		dynasty = "Rurikovich"
+		death_date = 1292.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1288.1.1 = {
+	monarch = {
+		name = "Mstislav I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+#(1292.1.1-1340.1.1) - union
+
+1340.1.1 = {
+	monarch = {
+		name = "Lubart I"
+		dynasty = "Gediminids"
+		birth_date = 1300.1.1
+		culture = lithuanian
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1366.1.1 = {
+	monarch = {
+		name = "Alexander I"
+		dynasty = "Gediminids"
+		culture = lithuanian
+		religion = catholic
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1370.1.1 = {
+	monarch = {
+		name = "Lubart I"
+		dynasty = "Gediminids"
+		birth_date = 1300.1.1
+		culture = lithuanian
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	heir = {
+		name = "Fyodor"
+		dynasty = "Gediminids"
+		monarch_name = "Fyodor I"
+		birth_date = 1351.1.1
+		culture = lithuanian
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1383.1.1 = {
+	monarch = {
+		name = "Fyodor I"
+		dynasty = "Gediminids"
+		birth_date = 1351.1.1
+		culture = lithuanian
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1387.1.1 = { religion = catholic }
+
+#1390.1.1 - annex
+
+## RU025 - End

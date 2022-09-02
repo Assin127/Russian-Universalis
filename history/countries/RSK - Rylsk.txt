@@ -5,7 +5,7 @@ add_government_reform = principality
 government_rank = 1
 technology_group = eastern
 religion = orthodox
-primary_culture = ryazanian
+primary_culture = seversky
 capital = 4543 #Rylsk
 fixed_capital = 4543 # Cannot move capital away from this province & no power cost to move to it
 
