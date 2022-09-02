@@ -230,6 +230,60 @@ vassal = { ## RU010
 	start_date = 1250.1.1
 	end_date = 1303.1.1
 }
+union = { ## RU022
+	first = RSO
+	second = SYZ
+	start_date = 1125.1.1
+	end_date = 1149.1.1
+}
+union = { ## RU022
+	first = KIE
+	second = SYZ
+	start_date = 1151.1.1
+	end_date = 1155.1.1
+}
+union = { ## RU022
+	first = NZH
+	second = SYZ
+	start_date = 1341.1.1
+	end_date = 1392.1.1
+}
+union = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1303.1.1
+	end_date = 1389.1.1
+}
+vassal = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1389.1.1
+	end_date = 1454.1.1
+}
+union = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1454.1.1
+	end_date = 1462.1.1
+}
+vassal = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1462.1.1
+	end_date = 1473.1.1
+}
+union = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1473.1.1
+	end_date = 1481.1.1
+}
+vassal = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1481.1.1
+	end_date = 1493.1.1
+}
 
 #Polotsk diplomation
 
@@ -266,6 +320,18 @@ vassal = {
 	start_date = 1160.1.1
 	end_date = 1320.1.1
 }
+#Murom union
+union = { ## RU022
+	first = RYA
+	second = MRM
+	start_date = 1127.1.1
+	end_date = 1160.1.1
+}
+union = { ## RU022
+	first = CHR
+	second = MRM
+	start_date = 1088.1.1
+	end_date = 1127.1.1
 
 #Novgorod diplomation
 
