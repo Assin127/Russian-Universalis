@@ -70,6 +70,24 @@ defined_text = {
 			tag = VLD
 		}
     }
+    text = { ## RU022
+        localisation_key = ADJ_MRM
+        trigger = {
+			tag = MRM
+		}
+    }
+    text = { ## RU022
+        localisation_key = ADJ_KLL
+        trigger = {
+			tag = KLL
+		}
+    }
+    text = { ## RU022
+        localisation_key = ADJ_SYZ
+        trigger = {
+			tag = SYZ
+		}
+    }
     text = { ## RU010
         localisation_key = ADJ_KHN
         trigger = {

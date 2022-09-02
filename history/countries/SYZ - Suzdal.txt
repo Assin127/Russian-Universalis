@@ -1,0 +1,134 @@
+### RU022 - Added
+
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+capital = 1956 # Suzdal
+fixed_capital = 1956 # Cannot move capital away from this province & no power cost to move to it
+
+set_country_flag = random_rurikovich
+
+1125.1.1 = {
+	monarch = {
+		name = "Yuri Dolgoruky"
+		dynasty = "Rurikovich"
+		birth_date = 1090.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1149.1.1 = {
+	monarch = {
+		name = "Vasilko"
+		dynasty = "Rurikovich"
+		birth_date = 1120.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1151.1.1 = {
+	monarch = {
+		name = "Yuri Dolgoruky"
+		dynasty = "Rurikovich"
+		birth_date = 1090.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1238.1.1 = {
+	monarch = {
+		name = "Svyatoslav"
+		dynasty = "Rurikovich"
+		birth_date = 1096.3.27
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1252.1.1 = {
+	monarch = {
+		name = "Andrey"
+		dynasty = "Rurikovich"
+		birth_date = 1228.3.27
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1264.1.1 = {
+	monarch = {
+		name = "Yuri"
+		dynasty = "Rurikovich"
+		birth_date = 1246.3.27
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1279.1.1 = {
+	monarch = {
+		name = "Mikhail"
+		dynasty = "Rurikovich"
+		birth_date = 1250.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1305.1.1 = {
+	monarch = {
+		name = "Vasily"
+		dynasty = "Rurikovich"
+		birth_date = 1264.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+1309.1.1 = {
+	monarch = {
+		name = "Alexander"
+		dynasty = "Rurikovich"
+		birth_date = 1300.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1331.1.1 = {
+	monarch = {
+		name = "Konstantin"
+		dynasty = "Rurikovich"
+		birth_date = 1296.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1355.1.1 = {
+	monarch = {
+		name = "Dmitry"
+		dynasty = "Rurikovich"
+		birth_date = 1322.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1383.1.1 = {
+	monarch = {
+		name = "Boris"
+		dynasty = "Rurikovich"
+		birth_date = 1353.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+

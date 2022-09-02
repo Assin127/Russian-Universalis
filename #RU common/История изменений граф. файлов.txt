@@ -7,6 +7,7 @@ Zyfoker - Александр Шалев
 
 
 RU026 Assin 01.08.22 Папки: flags, religion_icons. Файлы: country_icon_religion, icon_religion, icon_religion_small, province_view_religion. Добавлено Финно-Угорское язычество
+RU022 Aghjk 26.08.22 Папка: flags. Добавление флагов новых стран
 RU019 Astarot 18.08.22 Папка: flags. Добавлен флаг Корё
 RU016 Assin 12.08.22 Папка: interface. Расширено окно миссий, добавлены цвета.
 RU015 Zyfoker 12.08.22 Папка: flags. Добавил флаг Трубчевска
