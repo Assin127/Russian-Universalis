@@ -9,6 +9,8 @@ technology_group = eastern
 capital = 4251	# Mozhaisk
 fixed_capital = 4251 # Cannot move capital away from this province & no power cost to move to it
 
+set_country_flag = random_rurikovich
+
 1277.1.1 = { ## RU022
 	monarch = {
 		name = "Fyodor  Chyornyj"

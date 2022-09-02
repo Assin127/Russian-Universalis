@@ -9,6 +9,8 @@ technology_group = eastern
 capital = 1956 # Suzdal
 fixed_capital = 1956 # Cannot move capital away from this province & no power cost to move to it
 
+set_country_flag = random_rurikovich
+
 1125.1.1 = {
 	monarch = {
 		name = "Yuri Dolgoruky"

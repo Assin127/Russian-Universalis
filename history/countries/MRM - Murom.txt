@@ -9,3 +9,5 @@ technology_group = eastern
 capital = 1754	# Murom
 fixed_capital = 1754 # Cannot move capital away from this province & no power cost to move to it
 
+set_country_flag = random_rurikovich
+

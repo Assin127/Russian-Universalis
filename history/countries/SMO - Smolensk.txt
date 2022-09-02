@@ -8,6 +8,8 @@ technology_group = eastern
 capital = 293	# Smolensk
 fixed_capital = 293 # Cannot move capital away from this province & no power cost to move to it
 
+set_country_flag = random_rurikovich
+
 1095.1.2 = {
 	monarch = {
 		name = "Davyd"
