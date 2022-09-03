@@ -26,8 +26,7 @@ discovered_by = ottoman
 	owner = ALD	
 	controller = ALD
 }
-
-1220.1.1 = {
+1177.1.1 = {
 	owner = CAS	
 	controller = CAS
 	add_core = CAS
