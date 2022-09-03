@@ -14,7 +14,6 @@ set_country_flag = random_rurikovich ## RU027
 	primary_culture = russian
 }
 1444.1.1 = {
-	clr_country_flag = random_rurikovich ## RU027
 	monarch = {
 		name = "Vladimir" #Co-Ruler with Ivan
 		dynasty = "Rurikovich"

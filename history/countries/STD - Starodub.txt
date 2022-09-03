@@ -13,7 +13,6 @@ fixed_capital = 4254 # Cannot move capital away from this province & no power co
 set_country_flag = random_rurikovich
 
 1247.1.1 = {
-	clr_country_flag = random_rurikovich ## RU027
 	monarch = {
 		name = "Michael"
 		dynasty = "Rurikovich"
