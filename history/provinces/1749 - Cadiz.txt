@@ -24,20 +24,17 @@ center_of_trade = 1
 	controller = ALD
 	add_core = ALD
 }
-	
 1234.1.1 = {
 	owner = CDZ
 	controller = CDZ
 	add_core = CDZ
 }
-
 1262.5.1 = {
 	owner = CAS	# Alfonxo X
 	controller = CAS
 	add_core = CAS
 	religion = catholic
 }
-
 1516.1.23 = {
 	controller = SPA
 	owner = SPA

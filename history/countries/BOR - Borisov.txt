@@ -9,4 +9,6 @@ technology_group = eastern
 capital = 4242	# Ula
 fixed_capital = 4242 # Cannot move capital away from this province & no power cost to move to it
 
-set_country_flag = random_rurikovich
+#(1185.1.1-1300.1.1) - union ##RU025
+
+#1300.1.1 - annex ##RU025

@@ -1,0 +1,37 @@
+### RU017 - Added
+
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+technology_group = eastern
+religion = orthodox
+primary_culture = seversky
+capital = 4116 #Upper Oka
+fixed_capital = 4116 # Cannot move capital away from this province & no power cost to move to it
+
+## RU025 - Start
+
+1246.1.1 = {
+	monarch = {
+		name = "Mstislav I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1260.1.1 = {
+	monarch = {
+		name = "Rurikovich"
+		adm = 0
+		dip = 0
+		mil = 0
+		regent = yes
+	}
+	set_country_flag = random_rurikovich
+}
+1401.1.1 = { clr_country_flag = random_rurikovich }
+
+#1401.1.1 - annex
+
+## RU025 - End

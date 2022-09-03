@@ -1,8 +1,7 @@
 #Pontevedra
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = GAL		
+controller = GAL
 add_core = GAL
 culture = galician
 religion = catholic
@@ -19,7 +18,18 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1230.9.24 = # Ôåğäèíàíä III
+{
+	owner = LON		
+	controller = LON
+	add_core = LON
+}
+1252.5.30 = # Àëüôîíñî X
+{
+	owner = CAS		#Juan II of Castille
+	controller = CAS
+	add_core = CAS
+}
 1467.1.1 = { unrest = 4 } # Second war of the "irmandiños"
 1470.1.1 = { unrest = 0 } # End of the Second war of the "irmandiños"
 1475.6.2 = { controller = POR }
