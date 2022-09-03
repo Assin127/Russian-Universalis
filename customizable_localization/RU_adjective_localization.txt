@@ -76,34 +76,10 @@ defined_text = {
 			tag = MRM
 		}
     }
-    text = { ## RU027
-        localisation_key = ADJ_KOS
-        trigger = {
-			tag = KOS
-		}
-    }
-    text = { ## RU027
-        localisation_key = ADJ_TRR
-        trigger = {
-			tag = TRR
-		}
-    }
-    text = { ## RU027
-        localisation_key = ADJ_PNK
-        trigger = {
-			tag = PNK
-		}
-    }
     text = { ## RU022
         localisation_key = ADJ_KLL
         trigger = {
 			tag = KLL
-		}
-    }
-    text = { ## RU022
-        localisation_key = ADJ_STD
-        trigger = {
-			tag = STD
 		}
     }
     text = { ## RU022
