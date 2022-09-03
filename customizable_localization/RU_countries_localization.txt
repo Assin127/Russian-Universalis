@@ -211,30 +211,6 @@ defined_text = {
 			tag = VTK
 		}
     }
-    text = { ## RU017
-        localisation_key = TAG_RD_KRV
-        trigger = {
-			tag = KRV
-		}
-    }
-    text = { ## RU017
-        localisation_key = TAG_RD_NVS
-        trigger = {
-			tag = NVS
-		}
-    }
-    text = { ## RU017
-        localisation_key = TAG_RD_KRV
-        trigger = {
-			tag = KRV
-		}
-    }
-    text = { ## RU017
-        localisation_key = TAG_RD_NVS
-        trigger = {
-			tag = NVS
-		}
-    }
     text = { ## RU002
         localisation_key = TAG_RD_THS
         trigger = {
@@ -1413,18 +1389,6 @@ defined_text = {
 			tag = VTK
 		}
     }
-    text = { ## RU017
-        localisation_key = TAG_VN_KRV
-        trigger = {
-			tag = KRV
-		}
-    }
-    text = { ## RU017
-        localisation_key = TAG_VN_NVS
-        trigger = {
-			tag = NVS
-		}
-    }
     text = { ## RU002
         localisation_key = TAG_VN_THS
         trigger = {
@@ -2600,18 +2564,6 @@ defined_text = {
         localisation_key = TAG_TV_VTK
         trigger = {
 			tag = VTK
-		}
-    }
-    text = { ## RU017
-        localisation_key = TAG_VN_KRV
-        trigger = {
-			tag = KRV
-		}
-    }
-    text = { ## RU017
-        localisation_key = TAG_VN_NVS
-        trigger = {
-			tag = NVS
 		}
     }
     text = { ## RU002
@@ -3792,18 +3744,6 @@ defined_text = {
 			tag = VTK
 		}
     }
-    text = { ## RU017
-        localisation_key = TAG_VN_KRV
-        trigger = {
-			tag = KRV
-		}
-    }
-    text = { ## RU017
-        localisation_key = TAG_VN_NVS
-        trigger = {
-			tag = NVS
-		}
-    }
     text = { ## RU002
         localisation_key = TAG_PR_THS
         trigger = {
@@ -4980,18 +4920,6 @@ defined_text = {
         localisation_key = TAG_DT_VTK
         trigger = {
 			tag = VTK
-		}
-    }
-    text = { ## RU017
-        localisation_key = TAG_DT_KRV
-        trigger = {
-			tag = KRV
-		}
-    }
-    text = { ## RU017
-        localisation_key = TAG_DT_NVS
-        trigger = {
-			tag = NVS
 		}
     }
     text = { ## RU002
