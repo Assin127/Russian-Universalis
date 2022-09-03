@@ -223,6 +223,18 @@ defined_text = {
 			tag = NVS
 		}
     }
+    text = { ## RU017
+        localisation_key = TAG_RD_KRV
+        trigger = {
+			tag = KRV
+		}
+    }
+    text = { ## RU017
+        localisation_key = TAG_RD_NVS
+        trigger = {
+			tag = NVS
+		}
+    }
     text = { ## RU002
         localisation_key = TAG_RD_THS
         trigger = {
