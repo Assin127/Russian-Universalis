@@ -8,6 +8,7 @@ technology_group = eastern
 capital = 4147 # Moskva
 fixed_capital = 4147 # Cannot move capital away from this province & no power cost to move to it
 
+set_country_flag = random_rurikovich ## RU027
 1370.1.1 = {
 	primary_culture = russian
 }

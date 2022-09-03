@@ -172,6 +172,10 @@ PMR = "countries/Pomerelia.txt"
 WRO = "countries/Wroclaw.txt"
 
 #Россия и Рутения
+PNK = "countries/Pronsk.txt" ## RU027 История есть
+TRR = "countries/Tarusa.txt" ## RU027 История есть
+KOS = "countries/Kostroma.txt" ## RU027 История есть
+STD = "countries/Starodub.txt" ## RU027 История есть
 BRY = "countries/Bryansk.txt" ## История есть
 BEL = "countries/Berestia.txt" ## RU017 История есть 
 BLZ = "countries/Belz.txt" ## RU017 История есть 
@@ -211,6 +215,8 @@ PIN = "countries/Pinsk.txt" ## RU017 История есть
 MSL = "countries/Mstislav.txt" ## RU017 История есть
 VTL = "countries/Vetluga.txt" ## RU017 История есть
 VTK = "countries/Viatka.txt" ## RU017 История есть
+KRV = "countries/Karachev.txt" ## RU017 История есть
+NVS = "countries/Novosil.txt" ## RU017 История есть
 
 #Скандинавия
 JAM = "countries/Jamtland.txt"

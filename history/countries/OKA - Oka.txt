@@ -8,7 +8,10 @@ technology_group = eastern
 capital = 4116	# Upper Oka
 fixed_capital = 4116 # Cannot move capital away from this province & no power cost to move to it
 
+set_country_flag = random_rurikovich ## RU027
+
 1427.1.1 = {
+	clr_country_flag = random_rurikovich
 	monarch = {
 		name = "Ivan"
 		dynasty = "Rurikovich"

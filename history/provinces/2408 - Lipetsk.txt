@@ -12,7 +12,6 @@ base_manpower = 1
 capital = "Yelets"
 is_city = yes
 add_core = CHR
-add_core = YEL
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

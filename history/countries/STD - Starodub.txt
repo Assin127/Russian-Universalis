@@ -1,0 +1,68 @@
+### RU027 - Added
+
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+historical_rival = NOV
+capital = 4254 # Moskva
+fixed_capital = 4254 # Cannot move capital away from this province & no power cost to move to it
+
+set_country_flag = random_rurikovich
+
+1247.1.1 = {
+	monarch = {
+		name = "Michael"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Ivan"
+                monarch_name = "Ivan-Kalistrat"
+		dynasty = "Rurikovich"
+		birth_date = 1246.1.1
+		death_date = 1315.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1281.1.1 = {
+	monarch = {
+		name = "Ivan-Kalistrat"
+		dynasty = "Rurikovich"
+		birth_date = 1246.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1290.1.1 = {
+	heir = {
+		name = "Fedor"
+                monarch_name = "Fedor Blagovernyj"
+		dynasty = "Rurikovich"
+		birth_date = 1290.1.1
+		death_date = 1330.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1315.1.1 = {
+	monarch = {
+		name = "Fedor Blagovernyj"
+		dynasty = "Rurikovich"
+		birth_date = 1261.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

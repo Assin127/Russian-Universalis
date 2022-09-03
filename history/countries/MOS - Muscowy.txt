@@ -10,7 +10,9 @@ fixed_capital = 295 # Cannot move capital away from this province & no power cos
 
 national_focus = ADM
 
+set_country_flag = random_rurikovich ## RU027
 1389.5.19 = {
+	clr_country_flag = random_rurikovich
 	monarch = {
 		name = "Vasiliy I"
 		dynasty = "Rurikovich"
