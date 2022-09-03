@@ -1,4 +1,4 @@
-#224 - Andalucía
+#224 - Andalucia
 
 owner = ALM	#Juan II of Castille
 controller = ALM
@@ -31,14 +31,12 @@ add_permanent_province_modifier = {
 	controller = ALD
 	add_core = ALD
 }
-
 1236.1.1 = {
 	owner = CAS	
 	controller = CAS
 	add_core = CAS
 	religion = catholic
 }
-
 1500.1.1 = {
 	add_permanent_province_modifier = {
 		name = "birthplace_of_the_new_world"
@@ -50,7 +48,7 @@ add_permanent_province_modifier = {
 	owner = SPA
 	add_core = SPA
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
-1610.1.12 = { culture = castillian } # Decree for the expulsion of the morisques in Andalucía, which is speedily and uneventfully performed
+1610.1.12 = { culture = castillian } # Decree for the expulsion of the morisques in Andalucia, which is speedily and uneventfully performed
 1713.4.11 = { remove_core = CAS }
 1808.6.6 = { revolt = { type = pretender_rebels size = 1 } controller = REB }
 1813.12.11 = { revolt = {} controller = SPA }

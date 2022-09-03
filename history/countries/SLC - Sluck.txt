@@ -9,4 +9,6 @@ religion = orthodox
 capital = 4545 #Sluck
 fixed_capital = 4545 # Cannot move capital away from this province & no power cost to move to it
 
-set_country_flag = random_rurikovich
+#(1240.1.1-1340.1.1) - union ##RU025
+
+#1340.1.1 - annex ##RU025
