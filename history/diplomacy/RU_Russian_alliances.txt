@@ -451,3 +451,27 @@ vassal = { ## RU010
 	start_date = 1325.1.1
 	end_date = 1450.1.1
 }
+
+#Pronsk diplomation
+
+union = { ## RU027
+	first = RYA
+	second = PNK
+	start_date = 1217.1.1
+	end_date = 1299.1.1
+}
+vassal = { ## RU027
+	first = RYA
+	second = PNK
+	start_date = 1299.1.1
+	end_date = 1430.1.1
+}
+
+#Tarusa diplomation
+
+vassal = { ## RU027
+	first = MOS
+	second = TRR
+	start_date = 1350.1.1
+	end_date = 1430.1.1
+}
