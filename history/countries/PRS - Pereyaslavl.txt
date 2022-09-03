@@ -25,20 +25,13 @@ fixed_capital = 2407 # Cannot move capital away from this province & no power co
 	add_ruler_personality = charismatic_negotiator_personality
 }
 
-## RU025 - Start
-
-1240.1.1 = {
+1259.1.1 = {
 	monarch = {
-		name = "Boyarsky Council"
+		name = "Gleb"
+		dynasty = "Rurikovich"
 		adm = 1
-		dip = 1
-		mil = 1
-		regent = yes
-	}
-}
+		dip = 2
+		mil = 2
+	} #добавить рандом правителя при старте игры
 
-#(1263.1.1-1362.1.1) - union
-
-#1362.1.1 - annex
-
-## RU025 - End
+} ## RU012

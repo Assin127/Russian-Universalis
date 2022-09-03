@@ -211,8 +211,6 @@ PIN = "countries/Pinsk.txt" ## RU017 История есть
 MSL = "countries/Mstislav.txt" ## RU017 История есть
 VTL = "countries/Vetluga.txt" ## RU017 История есть
 VTK = "countries/Viatka.txt" ## RU017 История есть
-KRV = "countries/Karachev.txt" ## RU017 История есть
-NVS = "countries/Novosil.txt" ## RU017 История есть
 
 #Скандинавия
 JAM = "countries/Jamtland.txt"

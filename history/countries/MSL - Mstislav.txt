@@ -9,6 +9,4 @@ religion = orthodox
 capital = 4246 #Mstislavl
 fixed_capital = 4246 # Cannot move capital away from this province & no power cost to move to it
 
-#(1223.1.1-1392.1.1) - union ##RU025
-
-#1392.1.1 - annex ##RU025
+set_country_flag = random_rurikovich

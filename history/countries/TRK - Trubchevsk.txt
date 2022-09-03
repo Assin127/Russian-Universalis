@@ -9,6 +9,4 @@ primary_culture = seversky
 capital = 4244
 fixed_capital = 4244 # Cannot move capital away from this province & no power cost to move to it
 
-#(1240.1.1-1356.1.1) - union
-
-#1401.1.1 - annex
+set_country_flag = random_rurikovich ## RU015

@@ -1,4 +1,4 @@
-#222 - Almerpia
+#222 - Almería
 
 owner = ALM		#Mustapha Sa'd King of Granada
 controller = ALM

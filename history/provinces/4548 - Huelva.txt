@@ -22,6 +22,7 @@ discovered_by = ottoman
 	controller = ALD
 	add_core = ALD
 }
+	
 1234.1.1 = {
 	owner = NBL
 	controller = NBL

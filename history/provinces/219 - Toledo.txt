@@ -27,7 +27,8 @@ center_of_trade = 1
 	controller = ALD
 	add_core = ALD
 }
-1085.1.1 = {
+
+1220.1.1 = {
 	owner = CAS	
 	controller = CAS
 	add_core = CAS
