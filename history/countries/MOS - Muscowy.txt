@@ -14,6 +14,7 @@ set_country_flag = random_rurikovich ## RU027
 
 1389.5.19 = {
 	monarch = {
+		clr_country_flag = random_rurikovich ## RU027
 		name = "Vasiliy I"
 		dynasty = "Rurikovich"
 		adm = 1
