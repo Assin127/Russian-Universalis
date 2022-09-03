@@ -92,12 +92,6 @@ defined_text = {
 		}
     }
     text = { ## RU010
-        localisation_key = TAG_RD_MOZ
-        trigger = {
-			tag = MOZ
-		}
-    }
-    text = { ## RU010
         localisation_key = TAG_RD_KHN
         trigger = {
 			tag = KHN
@@ -1252,12 +1246,6 @@ defined_text = {
 		}
     }
     text = { ## RU010
-        localisation_key = TAG_VN_MOZ
-        trigger = {
-			tag = MOZ
-		}
-    }
-    text = { ## RU010
         localisation_key = TAG_VN_KHN
         trigger = {
 			tag = KHN
@@ -2402,12 +2390,6 @@ defined_text = {
         localisation_key = TAG_TV_SYZ
         trigger = {
 			tag = SYZ
-		}
-    }
-    text = { ## RU010
-        localisation_key = TAG_TV_MOZ
-        trigger = {
-			tag = MOZ
 		}
     }
     text = { ## RU010
@@ -3571,12 +3553,6 @@ defined_text = {
 		}
     }
     text = { ## RU010
-        localisation_key = TAG_PR_MOZ
-        trigger = {
-			tag = MOZ
-		}
-    }
-    text = { ## RU010
         localisation_key = TAG_PR_KHN
         trigger = {
 			tag = KHN
@@ -4722,12 +4698,6 @@ defined_text = {
         localisation_key = TAG_DT_SYZ
         trigger = {
 			tag = SYZ
-		}
-    }
-    text = { ## RU010
-        localisation_key = TAG_DT_MOZ
-        trigger = {
-			tag = MOZ
 		}
     }
     text = { ## RU010
