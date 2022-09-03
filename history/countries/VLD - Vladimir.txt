@@ -9,3 +9,5 @@ technology_group = eastern
 historical_rival = NOV
 capital = 307 # Vladimir
 fixed_capital = 307 # Cannot move capital away from this province & no power cost to move to it
+
+set_country_flag = random_rurikovich ## RU027
