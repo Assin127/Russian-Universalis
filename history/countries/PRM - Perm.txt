@@ -1,8 +1,8 @@
-government = monarchy
-add_government_reform = feudalism_reform
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 primary_culture = uralic
-religion = shamanism
+religion = proto_uralic
 technology_group = eastern
 capital = 1963	# Cherdyn
 
@@ -30,6 +30,8 @@ capital = 1963	# Cherdyn
 		dip = 5
 		mil = 5
 	}
+	government = monarchy
+	add_government_reform = feudalism_reform
 }
 
 1451.1.1 = {

@@ -1,7 +1,7 @@
 #4263 - Sol Galitskaya
 
 culture = chud
-religion = shamanism
+religion = proto_uralic
 hre = no
 base_tax = 1
 base_production = 1
@@ -20,7 +20,7 @@ native_ferocity = 1
 	owner = RSO 
 	controller = RSO
 	add_core = RSO
-	trade_goods = salt
+	trade_goods = grain
 	is_city = yes
 }
 1246.1.1 = {

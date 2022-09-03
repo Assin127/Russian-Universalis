@@ -1,7 +1,7 @@
 #313 - Soroka
 
 culture = karelian
-religion = shamanism
+religion = proto_uralic
 hre = no
 base_tax = 1
 base_production = 1
