@@ -7,8 +7,10 @@ technology_group = eastern
 capital = 312	# Beloozero
 fixed_capital = 312 # Cannot move capital away from this province & no power cost to move to it
 
+set_country_flag = random_rurikovich ## RU027
 
 1432.1.1 = {
+	clr_country_flag = random_rurikovich
 	monarch = {
 		name = "Mikhail"
 		dynasty = "Rurikovich"

@@ -29,7 +29,12 @@ discovered_by = nomad_group
 	base_tax = 2
 	base_production = 2
 }
-1364.1.1 = {
+1246.1.1 = {
+	owner = KOS
+	controller = KOS
+	add_core = KOS
+}
+1320.1.1 = {
 	owner = MOS
 	controller = MOS
 	add_core = MOS
