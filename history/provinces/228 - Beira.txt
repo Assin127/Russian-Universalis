@@ -1,7 +1,9 @@
 #228 - Beira
 
-owner = POR
-controller = POR
+owner = GAL
+controller = GAL
+add_core = GAL
+add_core = POR
 culture = portugese
 religion = catholic
 capital = "Viseu"
