@@ -7,8 +7,10 @@ primary_culture = zalesky
 capital = 308	# Yaroslavl
 fixed_capital = 308 # Cannot move capital away from this province & no power cost to move to it
 
+set_country_flag = random_rurikovich ## RU027
 #Princes (Lvov, a rurikid dynasty)
 1380.1.1 = {
+	clr_country_flag = random_rurikovich
 	monarch = {
 		name = "Ivan Bolshoy"
 		dynasty = "Rurikovich"

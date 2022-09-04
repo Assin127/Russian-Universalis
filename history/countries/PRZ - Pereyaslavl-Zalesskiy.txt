@@ -9,3 +9,4 @@ technology_group = eastern
 capital = 4253	# Pereyaslavl-Zalesskiy
 fixed_capital = 4253 # Cannot move capital away from this province & no power cost to move to it
 
+set_country_flag = random_rurikovich ## RU027

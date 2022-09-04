@@ -2,6 +2,7 @@
 
 owner = GAL		
 controller = GAL
+
 add_core = GAL
 culture = galician
 religion = catholic

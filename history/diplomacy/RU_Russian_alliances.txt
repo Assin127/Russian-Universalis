@@ -41,7 +41,7 @@ union = {
 vassal = {
 	first = KIE
 	second = PRS
-	start_date = 1240.1.1
+	start_date = 1239.1.1
 	end_date = 1263.1.1
 }
 union = {
@@ -162,7 +162,13 @@ alliance = {
 	first = CHR
 	second = NOS
 	start_date = 1097.1.1
-	end_date = 1240.1.1
+	end_date = 1239.1.1
+}
+vassal = {
+	first = CHR
+	second = NOS
+	start_date = 1239.1.1
+	end_date = 1263.1.1
 }
 vassal = {
 	first = CHR
@@ -171,22 +177,16 @@ vassal = {
 	end_date = 1263.1.1
 }
 vassal = {
-	first = CHR
-	second = NOS
-	start_date = 1240.1.1
-	end_date = 1263.1.1
-}
-vassal = {
 	first = NOS
 	second = RSK
 	start_date = 1160.1.1
-	end_date = 1240.1.1
+	end_date = 1239.1.1
 }
 vassal = {
 	first = NOS
 	second = KRS
 	start_date = 1164.1.1
-	end_date = 1240.1.1
+	end_date = 1239.1.1
 }
 union = {
 	first = CHR
@@ -213,7 +213,7 @@ union = {
 	first = BRY
 	second = CHR
 	start_date = 1393.1.1
-	end_date = 1401.1.1
+	end_date = 1401.1.1}
 }
 vassal = {
 	first = BRY
@@ -230,8 +230,8 @@ alliance = {
 alliance = {
 	first = BRY
 	second = RSK
-	start_date = 1263.1.1
-	end_date = 1297.1.1
+	start_date = 1246.1.1
+	end_date = 1301.1.1
 } ## RU017
 union = {
 	first = BRY
@@ -392,9 +392,7 @@ vassal = {
 	start_date = 1223.1.1
 	end_date = 1240.1.1
 }
-
 #Murom union
-
 union = { ## RU022
 	first = RYA
 	second = MRM
@@ -436,4 +434,28 @@ vassal = { ## RU010
 	second = GLD
 	start_date = 1325.1.1
 	end_date = 1450.1.1
+}
+
+#Pronsk diplomation
+
+union = { ## RU027
+	first = RYA
+	second = PNK
+	start_date = 1217.1.1
+	end_date = 1299.1.1
+}
+vassal = { ## RU027
+	first = RYA
+	second = PNK
+	start_date = 1299.1.1
+	end_date = 1430.1.1
+}
+
+#Tarusa diplomation
+
+vassal = { ## RU027
+	first = MOS
+	second = TRR
+	start_date = 1350.1.1
+	end_date = 1430.1.1
 }

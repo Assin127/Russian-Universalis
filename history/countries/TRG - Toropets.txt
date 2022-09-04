@@ -7,3 +7,4 @@ religion = orthodox
 technology_group = eastern
 capital = 4243	# Toropets
 fixed_capital = 4243 # Cannot move capital away from this province & no power cost to move to it
+set_country_flag = random_rurikovich ## RU027
