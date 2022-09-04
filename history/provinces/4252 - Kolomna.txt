@@ -27,11 +27,16 @@ discovered_by = nomad_group
 
 1176.1.1 = { owner = KLL controller = KLL add_core = KLL } #Kolomna udel
 
+1238.1.1 = {
+	base_production = 1
+}
+
 1301.1.1 = {
 	owner = MOS
 	controller = MOS
 	add_core = MOS  
 	remove_core = RYA
+	base_production = 2
 }
 1450.1.1 = { discovered_by = SIB }
 1495.1.1 = { fort_15th = no fort_16th = yes } #Kremlin

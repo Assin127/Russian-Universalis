@@ -213,7 +213,7 @@ union = {
 	first = BRY
 	second = CHR
 	start_date = 1393.1.1
-	end_date = 1401.1.1}
+	end_date = 1401.1.1
 }
 vassal = {
 	first = BRY
@@ -392,7 +392,38 @@ vassal = {
 	start_date = 1223.1.1
 	end_date = 1240.1.1
 }
+
+#Vladimir-Suzdal diplomation
+
+union = {
+	first = VLD
+	second = SYZ
+	start_date = 1259.1.1
+	end_date = 1260.1.1
+}
+vassal = {
+	first = VLD
+	second = MOS
+	start_date = 1259.1.1
+	end_date = 1260.1.1
+}
+vassal = {
+	first = SYZ
+	second = STD
+	start_date = 1259.1.1
+	end_date = 1260.1.1
+}
+vassal = {
+	first = SYZ
+	second = KOS
+	start_date = 1259.1.1
+	end_date = 1260.1.1
+}
+
+
+
 #Murom union
+
 union = { ## RU022
 	first = RYA
 	second = MRM
@@ -425,6 +456,12 @@ vassal = {
 	second = KRL
 	start_date = 1227.1.1
 	end_date = 1277.1.1
+} ## RU023
+alliance = {
+	first = NOV
+	second = PSK
+	start_date = 1259.1.1
+	end_date = 1260.1.1
 } ## RU023
 
 #Moscow diplomation

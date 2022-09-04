@@ -5,8 +5,8 @@ controller = SMO
 culture = zalesky
 religion = orthodox
 hre = no
-base_tax = 3
-base_production = 3
+base_tax = 1
+base_production = 2
 trade_goods = grain  
 base_manpower = 2
 capital = "Mozhaisk"
@@ -25,9 +25,13 @@ discovered_by = nomad_group
 	add_core = MOZ
 
 }
-
+1238.1.1 = {
+	base_production = 1
+}
 1303.1.1 = {
 	fort_15th = yes
+	base_tax = 3
+	base_production = 3
 }
 
 1493.1.1 = {

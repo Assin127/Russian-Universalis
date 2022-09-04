@@ -1,11 +1,10 @@
-### RU010 - Added
-
 #Country Name: Please see filename.
 
 graphical_culture = easterngfx
 
-color = { 127 169 79 }
-revolutionary_colors = { 8 5 8 }
+color = { 16 96 189 }
+
+revolutionary_colors = { 0 0 5 }
 
 historical_idea_groups = {
 	trade_ideas
@@ -38,15 +37,15 @@ historical_units = {
 }
 
 monarch_names = {
-	"Mikhail #2" = 20
-	"Aleksandr #1" = 20
+	"Mikhail #0" = 20
+	"Aleksandr #0" = 20
 	"Boris #0" = 20
 	"Yuriy #0" = 20
-	"Yaroslav #2" = 5
-	"Dmitriy #1" = 5
-	"Ivan #1" = 5
-	"Konstantin #1" = 5
-	"Svyatoslav #1" = 5
+	"Yaroslav #0" = 5
+	"Dmitriy #0" = 5
+	"Ivan #0" = 5
+	"Konstantin #0" = 5
+	"Svyatoslav #0" = 5
 	"Akim #0" = 0
 	"Anastas #0" = 0
 	"Anton #0" = 0

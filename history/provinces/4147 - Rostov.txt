@@ -23,6 +23,14 @@ discovered_by = KAZ
 	controller = RSO
 	add_core = RSO  
 }
+1238.1.1 = {
+	base_tax = 2
+	base_production = 1
+}
+1355.1.1 = {
+	base_tax = 3
+	base_production = 3
+}
 1450.1.1 = { discovered_by = SIB }
 1474.1.1 = { 
 	owner = MOS

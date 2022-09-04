@@ -19,10 +19,12 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 1246.1.1 = {
-	owner = OKA
-	controller = OKA
-	add_core = OKA
+	owner = KRV
+	controller = KRV
+	add_core = KRV
 	remove_core = CHR
+	base_production = 1
+	base_tax = 1
 }
 
 1390.1.1 = {
