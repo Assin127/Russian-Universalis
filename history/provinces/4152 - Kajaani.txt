@@ -1,7 +1,7 @@
 #4152 - Kuusamo incl Maanselkä and Kitka
 
 culture = sapmi
-religion = norse_pagan_reformed
+religion = proto_uralic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -11,6 +11,7 @@ add_local_autonomy = 80
 capital = "Maanselkä"
 discovered_by = eastern
 discovered_by = western
+
 native_size = 10
 native_ferocity = 1
 native_hostileness = 3

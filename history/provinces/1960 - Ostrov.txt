@@ -5,8 +5,8 @@ controller = NOV
 culture = novgorodian
 religion = orthodox
 hre = no
-base_tax = 2 
-base_production = 2
+base_tax = 1 
+base_production = 1
 trade_goods = naval_supplies
 base_manpower = 2
 capital = "Ostrov"
@@ -21,11 +21,16 @@ discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 
-1348.1.1 = {
+1259.1.1 = {
 	owner = PSK
 	controller = PSK
 	add_core = PSK
 	remove_core = NOV
+}
+
+1348.1.1 = {
+	base_tax = 2
+	base_production = 2 
 } # Bolotovskiy dogovor
 
 1510.1.13 = {	owner = RUS controller = RUS add_core = RUS remove_core = PSK } # Pskov annexed by Russia

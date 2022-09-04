@@ -3,7 +3,7 @@
 owner = VBL
 controller = VBL
 culture = mari
-religion = shamanism
+religion = proto_uralic
 capital = "Veda-Suvar"
 trade_goods = grain
 hre = no

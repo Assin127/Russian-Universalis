@@ -7,8 +7,8 @@ culture = zalesky
 religion = orthodox
 trade_goods = salt
 hre = no
-base_tax = 4
-base_production = 5 #Huge Salt Mine
+base_tax = 2
+base_production = 3 #Huge Salt Mine
 base_manpower = 2
 is_city = yes
 add_core = VLD
@@ -21,6 +21,10 @@ discovered_by = nomad_group
 	owner = GLD
 	controller = GLD
 	add_core = GLD  
+}
+1355.1.1 = {
+	base_tax = 4
+	base_production = 5
 }
 1450.1.1 = {
 	owner = MOS

@@ -1,7 +1,7 @@
 #Västerbotten-Ångermanland, from Sundsvall/Härnösand over Umeå to Torneå
 
 culture = sapmi
-religion = norse_pagan_reformed
+religion = proto_uralic
 hre = no
 base_tax = 1 
 base_production = 1

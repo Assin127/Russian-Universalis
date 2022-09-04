@@ -1,18 +1,16 @@
-### RU017 - Added
-#Country Name: Please see filename.
-
 graphical_culture = easterngfx
 
-color = { 100 150 200 }
+color = { 165 38 38 }
+revolutionary_colors = { 13 5 8 }
 
 historical_idea_groups = {
-	economic_ideas
-	spy_ideas
 	defensive_ideas
 	expansion_ideas
 	religious_ideas
 	offensive_ideas
 	naval_ideas
+	spy_ideas
+	economic_ideas
 	quality_ideas
 }
 
@@ -50,20 +48,20 @@ leader_names = {
 }
 
 monarch_names = {
-	"Ivan #2" = 15
+	"Vasiliy #1" = 5
+	"Ivan #0" = 0
 	"Dmitriy #0" = 0
-	"Yuriy #1" = 15
-	"Andrei #0" = 0
+	"Yuriy #1" = 5
+	"Andrei #2" = 10
 	"Semen #0" = 0
-	"Boris #0" = 0
-	"Fyodor #1" = 0
-	"Oleg #0" = 0
+	"Fyodor #0" = 0
 	"Afanasiy #0" = 0
 	"Akim #0" = 0
 	"Aleksandr #2" = 5
 	"Alexei #0" = 0
 	"Anatoliy #0" = 0
 	"Arkadiy #0" = 0
+	"Boris #0" = 10
 	"Daniil #0" = 0
 	"Dorofey #0" = 0
 	"Feodosiy #0" = 0
@@ -74,9 +72,10 @@ monarch_names = {
 	"Lavrentiy #0" = 0
 	"Makariy #0" = 0
 	"Matveiy #0" = 0
-	"Mikhail #1" = 5
+	"Mikhail #0" = 0
 	"Nazariy #0" = 0
 	"Nikifor #0" = 0
+	"Oleg #0" = 0
 	"Onisim #0" = 0
 	"Pavel #0" = 0
 	"Prokopiy #0" = 0
@@ -88,36 +87,28 @@ monarch_names = {
 	"Valeriy #0" = 0
 	"Yakim #0" = 0
 	"Yevgeniy #0" = 0
-	"Yaroslav #3" = 10
-	"Yaropolk #1" = 10
-	"Vyacheslav #2" = 10
-	"Vsevolod #3" = 15
+	"Vladimir-Ivan #1" = 5
+	"Vladimir #2" = 70
+	"Vsevolod #3" = 20
 	"Igor #1" = 5
-	"Izyaslav #3" = 10
-	"Rostislav #3" = 10
-	"Vladimir #4" = 20
-	"Mstislav #2" = 5
-	"Gleb #1" = 0
-	"Roman #1" = 0
-	"Ryurik #1" = 0
-	"Svyatoslav #1" = 0
-	"Ingvar #1" = 0
-	"Stanislav #1" = 0
+	"Rostislav #1" = 5
+	"Yaroslav #2" = 10
+	"Yaropolk #1" = 5
+	"Davyd #1" = 5
+	"Mstislav #3" = 10
+	"Roman #2" = 5
+	"Izyaslav #1" = 5
+	"Svyatoslav #4" = 5
+	"Svyatopolk #1" = 5
+	"Lev #1" = 0
 	
-	"Aleksandra #0" = -1
-	"Alla #0" = -1
-	"Bronislava #0" = -1
+	"Agafya #0" = -1
 	"Svetlana #0" = -1
 	"Yuliya #0" = -1
-	"Yaroslava #0" = -1
-	"Vladislava #0" = -1
-	"Lyudmila #0" = -1
-	"Nadejda #0" = -1
-	"Rostislava #0" = -1
 }
 
 ship_names = {
-	"Svyatoy Muchenik" "Aleksandr Nevskiy" "Arkhangel Mikhail"
+	"Dmitri Donskoi" "Vasiliy I" "D. Aleksandrovich"
 	Rurik "Ivan Kalita" Moscha Volga Schorna Coluna
 	Cortiza Mosnisk Olescho Piersek Troitzkoy Wolok
 	Klin Iausa

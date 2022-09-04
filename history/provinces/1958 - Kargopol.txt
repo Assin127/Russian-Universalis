@@ -1,7 +1,7 @@
 #Kargopol
 
 culture = samoyed
-religion = shamanism
+religion = proto_uralic
 hre = no
 base_tax = 1
 base_production = 1
