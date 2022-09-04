@@ -3,7 +3,7 @@
 government = monarchy
 add_government_reform = principality
 government_rank = 1
-primary_culture = ryazanian
+primary_culture = seversky
 religion = orthodox
 technology_group = eastern
 capital = 4255
