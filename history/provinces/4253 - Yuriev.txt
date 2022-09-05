@@ -1,7 +1,7 @@
 #4253 - Pereyaslavl-Zalesskiy & Yuriev-Polskiy
 
-owner = VLD
-controller = VLD  
+owner = RSO
+controller = RSO  
 culture = zalesky
 religion = orthodox
 hre = no
@@ -11,7 +11,7 @@ trade_goods = salt
 base_manpower = 2
 capital = "Yuriev"
 is_city = yes
-add_core = VLD
+add_core = RSO
 add_core = PRZ
 discovered_by = GOL
 discovered_by = KAZ

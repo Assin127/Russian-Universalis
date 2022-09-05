@@ -1,0 +1,25 @@
+### RU028 - Added
+government = tribal
+add_government_reform = steppe_horde
+primary_culture = mongol
+religion = tengri_pagan_reformed
+technology_group = nomad_group
+capital = 714
+
+1217.1.1 = {
+	capital = 4686
+}
+1220.1.1 = {
+	add_accepted_culture = cuman
+}
+1236.1.1 = {
+	capital = 4267
+	add_accepted_culture = bulgar
+}
+1254.1.1 = {
+	capital = 466
+}
+1320.1.1 = {
+	primary_culture = mishary
+	religion = sunni
+}

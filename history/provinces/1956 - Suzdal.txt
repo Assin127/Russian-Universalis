@@ -1,7 +1,7 @@
 #1956 - Suzdal
 
-owner = VLD
-controller = VLD
+owner = RSO
+controller = RSO
 culture = zalesky
 religion = orthodox
 hre = no
@@ -11,7 +11,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Suzdal"
 is_city = yes
-add_core = VLD
+add_core = RSO
 
 discovered_by = GOL
 discovered_by = KAZ

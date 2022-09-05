@@ -1,7 +1,7 @@
 #Galich
 
-owner = VLD
-controller = VLD
+owner = RSO
+controller = RSO
 capital = "Galich"
 culture = zalesky
 religion = orthodox
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 3 #Huge Salt Mine
 base_manpower = 2
 is_city = yes
-add_core = VLD
+add_core = RSO
 discovered_by = eastern
 discovered_by = western
 discovered_by = GOL

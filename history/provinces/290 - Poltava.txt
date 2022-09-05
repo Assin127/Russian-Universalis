@@ -1,7 +1,7 @@
 #290 - Poltava
 
-owner = CUM 
-controller = CUM 
+owner = PRS 
+controller = PRS 
 culture = cuman
 religion = tengri_pagan_reformed
 hre = no
@@ -11,7 +11,7 @@ trade_goods = grain
 base_manpower = 1
 capital = "Poltava"
 is_city = yes
-add_core = CUM
+add_core = PRS
 
 discovered_by = western
 discovered_by = eastern
