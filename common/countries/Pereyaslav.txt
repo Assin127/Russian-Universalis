@@ -3,7 +3,7 @@
 
 graphical_culture = easterngfx
 
-color = { 181  81 81 }
+color = { 188  31 20 }
 
 historical_idea_groups = {
 #	early_diplomatic_ideas ## RU001
