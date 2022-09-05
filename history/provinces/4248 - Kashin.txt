@@ -1,7 +1,7 @@
 #4248 - Kashin
 
-owner = VLD
-controller = VLD  
+owner = NOV
+controller = NOV  
 culture = zalesky
 religion = orthodox
 hre = no
@@ -11,7 +11,7 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Kashin"
 is_city = yes
-add_core = VLD
+add_core = NOV
 add_core = KAS
 
 
