@@ -4116,6 +4116,25 @@ altaic = {
 			Zarina Zaure Zauresh Zeyne Zeynep Zemfira Zere Zlikha Zoya Zubaira Zulfia Zukhra Zlika
 		}
 	}
+	bashkir_altaic = {
+		primary = BSH
+		dynasty_names = {
+			Balna Salmiianov Ravna Taiborey Vylka Kanin Maimbava Arinin Aven Tsoy
+		}
+		male_names = {
+			"Abdul-Karim" "Abdul-Latif" "Abdul-Rahman" "Abdullah" "Agalak" "Ahmad" "Ak Köbek" "Ali Beg" "Arab Shah" 
+			"Arslan" "Baraq" "Bek Bulat" "Bolaq" "Cherkes" "Chokra" "Daniyal" "Darwish" "Darwish Ali" "Devlet Berdi" 
+			"Edigu" "Hajji Muhammad" "Husayn" "Ibak" "Ibrahim" "Ilham" "Ishim" "Jabbar Berdi" "Jalal al-Din" "Jan Ali" 
+			"Janay" "Jani Beg" "Jumaduq" "Karim Berdi" "Kebek" "Khalil" "Khaqan Beg" "Küchük Muhammad" "Kuchum" 
+			"Mahmud" "Mahmudak" "Mamai" "Mamuk" "Mansur" "Muhammad" "Murtaza" "Mustafa Ali" "Nogai" "Pulad" "Pulad Timur" "Qadir Berdi" "Qasim" "Sain Bulat" "Satilghan" "Sayid Ahmad" "Sayid Burhan" "Sayid Mahmud" 
+			"Shadi Beg" "Shah Ali" "Shaikh Ahmad" "Shaikh Awliar" "Shaikh Haidar" "Shiban" "Taibugha" "Timur" 
+			"Timur Qutlugh" "Toqtamish" "Ulugh Muhammad" "Urus" "Urus Muhammad" "Yadigar Muhammad" "Yamghurchi"
+		}
+		female_names = {
+			"Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith 
+			Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
+		}
+	}
 	kirgiz = {
 		primary = CHG
 		male_names = {
@@ -4130,6 +4149,7 @@ altaic = {
 			Mandughai Hoelun Tamülün Kokachin Beki Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka 
 			Doquez-khatum Goland Ho'elun Khultulun  Qamish Orqina Sorghaghtani Toregene "Fatima" "Ibtisam" "Jalila" "Janan" Sakina
 		}
+
 	## RU000 - Start
 	}
 	bulgar = {

@@ -22,6 +22,7 @@ l_english:
  chud: "Ì³¦¬" ## RU024
  mordvin: "¦¢ª°¬" ## RU024
  mari: "ªþ¬" ## RU024
+ bashkir_altaic: "€Œ¬ª¬" ## RU024
  abodritian_small: "¡¦ª¶¬"
  alanian_small: "®°¬"
  geatish_small: "¥ž²¬"
@@ -44,4 +45,5 @@ l_english:
  chud_small: "¶³¦¬" ## RU024
  mordvin_small: "¯¦¢ª°¬" ## RU024
  mari_small: "¯ªþ¬" ## RU024
+ bashkir_altaic_small: "¡Œ¬ª¬" ## RU024
  
