@@ -24,9 +24,10 @@ discovered_by = muslim
 	controller = GLH
 	add_core = GLH
 	remove_core = CUM
+	culture = bashkir_altaic
 }
 
-1320.1.1 = { religion = sunni }
+1320.1.1 = { religion = sunni culture = bashkir }
 
 1438.1.1 = {
 	owner = GOL

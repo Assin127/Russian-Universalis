@@ -25,7 +25,7 @@ discovered_by = nomad_group
 	owner = GLH
 	controller = GLH
 	add_core = GLH
-	culture = crimean
+	remove_core = CUM
 }
 
 1346.1.1 = {

@@ -1,8 +1,8 @@
 # 2363 - Atakent
 
-owner = SHY
-controller = SHY
-culture = khazak
+owner = CUM
+controller = CUM
+culture = uzbehk
 religion = sunni
 capital = "Atakent"
 trade_goods = livestock
@@ -11,19 +11,41 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = KZH
-add_core = SHY
-add_core = TRS
+add_core = CUM
+
 discovered_by = KAS
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
+1156.1.1 = {
+	owner = KHW
+	controller = KHW
+	add_core = KHW
+	religion = sunni
+	remove_core = CUM
+}
+1221.1.1 = {
+	owner = GLH
+	controller = GLH
+	add_core = GLH
+	remove_core = KHW
+}
+
+1320.1.1 = { culture = khazak add_core = KZH }
+
+1428.1.1 = {
+	owner = SHY
+	controller = SHY
+	add_core = SHY
+	remove_core = GLH
+}
 1502.1.1 = { 
 	owner = BUK 
 	add_core = BUK 
 	controller = BUK 
 	remove_core = SHY
+
 } # The Uzbek Shaybanids brings an end to the Timurid dynasty
 1520.1.1 = { owner = KZH controller = KZH remove_core = BUK } # Qasim Khan's conquests
 1622.1.1 = { discovered_by = RUS }

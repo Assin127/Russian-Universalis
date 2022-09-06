@@ -2,7 +2,7 @@
 
 owner = CUM 
 controller = CUM 
-culture = siberian
+culture = ostyaki
 religion = tengri_pagan_reformed
 capital = "Tara"
 trade_goods = fur

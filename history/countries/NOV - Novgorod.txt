@@ -10,8 +10,6 @@ technology_group = eastern
 capital = 310	# Novgorod
 fixed_capital = 310 # Cannot move capital away from this province & no power cost to move to it
 
-set_country_flag = random_rurikovich
-
 1095.1.1 = {
 	monarch = {
 		name = "Mstislav II"

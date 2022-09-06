@@ -3,7 +3,7 @@
 owner = SHY
 controller = SHY
 capital = "Iglino"
-culture = siberian
+culture = ostyaki
 religion = tengri_pagan_reformed
 trade_goods = fur
 hre = no
