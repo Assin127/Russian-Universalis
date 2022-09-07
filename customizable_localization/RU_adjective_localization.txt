@@ -112,6 +112,24 @@ defined_text = {
 			tag = SYZ
 		}
     }
+    text = { ## RU029
+        localisation_key = ADJ_KUY
+        trigger = {
+			tag = KUY
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_SAN
+        trigger = {
+			tag = SAN
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_SIR
+        trigger = {
+			tag = SIR
+		}
+    }
     text = { ## RU010
         localisation_key = ADJ_KHN
         trigger = {

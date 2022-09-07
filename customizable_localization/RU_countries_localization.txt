@@ -109,6 +109,24 @@ defined_text = {
 			tag = SYZ
 		}
     }
+    text = { ## RU029
+        localisation_key = TAG_RD_KUY
+        trigger = {
+			tag = KUY
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_RD_SAN
+        trigger = {
+			tag = SAN
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_RD_SIR
+        trigger = {
+			tag = SIR
+		}
+    }
     text = { ## RU010
         localisation_key = TAG_RD_MOZ
         trigger = {
@@ -1299,6 +1317,24 @@ defined_text = {
 			tag = SYZ
 		}
     }
+    text = { ## RU029
+        localisation_key = TAG_VN_KUY
+        trigger = {
+			tag = KUY
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_VN_SAN
+        trigger = {
+			tag = SAN
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_VN_SIR
+        trigger = {
+			tag = SIR
+		}
+    }
     text = { ## RU010
         localisation_key = TAG_VN_MOZ
         trigger = {
@@ -2486,6 +2522,24 @@ defined_text = {
         localisation_key = TAG_TV_SYZ
         trigger = {
 			tag = SYZ
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_TV_KUY
+        trigger = {
+			tag = KUY
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_TV_SAN
+        trigger = {
+			tag = SAN
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_TV_SIR
+        trigger = {
+			tag = SIR
 		}
     }
     text = { ## RU010
@@ -3678,6 +3732,24 @@ defined_text = {
 			tag = SYZ
 		}
     }
+    text = { ## RU029
+        localisation_key = TAG_PR_KUY
+        trigger = {
+			tag = KUY
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_PR_SAN
+        trigger = {
+			tag = SAN
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_PR_SIR
+        trigger = {
+			tag = SIR
+		}
+    }
     text = { ## RU010
         localisation_key = TAG_PR_MOZ
         trigger = {
@@ -4866,6 +4938,24 @@ defined_text = {
         localisation_key = TAG_DT_SYZ
         trigger = {
 			tag = SYZ
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_DT_KUY
+        trigger = {
+			tag = KUY
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_DT_SAN
+        trigger = {
+			tag = SAN
+		}
+    }
+    text = { ## RU029
+        localisation_key = TAG_DT_SIR
+        trigger = {
+			tag = SIR
 		}
     }
     text = { ## RU010
