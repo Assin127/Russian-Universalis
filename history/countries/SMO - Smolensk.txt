@@ -1,4 +1,5 @@
 ### RU001 - Added
+
 government = monarchy
 add_government_reform = principality
 government_rank = 1
@@ -10,7 +11,7 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 
 1095.1.2 = {
 	monarch = {
-		name = "Davyd"
+		name = "Davyd I"
 		dynasty = "Rurikovich"
 		birth_date = 1050.1.1
 		adm = 2
@@ -31,9 +32,12 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_ruler_personality = drunkard_personality
 }
-1127.1.1 = { ## RU022
+
+## RU022 - Start
+
+1127.1.1 = {
 	monarch = {
-		name = "Rostislav"
+		name = "Rostislav I"
 		dynasty = "Rurikovich"
 		birth_date = 1108.1.1
 		adm = 5
@@ -41,59 +45,69 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 		mil = 4
 	}
 }
-1159.1.1 = { ## RU022
+1159.1.1 = {
 	monarch = {
-		name = "Roman"
+		name = "Roman I"
 		dynasty = "Rurikovich"
-		birth_date = 1108.1.1
+		birth_date = 1132.1.1
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-1171.1.1 = { ## RU022
+1171.1.1 = {
 	monarch = {
-		name = "Yaropolk"
+		name = "Yaropolk I"
 		dynasty = "Rurikovich"
-		birth_date = 1149.1.1
+		birth_date = 1151.1.1
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-1172.1.1 = { ## RU022
+1172.1.1 = {
 	monarch = {
-		name = "Roman"
+		name = "Roman I"
 		dynasty = "Rurikovich"
-		birth_date = 1130.1.1
+		birth_date = 1132.1.1
 		adm = 2
 		dip = 3
 		mil = 3
 	}
 }
-1174.1.1 = { ## RU022
+1174.1.1 = {
 	monarch = {
-		name = "Mstislav Hrabryj"
+		name = "Yaropolk I"
 		dynasty = "Rurikovich"
-		birth_date = 1150.1.1
+		birth_date = 1151.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1175.1.1 = {
+	monarch = {
+		name = "Mstislav I Hrabryj"
+		dynasty = "Rurikovich"
+		birth_date = 1148.1.1
 		adm = 2
 		dip = 2
 		mil = 5
 	}
 }
-1176.1.1 = { ## RU022
+1176.1.1 = {
 	monarch = {
-		name = "Roman"
+		name = "Roman I"
 		dynasty = "Rurikovich"
-		birth_date = 1130.1.1
+		birth_date = 1132.1.1
 		adm = 2
 		dip = 3
 		mil = 3
 	}
 }
-1180.1.1 = { ## RU022
+1180.1.1 = {
 	monarch = {
-		name = "David"
+		name = "David II"
 		dynasty = "Rurikovich"
 		birth_date = 1140.1.1
 		adm = 2
@@ -101,19 +115,19 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-1197.1.1 = { ## RU022
+1197.1.1 = {
 	monarch = {
-		name = "Mstislav Staryj"
+		name = "Mstislav II Staryj"
 		dynasty = "Rurikovich"
-		birth_date = 1155.1.1
+		birth_date = 1156.1.1
 		adm = 4
 		dip = 1
 		mil = 2
 	}
 }
-1212.1.1 = { ## RU022
+1212.1.1 = {
 	monarch = {
-		name = "Vladimir"
+		name = "Vladimir I"
 		dynasty = "Rurikovich"
 		birth_date = 1187.1.1
 		adm = 3
@@ -121,9 +135,9 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 		mil = 3
 	}
 }
-1212.1.1 = { ## RU022
+1219.1.1 = {
 	monarch = {
-		name = "Mstislav"
+		name = "Mstislav III"
 		dynasty = "Rurikovich"
 		birth_date = 1193.1.1
 		adm = 2
@@ -131,59 +145,55 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-1230.1.1 = { ## RU022
+1230.1.1 = {
 	monarch = {
-		name = "Rostislav"
+		name = "Rostislav II"
 		dynasty = "Rurikovich"
-		birth_date = 1200.1.1
+		birth_date = 1189.1.1
 		adm = 1
 		dip = 1
 		mil = 1
 	}
 }
-1232.1.1 = { ## RU022
+1232.1.1 = {
 	monarch = {
-		name = "Svyatoslav"
+		name = "Svyatoslav I"
 		dynasty = "Rurikovich"
-		birth_date = 1201.1.1
 		adm = 2
 		dip = 3
 		mil = 3
 	}
 }
-1232.1.1 = { ## RU022
+1238.1.1 = {
 	monarch = {
-		name = "Vsevolod"
+		name = "Vsevolod I"
 		dynasty = "Rurikovich"
-		birth_date = 1204.1.1
 		adm = 2
 		dip = 2
 		mil = 4
 	}
 }
-1249.1.1 = { ## RU022
+1249.1.1 = {
 	monarch = {
-		name = "Gleb"
+		name = "Gleb I"
 		dynasty = "Rurikovich"
-		birth_date = 1220.1.1
 		adm = 2
 		dip = 1
 		mil = 2
 	}
 }
-1278.1.1 = { ## RU022
+1278.1.1 = {
 	monarch = {
-		name = "Michael"
+		name = "Mikhail I"
 		dynasty = "Rurikovich"
-		birth_date = 1222.1.1
 		adm = 1
 		dip = 1
 		mil = 1
 	}
 }
-1279.1.1 = { ## RU022
+1279.1.1 = {
 	monarch = {
-		name = "Fyodor  Chyornyj"
+		name = "Fyodor I Chyornyj"
 		dynasty = "Rurikovich"
 		birth_date = 1233.1.1
 		adm = 3
@@ -192,31 +202,28 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 	}
 	government_rank = 2 ## RU025
 }
-1297.1.1 = { ## RU022
+1297.1.1 = {
 	monarch = {
-		name = "Alexander"
+		name = "Alexander I"
 		dynasty = "Rurikovich"
-		birth_date = 1250.1.1
 		adm = 2
 		dip = 4
 		mil = 2
 	}
 }
-1313.1.1 = { ## RU022
+1313.1.1 = {
 	monarch = {
-		name = "Ivan"
+		name = "Ivan I"
 		dynasty = "Rurikovich"
-		birth_date = 1285.1.1
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-1359.1.1 = { ## RU022
+1359.1.1 = {
 	monarch = {
-		name = "Svyatoslav"
+		name = "Svyatoslav II"
 		dynasty = "Rurikovich"
-		birth_date = 1320.1.1
 		adm = 1
 		dip = 3
 		mil = 3
@@ -226,13 +233,22 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Yury I"
 		dynasty = "Rurikovich"
-		birth_date = 1360.1.1 ## RU022
 		adm = 0
 		dip = 0
 		mil = 3
 	}
 }
-1395.1.1 = { ## RU025
+1392.1.1 = {
+	monarch = {
+		name = "Gleb II"
+		dynasty = "Rurikovich"
+		birth_date = 1355.1.1
+		adm = 0
+		dip = 0
+		mil = 3
+	} ## RU025
+}
+1395.1.1 = {
 	monarch = {
 		name = "Lithuanian administration"
 		culture = lithuanian
@@ -240,15 +256,18 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 		dip = 1
 		mil = 1
 		regent = yes
-	}
+	} ## RU025
 }
 1401.1.1 = {
-	monarch = { ## RU022
+	monarch = {
 		name = "Yury I"
 		dynasty = "Rurikovich"
-		birth_date = 1360.1.1 ## RU022
 		adm = 0
 		dip = 0
 		mil = 3
 	}
 }
+
+#1404.1.1 - annex
+
+## RU022 - End

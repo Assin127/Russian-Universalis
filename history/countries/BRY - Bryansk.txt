@@ -1,5 +1,5 @@
 ### RU001 - Added
-# Bryansk
+
 government = monarchy
 add_government_reform = principality
 government_rank = 1
@@ -30,7 +30,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 1288.1.1 = {
 	monarch = {
 		name = "Oleg I"
@@ -40,7 +39,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 1297.1.1 = {
 	monarch = {
 		name = "Vasiliy I"
@@ -50,7 +48,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		mil = 3
 	}
 }
-
 1309.1.1 = {
 	monarch = {
 		name = "Svyatoslav I"
@@ -60,7 +57,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 1310.1.1 = {
 	monarch = {
 		name = "Vasiliy I"
@@ -70,7 +66,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		mil = 3
 	}
 }
-
 1314.1.1 = {
 	monarch = {
 		name = "Dmitriy I"
@@ -81,7 +76,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		mil = 3
 	}
 }
-
 1333.1.1 = {
 	monarch = {
 		name = "Gleb I"
@@ -91,7 +85,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 1340.1.1 = {
 	monarch = {
 		name = "Dmitriy I"
@@ -102,7 +95,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		mil = 3
 	}
 }
-
 1350.1.1 = {
 	monarch = {
 		name = "Vasiliy I"
@@ -112,7 +104,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		mil = 3
 	}
 }
-
 1356.1.1 = {
 	monarch = {
 		name = "Lithuanian administration"
@@ -123,7 +114,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		regent = yes
 	}
 }
-
 1359.1.1 = {
 	monarch = {
 		name = "Roman I"
@@ -133,7 +123,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		mil = 3
 	}
 }
-
 1370.1.1 = {
 	monarch = {
 		name = "Dmitriy II"
@@ -144,7 +133,6 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 		mil = 3
 	}
 }
-
 1380.1.1 = {
 	monarch = {
 		name = "Roman II"
@@ -158,8 +146,3 @@ fixed_capital = 297 # Cannot move capital away from this province & no power cos
 #1401.1.1 - annex
 
 ## RU025 - End
-		adm = 2
-		dip = 3
-		mil = 3
-	}
-} ## RU012

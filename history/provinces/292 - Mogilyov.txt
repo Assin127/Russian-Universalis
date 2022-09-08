@@ -17,21 +17,25 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 
+## RU008 - Start
 1197.1.1 = {
 	owner = MSL
 	controller = MSL
 	add_core = MSL
-}
+} #Mstislavl udel
 
-1392.1.1 = {
+1386.1.1 = {
 	owner = LIT
 	controller = LIT
 	add_core = LIT
 	add_local_autonomy = 25
 	remove_core = PLT
 }
-
-1526.1.1 = {remove_core = MSL add_local_autonomy = -25}
+1526.1.1 = {
+	remove_core = MSL 
+	add_local_autonomy = -25
+}
+## RU008 - End
 
 1569.7.1 = {
 	owner = PLC

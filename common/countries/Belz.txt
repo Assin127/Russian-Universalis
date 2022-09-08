@@ -1,5 +1,4 @@
 ### RU017 - Added
-#Country Name: Please see filename.
 
 graphical_culture = easterngfx
 

@@ -9,9 +9,10 @@ RU029 Zyfoker 07.09.22 Папка: flags. Добавление флагов кн
 RU026 Assin 01.08.22 Папки: flags, religion_icons. Файлы: country_icon_religion, icon_religion, icon_religion_small, province_view_religion. Добавлено Финно-Угорское язычество
 RU022 Aghjk 26.08.22 Папка: flags. Добавление флагов новых стран
 RU019 Astarot 18.08.22 Папка: flags. Добавлен флаг Корё
+RU017 Zyfoker 17.08.22 Папка: flags. Добавление флагов Руси
 RU016 Assin 12.08.22 Папка: interface. Расширено окно миссий, добавлены цвета.
-RU015 Zyfoker 12.08.22 Папка: flags. Добавил флаг Трубчевска
-RU013 Zyfoker 10.08.22 Папка: flags. Добавил флаг Овруча
+RU015 Zyfoker 12.08.22 Папка: flags. Добавление флагов Руси
+RU013 Zyfoker 10.08.22 Папка: flags. Добавление флагов Руси
 RU011 Assin 09.08.22 Папки interface. Добавлен интерфейс эпох, исправлены цвета религий.
 RU010 Aghjk 08.08.22 Папка: flags. Добавление флагов новых стран
 RU004 StarNigel 07.08.22 Папка: flags. Добавил флаги новых стран

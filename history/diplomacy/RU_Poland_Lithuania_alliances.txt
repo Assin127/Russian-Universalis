@@ -1,4 +1,7 @@
 #Poland diplomation
+
+## RU025 - Start
+
 union = {
 	first = POL
 	second = GLC
@@ -17,7 +20,13 @@ vassal = {
 	start_date = 1387.1.1
 	end_date = 1444.1.1
 }
+
+## RU025 - End
+
 #Lithuania diplomation
+
+## RU025 - Start
+
 alliance = {
 	first = LIT
 	second = PLT
@@ -58,6 +67,18 @@ vassal = {
 	first = LIT
 	second = PIN
 	start_date = 1320.1.1
+	end_date = 1335.1.1
+}
+union = {
+	first = LIT
+	second = PIN
+	start_date = 1335.1.1
+	end_date = 1340.1.1
+}
+union = {
+	first = LIT
+	second = TUO
+	start_date = 1335.1.1
 	end_date = 1340.1.1
 }
 vassal = {
@@ -88,7 +109,7 @@ union = {
 	first = LIT
 	second = CHR
 	start_date = 1375.1.1
-	end_date = 1393.1.1
+	end_date = 1386.1.1
 }
 vassal = {
 	first = LIT
@@ -100,7 +121,7 @@ union = {
 	first = LIT
 	second = MSL
 	start_date = 1359.1.1
-	end_date = 1392.1.1
+	end_date = 1386.1.1
 }
 union = {
 	first = LIT
@@ -156,3 +177,5 @@ vassal = {
 	start_date = 1395.1.1
 	end_date = 1401.1.1
 }
+
+## RU025 - End

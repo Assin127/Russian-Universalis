@@ -136,13 +136,13 @@ defined_text = {
 			tag = KHN
 		}
     }
-    text = { ## RU013
+    text = { ## RU017
         localisation_key = ADJ_OWR
         trigger = {
 			tag = OWR
 		}
     }
-    text = { ## RU015
+    text = { ## RU017
         localisation_key = ADJ_TRK
         trigger = {
 			tag = TRK

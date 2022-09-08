@@ -17,6 +17,7 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 
+## RU008 - Start
 1246.1.1 = {
 	owner = BRY
 	controller = BRY
@@ -25,17 +26,18 @@ discovered_by = nomad_group
 	base_tax = 2
 	base_production = 2
 }
-
 1356.1.1 = { add_core = SMO }
-
 1401.1.1 = {
 	owner = LIT
 	controller = LIT
 	add_core = LIT
 	add_local_autonomy = 35
 }
-
-1430.1.1 = { remove_core = BRY add_local_autonomy = -35 }
+1430.1.1 = {
+	remove_core = BRY 
+	add_local_autonomy = -35
+}
+## RU008 - End
 
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = LIT add_local_autonomy = -50 } # Treaty of the Annunciation
 1598.1.1 = { unrest = 5 } # "Time of troubles"

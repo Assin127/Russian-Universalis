@@ -139,13 +139,13 @@ defined_text = {
 			tag = KHN
 		}
     }
-    text = { ## RU013
+    text = { ## RU017
         localisation_key = TAG_RD_OWR
         trigger = {
 			tag = OWR
 		}
     }
-    text = { ## RU015
+    text = { ## RU017
         localisation_key = TAG_RD_TRK
         trigger = {
 			tag = TRK
@@ -1347,13 +1347,13 @@ defined_text = {
 			tag = KHN
 		}
     }
-    text = { ## RU013
+    text = { ## RU017
         localisation_key = TAG_VN_OWR
         trigger = {
 			tag = OWR
 		}
     }
-    text = { ## RU015
+    text = { ## RU017
         localisation_key = TAG_VN_TRK
         trigger = {
 			tag = TRK
@@ -2554,13 +2554,13 @@ defined_text = {
 			tag = KHN
 		}
     }
-    text = { ## RU013
+    text = { ## RU017
         localisation_key = TAG_TV_OWR
         trigger = {
 			tag = OWR
 		}
     }
-    text = { ## RU015
+    text = { ## RU017
         localisation_key = TAG_TV_TRK
         trigger = {
 			tag = TRK
@@ -3762,13 +3762,13 @@ defined_text = {
 			tag = KHN
 		}
     }
-    text = { ## RU013
+    text = { ## RU017
         localisation_key = TAG_PR_OWR
         trigger = {
 			tag = OWR
 		}
     }
-    text = { ## RU015
+    text = { ## RU017
         localisation_key = TAG_PR_TRK
         trigger = {
 			tag = TRK
@@ -4970,13 +4970,13 @@ defined_text = {
 			tag = KHN
 		}
     }
-    text = { ## RU013
+    text = { ## RU017
         localisation_key = TAG_DT_OWR
         trigger = {
 			tag = OWR
 		}
     }
-    text = { ## RU015
+    text = { ## RU017
         localisation_key = TAG_DT_TRK
         trigger = {
 			tag = TRK

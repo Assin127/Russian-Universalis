@@ -17,6 +17,7 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 
+## RU008 - Start
 1164.1.1 = { 
 	owner = TRK 
 	controller = TRK 
@@ -24,12 +25,8 @@ discovered_by = nomad_group
 	remove_core = CHR 
 } #Trubchevsk udel
 
-1240.1.1 = {
-	base_production = 1
-}
-
+1240.1.1 = { base_production = 1 }
 1356.1.1 = { add_core = SMO }
-
 1401.1.1 = {
 	owner = LIT
 	controller = LIT
@@ -39,6 +36,7 @@ discovered_by = nomad_group
 	add_local_autonomy = 35
 	base_production = 2
 }
+## RU008 - End
 
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = LIT add_local_autonomy = -35 } # Treaty of the Annunciation
 1598.1.1 = { unrest = 5 } # "Time of troubles"

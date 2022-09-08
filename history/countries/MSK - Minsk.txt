@@ -21,7 +21,6 @@ fixed_capital = 276 # Cannot move capital away from this province & no power cos
 	}
 	set_country_flag = random_rurikovich
 }
-
 1320.1.1 = {
 	monarch = {
 		name = "Vasiliy I"

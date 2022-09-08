@@ -32,7 +32,6 @@ fixed_capital = 771 # Cannot move capital away from this province & no power cos
 		regent = yes
 	}
 }
-
 1270.1.1 = {
 	monarch = {
 		name = "Mikhail I"
@@ -42,7 +41,6 @@ fixed_capital = 771 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 1280.1.1 = {
 	monarch = {
 		name = "Vasilko III"
@@ -61,7 +59,6 @@ fixed_capital = 771 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 1297.1.1 = {
 	monarch = {
 		name = "Yaroslav I"
@@ -71,7 +68,6 @@ fixed_capital = 771 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 #1320.1.1 - annex
 
 ## RU025 - End

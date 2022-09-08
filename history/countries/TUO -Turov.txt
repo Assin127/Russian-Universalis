@@ -1,8 +1,8 @@
 ### RU001 - Added
-# Turov
+
 government = monarchy
 add_government_reform = principality
-government_rank = 1
+government_rank = 2
 technology_group = eastern
 primary_culture = polesian
 religion = orthodox
@@ -19,6 +19,7 @@ fixed_capital = 1941 # Cannot move capital away from this province & no power co
 		mil = 3
 	}
 }
+1223.1.1 = { government_rank = 1 }
 
 #(1223.1.1-1340.1.1) - union ##RU025
 

@@ -11,7 +11,7 @@ fixed_capital = 278 # Cannot move capital away from this province & no power cos
 
 ## RU025 - Start
 
-1259.1.1 = {
+1223.1.1 = {
 	monarch = {
 		name = "Fyodor I"
 		dynasty = "Rurikovich"
@@ -19,8 +19,8 @@ fixed_capital = 278 # Cannot move capital away from this province & no power cos
 		dip = 1
 		mil = 2
 	}
+	government_rank = 2
 }
-
 1270.1.1 = {
 	monarch = {
 		name = "Yuriy I"
@@ -30,7 +30,6 @@ fixed_capital = 278 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 1292.1.1 = {
 	monarch = {
 		name = "Demid I"
@@ -40,7 +39,6 @@ fixed_capital = 278 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 1320.1.1 = {
 	monarch = {
 		name = "Narimantas I"
@@ -52,6 +50,8 @@ fixed_capital = 278 # Cannot move capital away from this province & no power cos
 		mil = 3
 	}
 }
+
+#(1335.1.1-1340.1.1) - union
 
 #1340.1.1 - annex
 

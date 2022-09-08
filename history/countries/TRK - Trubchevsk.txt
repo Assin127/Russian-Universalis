@@ -1,5 +1,5 @@
-### RU015 - Added
-# Trubchevsk
+### RU017 - Added
+
 government = monarchy
 add_government_reform = principality
 government_rank = 1
@@ -9,6 +9,6 @@ primary_culture = seversky
 capital = 4244
 fixed_capital = 4244 # Cannot move capital away from this province & no power cost to move to it
 
-#(1240.1.1-1356.1.1) - union
+#(1240.1.1-1356.1.1) - union ##RU025
 
-#1401.1.1 - annex
+#1401.1.1 - annex ##RU025

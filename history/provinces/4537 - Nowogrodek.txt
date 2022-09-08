@@ -19,8 +19,8 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
+## RU008 - Start
 #1227.1.1 = { owner = NWG controller = NWG add_core = NWG } #Novogrudek udel
-
 1253.1.1 = {
 	owner = LIT
 	controller = LIT
@@ -29,10 +29,9 @@ discovered_by = nomad_group
 	base_production = 3
 	base_manpower = 2
 }
-
 1340.1.1 = {remove_core = TUO}
-
 1392.1.1 = {fort_15th = yes}
+## RU008 - End
 
 1569.7.1 = {
 	owner = PLC

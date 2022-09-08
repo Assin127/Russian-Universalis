@@ -1,4 +1,5 @@
 ### RU017 - Added
+
 graphical_culture = easterngfx
 
 color = { 89  86  65 }

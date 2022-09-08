@@ -21,6 +21,7 @@ discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 
+## RU008 - Start
 1274.1.1 = {
 	owner = LIV
 	controller = LIV
@@ -30,6 +31,8 @@ discovered_by = eastern
 	religion = catholic
 	remove_core = PLT
 }
+## RU008 - End
+
 1561.1.1 = {
 	owner = LIT
 	controller = LIT

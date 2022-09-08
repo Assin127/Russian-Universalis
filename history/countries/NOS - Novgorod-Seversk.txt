@@ -1,5 +1,5 @@
 ### RU001 - Added
-# Chernigov
+
 government = monarchy
 add_government_reform = principality
 government_rank = 1
@@ -36,7 +36,6 @@ fixed_capital = 1945 # Cannot move capital away from this province & no power co
 	}
 	clr_country_flag = random_rurikovich
 }
-
 1392.1.1 = {
 	monarch = {
 		name = "Fyodor I"
@@ -48,7 +47,6 @@ fixed_capital = 1945 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-
 1393.1.1 = {
 	monarch = {
 		name = "Kaributas I"
@@ -60,7 +58,6 @@ fixed_capital = 1945 # Cannot move capital away from this province & no power co
 		mil = 2	
 	}
 }
-
 1394.1.1 = {
 	monarch = {
 		name = "Fyodor I"

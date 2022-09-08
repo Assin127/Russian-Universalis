@@ -1,7 +1,8 @@
 ### RU001 - Added
+
 government = monarchy
 add_government_reform = principality
-government_rank = 1
+government_rank = 2
 primary_culture = novgorodian
 add_accepted_culture = ingrian
 add_accepted_culture = karelian
@@ -52,7 +53,7 @@ fixed_capital = 310 # Cannot move capital away from this province & no power cos
 	}
 	add_ruler_personality = well_advised_personality
 	add_ruler_personality = inspiring_leader_personality
-} #Legendary ruler ## RU012
+} #Legendary ruler ## RU025
 
 1429.1.1 = {
 	monarch = {

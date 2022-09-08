@@ -7,9 +7,9 @@ vassal = {
 	end_date = 1125.1.1
 }
 
-##RU025 - Start
-
 #Golden Horde diplomation
+
+##RU025 - Start
 
 dependency = {
 	subject_type = "tributary_state"
@@ -56,13 +56,6 @@ dependency = {
 dependency = {
 	subject_type = "tributary_state"
 	first = GLH
-	second = BRY
-	start_date = 1263.1.1
-	end_date = 1297.1.1
-}
-dependency = {
-	subject_type = "tributary_state"
-	first = GLH
 	second = KRS
 	start_date = 1239.1.1
 	end_date = 1301.1.1
@@ -99,21 +92,21 @@ dependency = {
 	subject_type = "tributary_state"
 	first = GLH
 	second = PLT
-	start_date = 1240.1.1
-	end_date = 1380.1.1
+	start_date = 1246.1.1
+	end_date = 1307.1.1
 }
 dependency = {
 	subject_type = "tributary_state"
 	first = GLH
 	second = GLC
-	start_date = 1240.1.1
+	start_date = 1246.1.1
 	end_date = 1340.1.1
 }
 dependency = {
 	subject_type = "tributary_state"
 	first = GLH
 	second = VOL
-	start_date = 1240.1.1
+	start_date = 1246.1.1
 	end_date = 1292.1.1
 }
 dependency = {
@@ -136,6 +129,34 @@ dependency = {
 	second = KIE
 	start_date = 1263.1.1
 	end_date = 1324.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = BRY
+	start_date = 1263.1.1
+	end_date = 1297.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = CHR
+	start_date = 1297.1.1
+	end_date = 1340.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = NOS
+	start_date = 1297.1.1
+	end_date = 1362.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = VBK
+	start_date = 1307.1.1
+	end_date = 1320.1.1
 }
 
 ##RU025 - End

@@ -8,21 +8,18 @@ union = {
 	start_date = 1095.1.1
 	end_date = 1127.1.1
 }
-
 vassal = {
 	first = PRS
 	second = NOV
 	start_date = 1095.1.1
 	end_date = 1117.1.1
 }
-
 royal_marriage = {
 	first = PRS
 	second = NOV
 	start_date = 1095.1.1
 	end_date = 1117.1.1
 }
-
 alliance = {
 	first = PRS
 	second = KIE
@@ -37,6 +34,21 @@ union = {
 	second = TUO
 	start_date = 1054.2.20
 	end_date = 1199.1.1
+}
+
+## RU025 - Start
+
+vassal = {
+	first = KIE
+	second = OWR
+	start_date = 1095.1.1
+	end_date = 1324.1.1
+}
+union = { ## RU022
+	first = KIE
+	second = SYZ
+	start_date = 1151.1.1
+	end_date = 1155.1.1
 }
 vassal = {
 	first = KIE
@@ -55,21 +67,19 @@ union = {
 	second = RSK
 	start_date = 1301.1.1
 	end_date = 1362.1.1
-} ## RU017
+}
 union = {
 	first = KIE
 	second = KRS
 	start_date = 1301.1.1
 	end_date = 1362.1.1
-} ## RU017
-vassal = {
-	first = KIE
-	second = OWR
-	start_date = 1095.1.1
-	end_date = 1324.1.1
-} ## RU017
+}
+
+## RU025 - End
 
 #Halicz-Volyn diplomation
+
+## RU025 - Start
 
 union = {
 	first = GLC
@@ -88,6 +98,12 @@ union = {
 	second = VOL
 	start_date = 1292.1.1
 	end_date = 1340.1.1
+}
+union = {
+	first = GLC
+	second = BEL
+	start_date = 1292.1.1
+	end_date = 1315.1.1
 }
 vassal = {
 	first = GLC
@@ -150,7 +166,11 @@ union = {
 	end_date = 1326.1.1
 }
 
+## RU025 - End
+
 #Chernigov-Seversky diplomation
+
+## RU025 - Start
 
 union = {
 	first = CHR
@@ -195,8 +215,18 @@ union = {
 	end_date = 1263.1.1
 }
 
+## RU025 - End
+
 #Bryansk diplomation
 
+## RU025 - Start
+
+union = { ## RU022
+	first = CHR
+	second = MRM
+	start_date = 1088.1.1
+	end_date = 1127.1.1
+}
 union = {
 	first = BRY
 	second = CHR
@@ -232,15 +262,19 @@ alliance = {
 	second = RSK
 	start_date = 1246.1.1
 	end_date = 1301.1.1
-} ## RU017
+}
 union = {
 	first = BRY
 	second = TRK
 	start_date = 1263.1.1
 	end_date = 1401.1.1
-} ## RU015
+}
+
+## RU025 - End
 
 #Smolensk diplomation
+
+## RU025 - Start
 
 vassal = {
 	first = SMO
@@ -272,62 +306,12 @@ vassal = {
 	start_date = 1297.1.1
 	end_date = 1356.1.1
 }
-union = { ## RU022
-	first = RSO
-	second = SYZ
-	start_date = 1125.1.1
-	end_date = 1149.1.1
-}
-union = { ## RU022
-	first = KIE
-	second = SYZ
-	start_date = 1151.1.1
-	end_date = 1155.1.1
-}
-union = { ## RU022
-	first = NZH
-	second = SYZ
-	start_date = 1341.1.1
-	end_date = 1392.1.1
-}
-union = { ## RU022
-	first = MOS
-	second = MOZ
-	start_date = 1303.1.1
-	end_date = 1389.1.1
-}
-vassal = { ## RU022
-	first = MOS
-	second = MOZ
-	start_date = 1389.1.1
-	end_date = 1454.1.1
-}
-union = { ## RU022
-	first = MOS
-	second = MOZ
-	start_date = 1454.1.1
-	end_date = 1462.1.1
-}
-vassal = { ## RU022
-	first = MOS
-	second = MOZ
-	start_date = 1462.1.1
-	end_date = 1473.1.1
-}
-union = { ## RU022
-	first = MOS
-	second = MOZ
-	start_date = 1473.1.1
-	end_date = 1481.1.1
-}
-vassal = { ## RU022
-	first = MOS
-	second = MOZ
-	start_date = 1481.1.1
-	end_date = 1493.1.1
-}
+
+## RU025 - End
 
 #Polotsk diplomation
+
+## RU025 - Start
 
 vassal = {
 	first = PLT
@@ -366,7 +350,11 @@ union = {
 	end_date = 1300.1.1
 }
 
+## RU025 - End
+
 #Turov-Pinsk diplomation
+
+## RU025 - Start
 
 vassal = {
 	first = TUO
@@ -393,36 +381,54 @@ vassal = {
 	end_date = 1240.1.1
 }
 
+## RU025 - End
+
+#Rostov diplomation
+
+union = { ## RU022
+	first = RSO
+	second = SYZ
+	start_date = 1125.1.1
+	end_date = 1149.1.1
+}
+
 #Vladimir-Suzdal diplomation
 
 union = {
 	first = VLD
 	second = SYZ
-	start_date = 1259.1.1
-	end_date = 1260.1.1
+	start_date = 1259.1.1 #(нужно менять)
+	end_date = 1260.1.1 #(нужно менять)
 }
 vassal = {
 	first = VLD
 	second = MOS
-	start_date = 1259.1.1
-	end_date = 1260.1.1
+	start_date = 1259.1.1 #(нужно менять)
+	end_date = 1260.1.1 #(нужно менять)
 }
 vassal = {
 	first = SYZ
 	second = STD
-	start_date = 1259.1.1
-	end_date = 1260.1.1
+	start_date = 1259.1.1 #(нужно менять)
+	end_date = 1260.1.1 #(нужно менять)
 }
 vassal = {
 	first = SYZ
 	second = KOS
-	start_date = 1259.1.1
-	end_date = 1260.1.1
+	start_date = 1259.1.1 #(нужно менять)
+	end_date = 1260.1.1 #(нужно менять)
 }
 
+#Nizhniy Novgorod diplomation
 
+union = { ## RU022
+	first = NZH
+	second = SYZ
+	start_date = 1341.1.1
+	end_date = 1392.1.1
+}
 
-#Murom union
+#Ryazan diplomation
 
 union = { ## RU022
 	first = RYA
@@ -430,51 +436,6 @@ union = { ## RU022
 	start_date = 1127.1.1
 	end_date = 1160.1.1
 }
-union = { ## RU022
-	first = CHR
-	second = MRM
-	start_date = 1088.1.1
-	end_date = 1127.1.1
-}
-
-#Novgorod diplomation
-
-union = {
-	first = NOV
-	second = KIE
-	start_date = 1249.1.1
-	end_date = 1263.11.14
-} ## RU012
-alliance = {
-	first = NOV
-	second = KRL
-	start_date = 1095.1.1
-	end_date = 1227.1.1
-} ## RU023
-vassal = {
-	first = NOV
-	second = KRL
-	start_date = 1227.1.1
-	end_date = 1277.1.1
-} ## RU023
-alliance = {
-	first = NOV
-	second = PSK
-	start_date = 1259.1.1
-	end_date = 1260.1.1
-} ## RU023
-
-#Moscow diplomation
-
-vassal = { ## RU010
-	first = MOS
-	second = GLD
-	start_date = 1325.1.1
-	end_date = 1450.1.1
-}
-
-#Pronsk diplomation
-
 union = { ## RU027
 	first = RYA
 	second = PNK
@@ -488,11 +449,80 @@ vassal = { ## RU027
 	end_date = 1430.1.1
 }
 
-#Tarusa diplomation
+#Novgorod diplomation
 
+union = {
+	first = NOV
+	second = KIE
+	start_date = 1249.1.1
+	end_date = 1263.11.14
+} ## RU025
+alliance = {
+	first = NOV
+	second = KRL
+	start_date = 1095.1.1
+	end_date = 1227.1.1
+} ## RU025
+vassal = {
+	first = NOV
+	second = KRL
+	start_date = 1227.1.1
+	end_date = 1277.1.1
+} ## RU025
+alliance = {
+	first = NOV
+	second = PSK
+	start_date = 1259.1.1 #(нужно менять)
+	end_date = 1260.1.1 #(нужно менять)
+} ## RU025
+
+#Moscow diplomation
+
+vassal = { ## RU010
+	first = MOS
+	second = GLD
+	start_date = 1325.1.1
+	end_date = 1450.1.1
+}
+union = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1303.1.1
+	end_date = 1389.1.1
+}
 vassal = { ## RU027
 	first = MOS
 	second = TRR
 	start_date = 1350.1.1
 	end_date = 1430.1.1
+}
+vassal = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1389.1.1
+	end_date = 1454.1.1
+}
+union = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1454.1.1
+	end_date = 1462.1.1
+}
+vassal = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1462.1.1
+	end_date = 1473.1.1
+}
+union = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1473.1.1
+	end_date = 1481.1.1
+}
+vassal = { ## RU022
+	first = MOS
+	second = MOZ
+	start_date = 1481.1.1
+	end_date = 1493.1.1
 }

@@ -82,17 +82,14 @@ defined_text = {
 		}
     }
     text = {
-        localisation_key = old_russian_small
-        trigger = {
-			ruler_culture = old_russian
-		}
-    }
-    text = {
         localisation_key = baltic_prussian_small
         trigger = {
 			ruler_culture = baltic_prussian
         	}
     }
+
+## RU023 - Start
+
     text = {
         localisation_key = zalesky_small
         trigger = {
@@ -135,6 +132,11 @@ defined_text = {
 			ruler_culture = pomorian
 		}
     }
+
+## RU023 - End
+
+## RU024 - Start
+
     text = {
         localisation_key = chud_small
         trigger = {
@@ -159,6 +161,9 @@ defined_text = {
 			ruler_culture = bashkir_altaic
 		}
     }
+
+## RU024 - End
+
 }
 #Культура консорта с маленькой буквы
 defined_text = {
@@ -218,17 +223,14 @@ defined_text = {
 		}
     }
     text = {
-        localisation_key = old_russian_small
-        trigger = {
-			consort_culture = old_russian
-		}
-    }
-    text = {
         localisation_key = baltic_prussian_small
         trigger = {
 			consort_culture = baltic_prussian
 		}
     }
+
+## RU023 - Start
+
     text = {
         localisation_key = zalesky_small
         trigger = {
@@ -271,6 +273,11 @@ defined_text = {
 			consort_culture = pomorian
         	}
     }
+
+## RU023 - End
+
+## RU024 - Start
+
     text = {
         localisation_key = chud_small
         trigger = {
@@ -295,6 +302,9 @@ defined_text = {
 			consort_culture = bashkir_altaic
 		}
     }
+
+## RU024 - End
+
 }
 #Культура наследника с маленькой буквы
 defined_text = {
@@ -354,17 +364,14 @@ defined_text = {
 		}
     }
     text = {
-        localisation_key = old_russian_small
-        trigger = {
-			heir_culture = old_russian
-		}
-    }
-    text = {
         localisation_key = baltic_prussian_small
         trigger = {
 			heir_culture = baltic_prussian
         	}
     }
+
+## RU023 - Start
+
     text = {
         localisation_key = zalesky_small
         trigger = {
@@ -407,6 +414,11 @@ defined_text = {
 			heir_culture = pomorian
 		}
     }
+
+## RU023 - End
+
+## RU024 - Start
+
     text = {
         localisation_key = chud_small
         trigger = {
@@ -431,6 +443,9 @@ defined_text = {
 			heir_culture = bashkir_altaic
 		}
     }
+
+## RU024 - End
+
 }
 #Культура советника/учителя с маленькой буквы
 defined_text = {
@@ -508,14 +523,6 @@ defined_text = {
 		}
     }
     text = {
-        localisation_key = old_russian_small
-        trigger = {
-			employed_advisor = {
-				culture = old_russian
-			}
-		}
-    }
-    text = {
         localisation_key = baltic_prussian_small
         trigger = {
 			employed_advisor = {
@@ -523,6 +530,9 @@ defined_text = {
 			}
         	}
     }
+
+## RU023 - Start
+
     text = {
         localisation_key = zalesky_small
         trigger = {
@@ -579,6 +589,11 @@ defined_text = {
 			}
         	}
     }
+
+## RU023 - End
+
+## RU024 - Start
+
     text = {
         localisation_key = chud_small
         trigger = {
@@ -611,6 +626,9 @@ defined_text = {
 			}
 		}
     }
+
+## RU024 - End
+
 }
 #Государственная культура с маленькой буквы
 defined_text = {
@@ -670,17 +688,14 @@ defined_text = {
 		}
     }
     text = {
-        localisation_key = old_russian_small
-        trigger = {
-			primary_culture = old_russian
-		}
-    }
-    text = {
         localisation_key = baltic_prussian_small
         trigger = {
 			primary_culture = baltic_prussian
         	}
     }
+
+## RU023 - Start
+
     text = {
         localisation_key = zalesky_small
         trigger = {
@@ -723,6 +738,11 @@ defined_text = {
 			primary_culture = pomorian 
 		}
     }
+
+## RU023 - End
+
+## RU024 - Start
+
     text = {
         localisation_key = chud_small
         trigger = {
@@ -747,6 +767,9 @@ defined_text = {
 			primary_culture = bashkir_altaic
 		}
     }
+
+## RU024 - End
+
 }
 #Культура владельца с маленькой буквы
 defined_text = {
@@ -824,14 +847,6 @@ defined_text = {
 		}
     }
     text = {
-        localisation_key = old_russian_small
-        trigger = {
-			owner = {
-				primary_culture = old_russian
-			}
-		}
-    }
-    text = {
         localisation_key = baltic_prussian_small
         trigger = {
 			owner = {
@@ -839,6 +854,9 @@ defined_text = {
 			}
 		}
     }
+
+## RU023 - Start
+
     text = {
         localisation_key = zalesky_small
         trigger = {
@@ -895,6 +913,11 @@ defined_text = {
 			}
         	}
     }
+
+## RU023 - End
+
+## RU024 - Start
+
     text = {
         localisation_key = chud_small
         trigger = {
@@ -927,4 +950,7 @@ defined_text = {
 			}
 		}
     }
+
+## RU024 - End
+
 }
