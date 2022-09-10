@@ -170,9 +170,18 @@ GNI = "countries/Gniezno.txt"
 LEG = "countries/Legnica.txt"
 PMR = "countries/Pomerelia.txt"
 WRO = "countries/Wroclaw.txt"
-KUY = "countries/Kuyavia.txt"
-SAN = "countries/Sandomierz.txt"
-SIR = "countries/Sieradz.txt"
+KUY = "countries/Kuyavia.txt" ## RU029
+SAN = "countries/Sandomierz.txt" ## RU029
+SIR = "countries/Sieradz.txt" ## RU029
+GRP = "countries/Wielkopolskie.txt" ## RU029
+PZN = "countries/Poznan.txt" ## RU029
+KAH = "countries/Kalisz.txt" ## RU029
+LCH = "countries/Leczyca.txt" ## RU029
+WEL = "countries/Wielun.txt" ## RU029
+RAW = "countries/Rawa.txt" ## RU029
+DBR = "countries/Dobrzyn.txt" ## RU029
+INW = "countries/Inwroclaw.txt" ## RU029
+PLO = "countries/Plock.txt" ## RU029
 
 #Россия и Рутения
 PNK = "countries/Pronsk.txt" ## RU027 История есть

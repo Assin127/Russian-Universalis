@@ -130,6 +130,58 @@ defined_text = {
 			tag = SIR
 		}
     }
+    text = { ## RU029
+        localisation_key = ADJ_RAW
+        trigger = {
+			tag = RAW
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_DBR
+        trigger = {
+			tag = DBR
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_INW
+        trigger = {
+			tag = INW
+		}
+    }    text = { ## RU029
+        localisation_key = ADJ_PLO
+        trigger = {
+			tag = PLO
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_GRP
+        trigger = {
+			tag = GRP
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_PZN
+        trigger = {
+			tag = PZN
+		}
+    }    text = { ## RU029
+        localisation_key = ADJ_KAH
+        trigger = {
+			tag = KAH
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_LCH
+        trigger = {
+			tag = LCH
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_WEL
+        trigger = {
+			tag = WEL
+		}
+    }
     text = { ## RU010
         localisation_key = ADJ_KHN
         trigger = {
