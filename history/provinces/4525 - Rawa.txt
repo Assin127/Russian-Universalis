@@ -1,5 +1,5 @@
-# Rawa
-#RU022 - start
+#4525 - Rawa
+
 owner = POL
 controller = POL
 capital = "Rawa"
@@ -13,7 +13,6 @@ base_manpower = 1
 is_city = yes
 add_core = POL
 
-
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -24,14 +23,33 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+## RU030 - Start
 1138.1.1 = {
 	owner = MAZ
 	controller = MAZ
 	add_core = MAZ
-	remove_core = POL	
+	remove_core = POL
 }
+1313.1.1 = {
+	owner = RAW
+	controller = RAW
+	add_core = RAW
+}
+1370.1.1 = {
+	owner = MAZ
+	controller = MAZ
+	add_core = MAZ
+}
+1381.1.1 = {
+	owner = RAW
+	controller = RAW
+}
+1442.1.1 = {
+	owner = MAZ
+	controller = MAZ
+}
+## RU030 - end
 
-#RU022 - end
 1462.1.1 = { 
 	owner = POL 
 	controller = POL

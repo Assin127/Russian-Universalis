@@ -1,5 +1,5 @@
 #257 - Mazovia
-#RU022 - start
+
 owner = POL
 controller = POL
 capital = "Warszawa"
@@ -12,6 +12,7 @@ base_production = 5
 base_manpower = 2
 is_city = yes
 add_core = POL
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -21,17 +22,19 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
 extra_cost = 8
 center_of_trade = 1
 
+## RU030 - Start
 1138.1.1 = {
 	owner = MAZ
 	controller = MAZ
 	add_core = MAZ
 	remove_core = POL	
 }
+## RU030 - end
 
-#RU022 - end
 1526.3.9 = {
 	owner = POL
 	controller = POL

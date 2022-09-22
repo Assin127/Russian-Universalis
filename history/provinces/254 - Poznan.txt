@@ -1,5 +1,5 @@
 #254 - Poznan
-#RU022 - start
+
 owner = POL
 controller = POL
 capital = "Poznan"
@@ -13,6 +13,7 @@ base_manpower = 5
 is_city = yes
 add_core = POL
 fort_15th = yes
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -23,21 +24,29 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+## RU030 - Start
 1138.1.1 = {
-	owner = GNI
-	controller = GNI
-	add_core = GNI
+	owner = GRP
+	controller = GRP
+	add_core = GRP
 	remove_core = POL	
 }
-
+1177.1.1 = {
+	owner = PZN
+	controller = PZN
+	add_core = PZN
+}
+1279.1.1 = {
+	owner = GRP
+	controller = GRP
+}
 1320.1.20 = {
 	owner = POL
 	controller = POL
 	add_core = POL
-	remove_core = GNI
 }
+## RU030 - end
 
-#RU022 - end
 1530.1.1 = {
 	trade_goods = paper
 }
