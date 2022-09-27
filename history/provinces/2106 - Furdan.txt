@@ -47,11 +47,13 @@ center_of_trade = 1
 	owner = MNG
 	controller = MNG
 	add_core = MNG}
-
-1450.1.1 = {
+	
+1435.1.1 = {
 	owner = MJZ
 	controller = MJZ
-	add_core = MJZ
+	add_core = MJZ}
+	
+1450.1.1 = {
 	remove_core = MNG}
 
 1542.1.1 = { discovered_by = POR }
