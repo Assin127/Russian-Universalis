@@ -16,6 +16,40 @@ add_core = OIR
 discovered_by = chinese
 discovered_by = nomad_group
 
+1090.1.1 = {
+	owner = LIA
+	controller = LIA
+	add_core = LIA}
+
+1125.1.1 = {
+	owner = HNL
+	controller = HNL
+	add_core = HNL}
+	
+1206.1.1 = {
+	owner = MGE
+	controller = MGE
+	add_core = MGE}
+	
+1271.1.1 = {
+	owner = YUA
+	controller = YUA
+	add_core = YUA}
+	
+1368.1.1 = {
+	owner = KHA
+	controller = KHA
+	add_core = KHA}
+	
+1438.1.1 = {
+	owner = OIR
+	controller = OIR
+	add_core = OIR}
+	
+1510.1.1 = {
+	owner = KHA
+	controller = KHA
+	add_core = KHA}
 
 1570.1.1 = {
 	owner = KAS
