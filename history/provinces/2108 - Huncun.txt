@@ -45,8 +45,8 @@ fort_15th = yes
 	owner = MNG
 	controller = MNG
 	add_core = MNG}
-
-1450.1.1 = {
+	
+1435.1.1 = {
 	owner = MJZ
 	controller = MJZ
 	add_core = MJZ}

@@ -15,11 +15,31 @@ discovered_by = chinese
 discovered_by = nomad_group
 
 
-1510.1.1 = {
+1210.1.1 = {
+	owner = MGE
+	controller = MGE
+	add_core = MGE}
+	
+1271.1.1 = {
+	owner = YUA
+	controller = YUA
+	add_core = YUA}
+
+1368.1.1 = {
 	owner = KHA
 	controller = KHA
-	add_core = KHA
-} # The Oirads are defeated & Mongolia is reunited under Dayan Khan
+	add_core = KHA}
+	
+1438.1.1 = {
+	owner = OIR
+	controller = OIR
+	add_core = OIR}
+	
+1490.1.1 = {
+	owner = KHA
+	controller = KHA
+	add_core = KHA}
+
 1635.4.1 = {
 	owner = KLK
 	controller = KLK

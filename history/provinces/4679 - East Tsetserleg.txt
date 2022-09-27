@@ -13,12 +13,31 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+1204.1.1 = {
+	owner = MGE
+	controller = MGE
+	add_core = MGE}
+	
+1271.1.1 = {
+	owner = YUA
+	controller = YUA
+	add_core = YUA}
 
-1454.1.1 = {
+1368.1.1 = {
 	owner = KHA
 	controller = KHA
-	add_core = KHA
-} # Mark?rgis Khan of the Gold Family rises to power after Esen's death.
+	add_core = KHA}
+	
+1400.1.1 = {
+	owner = OIR
+	controller = OIR
+	add_core = OIR}
+	
+1510.1.1 = {
+	owner = KHA
+	controller = KHA
+	add_core = KHA}
+
 1633.1.1 = { discovered_by = RUS }
 1635.4.1 = {
 	owner = KLK

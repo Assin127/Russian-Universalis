@@ -47,6 +47,11 @@ add_province_triggered_modifier = changbai_mountain
 	controller = MNG
 	add_core = MNG}
 
+1435.1.1 = {
+	owner = MJZ
+	controller = MJZ
+	add_core = MJZ}
+
 1616.1.1 = {
 	owner = MCH
 	controller = MCH

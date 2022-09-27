@@ -46,6 +46,11 @@ center_of_trade = 2
 	owner = MNG
 	controller = MNG
 	add_core = MNG}
+	
+1435.1.1 = {
+	owner = MHX
+	controller = MHX
+	add_core = MHX}
 
 1613.2.1 = {
 	owner = MJZ

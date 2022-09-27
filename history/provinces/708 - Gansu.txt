@@ -18,6 +18,30 @@ fort_15th = yes #the Nine Garrisons
 discovered_by = chinese
 discovered_by = nomad_group
 
+1090.1.1 = {
+	owner = XIA
+	controller = XIA
+	add_core = XIA}
+
+1227.1.1 = {
+	owner = MGE
+	controller = MGE
+	add_core = MGE}
+
+1271.1.1 = {
+	owner = YUA
+	controller = YUA
+	add_core = YUA}
+
+1368.1.1 = {
+	owner = KHA
+	controller = KHA
+	add_core = KHA}
+
+1371.1.1 = {
+	owner = MNG
+	controller = MNG
+	add_core = MNG}
 
 1644.1.1 = {
 	owner = CSH
