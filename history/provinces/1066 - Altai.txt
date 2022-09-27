@@ -43,6 +43,12 @@ discovered_by = KHA
 	controller = YUA
 	add_core = YUA
 }
+
+1368.1.1 = {
+	owner = KHA
+	controller = KHA
+	add_core = KHA}
+
 1400.1.1 = {
 	owner = OIR
 	controller = OIR
