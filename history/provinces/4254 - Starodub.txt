@@ -5,10 +5,10 @@ controller = RSO
 culture = zalesky
 religion = orthodox
 hre = no
-base_tax = 3
-base_production = 2
+base_tax = 1
+base_production = 1
 trade_goods = grain 
-base_manpower = 2
+base_manpower = 1
 capital = "Starodub"
 is_city = yes
 add_core = RSO
@@ -19,15 +19,18 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
-#1125.1.1 = {owner = SUZ controller = SUZ add_core = SUZ remove_core = RSO}
+1125.1.1 = {owner = SYZ controller = SYZ add_core = SYZ}
 
-1157.1.1 = {
-	owner = VLD
-	controller = VLD
-	add_core = VLD  
-} #Удалить после создания Суздальского княжества
+1217.1.1 = {
+	owner = STD 
+	controller = STD
+	add_core = STD 
+	remove_core = SYZ
+	base_tax = 2
+	base_production = 2
+} #Starodub udel
 
-#1217.1.1 = {owner = STD controller = STD add_core = STD remove_core = CHR } #Starodub udel
+1239.1.1 = { base_production = 1 }
 
 1341.1.1 = {
 	owner = NZH
@@ -37,7 +40,8 @@ discovered_by = nomad_group
 1392.1.1 = {
 	owner = MOS
 	controller = MOS
-	add_core = MOS  
+	add_core = MOS 
+	base_tax = 3 
 }
 1450.1.1 = { discovered_by = SIB }
 

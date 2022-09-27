@@ -1,0 +1,13 @@
+### RU027 - Added
+
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+primary_culture = seversky
+religion = orthodox
+technology_group = eastern
+capital = 4255
+fixed_capital = 4255 # Cannot move capital away from this province & no power cost to move to it
+
+set_country_flag = random_rurikovich
+ 

@@ -1,0 +1,71 @@
+### RU022 - Added
+
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+primary_culture = ryazanian
+religion = orthodox
+technology_group = eastern
+capital = 4252	# Kolomna
+fixed_capital = 4252 # Cannot move capital away from this province & no power cost to move to it
+
+set_country_flag = random_rurikovich
+
+1179.1.1 = {
+	monarch = {
+		name = "Gleb"
+		dynasty = "Rurikovich"
+		birth_date = 1154.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1182.1.1 = {
+	queen = {
+		country_of_origin = YAR
+		name = "Anastasia"
+		dynasty = "Rurikovich"
+		birth_date = 1166.1.1
+		death_date = 1219.1.1
+		female = yes
+		adm = 3 
+		dip = 3
+		mil = 1
+	}
+}
+
+1170.1.1 = {
+	heir = {
+		name = "Mstislav"
+		dynasty = "Rurikovich"
+		birth_date = 1170.1.1
+		death_date = 1240.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1186.1.1 = {
+	monarch = {
+		name = "Vsevolod"
+		dynasty = "Rurikovich"
+		birth_date = 1170.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1217.1.1 = {
+	monarch = {
+		name = "Roman"
+		dynasty = "Rurikovich"
+		birth_date = 1160.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

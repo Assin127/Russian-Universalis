@@ -1,7 +1,7 @@
 #4151 - Most of Kemi Lappmark: Enare/Inari, Sodankylä, Kemikyla, Utsjoki, Kittila, Sombio
 
 culture = sapmi
-religion = norse_pagan_reformed
+religion = proto_uralic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -10,6 +10,7 @@ base_manpower = 1
 capital = "Sodankylä" #Uncertain if this existed at that point.
 discovered_by = eastern
 discovered_by = western
+
 native_size = 10
 native_ferocity = 1
 native_hostileness = 3

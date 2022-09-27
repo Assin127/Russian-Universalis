@@ -1,7 +1,7 @@
 #4262 - Totma
 
 culture = chud 
-religion = shamanism
+religion = proto_uralic
 hre = no
 base_tax = 1
 base_production = 1
@@ -20,7 +20,7 @@ native_ferocity = 1
 	owner = NOV
 	controller = NOV
 	add_core = NOV
-	trade_goods = salt
+	trade_goods = fur
 	is_city = yes
 	add_local_autonomy = 25 
 }

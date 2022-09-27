@@ -9,4 +9,65 @@ technology_group = eastern
 capital = 771	# Vitebsk
 fixed_capital = 771 # Cannot move capital away from this province & no power cost to move to it
 
-set_country_flag = random_rurikovich
+## RU025 - Start
+
+1209.1.1 = {
+	monarch = {
+		name = "Bryachislav I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+#(1232.1.1-1264.1.1) - union
+
+1264.1.1 = {
+	monarch = {
+		name = "Boyarsky Council"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+1270.1.1 = {
+	monarch = {
+		name = "Mikhail I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1280.1.1 = {
+	monarch = {
+		name = "Vasilko III"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	heir = {
+		name = "Yaroslav"
+		monarch_name = "Yaroslav I"
+		dynasty = "Rurikovich"
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1297.1.1 = {
+	monarch = {
+		name = "Yaroslav I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+#1320.1.1 - annex
+
+## RU025 - End

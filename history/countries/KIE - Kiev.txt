@@ -1,4 +1,5 @@
 ### RU001 - Added
+
 government = monarchy
 add_government_reform = principality
 government_rank = 2
@@ -7,6 +8,7 @@ religion = orthodox
 primary_culture = kievan
 capital = 280	# Kiev
 fixed_capital = 280 # Cannot move capital away from this province & no power cost to move to it
+
 1093.4.24 = {
 	monarch = {
 		name = "Sviatopolk II"
@@ -15,7 +17,7 @@ fixed_capital = 280 # Cannot move capital away from this province & no power cos
 		adm = 4
 		dip = 4
 		mil = 3
-		leader = {	name = "Sviatopolk Rurikovich"             	type = general	fire = 2	shock = 2	manuever = 0	siege = 2 }
+		leader = { name = "Sviatopolk Rurikovich" type = general fire = 2 shock = 2 manuever = 0 siege = 2 }
 	}
 	heir = {
 		name = "Yaroslav"
@@ -31,3 +33,49 @@ fixed_capital = 280 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_ruler_personality = scholar_personality
 }
+
+## RU025 - Start
+
+#(1246.1.1-1263.1.1) - union
+
+1263.1.1 = {
+	monarch = {
+		name = "Boyarsky Council"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+1301.1.1 = {
+	monarch = {
+		name = "Vladidmr I"
+		dynasty = "Rurikovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1310.1.1 = {
+	monarch = {
+		name = "Svyatoslav I"
+		dynasty = "Rurikovich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1324.1.1 = {
+	monarch = {
+		name = "Fyodor I"
+		dynasty = "Gediminids"
+		culture = lithuanian
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+#1362.1.1 - annex
+
+## RU025 - End

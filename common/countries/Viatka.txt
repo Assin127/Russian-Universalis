@@ -2,8 +2,7 @@
 
 graphical_culture = easterngfx
 
-color = { 197  126  94 }
-
+color = { 145  165  95 }
 revolutionary_colors = { 8  13  0 } #Colors of Novgorod
 
 historical_idea_groups = {

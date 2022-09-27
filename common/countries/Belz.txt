@@ -1,9 +1,8 @@
 ### RU017 - Added
-#Country Name: Please see filename.
 
 graphical_culture = easterngfx
 
-color = { 23 155 174 }
+color = { 39 139 234 }
 
 historical_idea_groups = {
 	economic_ideas

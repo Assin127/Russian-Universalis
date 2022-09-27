@@ -170,44 +170,65 @@ GNI = "countries/Gniezno.txt"
 LEG = "countries/Legnica.txt"
 PMR = "countries/Pomerelia.txt"
 WRO = "countries/Wroclaw.txt"
+KUY = "countries/Kuyavia.txt" ## RU029
+SAN = "countries/Sandomierz.txt" ## RU029
+SIR = "countries/Sieradz.txt" ## RU029
+GRP = "countries/Wielkopolskie.txt" ## RU029
+PZN = "countries/Poznan.txt" ## RU029
+KAH = "countries/Kalisz.txt" ## RU029
+LCH = "countries/Leczyca.txt" ## RU029
+WEL = "countries/Wielun.txt" ## RU029
+RAW = "countries/Rawa.txt" ## RU029
+DBR = "countries/Dobrzyn.txt" ## RU029
+INW = "countries/Inwroclaw.txt" ## RU029
+PLO = "countries/Plock.txt" ## RU029
 
 #Россия и Рутения
-BRY = "countries/Bryansk.txt" ## История есть
-BEL = "countries/Berestia.txt" ## RU017 История есть 
-BLZ = "countries/Belz.txt" ## RU017 История есть 
-BUS = "countries/Burtas.txt"
-CUM = "countries/Cumans.txt"
-GLC = "countries/Galich.txt" ## История есть
+PNK = "countries/Pronsk.txt" ## RU027 История есть
+TRR = "countries/Tarusa.txt" ## RU027 История есть
+KOS = "countries/Kostroma.txt" ## RU027 История есть
+STD = "countries/Starodub.txt" ## RU027 История есть
+BRY = "countries/Bryansk.txt" ## RU025 История есть
+BEL = "countries/Berestia.txt" ## RU025 История есть 
+BLZ = "countries/Belz.txt" ## RU025 История есть 
+BUS = "countries/Burtas.txt" ## Не существует на игровой карте
+CUM = "countries/Cumans.txt" ## Не существует на игровой карте
+GLC = "countries/Galich.txt" ## RU025 История есть
 GLD = "countries/Galich-Mersky.txt"  ## RU010
-KIR = "countries/KievanRus.txt"
-KRS = "countries/Kursk.txt" ## История есть
-NOS = "countries/Novgorod-Seversk.txt" ## История есть
-PMS = "countries/Peremyshl.txt" ## RU014 История есть
-PRS = "countries/Pereyaslav.txt" ## История есть
+KIR = "countries/KievanRus.txt" ## Не существует на игровой карте
+KRS = "countries/Kursk.txt" ## RU025 История есть
+NOS = "countries/Novgorod-Seversk.txt" ## RU025 История есть
+PMS = "countries/Peremyshl.txt" ## RU025 История есть
+PRS = "countries/Pereyaslav.txt" ## RU025 История есть
 PRZ = "countries/Pereyaslavl-Zalesskiy.txt" ## RU010
 RZE = "countries/Rzev.txt" ## RU010
-TMU = "countries/Tmutarakan.txt"
-TRB = "countries/Terebovlia.txt" ## RU014 История есть
+TMU = "countries/Tmutarakan.txt" ## Не существует на игровой карте
+TRB = "countries/Terebovlia.txt" ## Не существует на игровой карте
 TRG = "countries/Toropets.txt" ## RU010
-TUO = "countries/Turov.txt" ## История есть
-VBL = "countries/Volga_Bulgaria.txt"
+TUO = "countries/Turov.txt" ## RU025 История есть
+VBL = "countries/Volga_Bulgaria.txt" ## Не существует на игровой карте
 VLD = "countries/Vladimir.txt" ## RU010
 YEL = "countries/Yelets.txt" ## RU007
 KHN = "countries/Kashin.txt" ## RU010
 MOZ = "countries/Mozhaisk.txt" ## RU010
-OWR = "countries/Owrucz.txt" ## RU013 История есть
-TRK = "countries/Trubchevsk.txt" ## RU015 История есть
-LCK = "countries/Lutsk.txt" ## RU017 История есть
-RSK = "countries/Rylsk.txt" ## RU017 История есть
+MRM = "countries/Murom.txt" ## RU022 История есть
+SYZ = "countries/Suzdal.txt" ## RU022 История есть
+KLL = "countries/Kolomna.txt" ## RU022 История есть
+OWR = "countries/Owrucz.txt" ## RU025 История есть
+TRK = "countries/Trubchevsk.txt" ## RU025 История есть
+LCK = "countries/Lutsk.txt" ## RU025 История есть
+RSK = "countries/Rylsk.txt" ## RU025 История есть
 VYZ = "countries/Vyazma.txt" ## RU017 История есть
-VBK = "countries/Vitebsk.txt" ## RU017 История есть
-BOR = "countries/Borisov.txt" ## RU017 История есть
-MSK = "countries/Minsk.txt" ## RU017 История есть
-SLC = "countries/Sluck.txt" ## RU017 История есть
-PIN = "countries/Pinsk.txt" ## RU017 История есть
-MSL = "countries/Mstislav.txt" ## RU017 История есть
-VTL = "countries/Vetluga.txt" ## RU017 История есть
-VTK = "countries/Viatka.txt" ## RU017 История есть
+VBK = "countries/Vitebsk.txt" ## RU025 История есть
+BOR = "countries/Borisov.txt" ## RU025 История есть
+MSK = "countries/Minsk.txt" ## RU025 История есть
+SLC = "countries/Sluck.txt" ## RU025 История есть
+PIN = "countries/Pinsk.txt" ## RU025 История есть
+MSL = "countries/Mstislav.txt" ## RU025 История есть
+VTL = "countries/Vetluga.txt" ## RU025 История есть
+VTK = "countries/Viatka.txt" ## RU025 История есть
+KRV = "countries/Karachev.txt" ## RU025 История есть
+NVS = "countries/Novosil.txt" ## RU025 История есть
 
 #Скандинавия
 JAM = "countries/Jamtland.txt"
@@ -253,9 +274,9 @@ KYO = "countries/Goryeo.txt" ### RU019 История есть
 #HAB ## История есть
 #HUN ## История есть
 #SCO ## История есть
-#VOL ## История есть
-#KIE ## История есть
-#CHR ## История есть
-#SMO ## История есть
-#PLT ## История есть
+#VOL ## RU025 История есть
+#KIE ## RU025 История есть
+#CHR ## RU025 История есть
+#SMO ## RU022 История есть
+#PLT ## RU025 История есть
 ## RU0001 - End

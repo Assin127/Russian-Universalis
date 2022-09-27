@@ -1,5 +1,5 @@
 ### RU001 - Added
-# Chernigov
+
 government = monarchy
 add_government_reform = principality
 government_rank = 1
@@ -9,13 +9,69 @@ religion = orthodox
 capital = 1945 #Novgorod-Seversky
 fixed_capital = 1945 # Cannot move capital away from this province & no power cost to move to it
 
-1246.1.1 = {
+## RU025 - Start
+
+1235.1.1 = {
 	monarch = {
-		name = "Michael"
-		dynasty = "Rurikovich"
-		birth_date = 1230.1.1 
+		name = "Rurikovich"
+		adm = 0
+		dip = 0
+		mil = 0
+		regent = yes
+	}
+	set_country_flag = random_rurikovich
+}
+
+#(1362.1.1-1379.1.1) - union
+
+1379.1.1 = {
+	monarch = {
+		name = "Kaributas I"
+		dynasty = "Gediminids"
+		birth_date = 1358.1.1
+		culture = lithuanian
 		adm = 2
 		dip = 2
+		mil = 2	
+	}
+	clr_country_flag = random_rurikovich
+}
+1392.1.1 = {
+	monarch = {
+		name = "Fyodor I"
+		dynasty = "Gediminids"
+		birth_date = 1351.1.1
+		culture = lithuanian
+		adm = 1
+		dip = 1
 		mil = 2
-	} #Сын-наместник Романа Старого
-} ## RU012
+	}
+}
+1393.1.1 = {
+	monarch = {
+		name = "Kaributas I"
+		dynasty = "Gediminids"
+		birth_date = 1358.1.1
+		culture = lithuanian
+		adm = 2
+		dip = 2
+		mil = 2	
+	}
+}
+1394.1.1 = {
+	monarch = {
+		name = "Fyodor I"
+		dynasty = "Gediminids"
+		birth_date = 1351.1.1
+		culture = lithuanian
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+#(1398.1.1-1401.1.1) - union
+
+#1401.1.1 - annex
+
+## RU025 - End

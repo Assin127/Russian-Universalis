@@ -5,10 +5,10 @@ controller = NOV
 culture = novgorodian
 religion = orthodox
 hre = no
-base_tax = 5
-base_production = 5
+base_tax = 3
+base_production = 3
 trade_goods = livestock
-base_manpower = 4
+base_manpower = 2
 capital = "Pskov"
 is_city = yes
 discovered_by = KAZ
@@ -22,12 +22,18 @@ extra_cost = 8
 center_of_trade = 1
 add_core = NOV
 
-1348.1.1 = {
+1259.1.1 = {
 	owner = PSK
 	controller = PSK
 	add_core = PSK
 	remove_core = NOV
+}
+
+1348.1.1 = {
 	fort_15th = yes
+	base_tax = 5
+	base_production = 5
+	base_manpower = 4
 } # Bolotovskiy dogovor
 
 1470.1.1 = { unrest = 5 } # Struggles between the boyars and smerds

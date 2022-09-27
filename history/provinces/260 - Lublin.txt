@@ -1,5 +1,5 @@
 #260 - Lublin
-#RU022 - start
+
 latent_trade_goods = {
 	coal
 }
@@ -16,6 +16,7 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 add_core = POL
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -25,9 +26,8 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-extra_cost = 16
-center_of_trade = 2
 
+## RU030 - Start
 1138.1.1 = {
 	owner = SAN
 	controller = SAN
@@ -40,7 +40,7 @@ center_of_trade = 2
 	add_core = POL
 	remove_core = SAN
 }
-#RU022 - end
+## RU030 - end
 
 1490.1.1 = { unrest = 6 } # Uprising led by Mukha
 1492.1.1 = { unrest = 0 } 

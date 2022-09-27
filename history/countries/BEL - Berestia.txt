@@ -1,4 +1,5 @@
 ### RU017 - Added
+
 government = monarchy
 add_government_reform = principality
 government_rank = 1
@@ -6,7 +7,7 @@ technology_group = eastern
 primary_culture = volynian
 add_accepted_culture = polesian
 religion = orthodox
-capital = 277 # Brest-Litovsk
+capital = 277 # Brest
 fixed_capital = 277 # Cannot move capital away from this province & no power cost to move to it
 
 #(1170.1.1-1350.1.1) - union ##RU025

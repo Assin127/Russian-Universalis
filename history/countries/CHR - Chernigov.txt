@@ -1,8 +1,8 @@
 ### RU001 - Added
-# Chernigov
+
 government = monarchy
 add_government_reform = principality
-government_rank = 1
+government_rank = 2
 technology_group = eastern
 religion = orthodox
 primary_culture = seversky
@@ -20,7 +20,6 @@ fixed_capital = 289 # Cannot move capital away from this province & no power cos
 		leader = {	name = "Oleg Rurikovich"             	type = general	fire = 2	shock = 3	manuever = 2	siege = 3 }
 	}
 }
-
 1094.1.1= {
 	heir = {
 		name = "Vsevolod"
@@ -36,3 +35,66 @@ fixed_capital = 289 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_ruler_personality = conqueror_personality
 }
+
+## RU025 - Start
+
+1246.1.1 = {
+	monarch = {
+		name = "Vsevolod I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+		
+	}
+	heir = {
+		name = "Andrei"
+		monarch_name = "Andrei I"
+		dynasty = "Rurikovich"
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1261.1.1 = {
+	monarch = {
+		name = "Andrei I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+#(1263.1.1-1297.1.1) - union
+
+1297.1.1 = {
+	monarch = {
+		name = "Rurikovich"
+		adm = 0
+		dip = 0
+		mil = 0
+		regent = yes
+	}
+	set_country_flag = random_rurikovich
+}
+1340.1.1 = { clr_country_flag = random_rurikovich }
+
+#(1340.1.1-1370.1.1) - union
+
+1370.1.1 = {
+	monarch = {
+		name = "Roman I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+#(1375.1.1-1486.1.1) - union
+
+#1386.1.1 - annex
+
+## RU025 - End

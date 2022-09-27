@@ -1,4 +1,5 @@
 ### RU001 - Added
+
 government = monarchy
 add_government_reform = principality
 government_rank = 1
@@ -10,7 +11,7 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 
 1095.1.2 = {
 	monarch = {
-		name = "Davyd"
+		name = "Davyd I"
 		dynasty = "Rurikovich"
 		birth_date = 1050.1.1
 		adm = 2
@@ -31,21 +32,242 @@ fixed_capital = 293 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_ruler_personality = drunkard_personality
 }
-1240.1.1 = {
+
+## RU022 - Start
+
+1127.1.1 = {
 	monarch = {
-		name = "Gleb"
+		name = "Rostislav I"
+		dynasty = "Rurikovich"
+		birth_date = 1108.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+1159.1.1 = {
+	monarch = {
+		name = "Roman I"
+		dynasty = "Rurikovich"
+		birth_date = 1132.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1171.1.1 = {
+	monarch = {
+		name = "Yaropolk I"
+		dynasty = "Rurikovich"
+		birth_date = 1151.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1172.1.1 = {
+	monarch = {
+		name = "Roman I"
+		dynasty = "Rurikovich"
+		birth_date = 1132.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1174.1.1 = {
+	monarch = {
+		name = "Yaropolk I"
+		dynasty = "Rurikovich"
+		birth_date = 1151.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1175.1.1 = {
+	monarch = {
+		name = "Mstislav I Hrabryj"
+		dynasty = "Rurikovich"
+		birth_date = 1148.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+1176.1.1 = {
+	monarch = {
+		name = "Roman I"
+		dynasty = "Rurikovich"
+		birth_date = 1132.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1180.1.1 = {
+	monarch = {
+		name = "David II"
+		dynasty = "Rurikovich"
+		birth_date = 1140.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1197.1.1 = {
+	monarch = {
+		name = "Mstislav II Staryj"
+		dynasty = "Rurikovich"
+		birth_date = 1156.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+1212.1.1 = {
+	monarch = {
+		name = "Vladimir I"
+		dynasty = "Rurikovich"
+		birth_date = 1187.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1219.1.1 = {
+	monarch = {
+		name = "Mstislav III"
+		dynasty = "Rurikovich"
+		birth_date = 1193.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1230.1.1 = {
+	monarch = {
+		name = "Rostislav II"
+		dynasty = "Rurikovich"
+		birth_date = 1189.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1232.1.1 = {
+	monarch = {
+		name = "Svyatoslav I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1238.1.1 = {
+	monarch = {
+		name = "Vsevolod I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+1249.1.1 = {
+	monarch = {
+		name = "Gleb I"
 		dynasty = "Rurikovich"
 		adm = 2
 		dip = 1
 		mil = 2
 	}
-} ## RU012
+}
+1278.1.1 = {
+	monarch = {
+		name = "Mikhail I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1279.1.1 = {
+	monarch = {
+		name = "Fyodor I Chyornyj"
+		dynasty = "Rurikovich"
+		birth_date = 1233.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	government_rank = 2 ## RU025
+}
+1297.1.1 = {
+	monarch = {
+		name = "Alexander I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+1313.1.1 = {
+	monarch = {
+		name = "Ivan I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1359.1.1 = {
+	monarch = {
+		name = "Svyatoslav II"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
 1386.1.1 = {
 	monarch = {
 		name = "Yury I"
-		dynasty = "Rostaslavichi"
+		dynasty = "Rurikovich"
 		adm = 0
 		dip = 0
 		mil = 3
 	}
 }
+1392.1.1 = {
+	monarch = {
+		name = "Gleb II"
+		dynasty = "Rurikovich"
+		birth_date = 1355.1.1
+		adm = 0
+		dip = 0
+		mil = 3
+	} ## RU025
+}
+1395.1.1 = {
+	monarch = {
+		name = "Lithuanian administration"
+		culture = lithuanian
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	} ## RU025
+}
+1401.1.1 = {
+	monarch = {
+		name = "Yury I"
+		dynasty = "Rurikovich"
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}
+
+#1404.1.1 - annex
+
+## RU022 - End

@@ -9,4 +9,50 @@ primary_culture = seversky
 capital = 4543 #Rylsk
 fixed_capital = 4543 # Cannot move capital away from this province & no power cost to move to it
 
-set_country_flag = random_rurikovich ## RU017
+## RU025 - Start
+
+1246.1.1 = {
+	monarch = {
+		name = "Oleg I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1285.1.1 = {
+	monarch = {
+		name = "Rurikovich"
+		adm = 0
+		dip = 0
+		mil = 0
+		regent = yes
+	}
+	set_country_flag = random_rurikovich
+}
+1301.1.1 = { clr_country_flag = random_rurikovich }
+
+#(1301.1.1-1362.1.1) - union
+
+1362.1.1 = {
+	monarch = {
+		name = "Fyodor I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1399.1.1 = {
+	monarch = {
+		name = "Boyarsky Council"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+#1401.1.1 - annex
+
+## RU025 - End

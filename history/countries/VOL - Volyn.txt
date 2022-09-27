@@ -1,12 +1,14 @@
 ### RU001 - Added
+
 government = monarchy
 add_government_reform = principality
-government_rank = 1
+government_rank = 2
 technology_group = eastern
 primary_culture = volynian
 religion = orthodox
 capital = 279 # Volhynia
 fixed_capital = 279 # Cannot move capital away from this province & no power cost to move to it
+
 1086.12.5 = {
 	monarch = {
 		name = "Davyd"
@@ -43,7 +45,6 @@ fixed_capital = 279 # Cannot move capital away from this province & no power cos
 		mil = 3
 	}
 }
-
 1269.1.1 = {
 	monarch = {
 		name = "Vladimir I"
@@ -64,7 +65,6 @@ fixed_capital = 279 # Cannot move capital away from this province & no power cos
 		mil = 3
 	}
 }
-
 1288.1.1 = {
 	monarch = {
 		name = "Mstislav I"
@@ -88,7 +88,6 @@ fixed_capital = 279 # Cannot move capital away from this province & no power cos
 		mil = 4
 	}
 }
-
 1366.1.1 = {
 	monarch = {
 		name = "Alexander I"
@@ -100,7 +99,6 @@ fixed_capital = 279 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 1370.1.1 = {
 	monarch = {
 		name = "Lubart I"
@@ -123,7 +121,6 @@ fixed_capital = 279 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 1383.1.1 = {
 	monarch = {
 		name = "Fyodor I"
@@ -135,7 +132,6 @@ fixed_capital = 279 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
 1387.1.1 = { religion = catholic }
 
 #1390.1.1 - annex

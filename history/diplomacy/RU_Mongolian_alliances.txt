@@ -7,6 +7,160 @@ vassal = {
 	end_date = 1125.1.1
 }
 
+#Golden Horde diplomation
+
+##RU025 - Start
+
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = PRM
+	start_date = 1236.1.1
+	end_date = 1380.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = RYA
+	start_date = 1237.1.1
+	end_date = 1380.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = VLD
+	start_date = 1238.1.1
+	end_date = 1380.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = VTK
+	start_date = 1238.1.1
+	end_date = 1380.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = VTL
+	start_date = 1238.1.1
+	end_date = 1380.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = CHR
+	start_date = 1239.1.1
+	end_date = 1263.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = KRS
+	start_date = 1239.1.1
+	end_date = 1301.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = RSK
+	start_date = 1239.1.1
+	end_date = 1301.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = KRV
+	start_date = 1239.1.1
+	end_date = 1380.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = NVS
+	start_date = 1239.1.1
+	end_date = 1380.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = SMO
+	start_date = 1240.1.1
+	end_date = 1380.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = PLT
+	start_date = 1246.1.1
+	end_date = 1307.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = GLC
+	start_date = 1246.1.1
+	end_date = 1340.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = VOL
+	start_date = 1246.1.1
+	end_date = 1292.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = PIN
+	start_date = 1246.1.1
+	end_date = 1320.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = NOV
+	start_date = 1249.1.1
+	end_date = 1340.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = KIE
+	start_date = 1263.1.1
+	end_date = 1324.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = BRY
+	start_date = 1263.1.1
+	end_date = 1297.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = CHR
+	start_date = 1297.1.1
+	end_date = 1340.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = NOS
+	start_date = 1297.1.1
+	end_date = 1362.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = GLH
+	second = VBK
+	start_date = 1307.1.1
+	end_date = 1320.1.1
+}
+
+##RU025 - End
+
 #Ћ€о захватывает цзубу (Ќайманов и  ереитов)
 vassal = {
 	first = LIA

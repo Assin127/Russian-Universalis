@@ -1,5 +1,5 @@
 #4526 - Gniezno
-#RU022 - start
+
 owner = POL
 controller = POL
 culture = polish
@@ -13,7 +13,6 @@ base_manpower = 1
 is_city = yes
 add_core = POL
 
-
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -24,19 +23,28 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+## RU030 - Start
 1138.1.1 = {
+	owner = GRP
+	controller = GRP
+	add_core = GRP
+	remove_core = POL	
+}
+1177.1.1 = {
 	owner = GNI
 	controller = GNI
 	add_core = GNI
-	remove_core = POL	
+}
+1279.1.1 = {
+	owner = GRP
+	controller = GRP
 }
 1320.1.20 = {
 	owner = POL
 	controller = POL
 	add_core = POL
-	remove_core = GNI
 }
-#RU022 - end
+## RU030 - end
 
 1569.7.1 = {
 	add_core = LIT	# Union of Lublin, west to Poland & south to Lithuania

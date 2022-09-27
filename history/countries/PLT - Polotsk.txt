@@ -1,7 +1,8 @@
 ### RU001 - Added
+
 government = monarchy
 add_government_reform = principality
-government_rank = 1
+government_rank = 2
 primary_culture = krivian
 religion = orthodox
 technology_group = eastern
@@ -37,23 +38,147 @@ fixed_capital = 275 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_heir_personality = intricate_web_weaver_personality
 }
+
+## RU025 - Start
+
 1232.1.1 = {
 	monarch = {
-		name = "Bryachislav"
+		name = "Bryachislav I"
 		dynasty = "Rurikovich"
-		adm = 1
-		dip = 2
+		adm = 2
+		dip = 3
 		mil = 2
-	} ## RU012
+	}
 }
 1252.1.1 = {
 	monarch = {
-		name = "Tovtivil"
-		dynasty = "Gediminai"
+		name = "Boyarsky Council"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+1254.1.1 = {
+	monarch = {
+		name = "Tautvilas I"
+		dynasty = "Palemonids"
 		culture = lithuanian
 		religion = catholic
 		adm = 2
 		dip = 3
 		mil = 3
-	} ## RU017
+	}
 }
+1263.1.1 = {
+	monarch = {
+		name = "Gerdenis I"
+		dynasty = "Palemonids"
+		culture = lithuanian
+		religion = romuva
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1267.1.1 = {
+	monarch = {
+		name = "Konstantin I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1307.1.1 = {
+	monarch = {
+		name = "Voin I"
+		dynasty = "Gediminids"
+		culture = lithuanian
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	heir = {
+		name = "Lubko"
+		monarch_name = "Lubko I"
+		dynasty = "Gediminids"
+		death_date = 1342.5.1
+		culture = lithuanian
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1333.1.1 = {
+	monarch = {
+		name = "Lubko I"
+		dynasty = "Gediminids"
+		culture = lithuanian
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1335.1.1 = {
+	monarch = {
+		name = "Narimantas I"
+		dynasty = "Gediminids"
+		birth_date = 1292.1.1
+		culture = lithuanian
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1345.1.1 = {
+	monarch = {
+		name = "Andrei I"
+		dynasty = "Gediminids"
+		culture = lithuanian
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1377.1.1 = {
+	monarch = {
+		name = "Skirgaila I"
+		dynasty = "Gediminids"
+		culture = lithuanian
+		religion = romuva
+		birth_date = 1354.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	religion = romuva
+}
+1381.1.1 = {
+	monarch = {
+		name = "Andrei I"
+		dynasty = "Gediminids"
+		culture = lithuanian
+		religion = orthodox
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	religion = orthodox
+}
+1386.1.1 = {
+	monarch = {
+		name = "Skirgaila I"
+		dynasty = "Gediminids"
+		culture = lithuanian
+		birth_date = 1354.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+#1392.1.1 - annex
+
+## RU025 - End

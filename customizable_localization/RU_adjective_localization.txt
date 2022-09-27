@@ -70,19 +70,131 @@ defined_text = {
 			tag = VLD
 		}
     }
+    text = { ## RU022
+        localisation_key = ADJ_MRM
+        trigger = {
+			tag = MRM
+		}
+    }
+    text = { ## RU027
+        localisation_key = ADJ_KOS
+        trigger = {
+			tag = KOS
+		}
+    }
+    text = { ## RU027
+        localisation_key = ADJ_TRR
+        trigger = {
+			tag = TRR
+		}
+    }
+    text = { ## RU027
+        localisation_key = ADJ_PNK
+        trigger = {
+			tag = PNK
+		}
+    }
+    text = { ## RU022
+        localisation_key = ADJ_KLL
+        trigger = {
+			tag = KLL
+		}
+    }
+    text = { ## RU022
+        localisation_key = ADJ_STD
+        trigger = {
+			tag = STD
+		}
+    }
+    text = { ## RU022
+        localisation_key = ADJ_SYZ
+        trigger = {
+			tag = SYZ
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_KUY
+        trigger = {
+			tag = KUY
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_SAN
+        trigger = {
+			tag = SAN
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_SIR
+        trigger = {
+			tag = SIR
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_RAW
+        trigger = {
+			tag = RAW
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_DBR
+        trigger = {
+			tag = DBR
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_INW
+        trigger = {
+			tag = INW
+		}
+    }    text = { ## RU029
+        localisation_key = ADJ_PLO
+        trigger = {
+			tag = PLO
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_GRP
+        trigger = {
+			tag = GRP
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_PZN
+        trigger = {
+			tag = PZN
+		}
+    }    text = { ## RU029
+        localisation_key = ADJ_KAH
+        trigger = {
+			tag = KAH
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_LCH
+        trigger = {
+			tag = LCH
+		}
+    }
+    text = { ## RU029
+        localisation_key = ADJ_WEL
+        trigger = {
+			tag = WEL
+		}
+    }
     text = { ## RU010
         localisation_key = ADJ_KHN
         trigger = {
 			tag = KHN
 		}
     }
-    text = { ## RU013
+    text = { ## RU017
         localisation_key = ADJ_OWR
         trigger = {
 			tag = OWR
 		}
     }
-    text = { ## RU015
+    text = { ## RU017
         localisation_key = ADJ_TRK
         trigger = {
 			tag = TRK
@@ -186,6 +298,20 @@ defined_text = {
         localisation_key = ADJ_VTK
         trigger = {
 			tag = VTK
+		}
+
+    }
+    text = { ## RU017
+        localisation_key = ADJ_KRV
+        trigger = {
+			tag = KRV
+		}
+
+    }
+    text = { ## RU017
+        localisation_key = ADJ_NVS
+        trigger = {
+			tag = NVS
 		}
 
     }

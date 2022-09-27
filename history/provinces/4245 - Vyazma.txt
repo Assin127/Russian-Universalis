@@ -12,10 +12,12 @@ base_manpower = 1
 capital = "Vyazma"
 is_city = yes
 add_core = SMO
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 
+## RU008 - Start
 1239.1.1 = {
 	owner = VYZ 
 	controller = VYZ 
@@ -28,13 +30,14 @@ discovered_by = nomad_group
 	controller = SMO 
 	add_core = SMO 
 }
-
 1404.1.1 = { 
 	owner = LIT 
 	controller = LIT 
 	add_core = LIT 
 	add_local_autonomy = 35
 } # Vytautas strikes back once more
+
+## RU008 - End
 
 1453.1.1 = { add_core = MOS }
 1503.3.22 = { remove_core = MOS add_core = RUS }

@@ -1,4 +1,5 @@
-### RU013 - Added
+### RU017 - Added
+
 government = monarchy
 add_government_reform = principality
 government_rank = 1
@@ -8,4 +9,18 @@ primary_culture = kievan
 capital = 4247	# Owrucz
 fixed_capital = 4247 # Cannot move capital away from this province & no power cost to move to it
 
-	set_country_flag = random_rurikovich
+## RU025 - Start
+
+1246.1.1 = {
+	monarch = {
+		name = "Golden Horde administration"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+#1324.1.1 - annex
+
+## RU025 - End

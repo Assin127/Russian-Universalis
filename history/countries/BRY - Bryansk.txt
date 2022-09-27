@@ -1,5 +1,5 @@
 ### RU001 - Added
-# Bryansk
+
 government = monarchy
 add_government_reform = principality
 government_rank = 1
@@ -9,13 +9,140 @@ religion = orthodox
 capital = 297 # Bryansk
 fixed_capital = 297 # Cannot move capital away from this province & no power cost to move to it
 
+## RU025 - Start
+
 1246.1.1 = {
 	monarch = {
-		name = "Roman"
+		name = "Roman I"
 		dynasty = "Rurikovich"
 		birth_date = 1210.1.1
-		adm = 2
+		adm = 3
 		dip = 3
 		mil = 3
 	}
-} ## RU012
+	heir = {
+		name = "Oleg"
+		monarch_name = "Oleg I"
+		dynasty = "Rurikovich"
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1288.1.1 = {
+	monarch = {
+		name = "Oleg I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1297.1.1 = {
+	monarch = {
+		name = "Vasiliy I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1309.1.1 = {
+	monarch = {
+		name = "Svyatoslav I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1310.1.1 = {
+	monarch = {
+		name = "Vasiliy I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1314.1.1 = {
+	monarch = {
+		name = "Dmitriy I"
+		dynasty = "Rurikovich"
+		birth_date = 1290.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1333.1.1 = {
+	monarch = {
+		name = "Gleb I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+1340.1.1 = {
+	monarch = {
+		name = "Dmitriy I"
+		dynasty = "Rurikovich"
+		birth_date = 1290.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1350.1.1 = {
+	monarch = {
+		name = "Vasiliy I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1356.1.1 = {
+	monarch = {
+		name = "Lithuanian administration"
+		culture = lithuanian
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+1359.1.1 = {
+	monarch = {
+		name = "Roman I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1370.1.1 = {
+	monarch = {
+		name = "Dmitriy II"
+		dynasty = "Gediminids"
+		culture = lithuanian
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+1380.1.1 = {
+	monarch = {
+		name = "Roman II"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+#1401.1.1 - annex
+
+## RU025 - End

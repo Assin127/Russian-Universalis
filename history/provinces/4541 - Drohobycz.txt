@@ -23,24 +23,24 @@ discovered_by = western
 discovered_by = ottoman
 discovered_by = muslim
 
+## RU008 - Start
 1141.1.1 = {
 	owner = GLC
 	controller = GLC
 	add_core = GLC
 	remove_core = VOL
 }
-
-1240.1.1 = {
-	base_manpower = 1
-}
+1240.1.1 = { base_manpower = 1 }
 
 1387.1.1 = {
 	owner = POL
 	controller = POL
 	add_core = POL
+	remove_core = GLC
 	base_tax = 2
 	base_production = 2
 }
+## RU008 - End
 
 1492.1.1 = { unrest = 0 } 
 

@@ -9,12 +9,94 @@ technology_group = eastern
 capital = 4245  #Vyazma
 fixed_capital = 4245 # Cannot move capital away from this province & no power cost to move to it
 
-1259.1.1 = {
+## RU025 - Start
+
+1239.1.1 = {
 	monarch = {
-		name = "Andrei"
+		name = "Andrei I"
 		dynasty = "Rurikovich"
 		adm = 1
-		dip = 0
+		dip = 1
 		mil = 2
 	}
-} ## RU017
+}
+1260.1.1 = {
+	monarch = {
+		name = "Vasiliy I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1280.1.1 = {
+	monarch = {
+		name = "Afanasiy I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1297.1.1 = {
+	monarch = {
+		name = "Andrei II"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1306.1.1 = {
+	monarch = {
+		name = "Rurikovich"
+		adm = 0
+		dip = 0
+		mil = 0
+		regent = yes
+	}
+	set_country_flag = random_rurikovich
+}
+1330.1.1 = {
+	monarch = {
+		name = "Fyodor I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+	clr_country_flag = random_rurikovich
+}
+1345.1.1 = {
+	monarch = {
+		name = "Rurikovich"
+		adm = 0
+		dip = 0
+		mil = 0
+		regent = yes
+	}
+	set_country_flag = random_rurikovich
+}
+1360.1.1 = {
+	monarch = {
+		name = "Ivan I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	clr_country_flag = random_rurikovich
+}
+1386.1.1 = {
+	monarch = {
+		name = "Alexander I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+#1395.1.1 - annex
+
+## RU025 - End

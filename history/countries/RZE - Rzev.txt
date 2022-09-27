@@ -8,3 +8,4 @@ technology_group = eastern
 capital = 1752	# RZEV
 fixed_capital = 1752 # Cannot move capital away from this province & no power cost to move to it
 
+set_country_flag = random_rurikovich ## RU027

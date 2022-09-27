@@ -1,5 +1,5 @@
 ### RU001 - Added
-# Kursk
+
 government = monarchy
 add_government_reform = principality
 government_rank = 1
@@ -9,4 +9,43 @@ religion = orthodox
 capital = 298 # Kursk
 fixed_capital = 298 # Cannot move capital away from this province & no power cost to move to it
 
-set_country_flag = random_rurikovich ## RU014
+## RU025 - Start
+
+1251.1.1 = {
+	monarch = {
+		name = "Vasiliy I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1278.1.1 = {
+	monarch = {
+		name = "Rurikovich"
+		adm = 0
+		dip = 0
+		mil = 0
+		regent = yes
+	}
+	set_country_flag = random_rurikovich
+}
+1301.1.1 = { clr_country_flag = random_rurikovich }
+
+#(1301.1.1-1362.1.1) - union
+
+1362.1.1 = {
+	monarch = {
+		name = "Rurikovich"
+		adm = 0
+		dip = 0
+		mil = 0
+		regent = yes
+	}
+	set_country_flag = random_rurikovich
+}
+1401.1.1 = { clr_country_flag = random_rurikovich }
+
+#1401.1.1 - annex
+
+## RU025 - End

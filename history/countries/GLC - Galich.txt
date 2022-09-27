@@ -1,5 +1,5 @@
 ### RU001 - Added
-# Galich
+
 government = monarchy
 add_government_reform = principality
 government_rank = 2

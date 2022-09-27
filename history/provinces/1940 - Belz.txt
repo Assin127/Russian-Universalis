@@ -1,4 +1,4 @@
-#Belz
+#1940 - Belz
 
 owner = VOL
 controller = VOL
@@ -23,13 +23,13 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+## RU008 - Start
 1141.1.1 = {
 	owner = GLC
 	controller = GLC
 	add_core = GLC
 	remove_core = VOL
 }
-
 1170.1.1 = { 
 	owner = BLZ
 	controller = BLZ
@@ -42,7 +42,6 @@ discovered_by = ottoman
 	base_production = 1
 	base_manpower = 1
 }
-
 1341.1.1 = {
 	owner = VOL
 	controller = VOL
@@ -52,36 +51,32 @@ discovered_by = ottoman
 	base_production = 3
 	base_manpower = 2
 }
-
 1366.1.1 = {
 	owner = POL
 	controller = POL
 	add_core = POL
 }
-
 1377.1.1 = {
 	owner = GLC
 	controller = GLC
 }
-
 1387.1.1 = {
 	owner = POL
 	controller = POL
 	add_core = POL
 	add_local_autonomy = 35
 }
-
 1388.1.1 = {
 	owner = MAZ
 	controller = MAZ
 	add_core = MAZ
 	remove_core = POL
 }
-
 1392.1.1 = {
 	remove_core = VOL
 	remove_core = GLC
 }
+## RU008 - End
 
 1462.7.1 = {
 	owner = POL 

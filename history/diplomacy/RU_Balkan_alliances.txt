@@ -24,7 +24,10 @@ march = {
 	end_date = 1245.1.1
 }
 
-# Hungary vassal
+# Hungary diplomation
+
+## RU025 - Start
+
 vassal = {
 	first = HUN
 	second = MOL
@@ -37,3 +40,5 @@ vassal = {
 	start_date = 1377.1.1
 	end_date = 1387.1.1
 }
+
+## RU025 - End

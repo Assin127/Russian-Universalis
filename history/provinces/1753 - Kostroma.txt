@@ -1,15 +1,15 @@
 #1753 - Kostroma
 
-owner = VLD
-controller = VLD  
-add_core = VLD
+owner = RSO
+controller = RSO  
+add_core = RSO
 culture = zalesky 
 religion = orthodox
 hre = no
-base_tax = 3
-base_production = 3
+base_tax = 1
+base_production = 1
 trade_goods = cloth
-base_manpower = 3
+base_manpower = 2
 capital = "Kostroma"
 is_city = yes
 
@@ -17,20 +17,25 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
-1216.1.1 = {
-	owner = RSO
-	controller = RSO
-	add_core = RSO
-}
 1238.1.1 = {
 	owner = VLD
 	controller = VLD
 	add_core = VLD
+	base_tax = 2
+	base_production = 1
 }
-1364.1.1 = {
+1246.1.1 = {
+	owner = KOS
+	controller = KOS
+	add_core = KOS
+}
+1320.1.1 = {
 	owner = MOS
 	controller = MOS
 	add_core = MOS
+	base_tax = 3
+	base_production = 3
+	base_manpower = 3
 }
 
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }

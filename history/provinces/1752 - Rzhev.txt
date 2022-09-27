@@ -5,10 +5,10 @@ controller = SMO
 culture = zalesky
 religion = orthodox
 hre = no
-base_tax = 5 
-base_production = 5
+base_tax = 3 
+base_production = 3
 trade_goods = grain 
-base_manpower = 3
+base_manpower = 2
 capital = "Rzhev"
 is_city = yes
 add_core = SMO
@@ -19,6 +19,15 @@ discovered_by = nomad_group
 
 1168.1.1 = {owner = TRG controller = TRG add_core = TRG remove_core = SMO}
 1226.1.1 = {owner = RZE controller = RZE add_core = RZE remove_core = TRG}
+1238.1.1 = {
+	base_tax = 2 
+	base_production = 2
+}
+1355.1.1 = {
+	base_tax = 4
+	base_production = 4
+	base_manpower = 3
+}
 1410.1.1 = {owner = MOS controller = MOS add_core = MOS add_core = TVE} 
 
 1446.1.1 = { owner = TVE controller = TVE } # Vasily II gives Rzhev to Boris of Tver

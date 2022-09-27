@@ -9,4 +9,50 @@ religion = orthodox
 capital = 278 #Pinsk
 fixed_capital = 278 # Cannot move capital away from this province & no power cost to move to it
 
-set_country_flag = random_rurikovich
+## RU025 - Start
+
+1223.1.1 = {
+	monarch = {
+		name = "Fyodor I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+	government_rank = 2
+}
+1270.1.1 = {
+	monarch = {
+		name = "Yuriy I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1292.1.1 = {
+	monarch = {
+		name = "Demid I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1320.1.1 = {
+	monarch = {
+		name = "Narimantas I"
+		dynasty = "Gediminids"
+		birth_date = 1292.1.1
+		culture = lithuanian
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+#(1335.1.1-1340.1.1) - union
+
+#1340.1.1 - annex
+
+## RU025 - End

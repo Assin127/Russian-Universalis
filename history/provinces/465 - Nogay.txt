@@ -1,9 +1,9 @@
 #465 - Nogay
 
-owner = NOG
-controller = NOG
-culture = nogaybak
-religion = sunni
+owner = CUM 
+controller = CUM 
+culture = cuman
+religion = tengri_pagan_reformed
 capital = "Saraychik"
 trade_goods = salt
 hre = no
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = NOG
+add_core = CUM
 
 
 
@@ -20,7 +20,27 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = nomad_group
 
+1221.1.1 = {
+	owner = GLH
+	controller = GLH
+	add_core = GLH
+	remove_core = CUM
+}
 
+1320.1.1 = { culture = nogaybak religion = sunni }
+
+1438.1.1 = {
+	owner = GOL
+	controller = GOL
+	add_core = GOL
+	remove_core = GLH
+}
+1440.1.1 = {
+	owner = NOG
+	controller = NOG
+	add_core = NOG
+	remove_core = GOL
+}
 1520.1.1 = {	owner = KZH controller = KZH add_core = KZH remove_core = NOG culture = khazak } # Qasim Khan crushes the Nogais
 1645.1.1 = {
 	owner = RUS

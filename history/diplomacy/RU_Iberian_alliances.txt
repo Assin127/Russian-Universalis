@@ -28,6 +28,20 @@ union = {
 	start_date = 1077.7.9
 	end_date = 1157.8.21
 }
+# Фердинанд II - Альфонсо IX
+union = {
+	first = LON
+	second = GAL
+	start_date = 1157.8.21
+	end_date = 1230.9.24
+}
+# Фердинанд III
+union = {
+	first = CAS
+	second = LON
+	start_date = 1230.9.24
+	end_date = 1252.5.30
+}
 
 # Сид Кампеадор
 vassal = {

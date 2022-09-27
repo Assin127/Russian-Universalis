@@ -19,26 +19,28 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
-1184.30.7 = {
+## RU008 - Start
+1184.7.30 = {
 	owner = GLC
 	controller = GLC
 	add_core = GLC
+	remove_core = CUM
 }
-
 1242.1.1 = {
 	owner = GLH
 	controller = GLH
 	add_core = GLH
-	culture = crimean
 }
-
+1320.1.1 = {
+	culture = romanian
+	religion = orthodox
+}
 1346.1.1 = {
 	owner = MOL
 	controller = MOL
 	add_core = MOL
-	culture = romanian
-	religion = orthodox
 }
+## RU008 - End
 
 1484.1.1 = { controller = TUR } #Turkish invasion
 1489.1.1 = { controller = MOL } # Treaty with Sultan Bezayd II.

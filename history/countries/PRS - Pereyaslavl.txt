@@ -1,5 +1,5 @@
 ### RU001 - Added
-# Pereyaslavl
+
 government = monarchy
 add_government_reform = principality
 government_rank = 1
@@ -25,13 +25,20 @@ fixed_capital = 2407 # Cannot move capital away from this province & no power co
 	add_ruler_personality = charismatic_negotiator_personality
 }
 
-1259.1.1 = {
-	monarch = {
-		name = "Gleb"
-		dynasty = "Rurikovich"
-		adm = 1
-		dip = 2
-		mil = 2
-	} #добавить рандом правителя при старте игры
+## RU025 - Start
 
-} ## RU012
+1240.1.1 = {
+	monarch = {
+		name = "Boyarsky Council"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+#(1263.1.1-1362.1.1) - union
+
+#1362.1.1 - annex
+
+## RU025 - End

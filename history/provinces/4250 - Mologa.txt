@@ -1,17 +1,17 @@
 #4250 - Mologa
 
-owner = VLD
-controller = VLD
+owner = RSO
+controller = RSO
 culture = zalesky
 religion = orthodox
 hre = no 
-base_tax = 2
-base_production = 2
+base_tax = 1
+base_production = 1
 trade_goods = livestock 
 base_manpower = 2
 capital = "Mologa"
 is_city = yes
-add_core = VLD
+add_core = RSO
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
@@ -20,6 +20,11 @@ discovered_by = nomad_group
 	owner = YAR
 	controller = YAR
 	add_core = YAR  
+}
+
+1355.1.1 = { 
+	base_tax = 2
+	base_production = 2 
 }
 
 1463.1.1 = {	owner = MOS controller = MOS add_core = MOS remove_core = YAR } # Incorporated into Muscovy

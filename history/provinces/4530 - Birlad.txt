@@ -26,15 +26,16 @@ discovered_by = nomad_group
 	owner = GLH
 	controller = GLH
 	add_core = GLH
-	culture = crimean
+	remove_core = CUM
 }
-
+1320.1.1 = {
+	culture = romanian
+	religion = orthodox
+}
 1346.1.1 = {
 	owner = MOL
 	controller = MOL
 	add_core = MOL
-	culture = romanian
-	religion = orthodox
 }
 
 1484.1.1 = { controller = TUR } #Turkish invasion

@@ -4,9 +4,9 @@ owner = KRL
 controller = KRL 
 add_core = KRL
 culture = karelian
-religion = shamanism
+religion = proto_uralic
 hre = no
-base_tax = 2 
+base_tax = 1 
 base_production = 2
 trade_goods = fur
 base_manpower = 1
@@ -23,7 +23,7 @@ discovered_by = nomad_group
 	add_core = NOV
 }
 
-1407.1.15 = { religion = orthodox remove_core = KRL }
+1407.1.15 = { religion = orthodox remove_core = KRL base_tax = 2 }
 
 1478.1.15 = {
 	owner = MOS

@@ -1,17 +1,17 @@
 #4248 - Kashin
 
-owner = VLD
-controller = VLD  
+owner = NOV
+controller = NOV  
 culture = zalesky
 religion = orthodox
 hre = no
-base_tax = 3
-base_production = 3
+base_tax = 1
+base_production = 2
 trade_goods = livestock  
 base_manpower = 1
 capital = "Kashin"
 is_city = yes
-add_core = VLD
+add_core = NOV
 add_core = KAS
 
 
@@ -26,7 +26,9 @@ discovered_by = KAZ
 	controller = PRZ
 	add_core = PRZ
 }
-
+1238.1.1 = {
+	base_production = 1
+}
 1246.1.1 = {
 	owner = TVE
 	controller = TVE
@@ -37,6 +39,8 @@ discovered_by = KAZ
 	owner = KHN
 	controller = KHN
 	add_core = KHN
+	base_tax = 3
+	base_production = 3
 }
 
 1399.1.1 = {

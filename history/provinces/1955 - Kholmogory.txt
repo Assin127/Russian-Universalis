@@ -1,12 +1,13 @@
 #1955 - Kholmogory
 
 culture = samoyed
-religion = shamanism
+religion = proto_uralic
 hre = no
 base_tax = 1 
 base_production = 1
 trade_goods = unknown 
 base_manpower = 1
+
 native_hostileness = 5
 native_size = 10
 native_ferocity = 2
