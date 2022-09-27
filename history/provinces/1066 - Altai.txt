@@ -26,7 +26,6 @@ discovered_by = KHA
 	controller = HNL
 	add_core = HNL}
 
-
 1207.1.1 = {
 	owner = GLH
 	controller = GLH
